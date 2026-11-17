@@ -24,6 +24,20 @@
 import { z } from 'zod';
 
 /**
+ * A label that names values through `{placeholders}`, each of which must survive a
+ * rewording (E63): "Hide it" for "Hide {language}" would name no language.
+ */
+function labelWith(...placeholders: readonly string[]) {
+  const tokens = placeholders.map((name) => `{${name}}`);
+  return z
+    .string()
+    .min(1)
+    .refine((value) => tokens.every((token) => value.includes(token)), {
+      message: `must contain ${tokens.join(' and ')}`,
+    });
+}
+
+/**
  * The key set. `strictObject` → an unrecognized key (typo) is an error, not silently
  * stripped, on BOTH the global map and the per-exercise override.
  */
@@ -56,6 +70,8 @@ export const UiStringsSchema = z.strictObject({
   hintFar: z.string().min(1),
   answerLabel: z.string().min(1),
   answerKey: z.string().min(1),
+  // The other accepted answers under a revealed one (TODO §E54): "Also accepted: a · b".
+  alsoAccepted: z.string().min(1),
   // Accessible names for controls with no readable text of their own
   blank: z.string().min(1),
   // Audio controls (listening / dictation exercises)
@@ -72,6 +88,20 @@ export const UiStringsSchema = z.strictObject({
   // Media transcript toggle (tab media, spec 2026-10-07-tabs-media-design §4)
   showTranscript: z.string().min(1),
   hideTranscript: z.string().min(1),
+  // The footer's Credits button (spec 2026-11-11-footer-credits-design §5)
+  credits: z.string().min(1),
+  // The vocabulary block (E63, spec 2026-11-12-vocabulary-word-bank-design §4–5): its two
+  // views, and the self-test that hides one side. {language} is a language's English
+  // name (`languageName`, src/lib/lang.ts); {number} is the word's place in the view.
+  vocabularyViews: z.string().min(1),
+  vocabularySemantic: z.string().min(1),
+  vocabularyAlphabetical: z.string().min(1),
+  vocabularySelfTest: z.string().min(1),
+  vocabularyHide: labelWith('language'),
+  vocabularyReveal: z.string().min(1),
+  vocabularyRevealWord: labelWith('language', 'number'),
+  vocabularyListen: labelWith('term'),
+  vocabularyListenWord: labelWith('number'),
 });
 
 /** Full required map (Layer 1). */
@@ -106,6 +136,7 @@ const raw: UiStrings = {
   hintFar: 'Not quite. Try again.',
   answerLabel: 'Answer:',
   answerKey: 'Highlighted: what differs from yours',
+  alsoAccepted: 'Also accepted:',
   blank: 'Blank',
   play: 'Play',
   pause: 'Pause',
@@ -117,6 +148,16 @@ const raw: UiStrings = {
   sourceWeb: 'Web source:',
   showTranscript: 'Show transcript',
   hideTranscript: 'Hide transcript',
+  credits: 'Credits',
+  vocabularyViews: 'Choose a view',
+  vocabularySemantic: 'Semantic',
+  vocabularyAlphabetical: 'Alphabetical',
+  vocabularySelfTest: 'Test yourself',
+  vocabularyHide: 'Hide {language}',
+  vocabularyReveal: 'Reveal',
+  vocabularyRevealWord: 'Reveal {language}, word {number}',
+  vocabularyListen: 'Listen: {term}',
+  vocabularyListenWord: 'Listen: word {number}',
 };
 
 /** Validate at load. A missing/blank/typo key throws here → build dies immediately. */
@@ -128,4 +169,19 @@ export const uiStrings: UiStrings = UiStringsSchema.parse(raw);
  */
 export function resolveLabel(key: UiStringKey, overrides?: UiStringsOverride): string {
   return overrides?.[key] ?? uiStrings[key];
+}
+
+/**
+ * Fills each `{name}` in a label with its value (E63); a placeholder with no value is
+ * left as written.
+ * @example fillLabel(resolveLabel('vocabularyHide'), { language: 'Russian' }) // "Hide Russian"
+ */
+export function fillLabel(
+  template: string,
+  values: Readonly<Record<string, string | number>>,
+): string {
+  return Object.entries(values).reduce(
+    (text, [name, value]) => text.replaceAll(`{${name}}`, () => String(value)),
+    template,
+  );
 }

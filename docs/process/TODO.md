@@ -10,8 +10,8 @@ session, on either machine.
 | `2026-08-06-post-phase-d-handover.md` | state snapshot at end of Phase D, plus the §5 decision log |
 | [`../ROADMAP.md`](../ROADMAP.md)      | larger work beyond this queue, each with its trigger       |
 
-**Last updated:** 2026-11-04 · **HEAD:** see `git log` · **Suite:** 203 files · 2369 tests green
-(Vitest) · 108 Playwright tests (36 × 3 browsers, `bun run test:e2e`) plus 99 on a `DEBUG=1` build (33 × 3, `e2e/debug/`) · CI green · `main` protected since 2026-10-21 (job E1).
+**Last updated:** 2026-11-16 · **HEAD:** see `git log` · **Suite:** 227 files · 2818 tests green
+(Vitest) · 180 Playwright tests (60 × 3 browsers, `bun run test:e2e`; the 9 for the `home` mode not built skip) plus 114 on a `DEBUG=1` build (38 × 3, `e2e/debug/`) · CI green · `main` protected since 2026-10-21 (job E1).
 
 Non-negotiable constraints for every job below live in
 [`AGENTS.md` → "Hard constraints"](../../AGENTS.md) (they grew out of
@@ -28,11 +28,11 @@ build served from a folder (`SERVE_PATH=/any/folder/ bun run test:e2e`) and unde
 bun run format && bun run lint && bun run lint:css && bun run test:coverage && bun run build && bun run test:e2e
 ```
 
-`bun run guards` (`vitest run src/guards`) is the fast subset — **214** tests in ~1s — for
+`bun run guards` (`vitest run src/guards`) is the fast subset — **254** tests in ~1s — for
 when you only want to know whether you broke a repo-wide invariant. It is a subset of
 `bun run test`, never a replacement for the gate above. It stayed at 211 when §B landed
 **on purpose**: the docs-freshness test lives in `src/docs/`, not `src/guards/`, because
-that glob means "the spec guards' sweeps" (b–h; guard a runs in its colocated schema
+that glob means "the spec guards' sweeps" (b–i; guard a runs in its colocated schema
 tests) and a stale-tree check is not one of them.
 
 **211 → 214 on 2026-09-11**, and the rise is the rule working rather than being bent.
@@ -42,7 +42,10 @@ authored as `image: { src, alt }` — the shape required once alt text is mandat
 walked straight past and the guard reported green having checked nothing. That is the
 staleness `asset-existence.ts`'s own header warns about, so `src` joined `ASSET_KEYS`.
 The outcomes block's OWN tests are not in this number: they live beside the code, which
-is exactly what the paragraph above is about.
+is exactly what the paragraph above is about. **216 on 2026-11-11:** E57 added two of
+guard **b**'s own (`7e85d63`): a set's exercises count as referenced, and a malformed set
+is read without throwing. **254 on 2026-11-12:** E60 added guard **i** (text integrity)
+and its 38 tests.
 
 `bun run test` (Vitest), **not** `bun test` — Bun's own runner throws on the
 `import.meta.glob` in `load-lo-glob.ts` and reports a false failure.
@@ -148,16 +151,87 @@ left, in order:
     2026-11-04** (work iMac): `lc-elearn` exists with two Owners (`pedbad`, `pedbad-uol`),
     the template is `lc-elearn/lc-base-template` (moved from `d8008f8`), its protection
     read back unchanged; both Macs' clones point at the new address (step 3; the MacBook
-    Pro switched 2026-11-04 evening). **Still to
-    do:** all course repos on one day, one team per course (planned: `lc-spanish-essentials`,
-    `lc-french-academic-reading`, `lc-german-basic`, each with its author; step 7), every repo's rules read back, and rules-pilot cases R1–R12
-    on one course with a named author before authors merge independently (R13 before
-    updates, R16 before deploying). **Course repos' starting commit:** whatever template
+    Pro switched 2026-11-04 evening). **Steps 6–7 DONE 2026-11-05**: `lc-spanish-essentials`, `lc-french-academic-reading` and
+    `lc-german-basic` from `c2e6cbe`, their rules read back identical, one team each with Write
+    on its own repo, the authors invited. The authors accepted and `pedbad` left the three teams (2026-11-06). **Still to do:** rules-pilot cases R1–R12
+    on one course with a named author before authors merge independently (R13 is Spanish's first update pull request, prepared 2026-11-06 with French's and German's; R16 before deploying). **Course repos' starting commit:** whatever template
     `main` is on that day, once that commit's own push CI is green.
     **Decided 2026-11-04:** the template's two existing forks are ignored, neither is a
     course repo (`pedbad-uol/lc-base-template` is 0 commits ahead and 218 behind, so
     deleting it loses nothing). The authors' GitHub usernames are collected, kept outside
     this repo; each still confirms their Cambridge email is verified.
+
+**Latest, 2026-11-16 evening (work iMac): Spanish's template update merged; Spanish and Russian previews live.** Spanish PR 6 (the 13 Nov update, opened by its author from issue 4) was behind `main`, which had moved with the author's two pilot lessons (PRs 2 and 5, `lo-01-test`), and ruleset A requires an up-to-date branch: **Update branch** (merge) gave `dbcad5a`, CI 5/5, then the maintainer approved and merged it with a merge commit (`d375696`, 19:24 UTC); issue 4 closed. Russian's update had already merged as PR 25 (`68ce460`, 15:13 UTC, by its author). Pages switched on for both by the organisation Owner (`gh api -X POST repos/lc-elearn/<repo>/pages -f build_type=workflow`; Spanish with its author's yes on issue 4). **Gotcha:** the push run of the merge that brought `pages.yml` had already skipped (Pages was off), so each preview needed one run of `pages.yml` by hand: Spanish run 43939233428, Russian run 43939514105, both green. https://lc-elearn.github.io/lc-spanish-essentials/ and https://lc-elearn.github.io/lc-russian-basic-vocabulary/ answer 200. Both courses are now 6 template commits behind, all docs. The landing page still listed only the template at 19:34 UTC: its last refresh was 15:05, before Pages was on, and its hourly `cron` had been running only every 4 to 9 hours (GitHub delays schedules on a quiet repo). `publish.yml` run by hand (run 43941072197, 19:36 UTC): both cards are on https://lc-elearn.github.io/. DEPLOY, ORGANIZATION step 6 and the spec no longer promise "within the hour". **Next:** the maintainer re-reviews Russian PR 22 (the author fixed the nine glosses in `63a2253` and merged `main` in, but did not re-request review, so the Request changes still blocks it); German (issue 1) and French as before.
+
+**Earlier that day, 2026-11-16 (work iMac): Russian PR 22 (lessons 2–4 as one word bank) sent back for lost glosses; lesson 1's lost gloss fixed (PR 24).** PR 22 (`vocabulary-word-bank-2-4`, `64caf05`, by the author) is content only (nine files under `lo-config/`, no engine, block type or `src/` change) and meets E63: no repeated word, `усло́вия` and `вре́дный` written once under two topics, every topic declared and used, each `only` matching the 2015 list the word came from, every recording present; CI 5/5. Compared field by field with the two 2015 lists it replaces, it loses information: 9 words are in both lists with different glosses, and the word bank keeps the semantic gloss and drops the A–Z one (lesson 2: разрешено́ "permitted", повыша́ть/повы́сить "to increase"; lesson 4: положи́тельные эмо́ции "positive emotions", отрица́тельные эмо́ции "negative emotions", засто́лье "feast", and four that differ in punctuation or case). The same check on lesson 1 (our commit `3a95a09`, merged in PR 21) found one: глава́ семьи́ lost "head of the family". Fixed by the maintainer in PR 24 (`e312305`, merge commit, 12:36 UTC; lesson folders have no code owner, so no approval was needed; course gate 2,834 unit passed, 1 skipped; 186 e2e passed, 9 skipped). PR 22 review posted as **Request changes** (11:03 UTC): the author reads each lesson's two 2015 lists side by side with the new word bank, chooses or combines each pair of glosses, and corrects the PR description, which says no gloss changed. Not blocking, noted in the review: recordings no longer referenced stay in `public/` and ship in the build (lesson 1: 32, lesson 2: 49, lesson 3: 72, lesson 4: 78); the topic headings are new and need a native speaker's check; the block title "Vocabulary" may suit all four lessons. **Rule (maintainer, 2026-11-16):** restructuring content must not lose information. Compare old and new field by field (term, gloss, recording, `only`, topic); where two 2015 sources disagree, list every difference instead of keeping one side, and the author checks the 2015 original side by side. Issue 23 (course previews) still has no pull request; the Russian course's Pages is off, so it is not on https://lc-elearn.github.io/, which lists only repos with Pages on. French (`lc-french-academic-reading`, same author) has no 13 Nov update issue; not acted on. **No course has Pages on yet**, and the maintainer cannot change that alone: `pages.yml` is in `.github/` (code owner `@pedbad`, no self-approval, no admin bypass), so each author has to open their update pull request first; switching Pages on before that would put a card on the landing page that links to a 404. **Reminders posted (maintainer-approved wording, facts only):** Russian issue 23 (open the update PR; revise PR 22) and German issue 1 (update waiting since 9 Nov, 173 template commits behind). Spanish issue 4 not reminded again: already nudged the same day. Template PR 125 (organisation profile README, from another session) is green but behind `main`. **Next:** the author revises PR 22; the author opens issue 23's pull request, the maintainer approves, the author merges it with a merge commit, then Pages is switched on (ORGANIZATION step 6) and `pages.yml` and the landing page's `publish.yml` are run once by hand; a later PR removes the unused recordings from all four lessons.
+
+**Earlier, 2026-11-13 (MacBook Pro, home): GitHub Pages previews (E65) live for the template and the landing page; three course syncs waiting on their authors.** PR 122 merged with Rebase and merge at 17:13 UTC (`main` `3371438`): `pages.yml`, `src/build/debug-pages-in.ts`, `scripts/check-no-debug-pages.ts`, the DEPLOY and ORGANIZATION notes, spec and plan (gate on the branch: 2,818 unit tests passed, 1 skipped; 162 e2e passed, 9 skipped). Pages is on for the template (source: GitHub Actions); run 43470844920 succeeded and https://lc-elearn.github.io/lc-base-template/ serves all 8 pages (home, `example.html`, the six debug pages) with relative asset paths and no console errors. The new public repo `lc-elearn/lc-elearn.github.io` is live at https://lc-elearn.github.io/: the landing page with the template card, `robots.txt` `Disallow: /`, a noindex meta, an hourly refresh (`publish.yml`), 40 tests. Review changed three rules beyond the spec: only a repo's own data problem skips it (missing or invalid `course.json`, no commits on the default branch, a second template repo); any other API failure (403, 429, 5xx, network) fails the run so the last good page stays up; and if no course is readable while some were skipped, the build fails (`src/guard.ts`) instead of publishing an empty page. Its README notes that GitHub pauses scheduled workflows after 60 days without commits. **Gotcha:** GitHub switches Pages on by itself for an `<org>.github.io` repo, in legacy (branch) mode, and published the README; its legacy build finished after the first Actions deploy and overwrote it. Fix: `gh api -X PUT repos/lc-elearn/lc-elearn.github.io/pages -f build_type=workflow`, then run `publish.yml` again. **Course syncs** (template `3371438` merged into each `sync-template`, each through the full gate, pushed): Russian (`lc-russian-basic-vocabulary`, Bagnall) 9 template commits, `cdab732`, issue 23 (gate 2,838 unit passed, 1 skipped; e2e 185 passed, 9 skipped; one Firefox test on the accommodation page failed once on an mp3, `NS_ERROR_PARSED_DATA_CACHED`, then passed 3 of 3 reruns: flaky, unrelated); Spanish (`lc-spanish-essentials`, erb36) 66 commits (E62, E63, E65), `1501af7`, issue 4; German (`lc-german-basic`, stc25) its unopened `sync-template` of 9 Nov got the 66 new commits merged in at `e6124b4` (plain push, no force), comment added to issue 1. Spanish and German have no lessons of their own yet. French is not synced: its author has not started. The maintainer cannot open these pull requests: ruleset B needs the code owner (`@pedbad`) to approve and GitHub forbids self-approval; opening them from the backup account `pedbad-uol` was considered and declined (ORGANIZATION "If `pedbad` cannot be used" calls that self-approval). **Next:** each author opens their pull request (Russian on Monday), the maintainer approves, the author merges with Create a merge commit, then the organisation Owner switches Pages on per course without asking the author (decided 2026-11-16) and the card appears on the landing page.
+
+**Earlier that day, 2026-11-13 (work iMac): the long-term fix and Russian lesson 1's word bank go to the Russian course.** PR 120 (the fix below) merged with Rebase and merge at 11:04 UTC: `c6dac30`, then this TODO note as `b2fd49b`. A fresh Russian `sync-template` (`3a95a09`) merges template `b2fd49b` with `--no-ff` on `main` `5d2f5f8` (clean; only the four template files changed), then adds one course commit, `feat(lo-01): show the vocabulary as one word bank` (maintainer decision): the two 2015 lists (semantic, 55 terms; alphabetical, 63) become one vocabulary block with topics, letter headings and the self-test, 86 entries. Terms in both lists are written once and keep the semantic recording; the 23 only in the semantic list are `only: "topics"`, the 31 only in the alphabetical list `only: "alphabetical"` with their own recording; `03b-vocabulary-alphabetic` is removed. The four topic headings (Marriage and weddings, Family roles, Divorce, Society and attitudes) are new, since the 2015 list has none, and the issue asks the author to check them. Near-duplicates that differ only in spacing or wording between the two lists (`(с +Instr)` and `(с + Instr)`) stayed separate entries. Full gate passed in the course with its own lessons: 2,829 unit tests and 1 skipped, coverage bars met, the build, 180 e2e with 9 skipped. Issue 20, "Template update ready (13 Nov 2026, vocabulary fix and lesson 1 word bank)", assigned to its author, its link pre-filling `Closes #20` (wording approved by the maintainer). **Next, in order:** (1) the author opens the pull request from issue 20's link, the maintainer approves once the five checks pass, and the author merges it with a merge commit; (2) the author merges `main` into PR 8 and `lo-04-2015-shape`; (3) lessons 2–4 as one word bank each, the same way; (4) the same template update for Spanish, French and German. **Still open:** each Russian lesson's `<h1>` overlaps the title lettering drawn into its hero art; the hero has no option to keep the title off the image (`LoHeroSchema`: `src`, `alt`).
+
+**Earlier that day, 2026-11-13 (work iMac): a long vocabulary term no longer pushes the glosses out.** Found by previewing Russian lesson 1 as one word bank (local only, not pushed to the course): item 52, _относи́ться/отнести́сь (к + Dat) КАК (…)_, made the term column (`max-content`) wider than the block, and the accordion's clipped edge cut the English glosses off by about 50px. The column is now `fit-content(50%)` beside `minmax(0,1fr)` (`src/lo/blocks/VocabularySections.tsx`), so a term longer than half the block wraps; every vocabulary block, word bank or plain list, gets it with the next update. New e2e test in `e2e/vocabulary-word-bank.spec.ts` (fails before the fix: glosses 897px past the edge). Full gate passed: 2,814 unit tests and 1 skipped, coverage bars met, the build, 162 e2e with 9 skipped. **Since:** merged as PR 120, and sent to the Russian course; see the paragraph above.
+
+**Earlier that day, 2026-11-13 (work iMac): the Russian course's template update is ready.** Template `24c96cc` (E62, E63, the hidden-word fix, PR 117's docs and PR 118's several topics) was merged with `--no-ff` onto the Russian course's existing `sync-template` (`77773a5`, on top of `71a03c8`, the unopened text-check update of issue 17) and pushed, so issue 17's link now brings both. The merge was clean and changed no course file. The full gate passed in the course with `ru` and its own lessons: 2,829 unit tests and coverage, the build, 177 Playwright tests passed with 9 skipped (one failure in a first run did not recur in two reruns), 114 on `DEBUG=1`. A first merge, of `a4e7a8b`, failed the build on lesson 2's repeated _условия_ and _вредный_, which is what PR 118 fixed. A comment on issue 17 says what the link now brings (wording approved by the maintainer). **Next, in order:** (1) the course's author opens the pull request from issue 17's link, the maintainer approves once the five checks pass, and the author merges it with a merge commit; (2) the Russian lesson 1 worked example (spec §7) on a branch for the author; (3) the same update for Spanish, French and German.
+
+**Before that, 2026-11-13 (work iMac): two word-bank changes found against the real 2015 Russian content (maintainer decision), merged as PR 118 (`24c96cc`).** (1) The duplicate-term rule now applies only to a word bank (`topics` declared or any `only`); a plain `items` list may repeat a term again, so the Russian course's lesson 2 builds as in 2015 (W3). (2) An entry's `topic` may be a list of ids, so a word taught under two topics (2015 units 2 and 9) is written once and shown under each; A–Z shows it once. Self-test reveals are tracked per entry (revealing one copy of a multi-topic entry reveals both; plain-list entries that share a spelling stay independent), and focus goes to the copy pressed. Spec §11.
+
+**Earlier, 2026-11-13 (work iMac): E62 and E63 merged, the hidden-word fix too, template issue 108 closed.** Tap anywhere on a row to hear it (E62) is PR 114 (`b7fbdf0`, 2026-11-12 20:59 UTC, rebase merge); the vocabulary word bank (E63) is PR 115 (`0d0a8f3`, 2026-11-12 22:24 UTC); and PR 116 (`7a15d2f`, 2026-11-13 01:17 UTC) fixed the self-test so that hiding a side no longer moves the other column: a hidden word stays as an invisible, `aria-hidden` placeholder (spec §11, `e2e/vocabulary-word-bank.spec.ts`). Issue 108 was closed as completed on 2026-11-13 01:18 UTC, after a reply explaining what was built. The old behaviour is kept (W3): a vocabulary block with only `items` is still one sortable list with Semantic and Alphabetical buttons, second press reversing, as French uses it. What an existing course sees after its next template update: the button group is announced "Choose a view" (was "Sort the vocabulary"); A to Z ignores leading punctuation; `lang` sits on a span around the term, not on the `<dt>`; an unknown key on an entry fails the build. **Open, not started:** **E64**, the pressed-toggle hover contrast (below). **Next:** a template update (a `sync-template` branch and an issue) for the four courses, Russian first; then the Russian lesson 1 worked example (spec §7) on a branch for the course author; lessons 2 to 4 follow it.
+
+**Last of that day, 2026-11-12 (work iMac): one word bank per lesson (E63) built, then merged (PR 115, `0d0a8f3`).** The vocabulary block is now a word bank: each word or phrase written and recorded once, shown by topic (`topics`, `topic`) and A to Z (`only` keeps an entry to one view), with optional centred letter headings from the course language's collation and an optional self-test (`Hide {language}` / Hide English, Reveal word by word). Off by default: a block with only `items` renders as before. Block `options` are now checked per block type at load, and a block's `labels` reach its renderer. An unknown key on an entry now fails the build, naming the entry and the key (maintainer decision; Russian lessons 1–4 were checked first). The A–Z sort now ignores punctuation, so existing courses' entries that start with punctuation sort by their first letter. Two more changes reach existing courses' vocabulary blocks: the speaker's visible name now comes from the `vocabularyListen` string, and `lang` moved from the `<dt>` to a span around the term text. The example lesson shows all of it. Answers template issue 108, differently from what it asked (W4: no `sort: false`). Spec and plan: `docs/specs/2026-11-12-vocabulary-word-bank-design.md`, `docs/process/2026-11-12-vocabulary-word-bank-plan.md`. Full gate on the branch: 2,797 tests passed and 1 skipped, coverage bars met, 153 e2e passed with 9 skipped, 114 debug e2e passed; bundle JS 134.61 → 137.22 kB, CSS 18.01 → 18.05 kB (budgets 140 / 19). **Not fixed here, its own task:** a pressed (filled) `buttonVariants` toggle under the mouse is 3.54:1 in light mode (`hover:bg-primary/80`), every such toggle, not only this block's. **Since:** merged as PR 115 (`0d0a8f3`, 2026-11-12 22:24 UTC), see the 2026-11-13 paragraph above. The first half of this paragraph is the state on the branch; the pressed-toggle contrast it names is now E64.
+
+**Later yet, 2026-11-12 (work iMac): tap anywhere on a row to hear it (E62) built, then merged (PR 114, `b7fbdf0`).** A row that carries its own recording now plays it when clicked or tapped anywhere on the row, not only on the small speaker: the vocabulary block and six engines (inline-gap, text-entry, phrase-reorder, drag-fill-gaps, word-spot, line-match on phones), all through one helper, `src/audio/row-clip.ts`. The speaker stays the keyboard path; flashcards and memory match are unchanged, since a tap there turns the card. The row hover now snaps instead of fading (D8), which also removes the vocabulary block's old fade; text-entry's table rows keep shadcn's own fade, as before. Spec and plan: `docs/specs/2026-11-12-row-click-audio-design.md`, `docs/process/2026-11-12-row-click-audio-plan.md`. Full gate on the branch: 2,694 tests passed and 1 skipped, coverage bars met, 138 e2e passed with 9 skipped, 114 debug e2e passed. **Since:** merged as PR 114 (`b7fbdf0`, 2026-11-12 20:59 UTC); the word bank (E63) then reused the helper.
+
+**Even later, 2026-11-12 (work iMac): a team-status skill (E61) merged.** The maintainer's periodic look across the courses is now a Claude skill, `.claude/skills/team-status/`: ask "team status" in the template and it reports one table of open issues, open pull requests (CI, review, why one is blocked), merges in the last 14 days, each course's drift behind the template, and who each item waits on. Read-only. Merged as PR 111 (`15fb48f`). Its first run, the same day: Spanish PRs 2 and 3, French PR 4 and Russian PR 16 green and waiting on the maintainer's review; Russian PR 8 blocked until approved again; German's issue 1 with no pull request yet; template issue 108 (vocabulary block request) not triaged. **Next:** the courses take the skill with their next update, where it stops and points to the maintainer (E61 below).
+
+**Later again, 2026-11-12 (work iMac): guard i (E60) merged.** A ninth guard, text integrity (`src/guards/text-integrity.ts`), fails a lesson whose text holds a mistake an editor does not show: an accent stored as a separate mark, a mark with no letter under it, a Latin letter inside a Russian word, and, for a `ru` course, a stress mark off a vowel. Built from the Russian course's `check-learning-object` script, which needed it by hand. Run over every course first: no hit today, and the 33 stray marks of Russian lesson 2 before its fix are caught. Merged as PR 109 (`1e201e8`). **Update branches pushed the same afternoon**, each merging template `43094ee` with `--no-ff` and each passing the full gate and the `DEBUG=1` suite first: Spanish `5054059` and French `68523ca`, the heads of PR 3 and PR 4, whose approvals the push reset (case R11), and German `88a3d80`, on top of the `sync-template` each already had (2,640 tests, 138 e2e with 9 skipped, 111 debug e2e); Russian a fresh `sync-template` from `main` `7a255b1` (`71a03c8`; 2,655 tests, 156 e2e with 9 skipped, 111 debug e2e). All four merges were clean, and no course file changed; Spanish, French and German now match template `43094ee` exactly. A comment saying the same link now also brings this update, its wording approved by the maintainer, went on Spanish issue 1, French issue 3 and German issue 1; Russian has issue 17, "Template update ready (12 Nov 2026, text check)", assigned to its author. **Next, in order:** (1) Once the checks pass on the new heads, the maintainer approves Spanish PR 3 and French PR 4 again and their authors merge them with a merge commit; German opens its pull request from issue 1's link. (2) Russian's author opens the pull request from issue 17's link and, once it merges, merges `main` into PR 8 and PR 16; then `check-learning-object` can drop its accent, Latin-letter and missing-file checks, keeping the card-and-banner rule (E60 below).
+
+**Later still, 2026-11-12 (work iMac): Russian lesson 4 (PR 8) approved.** The 10 Nov hold asked for the dropped typed-answer alternatives back; its author restored lesson 4's four on PR 8 (`5ae3544`: в кругу семьи, говорят тосты, состоятельные, богатые), lesson 3's three in PR 11 and ten more in lessons 1 and 2 in PR 12, and listed lessons 1–3's vocabulary alphabetically first in PR 13, as lesson 4 does; PRs 11, 12 and 13 are merged, `main` `7a255b1`. Checked before approving: PR 8 adds no engine and no block type. Its 16 exercises use five engines the exercise showcase already proves (`flashcards`, `drag-fill-gaps`, `inline-choice`, `inline-gap`, `reading`), and its blocks are lessons 1–3's (`intro`, `outcomes`, two `vocabulary`, `tabs`, `sources`). The one new piece is the course's own `check-learning-object` skill, a script that finds stray stress accents and Latin letters inside Russian words, which no template guard checks (it caught lesson 2's `(на ́ Acc)`). Not raised with its author yet: its missing-file check repeats guard d, and the reason it gives (guard d blind on Windows until PR 86) no longer holds; and its line in `STRUCTURE.md`, a template file, may conflict at the next update. Head `9d85f07` contains the 11 Nov update (`e3f16be`), so lesson 4 loads under E59's check on option keys, and the five checks are green on it. Approved at 11:51 UTC, pinned to `9d85f07`, replacing the "changes requested". It cannot merge yet: it is behind `main`, the course's rules require an up-to-date branch, and the push that brings it up to date dismisses the approval (case R11). Lessons 1–4 are still not in the 2015 shape: the parts of each exercise stand as separate exercises (14 in lesson 4) rather than exercise sets (E57), and the credits are a section with a `sources` block, not the footer popup (E56). **Next, in order:** (1) Its author merges `main` into PR 8; once the checks pass on the new head, the maintainer approves it again and the author merges it with a merge commit. (2) The author rebuilds lessons 1–4 in the 2015 shape (the 11 Nov step 2), in one pull request after PR 8 merges.
+
+**Later, 2026-11-12 (work iMac): Spanish's update approved, German begins, and a rule for AI-made media.** Spanish's author opened PR 3 from issue 1's link (10:50 UTC, `Closes #1`): pilot case R13. The same checks as French: six merge commits are the only commits that are not the template's (`c1e06d4` to `af192c0`, one per template update from `7bfb378` to `41f1e56`), the course's `main` is still `c2e6cbe` with no lesson of its own, so no lesson file changed, the branch's tree is identical to template `41f1e56`'s, only a merge commit is offered, and the five checks are green on `af192c0`. Approved at 11:25 UTC, pinned to `af192c0`. R13 passes once its author merges it and `git merge-base --is-ancestor 41f1e56 origin/main` exits 0. German's author has the lessons and `course.json` on a local branch, uncommitted, and asked first about media made with AI tools (synthetic speech from a consumer read-aloud service, generated images styled on old course headers), the course's icons, where the scripts that build the lessons belong, and a change to `vite.config.ts`. The maintainer's reply, drafted the same day (not yet sent when this was written): take the update from issue 1 before any lesson; regenerate or record the audio; images allowed under the new rule, sample first; keep the template's icons; scripts outside the course repo; the `vite.config.ts` change as a Template request. **New rule:** CONTRIBUTING's media rule now covers media made with an AI tool: allowed only when the tool's terms let us publish its output, credited as AI-generated in the lesson's Credits popup, with no Cambridge branding, its tool and prompt recorded outside the repo, and a sample shown to the maintainer before a course's first.
+
+**Update, 2026-11-12 (work iMac): Russian's update merged, French's approved, and pilot R1 opened.** Read on GitHub that morning. **Russian:** PR 10 (typed answers, E54) merged on 11 Nov (09:48 UTC) with a merge commit, `main` `b21e00e`. From issue 14's link its author opened PR 15, "Template update (11 Nov 2026, exercise sets and credits)" (`Closes #14`), at 09:21 UTC; `CODEOWNERS` requested the maintainer's review the same second. Checked before approving, on a fresh clone: base and head both in the course repo; head `6282270`, the merge pushed on 11 Nov, with no commit after it; its parents the course's current `main` (`b21e00e`) and template `40419ee`; no course-owned file changed (`course.json`, lessons 1–3, their images and audio); every other file identical to template `40419ee`; the five checks green on `6282270`. Approved at 10:11 UTC, pinned to that commit; its author merged it at 10:16 UTC with a merge commit, `e3f16be` (parents `b21e00e` and `6282270`), so `40419ee` is in the course's `main` and issue 14 closed. Russian has `40419ee`, not `41f1e56` like the other three: the difference is docs and one code comment, so it comes with the next update rather than a push that would dismiss the approval. Lesson 4 (PR 8) stays on hold under the maintainer's "changes requested" (10 Nov); PRs 11, 12 and 13, the author's own lesson fixes, are green and need no review. **French:** the same checks on PR 4: the only commits that are not the template's are the four merges (`459c73c`, `316cc50`, `220dd76`, `3b31f60`, one per template update since 9 Nov), the course's `main` is still `5fed0d5`, the branch's tree is identical to template `41f1e56`'s, and the five checks are green on `3b31f60`. Approved again at 10:14 UTC, pinned to `3b31f60` (the re-approval case R11 expects). French has no lesson of its own yet, and its `course.json` is still the template's Spanish default (its title, `languageCode` `es`); its author sets it before the first lesson. **Spanish:** its author opened PR 2, "test: pilot R1" (11 Nov, 09:29 UTC): one commit adding `lo-config/lo-01-test/` and one placeholder audio file under `public/audio/lo-01-test/`. The five checks passed, no review was requested, and it can merge: R1's expected result so far. R1 passes when its author merges it unaided, and ORGANIZATION's R1 row stays "pending rollout" until then. Spanish's update pull request (R13) is not opened. **German:** nothing open; its update pull request is not opened. **Next, in order:** (1) Its author merges French PR 4 with a merge commit; check it with `git merge-base --is-ancestor 41f1e56 origin/main`. (2) Russian's author merges `main` into PRs 8, 11, 12 and 13; lesson 4 has not yet loaded under E59's check on option keys, so watch PR 8's CI. (3) Spanish's author merges PR 2, and the maintainer records R1's evidence; Spanish and German open their update pull requests from issue 1's link.
+
+**Update, 2026-11-11 (work iMac): exercise sets and footer credits (E56–E59) go to the courses.** Template issue 97, from the Russian course's author (filed 10:03 UTC, before E56 and E57 existed), asked for exercise groups in one accordion, blocks among exercises and a lesson Credits link, after the maintainer's review of lesson 1 asked for the 2015 layout. E56 and E57 already cover it: a set tab's `media` holds each dialogue, so blocks among exercises are not needed; stacked flash cards were not built, and a set of three tabs stands in. A fresh Russian `sync-template` (`6282270`, merging template `40419ee` with `--no-ff` on `main` `b21e00e`, clean) passed the full gate and the `DEBUG=1` suite (2,617 tests, 156 e2e with 9 skipped, 111 debug e2e) and was pushed, with issue 14, "Template update ready (11 Nov 2026, exercise sets and credits)", assigned to the author. A reply on issue 97 maps each request to E56 or E57, shows lesson 1 in the 2015 shape, and closed it; both texts approved by the maintainer. **Later the same day**, template `41f1e56` (E56–E59 and the docs fixes of PR 103) went onto Spanish, French and German, merged with `--no-ff` on top of the `sync-template` each already had (no new branch or issue), each passing the full gate and the `DEBUG=1` suite first (2,602 tests, 138 e2e with 9 skipped, 111 debug e2e): Spanish `af192c0`, French `3b31f60`, German `33e577d`. All three merges were clean. A comment saying the same link now also brings this update, its wording approved by the maintainer, went on Spanish issue 1, German issue 1 and French issue 3. French PR 4 took `3b31f60` as its head, which reset the maintainer's approval (ORGANIZATION step 6, case R11). **Next, in order:** (1) The author opens the pull request from issue 14's link, the maintainer approves, and the author merges it with a merge commit. (2) The author merges `main` into the open branches (PR 8, 11, 12, 13) and rebuilds lessons 1–3 in the 2015 shape: three sections, one set per tabbed accordion, the credits as a popup. (3) Once French PR 4's checks pass on `3b31f60`, the maintainer approves it again and its author merges it; Spanish (R13) and German still open theirs from issue 1's link, which now brings this update too.
+
+**Update, 2026-11-11 (work iMac): typed-answer alternatives (E54) and the one-lesson course (E55) go to the courses.** **Done 2026-11-10, recorded here:** the Russian course's author merged its PR 4 (15:15 UTC, `6617e55`), then lessons 1–3 as PR 5, 6 and 7 (`main` `bf86884`); lesson 4 is PR 8, open, waiting for E54. E54 (`d3b1cde`) went onto a fresh Russian `sync-template` (`3112b25`) with issue 9, "Template update ready (10 Nov 2026, typed answers)", from which the author opened PR 10 on 11 Nov (09:05 UTC). **Update branches pushed 2026-11-11**, each merging template `d33ecb5` (E54, E55 and the docs since) with `--no-ff` on top of the `sync-template` each already had (no new branch or issue), each passing the full gate and the `DEBUG=1` suite first: Spanish `1aa9318`, French `220dd76` and German `2be7b44` (2,478 tests, 111 e2e with E55's nine `home: "lesson"` tests skipped on a landing build, 105 debug e2e), and Russian `d4ba9ab` (2,493 tests with its own lessons, 129 e2e, 105 debug e2e). All four merges were clean: no course file overlaps the template's changes. French's PR 4 and Russian's PR 10 took the new commits as their head. The push dismissed the maintainer's approval of French PR 4 (ORGANIZATION step 6, case R11); once the checks passed on the new heads, the maintainer approved French PR 4 and Russian PR 10 (09:40 UTC). No new issue was opened. A comment saying the same link now also brings this update, its wording approved by the maintainer, went on Spanish and German issue 1, and a note on Russian PR 10 lists the author's steps after it merges (step 2 below). E55 applies to no course yet: none has exactly one lesson of its own. **Next, in order:** (1) Their author merges French PR 4 and Russian PR 10 with a merge commit; Spanish (R13) and German still open theirs from issue 1's link, which now brings this update too. (2) Once PR 10 is merged, Russian's author restores the seven `|` alternatives in lessons 3 and 4 (lesson 4 on PR 8), checks lessons 1 and 2 against the 2015 units, and merges PR 8.
+
+**Update, 2026-11-10 (work iMac): the CEFR grid goes to the courses, and a Windows fix follows.** **Done 2026-11-09, recorded here:** the Russian course's author took the 9 Nov update in both their courses: PR 2 in each, which they opened, the maintainer approved (14:31 UTC) and they merged with a merge commit (14:37 UTC; French `main` `5fed0d5`, Russian `4a93a61`). These are the first template updates merged in a course by step 9's route; R13 (Spanish's) has not run. **Update branches pushed 2026-11-10**, each merging template `0ca46ea` (E52) and each passing the full gate first (2,382 tests, 108 e2e): German (`f9077f0`) and Spanish (`626bb2a`) on top of their unopened `sync-template`, with a comment on each course's open issue 1; French (`459c73c`) and Russian (`bc0c3d1`) on a fresh `sync-template`, each with a new issue 3, "Template update ready (10 Nov 2026)", assigned to their author, who opened PR 4 in both that morning ("Template update (10 Nov 2026)", `Closes #3`). Russian's issue 3 was closed by hand (09:24 UTC) while its PR 4 is still open. **Template issue 85**, from the same author on Windows 11: `bun run guards`, and so the pre-push hook, fails on Windows (backslash paths). The fix is E53, PR 86, merged with Rebase and merge (11:24 UTC) as `0409ff9` once its CI passed; on `main` it has a new SHA, so use `0409ff9`, not the branch's `95aac09`. Until a course has it, authors on Windows use WSL; the two Windows guides in the shared folder said so that morning, and both carry Russian's update link. **Done later the same day:** `0409ff9` went onto `sync-template` in all four courses, merged with `--no-ff` on top of the branch each already had (no new branch or issue), each passing the full gate first (2,386 tests, 108 e2e): German `47b6737`, Spanish `9549723`, French `316cc50`, Russian `09be8e2`. All four merges were clean, and French's and Russian's PR 4 took the new commit as their head. A comment saying the same link now also brings the Windows fix, its wording approved by the maintainer, went on German issue 1, Spanish issue 1, French issue 3 and Russian PR 4 (its issue is closed). The maintainer approved both PR 4 (11:48 UTC) once their checks passed on the new commit; neither is merged yet. Issue 85 closed when PR 86 merged. PR 88 (`987c823`, `8ed9ef7`) switched the five inline path conversions to `toPosixPath()` and added ROADMAP item 8, a Windows CI job; no change in behaviour, so it waits for the next update to reach the courses. **The guides in the shared folder:** the WSL notice came out of both Windows guides (the maintainer's decision, before PR 4 merged); their section 0 now says that until the update is merged, `git push` from PowerShell is refused, and merging it needs only the browser. The Mac GitHub guide lists Russian's update link, not "nothing to do there". **Next, in order:** (1) The author merges each PR 4 with a merge commit; German and Spanish still open theirs from the issue's link (Spanish's is R13). (2) Once both PR 4 are merged, the Windows guides' section 0 can drop its PowerShell line. (3) The maintainer may post a one-line comment on issue 85 (closed) pointing its author to PR 4.
+
+**Update, 2026-11-09 (work iMac): template tests now follow the course's language.** The Russian course's author found that four template tests fail once `course.json` sets a `languageCode` other than `es` (Russian is the first course to do so): `FlashcardsExercise.test.tsx` expected "Spanish" and `block-renderers.test.tsx` expected `lang="es"`, though the components already read `TARGET_LANG`. Reproduced on `main` with `"ru"`: exactly those 4 failed, 2,373 passed. Their patch, applied unchanged with `git am` (they stay the author), derives the expected code and name as the components do; the full suite passes with both `es` and `ru`. Merged as PR 78 (`f45a1c8`, then this note as `2687c8f`; its tree is the one PR CI tested). **Update branches pushed 2026-11-09**, each merging `2687c8f` with a merge commit and each passing the full gate first (2,377 tests, 108 e2e): `lc-russian-basic-vocabulary` got a new `sync-template` (`4fb1cd1`), also tested with `"ru"`. Spanish (`a0b8226`), French (`c3dd13f`) and German (`c56bc7f`) had the 2026-11-06 `sync-template` still unopened, so the new merge went on top of it as a plain push. One pull request per course now brings both `7bfb378` and `2687c8f`, from the same link. All merges were clean. **Next:** each author opens their course's pull request (`https://github.com/lc-elearn/<course>/compare/main...sync-template`; Spanish's is still R13), the maintainer approves, and the author merges with a merge commit; the Russian author then merges `main` into the open lesson branch. **Decided later the same day: update notices are GitHub issues, not email.** Issues were off on all four courses (forks start that way, though ORGANIZATION already planned a pinned "Deployments" issue per course); switched on, and issue 1, "Template update ready (9 Nov 2026)", opened in each course and assigned to its author, its pull request link pre-filling `Closes #1`. ORGANIZATION step 6 (switch Issues on, and read it back), step 9, COURSE_GUIDE and the sync recipe now say so; a template problem is an issue on the template. All five repos are public, so course issues are too. **Done later the same day:** a **Bug report** issue form on the template (`.github/ISSUE_TEMPLATE/bug-report.yml`, label `bug`), and blank issues switched off (`config.yml`, the maintainer's decision), so New issue offers only the two forms; COURSE_GUIDE's "When you are stuck" sends authors to it. The template now deletes a pull request's branch when it merges (repo setting, E33's open note). The first update pull requests were all named "Sync template", after the branch; the issue's link now also fills in a dated title, "Template update (9 Nov 2026)" (ORGANIZATION step 9, the sync recipe), from the next update on. Known edge, left as is: the language name goes into `new RegExp(...)` unescaped, so a name with brackets, such as "Serbian (Latin)", would break those two assertions.
+
+**Update, 2026-11-06 (work iMac): a fourth course.** `lc-russian-basic-vocabulary`, forked from `bfa98f5` (push CI run 42234696595 green) and set up as ORGANIZATION steps 6–7 ("Done 2026-11-06" there). Read back identical to `lc-spanish-essentials`: merge settings, rulesets A and B, the effective rules on `main`, no `CODEOWNERS` errors. Team `russian-basic-vocabulary` with Write on that repo only; its author is the French course's author, who keeps the French team. No `sync-template` needed: it already has the lesson-image fix and the update-link docs.
+
+**Update, 2026-11-06 (work iMac): course day, part 2.** All three authors accepted. Read back: each team holds its author alone (`pedbad` removed from the three teams, keeping admin on every repo as Owner), each author has Write on their own course and read elsewhere, and no invitation is pending. **Sync fork tested:** at 09:40 UTC the Owner pressed **Sync fork → Update branch** on `lc-french-academic-reading`. Ruleset A refused it (rule suite 4947813258: A's `pull_request` and `required_status_checks`, 5 of 5 expected, failed, as did B's `pull_request`; `non_fast_forward` and `deletion` passed; before `c2e6cbe`, after `0488f82`), and `main` stayed at `c2e6cbe`. This is evidence for step 9's "never Sync fork", beside pilot R10; no rules-pilot case has run yet. The lesson-image fix below merged as PR 74 (`7bfb378`). **Decided 2026-11-06 by the maintainer, as Owner:** the update to `7bfb378` is prepared in all three courses at once, not after R13 as ORGANIZATION's pilot gate says, so no author waits to add a lesson image; each takes step 9's route (the author opens the pull request, the maintainer approves, the author merges), and Spanish's still counts as R13. **Update branches pushed 2026-11-06:** `sync-template` (merging `7bfb378`) is on `lc-spanish-essentials` (`c1e06d4`), `lc-french-academic-reading` (`7510654`) and `lc-german-basic` (`3c1806d`); each author opens their course's pull request from `https://github.com/lc-elearn/<course>/compare/main...sync-template`. **Next:** the authors open those pull requests (Spanish's is R13), the author handoff on the pilot course, then R1–R12.
+
+**Update, 2026-11-06 (work iMac): a lesson image needed the maintainer.** Rehearsing the
+rules pilot on a local copy at `c2e6cbe`, before any case ran on GitHub, showed that any
+image in a course's own lesson folder (`public/images/lo-01-test/hero.svg`) failed
+`Lint, test, build`: `src/sandbox/app-assets.test.ts` required every image under
+`public/images/` to be listed in `src/sandbox/app-assets.ts`, which `CODEOWNERS` gives the
+maintainer. Every lesson with a picture would have waited for a code-owner review, against
+the promise that a lesson-only pull request merges on green CI, and R2 would have failed.
+**Fixed:** `isCourseLessonImage()` leaves a course's own lesson images (an `images/lo-*`
+folder other than the example's, the `CODEOWNERS` boundary) out of that comparison; the
+template's images, the example's and loose files are still listed. Shown on the same local
+copy: a lesson image passes, a loose `public/images/` file still fails. The course repos
+take the fix through step 9 (pilot R13), before R2.
+
+**Update, 2026-11-05 afternoon (work iMac): course day, ORGANIZATION steps 6–7.** One step
+at a time, each change approved before it ran and read back after. Starting commit `c2e6cbe`
+(PR 72), its push CI (run 42010809276) green on all five jobs. Created in `lc-elearn`:
+`lc-spanish-essentials`, `lc-french-academic-reading` and `lc-german-basic`, true forks of the
+template (several forks into one organisation work, so no fallback); merge commits only,
+head branches deleted, not a template, Actions enabled on the website (there is no API for
+the fork button); rulesets A and B with empty bypass lists. Step 6's read-back is identical
+across the three repos, `CODEOWNERS` errors none, the template's own settings unchanged;
+GitHub's two added ruleset defaults are recorded in step 6. Teams `spanish-essentials`,
+`french-academic-reading` and `german-basic`, each with Write on its own repo only; each
+author invited as Member into their team (pending acceptance; who is in which team is kept
+outside this repo). A colleague's old personal fork of the template was deleted by its owner.
+The author guides gained a diagram of the checks, on the computer and then in CI, before the
+checks step. ORGANIZATION step 6 no longer counts four courses. **Next:** the authors accept;
+read back members, repo teams and invitations; remove `pedbad` from the three teams; the
+author handoff; rules-pilot R1–R12 on one course before anyone merges alone.
 
 **Update, 2026-11-05 (work iMac): the planned courses.** Three course repos are planned:
 `lc-spanish-essentials`, `lc-french-academic-reading` and `lc-german-basic`, each with a
@@ -168,9 +242,10 @@ examples. **Naming rule:** `lc-<language>` for a language's one course,
 without `lc-` (ORGANIZATION "Decisions already made" and step 7). The French pilot
 checklist is now [`COURSE_PILOT_CHECKLIST.md`](COURSE_PILOT_CHECKLIST.md), for whichever
 course comes first. Nothing created on GitHub yet. **Guides:** the 2026-11-04 split is
-done. The OneDrive folder "Projects - LANGCEN_Language Centre - Projects/github/" holds the
-Maintainer guide, the Mac GitHub guide, the two Windows guides and the people-and-courses
-register (`LC-eLearning-People-and-Courses.md`, which replaced `github-usernames.txt`);
+done. The shared OneDrive folder "Projects - LANGCEN_Language Centre - Projects/github/" holds the
+author guides (the Mac GitHub guide and the two Windows guides) and the people-and-courses register (`LC-eLearning-People-and-Courses.md`, which replaced `github-usernames.txt`); the
+Maintainer guide is kept privately by the maintainer, not in the shared folder (moved
+2026-11-05);
 the old `projects/github-lc-elearn-guide/` folder is gone. PR 71 (`4209795`) recorded the
 MacBook Pro switch.
 
@@ -199,8 +274,8 @@ merged as `c0855fe`, its push CI run 41823158944 green). **Tonight, MacBook Pro:
 (the `origin` URL and `gh` default); never create a repo named `lc-base-template` under
 `pedbad`. **Found, not in any doc before:** the template has two forks,
 `pedbad-uol/lc-base-template` (created 2026-10-12, probably a test: keep or delete after
-checking it holds nothing needed) and `Bagnall/lc-acwriting` (created 2026-09-25, last
-pushed 2026-10-21: does that course belong in `lc-elearn`?). **Still to do before the
+checking it holds nothing needed) and a colleague's personal fork (created 2026-09-25, last
+pushed 2026-10-21: does that course belong in `lc-elearn`?; its owner deleted it 2026-11-05). **Still to do before the
 course day:** the authors' GitHub usernames (the request went out 2026-11-04), whether
 anyone uses Windows, and the day itself. Tell the colleague who deploys from the template's ZIP the new
 address (the old ZIP link redirects, but only while no `pedbad/lc-base-template` exists),
@@ -326,16 +401,17 @@ MacBook Pro (`docs/TOOLING.md`, "Browser tests").
 
 ---
 
-## A. Guards — 0 of 8 open — all eight guards live
+## A. Guards — 0 of 9 open — all nine guards live
 
 Guards **a** (config-schema, 19), **b** (naming + render-mirror, 20), **c** (asset-path,
 21), **d** (asset-existence, 22), **e** (registry, 23), **f** (token integrity, 24),
-**g** (CSS layer discipline, 25) and **h** (semantic DOM, 26) are all done. **Section A is
+**g** (CSS layer discipline, 25), **h** (semantic DOM, 26) and **i** (text integrity, E60,
+added 2026-11-12) are all done. **Section A is
 closed** — nothing here is open, and the per-guard notes below are kept only because each
 records a rule that is narrower than the spec sentence it came from, and that is worth
 reading before touching the guard or the code it protects.
 
-The ritual every one of them followed, in case a ninth is ever added: **write a
+The ritual every one of them followed, the ninth (i) included: **write a
 deliberately-broken fixture first, prove the guard blocks it, then make the real repo
 green** — and plant a real violation in source once, to see how many other test files stay
 quiet. A guard that was never seen to fail is a guard that might be asleep.
@@ -2498,7 +2574,8 @@ rather than the Language Centre's course factory; the maintainer took three smal
   refuses. Written from GitHub's docs, not yet tried: step 6's three test PRs on the
   first course are the proof, the third a maintainer sync that must still wait for its
   checks. Left to the maintainer, as repo settings: deleting head branches on merge is
-  off, and squash merges are allowed although pull requests rebase-merge.
+  off (turned on 2026-11-09 by the maintainer, after two merged branches were left
+  behind), and squash merges are allowed although pull requests rebase-merge.
 - **E34 — the fourth external review: answers no learner could give, and a playlist
   that would not stay paused. DONE 2026-10-23** (maintainer's request, branch
   `fix/e34-answers-and-audio` from `main` at `f0c6a71`; the review read `71f65e6`, and
@@ -2804,14 +2881,178 @@ rather than the Language Centre's course factory; the maintainer took three smal
   course's `main`) is withdrawn: with "up to date" required, updating it would write
   course changes into the template. Step 9 is an update branch inside the course repo,
   prepared by the maintainer or an authorised colleague and opened by the author.
-  The pilot gate before authors merge independently is R1–R12 (R13 before updates,
-  R16 before deploying), with every course repo's rules read back. Step 6 gives the
+  The pilot gate before authors merge independently is R1–R12 (R13 is Spanish's first update pull request, prepared 2026-11-06 with French's and German's; R16 before deploying), with every course repo's rules read back. Step 6 gives the
   merge-settings command and the read-back; the Free plan is stated as expected
   availability, confirmed by read-back. New section "If `pedbad` cannot be used":
   account and organisation recovery kept apart, what the backup Owner can and cannot
   do, and a deliberate, recorded ruleset change as the only exception (untested).
   Display name **LC eLearning** (corrected 2026-11-03: LC means Language Centre;
   the `lc-elearn` handle is unchanged). **Not tested:** all of it; no organisation exists.
+- **E52 — the CULP programme specifications out, the CEFR grid in. DONE 2026-11-09**
+  (maintainer's request, branch `refactor/culp-cefr-grid`). The 21 programme
+  specifications (the `*_PS.pdf` sources, 2011–2012, `*-programme-spec.md` here) were
+  out of date and are deleted, with every link to them: the `programme_spec` line in 28
+  syllabi, the "Programme specifications" table in seven language hubs (their document
+  counts with it) and the index's column. The maintainer supplied the Council of
+  Europe's CEFR self-assessment grid, now
+  [`docs/culp-syllabi/european-framework-assessment.md`](../culp-syllabi/european-framework-assessment.md):
+  its body byte-identical to the file supplied, with a three-line frontmatter added
+  (`doc_type: cefr-grid`) so the index can link it and the test can read it. The README,
+  the `culp-syllabus` skill and the design spec (a dated "since" note) now read a
+  level's meaning from the grid's rows for the note's `cefr`, never inferred. The
+  test lost the programme-spec checks and gained `checkCefrGrid` (the grid has all six
+  levels in all five skill tables, the index lists it, every `cefr` value is A1–C2),
+  written failing first. 103 documents remain.
+- **E53 — the guards and tests pass on Windows. DONE 2026-11-10** (issue 85, PR 86,
+  `0409ff9`). The Russian course's author found, on Windows 11, that
+  `bun run guards`, and so the pre-push hook, failed on a clean `main`, with four more
+  tests: Node's `path.relative` and `path.join` return backslashes there, and guard d's
+  `lo-config/` check, the three "is watched like the hub docs" tests and "registers every
+  doc as a watched file" compared those paths with `/` strings. Linux CI cannot see it.
+  Their diagnosis and fix, applied here: `toPosixPath()` (`src/build/posix-path.ts`)
+  gives guard d's `source` and the paths those tests compare forward slashes; the plugin
+  still hands Vite native paths. Its colocated test builds the Windows path with
+  `path.win32`, so the conversion is checked on any OS; written failing first. A sweep of
+  `src/` for other native paths compared with `/` strings found none (`token-integrity`
+  already accepts either separator, and five places already converted inline; later the
+  same day those five call `toPosixPath()` too, a refactor with no change in behaviour). **Tested:** on Windows by the author, with this fix: 2377 of 2377 tests, 214 of
+  214 guards; here, the full gate on macOS. **Not tested:** this branch on Windows. Until
+  a course takes it (step 9), authors on Windows use WSL. A Windows CI job, which would
+  catch a removed `toPosixPath()` call, is ROADMAP item 8.
+- **E54 — typed answers accept more than one form. DONE 2026-11-10** (PR 90, merged
+  as `5662951`; spec
+  [`2026-11-10-typed-answer-alternatives-design.md`](../specs/2026-11-10-typed-answer-alternatives-design.md),
+  plan [`2026-11-10-typed-answer-alternatives-plan.md`](2026-11-10-typed-answer-alternatives-plan.md)).
+  `|` means "or" in any typed answer, in inline-gap, typed-transform, dictation and
+  conjugation; the first is preferred and Show answers fills it in. A wrong answer is
+  hinted at and revealed against the closest form, and the reveal lists the others under
+  "Also accepted:" (new UI string `alsoAccepted`). The build refuses an empty alternative
+  and one accepted twice, compared as grading compares them; "twice" is checked on the
+  exercise envelope, the only schema that sees `options.caseSensitive`. Found by the
+  Russian course: lessons 3 and 4 dropped seven alternatives the 2015 units accepted;
+  course PR 8 (lesson 4) waits for this. **Verify:** the gate in AGENTS.md, and
+  `DEBUG=1 bun run build && DEBUG=1 bun run test:e2e`
+  (`e2e/debug/typed-answer-alternatives.spec.ts`). **Next:** each course takes it with
+  its next update; the Russian course then restores the dropped alternatives in lessons
+  3 and 4, checks lessons 1 and 2 against the 2015 units, and merges PR 8.
+- **E55 — a course of one lesson, with no landing page. DONE 2026-11-11** (PR 92, merged
+  as `cd14265`; spec
+  [`2026-11-10-standalone-lesson-design.md`](../specs/2026-11-10-standalone-lesson-design.md)).
+  A new `course.json` setting, `home`: `"landing"` (the default, today's behaviour) or
+  `"lesson"`, which makes `index.html` the one lesson's page. The build refuses
+  `"lesson"` when there is more than one lesson, and says to switch. `<slug>.html` is
+  still written, so the lesson keeps one address when the course later gains lessons.
+  Plan: [`2026-11-10-standalone-lesson-plan.md`](2026-11-10-standalone-lesson-plan.md). **Next:** each course takes it with its next update; a one-lesson course sets
+  `"home": "lesson"` in `course.json`.
+- **E56 — a per-lesson Credits link in the footer. DONE 2026-11-11** (PR 98, merged as
+  `bf016ac`; spec
+  [`2026-11-11-footer-credits-design.md`](../specs/2026-11-11-footer-credits-design.md),
+  plan [`2026-11-11-footer-credits-plan.md`](2026-11-11-footer-credits-plan.md)). After the
+  2015 Russian lessons: `"credits": "<modal id>"` in `lo.json` ends the footer's © line
+  with a "Credits" button (new UI string `credits`) that opens that popup. The build
+  refuses an id `modals` does not list. Popups, and only popups, may now have entries that
+  are each one `<h3>` (the dialog title is the h2); page prose refuses it and says why, the
+  one written exception to rich-text spec §14. Per lesson only, the maintainer's decision:
+  the landing page's footer is unchanged. `lo-00-example` has a placeholder credits popup
+  (paragraph, Team heading, role lines, Voices list), so a copied lesson starts with one
+  to fill in or delete. **Verify:** the gate in AGENTS.md, and
+  `DEBUG=1 bun run build && DEBUG=1 bun run test:e2e`; `e2e/footer-credits.spec.ts` and
+  the credits state in `e2e/axe-open-states.spec.ts`. **Next:** each course takes it with
+  its next update; the Russian course sets `credits` per lesson from the 2015 units.
+- **E57 — exercises in tabs: the exercise set. DONE 2026-11-11** (PR 99, branch
+  `feat/e57-tab-exercises`; spec
+  [`2026-11-11-tab-exercises-design.md`](../specs/2026-11-11-tab-exercises-design.md),
+  plan [`2026-11-11-tab-exercises-plan.md`](2026-11-11-tab-exercises-plan.md)). After the
+  2015 Russian lessons' exercises 6 and 7: a section's `exercises` list in `lo.json` may hold a set
+  (`title`, optional `instructions`, two or more `tabs` of `{ exercise, media? }`), shown
+  as one accordion, one instruction box and the tabs block's tab UI (now shared as
+  `TabSet`), each panel the tab's media then its exercise. The maintainer's decisions: a
+  set sits among the exercises, not in a tabs block (S1); one box above the tabs, the
+  engine's default copy only when every tab uses one engine (S2); a tab has no box unless
+  its exercise.json writes one (S3); Check, Reset, Show answers and score per tab (S4); tab
+  audio may come without a transcript (S5); every engine allowed and proven in a tab
+  (S6, all 15 pass); an exercise used once per lesson, plain refs included (S7);
+  `lo-00-example` and the exercise showcase show it (S8). **Verify:** the gate in
+  AGENTS.md, and `DEBUG=1 bun run build && DEBUG=1 bun run test:e2e`;
+  `e2e/exercise-set.spec.ts` and `e2e/debug/exercise-set-engines.spec.ts`. **Next:** the
+  Russian course uses it for exercises 6 ("Reconstruct the text") and 7 ("Set
+  expressions"), and every other tabbed exercise (2–5 and 8, template issue 97), with its next update. Merged as `64b878f`. **Found while building, fixed by E58:** the LO
+  envelope dropped engine-only options such as flashcards' `srs`, so a set of such decks
+  could not say so in its box; it now does, and a loader test proves it.
+- **E58 — a lesson's flashcards keep their own options. DONE 2026-11-11** (PR 100, branch
+  `fix/lo-engine-options`, rebase-merged as `221f364`; found while building E57). The LO envelope's `options` was a
+  plain `z.object`, so Zod stripped every key it did not know, and what `assembleLo` hands
+  the page is the envelope's parse: a lesson's flashcards deck lost `srs`, `direction` and
+  `lockDirection` before its engine saw them. It neither saved progress nor kept its
+  direction, and the saved-progress line never showed. The showcase was unaffected (it
+  passes raw configs). Fixed in the LO envelope, not in `assembleLo`:
+  `LoExerciseConfigSchema`'s `options` is now loose, as its `content` is, so shared
+  options are still checked and defaulted there and the rest kept for the engine that owns
+  them, whose schema checks them (at load in the Node reader, at render in the engine).
+  Returning the engine's parse instead would have split the readers, since the browser
+  reader has no engine schemas, and the prerender would no longer match the first client
+  render. `ExerciseConfigSchema`, which every engine schema extends, stays closed, so a
+  fixture's option typo still fails to compile. Since any exercise can now carry a stray
+  `srs`, `savesProgress` also asks that the exercise be a deck. Every other engine was
+  checked: none adds options or top-level keys, and `labels` is shared and strict, so
+  nothing else was lost. A key no engine knows was kept and ignored, as it was dropped
+  before; E59 now refuses it at load. **Verify:** the gate in AGENTS.md; the tests are in
+  `src/config/lo-schema.test.ts`, `src/lo/assemble-lo.test.ts`,
+  `src/lo/lo-page-sections.test.tsx` and `src/exercises/lib/instructions.test.ts`. Unit
+  tests only: `lo-00-example` has no deck, so no browser test opens a lesson's deck.
+  **Next:** each course takes it with its next update; a lesson with a deck that sets
+  `srs` or a direction starts behaving as written, with no change to its files.
+- **E59 — a typo in an exercise's options fails the build. DONE 2026-11-11** (PR 101,
+  branch `fix/strict-exercise-options`, built on E58; rebase-merged as `40419ee`).
+  **Decision (maintainer, 2026-11-11): refuse unknown option keys at load.** Until now an
+  options key the engine does not know (`shufle`, `lockDirecton`, a deck's `srs` copied
+  onto a select) was ignored without a word. Courses take template updates by merge, so
+  the risk was a course's build failing on merge over a stray key; it was weighed first.
+  Every `exercise.json` on every branch of the four course repos (277 files) and the
+  example lesson was run through the new check: none fails. The keys in use are `shuffle`,
+  and `srs` on the Russian course's decks. The fix: `exerciseConfigSchema`
+  (`src/exercises/exercise-schemas.ts`), the check the Node reader runs at load, is each
+  engine's schema with its own `options` closed (the shared block, or flashcards'
+  extension of it), so the build and the dev page fail naming the file and the key. Only
+  at load: each engine's own schema, re-parsed at render, stays tolerant, and the LO
+  envelope stays loose so both readers still agree. `safeExtend`, not `extend`: some
+  engines refine the whole config, and Zod refuses to overwrite a key there. **Verify:**
+  the gate in AGENTS.md; the tests are in `src/exercises/exercise-schemas.test.ts` and
+  `src/lo/assemble-lo.test.ts`. **Next:** each course takes it with its next update; a
+  lesson written since, with a stray key, fails that update's build naming the file, and
+  the fix is the one line. Top-level keys of `exercise.json` are still stripped silently;
+  no one has asked for that to change.
+- **E60 — guard i: no invisible text mistakes in lesson content. DONE 2026-11-12** (PR 109,
+  branch `feat/text-integrity-guard`; rebase-merged at 13:56 UTC as `ca923c4`, `ec95330`
+  and `1e201e8` once its five checks were green). The Russian course's author
+  wrote a course-only script, `check-learning-object` (course PR 8), after lesson 2
+  shipped `(на ‹U+0301› Acc)` for `(на + Acc)` 33 times; it is manual, untested and
+  Russian-only, and its missing-file check repeats guard d. **Decision (maintainer,
+  2026-11-12): a generic guard in the template, keyed on `course.json`'s `languageCode`.**
+  `src/guards/text-integrity.ts` checks every string in `lo-config/**/*.json` and
+  `course.json`: NFC, a combining mark with a letter under it, one word in one of Latin,
+  Cyrillic and Greek, and a per-language profile (only `ru`: U+0301 on a Cyrillic vowel,
+  `ё` included). Spec: `docs/specs/2026-11-12-text-integrity-guard-design.md`. **Run
+  before turning it on:** the example lesson (190 strings), Spanish's pilot lesson (318)
+  and every Russian branch (`lo-04-2015-shape`, 2,867 strings and 1,098 stress marks;
+  `main`, `lo-04-festivals`, `restructure-lessons-1-3`) have no hit; the two Russian
+  commits before the plus-sign fix (`8a61dc5`, `6308ce9`) have exactly the 33 stray marks
+  and nothing else. French and German have no lesson of their own yet. Asset paths are not
+  swept (guard d owns them, and a Finder file name is NFD by design). A review before the
+  pull request added three cases: a stress mark NFC composes onto к or г (Macedonian ќ,
+  ѓ) now fails under `ru`; modifier letters such as `ʲ` (`[дʲ]`) pass; a mark shown alone
+  may sit on a no-break space as well as `◌`. Known limits are in the spec's §4.
+  `loConfigFiles()` is now exported from `asset-existence.ts`, unchanged, so both guards
+  read the same files. **Verify:** the gate
+  in AGENTS.md; the tests are in `src/guards/text-integrity.test.ts`. **Next:** each course
+  takes it with its next update; once Russian has it, its author can drop the
+  script's accent and Latin-letter checks and its missing-file check, keeping the
+  card-and-banner rule.
+- **E61 — a team-status skill for the maintainer. DONE 2026-11-12** (PR 111, rebase-merged as `15fb48f` once its five checks were green). Checking each course repo by hand for issues, pull requests and merges was a recurring job, so it is a recipe like the others. Courses are found as forks of the template on GitHub, never listed in the skill, and people are named from their GitHub profiles, so no names are written into the repo; the register stays outside it. Drift is compared by the two `main` commits inside the course repo, because a cross-fork compare by branch name (`main...owner:repo:main`) reported 0 and 0 for every course. It runs only in the template (the shared "Where am I" rule). **Verify:** `src/docs/claude-skills.test.ts` lists it among the shipped skills. **Next:** none; a weekly scheduled run that publishes the table is possible if the maintainer wants it.
+- **E62 — tap anywhere on a row to hear it. DONE 2026-11-12** (PR 114, rebase-merged as `b7fbdf0`). Only the vocabulary block played a row's clip from the whole row; six exercise types played it only from the speaker, which is small on a phone. One helper, `src/audio/row-clip.ts`, now decides whether a click on a row should play and clicks the row's own speaker; each clip row sets `onClick={playRowClip}`, `data-row-clip` and `ROW_CLIP_CLASSES`. Flashcards and memory match are the exception. Deviations are listed in the spec. **Verify:** `row-clip.test.ts`, `row-clip-engines.test.tsx`, `VocabularyBlock.row-clip.test.tsx`, and the browser test "on a phone" in `e2e/debug/showcase-audio.spec.ts`. **Next:** none; the courses take it with the next template update.
+- **E63 — one word bank per lesson, shown by topic and A–Z. DONE 2026-11-12** (PR 115, `0d0a8f3`; template issue 108 closed as completed 2026-11-13, after a reply explaining what was built). **Fixed 2026-11-13** (PR 116, `7a15d2f`): hiding a side no longer moves the other column; a hidden word stays as an invisible, `aria-hidden` placeholder holding its width (spec §11), and `e2e/vocabulary-word-bank.spec.ts` checks that neither column moves. The vocabulary block holds one list per lesson, each entry written and recorded once, shown in a topic view and an A–Z view, with optional letter headings and an optional self-test. New block envelope field `options`, checked per block type (`src/lo/blocks/block-options-schemas.ts`); `LoBlock` passes `options` and `labels` to renderers. Deviations are listed in the spec (§11). **Amended 2026-11-13:** rule 5 only for a word bank; `topic` may be a list (spec §11). **Verify:** `vocabulary-block-schema.test.ts`, `vocabulary-views.test.ts`, `vocabulary-letters.test.ts`, `vocabulary-self-test.test.ts`, `VocabularyBlock.word-bank.test.tsx`, and `e2e/vocabulary-word-bank.spec.ts`. **Next:** a template update for the four courses, Russian first; then the Russian lesson 1 worked example in `lc-russian-basic-vocabulary` (spec §7).
+- **E64 — a pressed toggle button's hover contrast. OPEN, not started.** A pressed (filled) toggle button under the mouse measures 3.54:1 in light mode, below the 4.5:1 text bar: `buttonVariants`' default variant hovers to `hover:bg-primary/80` (`src/components/ui/button.tsx`). It affects every such button, including the vocabulary block's Semantic and Alphabetical toggles, so it is a theme change rather than a block fix (`change-theme` skill). Found while building E63 (2026-11-12); proposed to the maintainer as its own task. **Verify:** a contrast check of a pressed toggle on hover, light and dark.
+- **E65 — GitHub Pages previews and an organisation landing page. PARTLY DONE.** Every course publishes `main` to `https://lc-elearn.github.io/<repo>/` (`.github/workflows/pages.yml`, debug pages on the template only, `scripts/check-no-debug-pages.ts` stops a course build that has one); the public repo `lc-elearn/lc-elearn.github.io` lists every course hourly from its `course.json`. Spec `docs/specs/2026-11-13-github-pages-previews-design.md`, plan `docs/process/2026-11-13-github-pages-previews-plan.md`. **Done 2026-11-13:** the template's preview (PR 122, `3371438`) and the landing repo, both live. **Done 2026-11-16:** the organisation page https://github.com/lc-elearn now links the previews: a profile README (`profile/README.md` in the new public repo `lc-elearn/.github`) points to https://lc-elearn.github.io/, the published site and this template, and says a preview is not the published course. Edit it on GitHub; deleting that repo removes it. **Open:** each course gets `pages.yml` with its template update, then the organisation Owner switches Pages on (**Settings → Pages → Source: GitHub Actions**) without asking the author (decided 2026-11-16): German (issue 1) waits for its author to merge the update; French when its author starts. **Done 2026-11-16:** Spanish and Russian previews live (switched on after their updates, PRs 6 and 25; `pages.yml` run once by hand, since the merge's own run had skipped). **Verify:** each course's preview opens at `/<repo>/` with no debug pages, and its card is on https://lc-elearn.github.io/ with the right lesson count.
 - **E16 — after the organisation move, file `ORGANIZATION.md` under `docs/process/`.**
   Once steps 1–9 are done it is a record, not a guide; course repos inherit the file,
   so moving it keeps their top-level docs to what a course needs. Fix the links that
@@ -2855,15 +3096,16 @@ the slice-1 scope and the open list live in
 - **F2a — media in a tab. DONE 2026-10-07** (`feat/tabs-media`). Portrait or figure
   image, audio player, Show/Hide transcript (`<details>`). Spec
   `2026-10-07-tabs-media-design.md`, plan `2026-10-07-tabs-media-plan.md`.
-- **F2 — remaining panel entries:** callout, exercise by folder ref; transcript in the
-  popup (`{ "modal": id }`); media as a standalone block. Verify: each entry in the
-  example LO, guards b–h green.
+- **F2 — remaining panel entries:** callout; transcript in the popup
+  (`{ "modal": id }`); media as a standalone block. Verify: each entry in the example LO,
+  guards b–h green. (The exercise by folder ref was built instead as the exercise set,
+  E57: [`2026-11-11-tab-exercises-design.md`](../specs/2026-11-11-tab-exercises-design.md).)
 - **F3 — phones. DONE 2026-10-13** (`22b637d`, docs `d72cd02`, `2d6f10c`). Below the block's
   `@3xl` container width (48rem) the tab row is hidden and the vendored shadcn `Select`
   stands in, sharing one `value` with the tabs; the narrow stack is gone. First built at
   `@xl` (36rem), where the example's four tabs wrapped between 36rem and ~43rem, so the
   switch moved up (maintainer); a lesson whose tabs outgrow 48rem wraps again, and the
-  fix then is to measure the row (`TabsBlock.tsx` header). JS 113.63 → 135.45
+  fix then is to measure the row (`TabSet.tsx` header, `TabsBlock.tsx` before E57). JS 113.63 → 135.45
   kB (Base UI Select and Floating UI join `main-*.js`; the select exercise had them
   only lazily), so the maintainer raised the JS cap 120 → 140 kB. CSS 18.09 → 18.03 kB.
   Browser: 320, 375, 768, 820, 840, 880, 1024 and 1440, light and dark: no sideways
@@ -2927,155 +3169,163 @@ build, so it cannot return. Two remain:
 
 ## Done recently (so a new session does not redo it)
 
-| Date       | Commit    | What                                                                                                                                                                |
-| ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2026-09-03 | `6c62d6d` | LICENSE added — MIT code + CC-BY-4.0 content (buildlist 28)                                                                                                         |
-| 2026-09-03 | `2104d13` | content licence changed to **CC BY-NC 4.0**, swept through every doc                                                                                                |
-| 2026-09-03 | `f3f432e` | `main` stays open by decision; protection reframed as a pre-share gate                                                                                              |
-| 2026-09-03 | `ef9ec8f` | exercise showcase **opt-in per build** — no longer ships (buildlist 17b)                                                                                            |
-| 2026-09-03 | `2e3e4bd` | this TODO.md added as the live worklist; stale claims corrected                                                                                                     |
-| 2026-09-03 | `c239fa8` | **guard c — asset-path** (buildlist 21): `src/guards/` created, 21 tests                                                                                            |
-| 2026-09-03 | `4367d31` | **guard d — asset-existence** (buildlist 22), 11 tests                                                                                                              |
-| 2026-09-07 | `891511c` | **guard b — naming + render-mirror** (buildlist 20), 17 tests                                                                                                       |
-| 2026-09-07 | `22757f5` | **guard e — registry completeness** (buildlist 23), 30 tests                                                                                                        |
-| 2026-09-07 | `0891e27` | guard f **survey** banked in §A-f — the rule, not the guard yet                                                                                                     |
-| 2026-09-07 | —         | GitHub **template repository** box ticked (buildlist 33), verified                                                                                                  |
-| 2026-09-07 | see A8    | `bun run guards` fast subset added (buildlist 31 closed)                                                                                                            |
-| 2026-09-07 | `df6c987` | **guard f — token integrity** (buildlist 24), 27 tests + shared reader                                                                                              |
-| 2026-09-07 | `69c254b` | **guard g — CSS layer discipline** (buildlist 25), 21 tests                                                                                                         |
-| 2026-09-07 | `99cd77d` | **guard h — semantic DOM over rendered output** (buildlist 26), 84 tests                                                                                            |
-| 2026-09-08 | `8c95085` | **DESIGNER / STRUCTURE / AGENTS** written (buildlist 29); §B closed                                                                                                 |
-| 2026-09-08 | `f06295a` | **`bun run docs:tree`** + freshness test (buildlist 30), 8 tests                                                                                                    |
-| 2026-09-08 | `99825af` | README + CONTRIBUTING now link the three new books                                                                                                                  |
-| 2026-09-08 | `0bcd7d7` | markdown **link-existence check** added (`src/docs/md-links.ts`)                                                                                                    |
-| 2026-09-08 | `c5dd291` | **debug sandbox** — palette / type / icons (buildlist 16), 10 tests                                                                                                 |
-| 2026-09-08 | `4029c9a` | **sandbox docs hub** — markdown→HTML (buildlist 18), 26 tests                                                                                                       |
-| 2026-09-09 | `23f1d15` | §D opened, branch protection renumbered to §E                                                                                                                       |
-| 2026-09-09 | `d863465` | **footer defect fixed** — schema-validated config; `href: '#'` now fails the build                                                                                  |
-| 2026-09-09 | `4c70955` | footer assets downscaled 264→52 KB, ratio-normalised, sprite marks themeable                                                                                        |
-| 2026-09-09 | `dad0428` | **preset drift fixed** — `--success` back-ported to all three presets + parity test                                                                                 |
-| 2026-09-09 | `c06a595` | `--footer` surface + six derived crest tokens                                                                                                                       |
-| 2026-09-09 | `6c6d429` | lockup, imprint marks and social row                                                                                                                                |
-| 2026-09-09 | `999176c` | `footer.css` — editorial colophon, crest in both themes                                                                                                             |
-| 2026-09-09 | `52e4ca4` | band kept mint; the two footer columns share a baseline                                                                                                             |
-| 2026-09-10 | `40f4e1b` | mark and social rows share one width, so both edges flush                                                                                                           |
-| 2026-09-10 | `8e8ec94` | icon ink flushed; marks get the social hover + a focus ring they lacked                                                                                             |
-| 2026-09-10 | `eac73fc` | `prefersReducedMotion` extracted to `src/lib/` — BackToTop is consumer two                                                                                          |
-| 2026-09-10 | `683d1ce` | **`BackToTopButton`** (§D4) — observer deleted, not fixed; unmounted, D2 mounts it                                                                                  |
-| 2026-09-10 | `97a5b4b` | landing page's Lessons heading id now comes from `headingId`, not a literal                                                                                         |
-| 2026-09-10 | `8e3c49f` | **`BackToTopButton` mounted** (§D2) — one per section + the Lessons grid                                                                                            |
-| 2026-09-10 | `8b26e36` | in-page nav animates — one `scroll-behavior` on `<html>`, reduce-guarded                                                                                            |
-| 2026-09-10 | `008b082` | back-to-top fades both ways, 3600ms in / 300ms out, after two wrong mechanisms                                                                                      |
-| 2026-09-11 | `7e22990` | `presentation: 'plain'` blocks; the **introduction is no longer an accordion**                                                                                      |
-| 2026-09-11 | `6310dad` | **guard d saw nothing under `image.src`** — nested asset paths now collected                                                                                        |
-| 2026-09-11 | `2592827` | **`outcomes` block** — ticked outcome list beside an illustration, split at `lg`                                                                                    |
-| 2026-09-11 | `f90ac40` | **`intro` block type** — rule down the leading edge; the intro's callout dropped                                                                                    |
-| 2026-09-14 | `d272093` | Header's mobile panel documented as a **disclosure, not a dialog** — no trap owed                                                                                   |
-| 2026-09-14 | `ad627ce` | D5 bundle **attributed by sourcemap** — data recorded, no fix attempted                                                                                             |
-| 2026-09-14 | `e4b10b4` | **course mark in the header**; guard d now sweeps `course.config.ts`                                                                                                |
-| 2026-09-14 | `1ca5f3b` | course mark **masked, not `<img>`** — it was invisible in dark                                                                                                      |
-| 2026-09-14 | see below | **vocabulary before grammar** in the example; per-term audio on the word list                                                                                       |
-| 2026-09-14 | `7d6216d` | vocabulary row **clickable end to end**, delegating to its speaker button                                                                                           |
-| 2026-09-14 | see below | page ground is **`--paper`, not white** — off-white for dyslexic readers                                                                                            |
-| 2026-10-05 | —         | header **scroll-spy deferred** to a later version (§D6 → "Deferred on purpose")                                                                                     |
-| 2026-10-05 | —         | **JS budget raised to < 100 kB** gzipped; one home in `docs/TOOLING.md` (§D5)                                                                                       |
-| 2026-10-05 | `e4c9fe0` | **LO hero banner** — full-bleed, holds the `<h1>`, band fallback (§D9)                                                                                              |
-| 2026-10-05 | —         | header **scroll-spy reopened** — out of "Deferred on purpose", back on §D6 as next                                                                                  |
-| 2026-10-06 | see §D6   | header **scroll-spy** — highlight follows the section on screen; hash-load parity fixed                                                                             |
-| 2026-10-06 | see §D6   | **header a11y audit** — one forced-colours-safe focus outline, five fixes                                                                                           |
-| 2026-10-06 | `d72c02f` | **rich-text block entries** — lists, tables, audio player; JS budget < 105 kB                                                                                       |
-| 2026-10-06 | `a82ef49` | **a11y follow-ups (§D10)** — speaker 24px floor, sandbox outline + code regions, AA pair                                                                            |
-| 2026-10-06 | `b0c3d42` | **one page frame (§D11)** — 72rem frame, 60ch measure, 48rem exercise track, breakout                                                                               |
-| 2026-10-06 | —         | **§D6 closed** — sparse one-LO landing page left as is; it fills as LOs are added                                                                                   |
-| 2026-10-07 | see §F    | **`tabs` block (§F1)** — shadcn/Base UI tabs, plain or card; budgets JS < 110, CSS < 18                                                                             |
-| 2026-10-07 | see git   | **one `Callout`** — tinted info/success/warning/danger; all instruction boxes + sandbox use it                                                                      |
-| 2026-10-07 | see §F    | **tab media (§F2a)** — portrait/figure image, audio, Show/Hide transcript; JS 109.13 kB                                                                             |
-| 2026-10-07 | see §D12  | **full-width exercises (§D12)** — instruction box + 8 engines span the column                                                                                       |
-| 2026-10-07 | `8cc7e2f` | **Reset contrast** — `--destructive-text`, 5.48 / 5.08:1; sandbox Buttons section                                                                                   |
-| 2026-10-08 | `3b8f415` | **amber transcript toggle** with a `::details-content` slide; CSS 17.95 kB                                                                                          |
-| 2026-10-08 | `0b2eb8f` | **cascade-layer order** declared first in every HTML entry (DEBUG build bug)                                                                                        |
-| 2026-10-08 | `db4e238` | **conjugation full width** — one column, inputs grow with it (maintainer's call)                                                                                    |
-| 2026-10-08 | `09945e4` | **reading image** — one grey card, text left / image right, questions full width (§D12)                                                                             |
-| 2026-10-08 | `81c942c` | **hand cursor** on every enabled button (Tailwind preflight reset it); CSS 17.98 kB                                                                                 |
-| 2026-10-08 | `3679fae` | **flashcards study stage** — centred deck, result circles, direction switch (§D12)                                                                                  |
-| 2026-10-08 | `f6b11ba` | **speakers doubled** — 27 → 54px stand-alone (flashcards 56, memory-match 48); 36px inline in text                                                                  |
-| 2026-10-08 | `035f2d7` | **rows centre on the bigger speakers** — text-entry, vocabulary, rich-text tables, 0px off                                                                          |
-| 2026-10-08 | `c16e781` | **reading image edge to edge** — 532 × 355 on an LO column, exactly the intro's                                                                                     |
-| 2026-10-08 | `f6af9b7` | **placeholders print their size** — supply (2×) and largest shown size, per slot                                                                                    |
-| 2026-10-08 | `47cf9bf` | **size labels restyled** — small top-right plate in the info alert's style, with the path                                                                           |
-| 2026-10-08 | `c475fe9` | **vocabulary summary + sort** — "You will learn" alert, Semantic / Alphabetical (A→Z, Z→A); JS < 120 kB                                                             |
-| 2026-10-08 | `378ffa8` | **vocabulary intro quote** — optional `05-intro` block under the heading (list it in lo.json to show it)                                                            |
-| 2026-10-08 | `8f947a0` | **grammar intro + image** — `06-intro` under the Grammar heading; `intro` takes an optional image (outcomes split, 532 × 355)                                       |
-| 2026-10-08 | `5376189` | **exercises intro + image** — `07-intro` under the Exercises heading, same split as the grammar intro                                                               |
-| 2026-10-08 | see git   | **sandbox: every icon and image** — lucide icons under the sprite; new Images section; both kept complete by a scan test                                            |
-| 2026-10-08 | `54b664b` | **intro image on top on a phone** — `flex-col-reverse` below `lg`, DOM still text-first (§D13)                                                                      |
-| 2026-10-08 | `5106807` | **accordion bodies 8px top padding** — vocabulary summary and instructions box drop their own margin (§D13)                                                         |
-| 2026-10-08 | `b2cbb41` | **every engine full width** — last four off the 48rem track; the track removed (§D13)                                                                               |
-| 2026-10-08 | `1c57985` | **conjugation + answer pills on a phone** — pronoun above input, pills stack below 30rem (§D13)                                                                     |
-| 2026-10-08 | `9e0de04` | **phrase-reorder on a phone** — phrase under its prompt below 30rem (§D13)                                                                                          |
-| 2026-10-08 | `181d0e4` | **destructive button contrast** — variant uses `--destructive-text`; Reset's override gone (§D13)                                                                   |
-| 2026-10-08 | `2cac630` | **memory-match card size** — 2 → 4 columns at a 30rem exercise width, deck capped at 65rem; 251px cards at 1440 (§D14)                                              |
-| 2026-10-08 | `bc2a829` | **typed-answer feedback** — hint naming the error first, the answer on the second wrong Check (§D15)                                                                |
-| 2026-10-08 | `77199ba` | **feedback highlight colour** — the revealed answer's `<mark>` is Cambridge Light Blue (`bg-callout-info`) (§D15)                                                   |
-| 2026-10-08 | `7960573` | **hero label top-right** — hero.svg fills the banner; the label hangs 12px from its top-right corner (§D14)                                                         |
-| 2026-10-08 | `2c61379` | **memory-match speaker on small cards** — scales to 36px under a 10rem card, clear of the word (§D14)                                                               |
-| 2026-10-09 | `d347a79` | **rich-text links** — `<a href>` opens in a new tab with an external icon; the example intro links the debug pages                                                  |
-| 2026-10-09 | `dd14a03` | **hover cards** — `.hover-term` + `hovers/<id>/hover.json`, path drawn as a tree; hover, focus, tap (§D17)                                                          |
-| 2026-10-09 | `a099070` | **hover card by keyboard** — Enter closes a focus-opened card; open while focus or hover holds it (§D17)                                                            |
-| 2026-10-09 | `6f165e8` | **revealed-answer mark** — bold, `--primary` underline, opaque tint; lazy `answer-feedback.css` (§D14/§D15)                                                         |
-| 2026-10-09 | `9ff073e` | **inline-gap feedback hangs** — no longer widens the blank; inside the row, clear of its neighbour (§D14/§D15)                                                      |
-| 2026-10-09 | `93f0545` | **progress meter** — french's ProgressDots as `ProgressMeter` in nine engines; dot or course icon (§D18)                                                            |
-| 2026-10-09 | `58c63cb` | **progress meter, the last four** — memory-match, word-order, word-spot, phrase-reorder (§D18)                                                                      |
-| 2026-10-09 | `511c3cf` | **Show answer and the meter** — the meter counts only the student's own correct answers (§D18)                                                                      |
-| 2026-10-09 | `acdcb3a` | **reorder meters on Check** — word-order and phrase-reorder no longer count live (§D18)                                                                             |
-| 2026-10-09 | `b29db0c` | **Check hover contrast** — hover pulls `--success` toward `--foreground`: 6.02 / 6.62:1 (§D14)                                                                      |
-| 2026-10-09 | `737ab59` | **hover term in the debug pages** — a plain link and a hover term in the showcase and sandbox (§D14)                                                                |
-| 2026-10-09 | `abc5a3e` | **hero label bottom-right** — below 1024px, clear of the title (§D14)                                                                                               |
-| 2026-10-09 | `135fc25` | **docs hub tables** — each a focusable, named scroll region (§D14)                                                                                                  |
-| 2026-10-09 | `239d335` | **flashcards flip cue** — 7rem Warm Blue corner triangle (`--flip-cue`), pointer icon and "Tap to flip" inside; faces on Again / Got it                             |
-| 2026-10-12 | `43f1562` | **flip icon** — 1.75rem, centred over "Tap to flip" (§D19)                                                                                                          |
-| 2026-10-12 | `ba685e9` | **flashcards Reset and faces** — the shared Reset; faces without rings (§D19)                                                                                       |
-| 2026-10-12 | `9907be8` | **flashcards circles** — meter-sized, faces centred; the row hops when all Got it (§D19)                                                                            |
-| 2026-10-12 | `0064c70` | **no Show answer** — the card flips; the rating row is reserved, hidden until the flip (§D19)                                                                       |
-| 2026-10-12 | `022611c` | **Clear saved progress** — Reset keeps memory; a confirm-first button forgets it (§D19)                                                                             |
-| 2026-10-12 | `5e930f4` | **flashcards instructions** — tap the card, Reset; saved-progress decks explain it (§D19)                                                                           |
-| 2026-10-12 | `0c2f2b6` | **sandbox at 320** — the Alerts intro's source path wraps; no sideways scroll (§D14)                                                                                |
-| 2026-10-12 | `7d9f72e` | **flip cue on memory cards** — the shared FlipCue, scaled to the card (§D20)                                                                                        |
-| 2026-10-12 | `e53e954` | **Tap to flip in instructions** — flashcards and memory-match name the corner, with its pointer (§D20)                                                              |
-| 2026-10-12 | `77399b8` | **flip cue, smaller and Light Blue** — quarter-card corner, icon only; plain pointer in the instructions (§D20)                                                     |
-| 2026-10-12 | `f0019e7` | **memory-match footer** — the shared row: Show answer and Reset with their glyphs (§D20)                                                                            |
-| 2026-10-12 | `d4e9449` | **memory-match Show answer after two misses** — french-lo-1's rule (§D20)                                                                                           |
-| 2026-10-12 | `f8b471b` | **memory-match instructions** — name Show answers and when it appears (§D20)                                                                                        |
-| 2026-10-12 | `3462076` | **Show answers** — the reveal button's default label, as in french-lo-1 (§D21)                                                                                      |
-| 2026-10-12 | `9a3b226` | **reveal after two failed Checks** — word-order, phrase-reorder, drag-fill-gaps (§D21)                                                                              |
-| 2026-10-12 | `9e7dac4` | **showAnswersAfter** — one tunable Show answers rule for every engine (§D21)                                                                                        |
-| 2026-10-12 | `8381a85` | **pre-push hook** — guards then tests before every push; forks start with Actions off (§E2)                                                                         |
-| 2026-10-12 | `ce9ccf9` | **`docs/ORGANIZATION.md`** — plan for the `lc-elearn` organisation, one repo per course (§E2)                                                                       |
-| 2026-10-12 | `b09d542` | **team workflow handover** — decisions and the ordered next steps; code-only review in ORGANIZATION (§E2)                                                           |
-| 2026-10-12 | `d1e301f` | **`sources` block** — grouped references, print/web icon, rich-text citation and note (§F5)                                                                         |
-| 2026-10-13 | see git   | **docs drift sweep** — stale hashes, figures and links corrected (branch `docs/drift-2026-10-13`)                                                                   |
-| 2026-10-13 | see git   | **GitHub repo link** — both debug pages' nav links the source, new tab, says so                                                                                     |
-| 2026-10-13 | see git   | **sources redesign** — groups as cards side by side, heading rule, divided entries, icon chip; CSS cap 19 kB (§F5)                                                  |
-| 2026-10-13 | see git   | **outcomes as an info callout** — lead as title, 50:50 beside a framed image, as french-lo-1 (spec 2026-09-11 §3)                                                   |
-| 2026-10-13 | `22b637d` | **tabs on phones** — dropdown below `@3xl`, row above; JS cap 140 kB (§F3)                                                                                          |
-| 2026-10-14 | `fe43305` | **Node pinned** — `.nvmrc` 22, `engines.node`, setup-node from `.nvmrc` in both CI jobs (E15)                                                                       |
-| 2026-10-14 | `cbda661` | **browser suite** — Playwright in Chromium, Firefox, WebKit: no console errors, axe clean, in CI at `/` and `/course/` (E12a)                                       |
-| 2026-10-14 | `ec86eb7` | **choice pills keep focus with the selection** — arrow keys no longer leave focus behind (E9)                                                                       |
-| 2026-10-15 | `f6b2f87` | **Feijoa only when present** — a Vite plugin declares the font only when its files exist; red `main` at `/course/` fixed (E5)                                       |
-| 2026-10-15 | `f82ac23` | **WebKit click flake** — the keyboard spec waits for the accordion's open animation before clicking (E9 spec)                                                       |
-| 2026-10-15 | `fb73545` | **no control inside a control** — rich text rejects a link, popup, hover term or audio icon nested in another (E10)                                                 |
-| 2026-10-16 | `fe57694` | **palette preview** — sandbox drop-down over every `tokens-variant-*.css`, kept per viewer on every DEBUG page; none of it in a normal build (E18)                  |
-| 2026-10-16 | `2e2d828` | **brand board** — sandbox Colour section: proportion bar, a card per colour with live HEX/RGB and contrast, each role in use (E19)                                  |
-| 2026-10-16 | `9498ab1` | **image comparison slider** — sandbox Images section: each light/dark pair as one slider on theme-fixed grounds (E20)                                               |
-| 2026-10-16 | `1eccb86` | **flip cue retires** — three cards turned, the Tap to flip corners leave with a random exit and the instruction glyph fades (E21)                                   |
-| 2026-10-16 | `5f670b8` | **flashcards done card** — a finished deck keeps a "Deck complete" card in the card's place, so nothing jumps (E22)                                                 |
-| 2026-10-16 | `aa10305` | **debug pages in the browser suite** — specs on a `DEBUG=1` build, run in CI on that build too (E12c)                                                               |
-| 2026-10-20 | `7295a12` | **debug browser cases** — memory-match reveal under resize, sequence scrub, the brand board's live values and axe (E12d)                                            |
-| 2026-10-20 | `3e18c52` | **sequence scrubber follows the audio** — Firefox's late input, the two-drag race and a clip-length mix-up after seeks; first happy-dom test (E23)                  |
-| 2026-10-20 | `216fa11` | **one build for any folder** — `./` by default; logo/icon masks inline, saves keyed by the served folder, CI serves a build from `/any/folder/` (E24)               |
-| 2026-10-21 | `ca73c0c` | **audio controller follows the element** — keyboard seeking, a refused play, an outside pause (E25)                                                                 |
-| 2026-10-21 | `b89a9e4` | **`main` protected** — PR only, five checks green and up to date, admins included, linear history (E1)                                                              |
-| 2026-10-21 | `467a90d` | **code style guide** — `docs/STYLE.md`: what the tools enforce, links to the rules, and the unenforced habits measured against `src/`, before the organisation move |
-| 2026-10-21 | `f56d9d0` | **Code style debug page** — `code-style.html` renders `docs/STYLE.md`, with real examples from `src/` (E26)                                                         |
-| 2026-10-21 | `e573fdd` | **kebab-case module names** — eleven camelCase modules renamed; `file-names.test.ts` enforces the shapes (E27)                                                      |
-| 2026-10-21 | `35b36d6` | **third review's defects** — exercises checked at load, reserved page names, the playlist's gap; PR 31 (E28)                                                        |
+| Date       | Commit    | What                                                                                                                                                                                             |
+| ---------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2026-09-03 | `6c62d6d` | LICENSE added — MIT code + CC-BY-4.0 content (buildlist 28)                                                                                                                                      |
+| 2026-09-03 | `2104d13` | content licence changed to **CC BY-NC 4.0**, swept through every doc                                                                                                                             |
+| 2026-09-03 | `f3f432e` | `main` stays open by decision; protection reframed as a pre-share gate                                                                                                                           |
+| 2026-09-03 | `ef9ec8f` | exercise showcase **opt-in per build** — no longer ships (buildlist 17b)                                                                                                                         |
+| 2026-09-03 | `2e3e4bd` | this TODO.md added as the live worklist; stale claims corrected                                                                                                                                  |
+| 2026-09-03 | `c239fa8` | **guard c — asset-path** (buildlist 21): `src/guards/` created, 21 tests                                                                                                                         |
+| 2026-09-03 | `4367d31` | **guard d — asset-existence** (buildlist 22), 11 tests                                                                                                                                           |
+| 2026-09-07 | `891511c` | **guard b — naming + render-mirror** (buildlist 20), 17 tests                                                                                                                                    |
+| 2026-09-07 | `22757f5` | **guard e — registry completeness** (buildlist 23), 30 tests                                                                                                                                     |
+| 2026-09-07 | `0891e27` | guard f **survey** banked in §A-f — the rule, not the guard yet                                                                                                                                  |
+| 2026-09-07 | —         | GitHub **template repository** box ticked (buildlist 33), verified                                                                                                                               |
+| 2026-09-07 | see A8    | `bun run guards` fast subset added (buildlist 31 closed)                                                                                                                                         |
+| 2026-09-07 | `df6c987` | **guard f — token integrity** (buildlist 24), 27 tests + shared reader                                                                                                                           |
+| 2026-09-07 | `69c254b` | **guard g — CSS layer discipline** (buildlist 25), 21 tests                                                                                                                                      |
+| 2026-09-07 | `99cd77d` | **guard h — semantic DOM over rendered output** (buildlist 26), 84 tests                                                                                                                         |
+| 2026-09-08 | `8c95085` | **DESIGNER / STRUCTURE / AGENTS** written (buildlist 29); §B closed                                                                                                                              |
+| 2026-09-08 | `f06295a` | **`bun run docs:tree`** + freshness test (buildlist 30), 8 tests                                                                                                                                 |
+| 2026-09-08 | `99825af` | README + CONTRIBUTING now link the three new books                                                                                                                                               |
+| 2026-09-08 | `0bcd7d7` | markdown **link-existence check** added (`src/docs/md-links.ts`)                                                                                                                                 |
+| 2026-09-08 | `c5dd291` | **debug sandbox** — palette / type / icons (buildlist 16), 10 tests                                                                                                                              |
+| 2026-09-08 | `4029c9a` | **sandbox docs hub** — markdown→HTML (buildlist 18), 26 tests                                                                                                                                    |
+| 2026-09-09 | `23f1d15` | §D opened, branch protection renumbered to §E                                                                                                                                                    |
+| 2026-09-09 | `d863465` | **footer defect fixed** — schema-validated config; `href: '#'` now fails the build                                                                                                               |
+| 2026-09-09 | `4c70955` | footer assets downscaled 264→52 KB, ratio-normalised, sprite marks themeable                                                                                                                     |
+| 2026-09-09 | `dad0428` | **preset drift fixed** — `--success` back-ported to all three presets + parity test                                                                                                              |
+| 2026-09-09 | `c06a595` | `--footer` surface + six derived crest tokens                                                                                                                                                    |
+| 2026-09-09 | `6c6d429` | lockup, imprint marks and social row                                                                                                                                                             |
+| 2026-09-09 | `999176c` | `footer.css` — editorial colophon, crest in both themes                                                                                                                                          |
+| 2026-09-09 | `52e4ca4` | band kept mint; the two footer columns share a baseline                                                                                                                                          |
+| 2026-09-10 | `40f4e1b` | mark and social rows share one width, so both edges flush                                                                                                                                        |
+| 2026-09-10 | `8e8ec94` | icon ink flushed; marks get the social hover + a focus ring they lacked                                                                                                                          |
+| 2026-09-10 | `eac73fc` | `prefersReducedMotion` extracted to `src/lib/` — BackToTop is consumer two                                                                                                                       |
+| 2026-09-10 | `683d1ce` | **`BackToTopButton`** (§D4) — observer deleted, not fixed; unmounted, D2 mounts it                                                                                                               |
+| 2026-09-10 | `97a5b4b` | landing page's Lessons heading id now comes from `headingId`, not a literal                                                                                                                      |
+| 2026-09-10 | `8e3c49f` | **`BackToTopButton` mounted** (§D2) — one per section + the Lessons grid                                                                                                                         |
+| 2026-09-10 | `8b26e36` | in-page nav animates — one `scroll-behavior` on `<html>`, reduce-guarded                                                                                                                         |
+| 2026-09-10 | `008b082` | back-to-top fades both ways, 3600ms in / 300ms out, after two wrong mechanisms                                                                                                                   |
+| 2026-09-11 | `7e22990` | `presentation: 'plain'` blocks; the **introduction is no longer an accordion**                                                                                                                   |
+| 2026-09-11 | `6310dad` | **guard d saw nothing under `image.src`** — nested asset paths now collected                                                                                                                     |
+| 2026-09-11 | `2592827` | **`outcomes` block** — ticked outcome list beside an illustration, split at `lg`                                                                                                                 |
+| 2026-09-11 | `f90ac40` | **`intro` block type** — rule down the leading edge; the intro's callout dropped                                                                                                                 |
+| 2026-09-14 | `d272093` | Header's mobile panel documented as a **disclosure, not a dialog** — no trap owed                                                                                                                |
+| 2026-09-14 | `ad627ce` | D5 bundle **attributed by sourcemap** — data recorded, no fix attempted                                                                                                                          |
+| 2026-09-14 | `e4b10b4` | **course mark in the header**; guard d now sweeps `course.config.ts`                                                                                                                             |
+| 2026-09-14 | `1ca5f3b` | course mark **masked, not `<img>`** — it was invisible in dark                                                                                                                                   |
+| 2026-09-14 | see below | **vocabulary before grammar** in the example; per-term audio on the word list                                                                                                                    |
+| 2026-09-14 | `7d6216d` | vocabulary row **clickable end to end**, delegating to its speaker button                                                                                                                        |
+| 2026-09-14 | see below | page ground is **`--paper`, not white** — off-white for dyslexic readers                                                                                                                         |
+| 2026-10-05 | —         | header **scroll-spy deferred** to a later version (§D6 → "Deferred on purpose")                                                                                                                  |
+| 2026-10-05 | —         | **JS budget raised to < 100 kB** gzipped; one home in `docs/TOOLING.md` (§D5)                                                                                                                    |
+| 2026-10-05 | `e4c9fe0` | **LO hero banner** — full-bleed, holds the `<h1>`, band fallback (§D9)                                                                                                                           |
+| 2026-10-05 | —         | header **scroll-spy reopened** — out of "Deferred on purpose", back on §D6 as next                                                                                                               |
+| 2026-10-06 | see §D6   | header **scroll-spy** — highlight follows the section on screen; hash-load parity fixed                                                                                                          |
+| 2026-10-06 | see §D6   | **header a11y audit** — one forced-colours-safe focus outline, five fixes                                                                                                                        |
+| 2026-10-06 | `d72c02f` | **rich-text block entries** — lists, tables, audio player; JS budget < 105 kB                                                                                                                    |
+| 2026-10-06 | `a82ef49` | **a11y follow-ups (§D10)** — speaker 24px floor, sandbox outline + code regions, AA pair                                                                                                         |
+| 2026-10-06 | `b0c3d42` | **one page frame (§D11)** — 72rem frame, 60ch measure, 48rem exercise track, breakout                                                                                                            |
+| 2026-10-06 | —         | **§D6 closed** — sparse one-LO landing page left as is; it fills as LOs are added                                                                                                                |
+| 2026-10-07 | see §F    | **`tabs` block (§F1)** — shadcn/Base UI tabs, plain or card; budgets JS < 110, CSS < 18                                                                                                          |
+| 2026-10-07 | see git   | **one `Callout`** — tinted info/success/warning/danger; all instruction boxes + sandbox use it                                                                                                   |
+| 2026-10-07 | see §F    | **tab media (§F2a)** — portrait/figure image, audio, Show/Hide transcript; JS 109.13 kB                                                                                                          |
+| 2026-10-07 | see §D12  | **full-width exercises (§D12)** — instruction box + 8 engines span the column                                                                                                                    |
+| 2026-10-07 | `8cc7e2f` | **Reset contrast** — `--destructive-text`, 5.48 / 5.08:1; sandbox Buttons section                                                                                                                |
+| 2026-10-08 | `3b8f415` | **amber transcript toggle** with a `::details-content` slide; CSS 17.95 kB                                                                                                                       |
+| 2026-10-08 | `0b2eb8f` | **cascade-layer order** declared first in every HTML entry (DEBUG build bug)                                                                                                                     |
+| 2026-10-08 | `db4e238` | **conjugation full width** — one column, inputs grow with it (maintainer's call)                                                                                                                 |
+| 2026-10-08 | `09945e4` | **reading image** — one grey card, text left / image right, questions full width (§D12)                                                                                                          |
+| 2026-10-08 | `81c942c` | **hand cursor** on every enabled button (Tailwind preflight reset it); CSS 17.98 kB                                                                                                              |
+| 2026-10-08 | `3679fae` | **flashcards study stage** — centred deck, result circles, direction switch (§D12)                                                                                                               |
+| 2026-10-08 | `f6b11ba` | **speakers doubled** — 27 → 54px stand-alone (flashcards 56, memory-match 48); 36px inline in text                                                                                               |
+| 2026-10-08 | `035f2d7` | **rows centre on the bigger speakers** — text-entry, vocabulary, rich-text tables, 0px off                                                                                                       |
+| 2026-10-08 | `c16e781` | **reading image edge to edge** — 532 × 355 on an LO column, exactly the intro's                                                                                                                  |
+| 2026-10-08 | `f6af9b7` | **placeholders print their size** — supply (2×) and largest shown size, per slot                                                                                                                 |
+| 2026-10-08 | `47cf9bf` | **size labels restyled** — small top-right plate in the info alert's style, with the path                                                                                                        |
+| 2026-10-08 | `c475fe9` | **vocabulary summary + sort** — "You will learn" alert, Semantic / Alphabetical (A→Z, Z→A); JS < 120 kB                                                                                          |
+| 2026-10-08 | `378ffa8` | **vocabulary intro quote** — optional `05-intro` block under the heading (list it in lo.json to show it)                                                                                         |
+| 2026-10-08 | `8f947a0` | **grammar intro + image** — `06-intro` under the Grammar heading; `intro` takes an optional image (outcomes split, 532 × 355)                                                                    |
+| 2026-10-08 | `5376189` | **exercises intro + image** — `07-intro` under the Exercises heading, same split as the grammar intro                                                                                            |
+| 2026-10-08 | see git   | **sandbox: every icon and image** — lucide icons under the sprite; new Images section; both kept complete by a scan test                                                                         |
+| 2026-10-08 | `54b664b` | **intro image on top on a phone** — `flex-col-reverse` below `lg`, DOM still text-first (§D13)                                                                                                   |
+| 2026-10-08 | `5106807` | **accordion bodies 8px top padding** — vocabulary summary and instructions box drop their own margin (§D13)                                                                                      |
+| 2026-10-08 | `b2cbb41` | **every engine full width** — last four off the 48rem track; the track removed (§D13)                                                                                                            |
+| 2026-10-08 | `1c57985` | **conjugation + answer pills on a phone** — pronoun above input, pills stack below 30rem (§D13)                                                                                                  |
+| 2026-10-08 | `9e0de04` | **phrase-reorder on a phone** — phrase under its prompt below 30rem (§D13)                                                                                                                       |
+| 2026-10-08 | `181d0e4` | **destructive button contrast** — variant uses `--destructive-text`; Reset's override gone (§D13)                                                                                                |
+| 2026-10-08 | `2cac630` | **memory-match card size** — 2 → 4 columns at a 30rem exercise width, deck capped at 65rem; 251px cards at 1440 (§D14)                                                                           |
+| 2026-10-08 | `bc2a829` | **typed-answer feedback** — hint naming the error first, the answer on the second wrong Check (§D15)                                                                                             |
+| 2026-10-08 | `77199ba` | **feedback highlight colour** — the revealed answer's `<mark>` is Cambridge Light Blue (`bg-callout-info`) (§D15)                                                                                |
+| 2026-10-08 | `7960573` | **hero label top-right** — hero.svg fills the banner; the label hangs 12px from its top-right corner (§D14)                                                                                      |
+| 2026-10-08 | `2c61379` | **memory-match speaker on small cards** — scales to 36px under a 10rem card, clear of the word (§D14)                                                                                            |
+| 2026-10-09 | `d347a79` | **rich-text links** — `<a href>` opens in a new tab with an external icon; the example intro links the debug pages                                                                               |
+| 2026-10-09 | `dd14a03` | **hover cards** — `.hover-term` + `hovers/<id>/hover.json`, path drawn as a tree; hover, focus, tap (§D17)                                                                                       |
+| 2026-10-09 | `a099070` | **hover card by keyboard** — Enter closes a focus-opened card; open while focus or hover holds it (§D17)                                                                                         |
+| 2026-10-09 | `6f165e8` | **revealed-answer mark** — bold, `--primary` underline, opaque tint; lazy `answer-feedback.css` (§D14/§D15)                                                                                      |
+| 2026-10-09 | `9ff073e` | **inline-gap feedback hangs** — no longer widens the blank; inside the row, clear of its neighbour (§D14/§D15)                                                                                   |
+| 2026-10-09 | `93f0545` | **progress meter** — french's ProgressDots as `ProgressMeter` in nine engines; dot or course icon (§D18)                                                                                         |
+| 2026-10-09 | `58c63cb` | **progress meter, the last four** — memory-match, word-order, word-spot, phrase-reorder (§D18)                                                                                                   |
+| 2026-10-09 | `511c3cf` | **Show answer and the meter** — the meter counts only the student's own correct answers (§D18)                                                                                                   |
+| 2026-10-09 | `acdcb3a` | **reorder meters on Check** — word-order and phrase-reorder no longer count live (§D18)                                                                                                          |
+| 2026-10-09 | `b29db0c` | **Check hover contrast** — hover pulls `--success` toward `--foreground`: 6.02 / 6.62:1 (§D14)                                                                                                   |
+| 2026-10-09 | `737ab59` | **hover term in the debug pages** — a plain link and a hover term in the showcase and sandbox (§D14)                                                                                             |
+| 2026-10-09 | `abc5a3e` | **hero label bottom-right** — below 1024px, clear of the title (§D14)                                                                                                                            |
+| 2026-10-09 | `135fc25` | **docs hub tables** — each a focusable, named scroll region (§D14)                                                                                                                               |
+| 2026-10-09 | `239d335` | **flashcards flip cue** — 7rem Warm Blue corner triangle (`--flip-cue`), pointer icon and "Tap to flip" inside; faces on Again / Got it                                                          |
+| 2026-10-12 | `43f1562` | **flip icon** — 1.75rem, centred over "Tap to flip" (§D19)                                                                                                                                       |
+| 2026-10-12 | `ba685e9` | **flashcards Reset and faces** — the shared Reset; faces without rings (§D19)                                                                                                                    |
+| 2026-10-12 | `9907be8` | **flashcards circles** — meter-sized, faces centred; the row hops when all Got it (§D19)                                                                                                         |
+| 2026-10-12 | `0064c70` | **no Show answer** — the card flips; the rating row is reserved, hidden until the flip (§D19)                                                                                                    |
+| 2026-10-12 | `022611c` | **Clear saved progress** — Reset keeps memory; a confirm-first button forgets it (§D19)                                                                                                          |
+| 2026-10-12 | `5e930f4` | **flashcards instructions** — tap the card, Reset; saved-progress decks explain it (§D19)                                                                                                        |
+| 2026-10-12 | `0c2f2b6` | **sandbox at 320** — the Alerts intro's source path wraps; no sideways scroll (§D14)                                                                                                             |
+| 2026-10-12 | `7d9f72e` | **flip cue on memory cards** — the shared FlipCue, scaled to the card (§D20)                                                                                                                     |
+| 2026-10-12 | `e53e954` | **Tap to flip in instructions** — flashcards and memory-match name the corner, with its pointer (§D20)                                                                                           |
+| 2026-10-12 | `77399b8` | **flip cue, smaller and Light Blue** — quarter-card corner, icon only; plain pointer in the instructions (§D20)                                                                                  |
+| 2026-10-12 | `f0019e7` | **memory-match footer** — the shared row: Show answer and Reset with their glyphs (§D20)                                                                                                         |
+| 2026-10-12 | `d4e9449` | **memory-match Show answer after two misses** — french-lo-1's rule (§D20)                                                                                                                        |
+| 2026-10-12 | `f8b471b` | **memory-match instructions** — name Show answers and when it appears (§D20)                                                                                                                     |
+| 2026-10-12 | `3462076` | **Show answers** — the reveal button's default label, as in french-lo-1 (§D21)                                                                                                                   |
+| 2026-10-12 | `9a3b226` | **reveal after two failed Checks** — word-order, phrase-reorder, drag-fill-gaps (§D21)                                                                                                           |
+| 2026-10-12 | `9e7dac4` | **showAnswersAfter** — one tunable Show answers rule for every engine (§D21)                                                                                                                     |
+| 2026-10-12 | `8381a85` | **pre-push hook** — guards then tests before every push; forks start with Actions off (§E2)                                                                                                      |
+| 2026-10-12 | `ce9ccf9` | **`docs/ORGANIZATION.md`** — plan for the `lc-elearn` organisation, one repo per course (§E2)                                                                                                    |
+| 2026-10-12 | `b09d542` | **team workflow handover** — decisions and the ordered next steps; code-only review in ORGANIZATION (§E2)                                                                                        |
+| 2026-10-12 | `d1e301f` | **`sources` block** — grouped references, print/web icon, rich-text citation and note (§F5)                                                                                                      |
+| 2026-10-13 | see git   | **docs drift sweep** — stale hashes, figures and links corrected (branch `docs/drift-2026-10-13`)                                                                                                |
+| 2026-10-13 | see git   | **GitHub repo link** — both debug pages' nav links the source, new tab, says so                                                                                                                  |
+| 2026-10-13 | see git   | **sources redesign** — groups as cards side by side, heading rule, divided entries, icon chip; CSS cap 19 kB (§F5)                                                                               |
+| 2026-10-13 | see git   | **outcomes as an info callout** — lead as title, 50:50 beside a framed image, as french-lo-1 (spec 2026-09-11 §3)                                                                                |
+| 2026-10-13 | `22b637d` | **tabs on phones** — dropdown below `@3xl`, row above; JS cap 140 kB (§F3)                                                                                                                       |
+| 2026-10-14 | `fe43305` | **Node pinned** — `.nvmrc` 22, `engines.node`, setup-node from `.nvmrc` in both CI jobs (E15)                                                                                                    |
+| 2026-10-14 | `cbda661` | **browser suite** — Playwright in Chromium, Firefox, WebKit: no console errors, axe clean, in CI at `/` and `/course/` (E12a)                                                                    |
+| 2026-10-14 | `ec86eb7` | **choice pills keep focus with the selection** — arrow keys no longer leave focus behind (E9)                                                                                                    |
+| 2026-10-15 | `f6b2f87` | **Feijoa only when present** — a Vite plugin declares the font only when its files exist; red `main` at `/course/` fixed (E5)                                                                    |
+| 2026-10-15 | `f82ac23` | **WebKit click flake** — the keyboard spec waits for the accordion's open animation before clicking (E9 spec)                                                                                    |
+| 2026-10-15 | `fb73545` | **no control inside a control** — rich text rejects a link, popup, hover term or audio icon nested in another (E10)                                                                              |
+| 2026-10-16 | `fe57694` | **palette preview** — sandbox drop-down over every `tokens-variant-*.css`, kept per viewer on every DEBUG page; none of it in a normal build (E18)                                               |
+| 2026-10-16 | `2e2d828` | **brand board** — sandbox Colour section: proportion bar, a card per colour with live HEX/RGB and contrast, each role in use (E19)                                                               |
+| 2026-10-16 | `9498ab1` | **image comparison slider** — sandbox Images section: each light/dark pair as one slider on theme-fixed grounds (E20)                                                                            |
+| 2026-10-16 | `1eccb86` | **flip cue retires** — three cards turned, the Tap to flip corners leave with a random exit and the instruction glyph fades (E21)                                                                |
+| 2026-10-16 | `5f670b8` | **flashcards done card** — a finished deck keeps a "Deck complete" card in the card's place, so nothing jumps (E22)                                                                              |
+| 2026-10-16 | `aa10305` | **debug pages in the browser suite** — specs on a `DEBUG=1` build, run in CI on that build too (E12c)                                                                                            |
+| 2026-10-20 | `7295a12` | **debug browser cases** — memory-match reveal under resize, sequence scrub, the brand board's live values and axe (E12d)                                                                         |
+| 2026-10-20 | `3e18c52` | **sequence scrubber follows the audio** — Firefox's late input, the two-drag race and a clip-length mix-up after seeks; first happy-dom test (E23)                                               |
+| 2026-10-20 | `216fa11` | **one build for any folder** — `./` by default; logo/icon masks inline, saves keyed by the served folder, CI serves a build from `/any/folder/` (E24)                                            |
+| 2026-10-21 | `ca73c0c` | **audio controller follows the element** — keyboard seeking, a refused play, an outside pause (E25)                                                                                              |
+| 2026-10-21 | `b89a9e4` | **`main` protected** — PR only, five checks green and up to date, admins included, linear history (E1)                                                                                           |
+| 2026-10-21 | `467a90d` | **code style guide** — `docs/STYLE.md`: what the tools enforce, links to the rules, and the unenforced habits measured against `src/`, before the organisation move                              |
+| 2026-10-21 | `f56d9d0` | **Code style debug page** — `code-style.html` renders `docs/STYLE.md`, with real examples from `src/` (E26)                                                                                      |
+| 2026-10-21 | `e573fdd` | **kebab-case module names** — eleven camelCase modules renamed; `file-names.test.ts` enforces the shapes (E27)                                                                                   |
+| 2026-10-21 | `35b36d6` | **third review's defects** — exercises checked at load, reserved page names, the playlist's gap; PR 31 (E28)                                                                                     |
+| 2026-11-10 | `5662951` | **typed answers accept more than one form** — `\|` means "or" in the four typed engines, the first preferred, the rest "Also accepted"; PR 90 (E54)                                              |
+| 2026-11-11 | `cd14265` | **a course of one lesson** — `"home": "lesson"` in `course.json` makes `index.html` the lesson's page; the build refuses it with two lessons; PR 92 (E55)                                        |
+| 2026-11-11 | `bf016ac` | **a Credits link in the footer** — `"credits": "<modal id>"` in `lo.json` adds a Credits button to the lesson footer; a popup entry may be one `<h3>`; PR 98 (E56)                               |
+| 2026-11-11 | `64b878f` | **exercises in tabs** — a section's `exercises` in `lo.json` may hold a set: one accordion, one instruction box, a tab per exercise, any engine; PR 99 (E57)                                     |
+| 2026-11-11 | `221f364` | **a lesson's flashcards keep their own options** — the LO envelope's `options` is loose, so `srs` and a direction reach the deck; PR 100 (E58)                                                   |
+| 2026-11-11 | `40419ee` | **a typo in an exercise's options fails the build** — the load check closes each engine's `options`, naming the file and the key; PR 101 (E59)                                                   |
+| 2026-11-16 | —         | **a header link lands its section on the first click** — the `hashchange` focus on the heading now uses `preventScroll`, so it no longer cuts the smooth scroll short; `e2e/section-nav.spec.ts` |
+| 2026-11-16 | —         | **the active tab has no line beneath it in dark mode** — `TabSet` restates `dark:data-active:border-b-card`, since the `dark:` variant outranked the plain bottom colour; `e2e/tab-set.spec.ts`  |

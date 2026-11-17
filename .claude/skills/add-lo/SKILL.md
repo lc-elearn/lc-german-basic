@@ -29,6 +29,9 @@ schemas check every lesson file when it loads, and `bun run test` runs them.
    `lo-NN-` number and a short slug, for example `lo-03-food`; the slug may not be a
    reserved page name or another lesson's ([`CONTRIBUTING.md`, step 1](../../../CONTRIBUTING.md)). The number is the course
    order and nothing else ([`CONTRIBUTING.md` → "Course order has one source"](../../../CONTRIBUTING.md#course-order-has-one-source-the-folder-ordinal)).
+   If `course.json` has `"home": "lesson"` (a course of one lesson), a second lesson
+   stops the build: set `"home": "landing"` first
+   ([`COURSE_GUIDE.md` → "One lesson, or several"](../../../COURSE_GUIDE.md#one-lesson-or-several)).
    Then `git switch -c lo-03-food`, the branch named after the lesson folder. Never
    write the lesson on `main`: GitHub refuses the push.
 3. **Copy the example.** Copy `lo-config/lo-00-example/` to the new folder. **Never edit
@@ -37,11 +40,17 @@ schemas check every lesson file when it loads, and `bun run test` runs them.
 4. **Fill it in.** Edit `lo.json`, then each `blocks/*/block.json` and
    `exercises/*/exercise.json`. Remove the blocks and exercises the lesson does not need,
    and keep the folder names in step with the config (`<ordinal>-<type>`,
-   [`STRUCTURE.md`](../../../STRUCTURE.md)). Rich-text tags are in
+   [`STRUCTURE.md`](../../../STRUCTURE.md)). The copy brings placeholder credits
+   (`modals/credits/`, named by `credits` in `lo.json`): fill them in, or delete the
+   folder with its `modals` entry and the `credits` key (CONTRIBUTING's **Credits**, in the
+   section linked above). Rich-text tags are in
    [`docs/specs/lo-rich-text-modals.md`](../../../docs/specs/lo-rich-text-modals.md).
    If the lesson comes from a teacher's document, the
    [`culp-syllabus`](../culp-syllabus/SKILL.md) skill can first check its level
    (optional).
+   A vocabulary block is a word bank: write each word once, and place it in the two
+   views with `topic` (one id or a list, for a word taught under two topics) and `only`
+   ([`CONTRIBUTING.md` → "Vocabulary block (word bank)"](../../../CONTRIBUTING.md#vocabulary-block-word-bank)).
 5. **Use existing kinds only.** If the user wants a kind of exercise or block that does
    not exist, stop and use the `add-exercise-engine` or `add-block-type` skill instead.
 6. **Media.** Ask who made each image and recording before adding it, and follow the

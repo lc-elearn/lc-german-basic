@@ -29,13 +29,13 @@ Every step, and the checks before it goes live, are below.
 
 ## What you need, once
 
-| Tool                | Check                                      | Why                                                                 |
-| ------------------- | ------------------------------------------ | ------------------------------------------------------------------- |
-| **Git**             | `git --version`                            | to fetch the course from GitHub                                     |
-| **Bun** 1.3         | `bun --version` → `1.3.…`                  | runs every command in this guide; CI uses the latest 1.3            |
-| **Node** 22         | `node --version` → `v22.…`, 22.12 or later | the build tools run on Node; `.nvmrc` pins 22, and CI uses the same |
-| **Feijoa** fonts    | the three files below                      | the Cambridge heading font; licensed, so never in the repo          |
-| The **web address** | ask whoever runs the server                | which server folder to copy into (step 4)                           |
+| Tool                | Check                                      | Why                                                                                         |
+| ------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| **Git**             | `git --version`                            | to fetch the course from GitHub                                                             |
+| **Bun** 1.3         | `bun --version` → `1.3.…`                  | runs every command in this guide; CI uses the latest 1.3                                    |
+| **Node** 22         | `node --version` → `v22.…`, 22.12 or later | optional: only the full check in step 6 (`test:e2e`) needs it; `.nvmrc` pins 22, as CI does |
+| **Feijoa** fonts    | the three files below                      | the Cambridge heading font; licensed, so never in the repo                                  |
+| The **web address** | ask whoever runs the server                | which server folder to copy into (step 4)                                                   |
 
 Install Bun from [bun.sh](https://bun.sh). For Node, [nvm](https://github.com/nvm-sh/nvm)
 is easiest: in the repo folder, `nvm install` reads `.nvmrc` and installs 22. In each
@@ -189,6 +189,8 @@ it. Do not deploy: send the message to the lesson's author or the maintainer.
    ls dist/*.html
    ```
 
+   With `"home": "lesson"` in `course.json`, `index.html` is the lesson itself, and the lesson's own page is there too.
+
    If you see `exercise-showcase.html`, `ui-showcase.html`, `debug-sandbox.html`,
    `code-style.html`, `culp-syllabi.html` or `claude-skills.html`, the build ran with `DEBUG` set. Open a new terminal and build again.
 
@@ -209,6 +211,8 @@ go through this list:
 - [ ] Headings are in Feijoa. To be sure: right-click a heading, **Inspect**, and under
       **Computed** the rendered font says Feijoa, not Open Sans.
 - [ ] Every lesson card opens its lesson, and the way back to the home page works.
+- [ ] With `"home": "lesson"`, the home page is the lesson itself: skip the two card
+      checks, and check that the course name in the header opens the same lesson.
 - [ ] In one lesson: open an exercise, answer it, press **Check**, then **Reset**.
 - [ ] An audio clip plays.
 - [ ] Pictures show.
@@ -323,6 +327,31 @@ folder: the demo carries internal test pages. On the demo site, open
 `exercise-showcase.html` and `ui-showcase.html` in those colours. The choice is kept in
 each viewer's own browser; "Reset" in the corner label undoes it. A new palette file
 needs a new demo build.
+
+## Preview on GitHub Pages
+
+Every course repo can publish its `main` as a **preview** at
+`https://lc-elearn.github.io/<repo>/`, listed on the landing page
+`https://lc-elearn.github.io/`. It is for the team and colleagues to try the course as it
+stands; it is **not** the live course, which is still built and uploaded by steps 1–9.
+
+- **Switch it on once:** the organisation Owner does this, without asking the author
+  (decided 2026-11-16), once the course's first template update that brings `pages.yml`
+  is merged: the repo's **Settings → Pages → Source: GitHub Actions**. From then on,
+  every merge to `main` publishes (`.github/workflows/pages.yml`); before that,
+  the workflow skips. The merge that brought `pages.yml` has already skipped, so run it
+  once by hand: **Actions → Pages → Run workflow**, or
+  `gh workflow run pages.yml -R lc-elearn/<repo> --ref main`.
+- **What it shows:** the course without the Feijoa fonts (headings in Open Sans) and
+  without debug pages. Only the template's own preview has the debug pages.
+- **The landing page** is its own repo, `lc-elearn/lc-elearn.github.io`. It finds courses
+  by itself on a schedule set to every hour, but GitHub delays scheduled runs: between
+  14 and 16 Nov 2026 they came every 4 to 9 hours. To see a new course at once, press
+  **Run workflow** on its **Publish** workflow.
+- **Who can see it:** anyone with the link. Search engines are asked not to list it
+  (`robots.txt` on the landing repo), but it is not private.
+
+Design: [`docs/specs/2026-11-13-github-pages-previews-design.md`](docs/specs/2026-11-13-github-pages-previews-design.md).
 
 ## Never
 
