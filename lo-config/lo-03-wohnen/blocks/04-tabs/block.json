@@ -1,0 +1,88 @@
+{
+  "type": "tabs",
+  "title": "Beschreiben Sie Ihr Zuhause – Describing a home",
+  "presentation": "card",
+  "content": {
+    "label": "Beschreiben Sie Ihr Zuhause – Describing a home",
+    "tabs": [
+      {
+        "label": "Wohnungsbesichtigung",
+        "instructions": "Alex views a flat to rent with the landlady, Frau Schneider. They use \"Sie\". Count the rooms and listen for what the flat has.",
+        "media": {
+          "audio": {
+            "src": "audio/lo-03-wohnen/u3_b1-wohnungsbesichtigung.mp3",
+            "label": "Listen to the dialogue: Wohnungsbesichtigung"
+          },
+          "transcript": [
+            "<strong>Frau Schneider:</strong> Hier ist die Wohnung. Sie hat zwei Zimmer, eine Küche und ein Bad. <em>Here is the flat. It has two rooms, a kitchen and a bathroom.</em>",
+            "<strong>Alex:</strong> Und wo ist das Wohnzimmer? <em>And where is the living room?</em>",
+            "<strong>Frau Schneider:</strong> Hier. Es ist hell und hat einen Balkon. <em>Here. It is bright and has a balcony.</em>",
+            "<strong>Alex:</strong> Wie viel kostet die Wohnung im Monat? <em>How much does the flat cost per month?</em>",
+            "<strong>Frau Schneider:</strong> Sie kostet siebenhundert Euro im Monat. <em>It costs seven hundred euros a month.</em>",
+            "<strong>Alex:</strong> Das ist in Ordnung. Danke, Frau Schneider. <em>That is fine. Thank you, Mrs Schneider.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-03-wohnen/dialogues/04-wohnungsbesichtigung.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Sie hat zwei Zimmer.</strong> – It has two rooms.</li><li><strong>Es hat einen Balkon.</strong> – It has a balcony.</li><li><strong>Wie viel kostet …?</strong> – How much does … cost?</li></ul>"
+        ]
+      },
+      {
+        "label": "In der WG",
+        "instructions": "A flatmate shows a new arrival around the flat. They use \"du\". Where is the bathroom, and where is Daniel's room?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-03-wohnen/u3_b2-in-der-wg.mp3",
+            "label": "Listen to the dialogue: In der WG"
+          },
+          "transcript": [
+            "<strong>Elif:</strong> Willkommen in der WG, Daniel! Hier ist die Küche. <em>Welcome to the flat share, Daniel! Here is the kitchen.</em>",
+            "<strong>Daniel:</strong> Wie schön! Und wo ist das Bad? <em>How nice! And where is the bathroom?</em>",
+            "<strong>Elif:</strong> Das Bad ist dort, neben der Küche. <em>The bathroom is there, next to the kitchen.</em>",
+            "<strong>Daniel:</strong> Und mein Zimmer? <em>And my room?</em>",
+            "<strong>Elif:</strong> Dein Zimmer ist im ersten Stock. Es hat ein Fenster zum Garten. <em>Your room is on the first floor. It has a window onto the garden.</em>",
+            "<strong>Daniel:</strong> Super, danke! <em>Great, thanks!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-03-wohnen/dialogues/05-in-der-wg.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Hier ist die Küche.</strong> – Here is the kitchen.</li><li><strong>neben der Küche</strong> – next to the kitchen</li><li><strong>im ersten Stock</strong> – on the first floor</li></ul>"
+        ]
+      },
+      {
+        "label": "Am Telefon: die Anzeige",
+        "instructions": "A caller asks about a flat she has seen advertised. They use \"Sie\". Which questions does she ask?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-03-wohnen/u3_b3-am-telefon.mp3",
+            "label": "Listen to the dialogue: Am Telefon: die Anzeige"
+          },
+          "transcript": [
+            "<strong>Katrin Huber:</strong> Guten Tag, hier ist Katrin Huber. Ist die Wohnung noch frei? <em>Hello, this is Katrin Huber. Is the flat still available?</em>",
+            "<strong>Frau Schneider:</strong> Ja, sie ist noch frei. <em>Yes, it is still available.</em>",
+            "<strong>Katrin Huber:</strong> Wie viele Zimmer hat sie? <em>How many rooms does it have?</em>",
+            "<strong>Frau Schneider:</strong> Zwei Zimmer, eine Küche und ein Bad. <em>Two rooms, a kitchen and a bathroom.</em>",
+            "<strong>Katrin Huber:</strong> Gibt es einen Garten? <em>Is there a garden?</em>",
+            "<strong>Frau Schneider:</strong> Nein, aber es gibt einen Balkon. <em>No, but there is a balcony.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-03-wohnen/dialogues/06-am-telefon-die-anzeige.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Ist die Wohnung noch frei?</strong> – Is the flat still available?</li><li><strong>Wie viele Zimmer hat sie?</strong> – How many rooms does it have?</li><li><strong>Es gibt einen Balkon.</strong> – There is a balcony.</li></ul>"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Groceries",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Check the article of each noun.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "fruit and vegetables (<em>der Apfel, die Tomate, die Kartoffel, die Zwiebel</em>);",
+        "dairy and basics (<em>die Butter, der Joghurt, die Eier</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "der Apfel",
+        "gloss": "apple",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-essen-apfel.mp3"
+      },
+      {
+        "term": "die Banane",
+        "gloss": "banana",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-essen-banane.mp3"
+      },
+      {
+        "term": "die Tomate",
+        "gloss": "tomato",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-essen-tomate.mp3"
+      },
+      {
+        "term": "die Kartoffel",
+        "gloss": "potato",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-essen-kartoffel.mp3"
+      },
+      {
+        "term": "die Zwiebel",
+        "gloss": "onion",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-essen-zwiebel.mp3"
+      },
+      {
+        "term": "die Karotte",
+        "gloss": "carrot",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-essen-karotte.mp3"
+      },
+      {
+        "term": "die Gurke",
+        "gloss": "cucumber",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-essen-gurke.mp3"
+      },
+      {
+        "term": "die Eier",
+        "gloss": "eggs (plural)",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-essen-eier.mp3"
+      },
+      {
+        "term": "die Butter",
+        "gloss": "butter",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-essen-butter.mp3"
+      },
+      {
+        "term": "der Joghurt",
+        "gloss": "yoghurt",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-essen-joghurt.mp3"
+      }
+    ]
+  }
+}

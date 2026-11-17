@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "Separable verbs",
+  "presentation": "card",
+  "content": {
+    "instructions": "Many German verbs have a prefix that comes off. In a main clause the verb takes its normal place and the prefix goes to the very end. In the infinitive the prefix is attached again. The prefix is stressed.",
+    "text": [
+      "<table><caption>Separable verbs in a sentence</caption><thead><tr><th>Listen</th><th>Infinitive</th><th>Sentence</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-04-freizeit/u4_g-trennbar-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>aufstehen</td><td>Ich stehe am Sonntag spät <strong>auf</strong>.</td></tr><tr><td><span data-audio=\"audio/lo-04-freizeit/u4_g-trennbar-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>einkaufen</td><td>Wir kaufen am Samstag <strong>ein</strong>.</td></tr><tr><td><span data-audio=\"audio/lo-04-freizeit/u4_g-trennbar-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>anrufen</td><td>Er ruft seine Familie <strong>an</strong>.</td></tr><tr><td><span data-audio=\"audio/lo-04-freizeit/u4_g-trennbar-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>mitkommen</td><td>Kommst du <strong>mit</strong>?</td></tr></tbody></table>",
+      "Ich stehe früh auf. Wir kaufen ein. Kommst du mit?"
+    ]
+  }
+}

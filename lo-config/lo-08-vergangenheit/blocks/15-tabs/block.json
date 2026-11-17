@@ -1,0 +1,25 @@
+{
+  "type": "tabs",
+  "title": "Sounds",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Sounds in this unit",
+    "tabs": [
+      {
+        "label": "Participles: ge- and stress",
+        "instructions": "ge- is a short, unstressed \"guh\". The stress is on the verb stem: ge-MACHT. With be-, ver-, ent- and -ieren there is no ge-, and the stress is on the stem or on -ier-.",
+        "text": [
+          "<table><caption>Participles</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>gemacht</td><td>ge- = \"guh\"</td><td><span data-audio=\"audio/lo-08-vergangenheit/u8_p-gemacht.mp3\" data-audio-label=\"Play: gemacht\"></span></td></tr><tr><td>gegessen</td><td>ge- = \"guh\"</td><td><span data-audio=\"audio/lo-08-vergangenheit/u8_p-gegessen.mp3\" data-audio-label=\"Play: gegessen\"></span></td></tr><tr><td>aufgestanden</td><td>ge- in the middle</td><td><span data-audio=\"audio/lo-08-vergangenheit/u8_p-aufgestanden.mp3\" data-audio-label=\"Play: aufgestanden\"></span></td></tr><tr><td>besucht</td><td>no ge-</td><td><span data-audio=\"audio/lo-08-vergangenheit/u8_p-besucht.mp3\" data-audio-label=\"Play: besucht\"></span></td></tr><tr><td>verstanden</td><td>no ge-</td><td><span data-audio=\"audio/lo-08-vergangenheit/u8_p-verstanden.mp3\" data-audio-label=\"Play: verstanden\"></span></td></tr><tr><td>studiert</td><td>no ge-; stress on -iert</td><td><span data-audio=\"audio/lo-08-vergangenheit/u8_p-studiert.mp3\" data-audio-label=\"Play: studiert\"></span></td></tr></tbody></table>"
+        ]
+      },
+      {
+        "label": "Years",
+        "instructions": "A year is said in hundreds up to 1999: 1989 is neunzehnhundertneunundachtzig. From 2000 it is said as a number: zweitausend, zweitausendvierundzwanzig.",
+        "text": [
+          "<table><caption>Years</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>neunzehnhunderteinundsechzig</td><td>1961</td><td><span data-audio=\"audio/lo-08-vergangenheit/u8_p-jahr-1961.mp3\" data-audio-label=\"Play: neunzehnhunderteinundsechzig\"></span></td></tr><tr><td>neunzehnhundertneunundachtzig</td><td>1989</td><td><span data-audio=\"audio/lo-08-vergangenheit/u8_p-jahr-1989.mp3\" data-audio-label=\"Play: neunzehnhundertneunundachtzig\"></span></td></tr><tr><td>neunzehnhundertneunzig</td><td>1990</td><td><span data-audio=\"audio/lo-08-vergangenheit/u8_p-jahr-1990.mp3\" data-audio-label=\"Play: neunzehnhundertneunzig\"></span></td></tr><tr><td>zweitausend</td><td>2000</td><td><span data-audio=\"audio/lo-08-vergangenheit/u8_p-jahr-2000.mp3\" data-audio-label=\"Play: zweitausend\"></span></td></tr><tr><td>zweitausendzwölf</td><td>2012</td><td><span data-audio=\"audio/lo-08-vergangenheit/u8_p-jahr-2012.mp3\" data-audio-label=\"Play: zweitausendzwölf\"></span></td></tr><tr><td>zweitausendvierundzwanzig</td><td>2024</td><td><span data-audio=\"audio/lo-08-vergangenheit/u8_p-jahr-2024.mp3\" data-audio-label=\"Play: zweitausendvierundzwanzig\"></span></td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}

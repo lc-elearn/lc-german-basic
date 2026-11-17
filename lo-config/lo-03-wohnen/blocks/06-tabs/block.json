@@ -1,0 +1,85 @@
+{
+  "type": "tabs",
+  "title": "Mit wem wohnen Sie? – Who you live with",
+  "presentation": "card",
+  "content": {
+    "label": "Mit wem wohnen Sie? – Who you live with",
+    "tabs": [
+      {
+        "label": "Beim Gartenfest",
+        "instructions": "Two colleagues chat at a garden party. They use \"Sie\". Listen for \"mit wem\" and the answer.",
+        "media": {
+          "audio": {
+            "src": "audio/lo-03-wohnen/u3_d1-beim-gartenfest.mp3",
+            "label": "Listen to the dialogue: Beim Gartenfest"
+          },
+          "transcript": [
+            "<strong>Frau Keller:</strong> Mit wem wohnen Sie in Linz, Frau Huber? <em>Who do you live with in Linz, Mrs Huber?</em>",
+            "<strong>Katrin Huber:</strong> Mit meinem Mann und meinem Sohn. <em>With my husband and my son.</em>",
+            "<strong>Frau Keller:</strong> Haben Sie ein Haus? <em>Do you have a house?</em>",
+            "<strong>Katrin Huber:</strong> Nein, wir haben eine Wohnung mit Balkon. <em>No, we have a flat with a balcony.</em>",
+            "<strong>Frau Keller:</strong> Und haben Sie ein Haustier? <em>And do you have a pet?</em>",
+            "<strong>Katrin Huber:</strong> Ja, wir haben eine Katze. <em>Yes, we have a cat.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-03-wohnen/dialogues/10-beim-gartenfest.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Mit wem wohnen Sie?</strong> – Who do you live with? (formal)</li><li><strong>mit meinem Mann</strong> – with my husband</li><li><strong>das Haustier</strong> – pet</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Café",
+        "instructions": "Two friends talk about who they live with. They use \"du\". Who lives alone?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-03-wohnen/u3_d2-im-cafe.mp3",
+            "label": "Listen to the dialogue: Im Café"
+          },
+          "transcript": [
+            "<strong>Sophie:</strong> Wohnst du allein, Marco? <em>Do you live alone, Marco?</em>",
+            "<strong>Marco:</strong> Nein, ich wohne mit zwei Freunden in einer WG. Und du? <em>No, I live with two friends in a flat share. And you?</em>",
+            "<strong>Sophie:</strong> Ich wohne allein, aber mit meiner Katze. <em>I live alone, but with my cat.</em>",
+            "<strong>Marco:</strong> Eine Katze? Toll! <em>A cat? Great!</em>",
+            "<strong>Sophie:</strong> Ja, sie heißt Luna. Und sie wohnt auf dem Sofa! <em>Yes, she is called Luna. And she lives on the sofa!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-03-wohnen/dialogues/11-im-cafe.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Wohnst du allein?</strong> – Do you live alone? (informal)</li><li><strong>mit zwei Freunden</strong> – with two friends</li><li><strong>allein</strong> – alone</li></ul>"
+        ]
+      },
+      {
+        "label": "Am Stammtisch",
+        "instructions": "At the pub conversation evening, a new acquaintance asks about family and home. They use \"Sie\". How many rooms does the family have?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-03-wohnen/u3_d3-am-stammtisch.mp3",
+            "label": "Listen to the dialogue: Am Stammtisch"
+          },
+          "transcript": [
+            "<strong>Frau Schneider:</strong> Wohnen Sie allein, Herr Lange? <em>Do you live alone, Mr Lange?</em>",
+            "<strong>Peter Lange:</strong> Nein, mit meiner Frau und zwei Kindern. <em>No, with my wife and two children.</em>",
+            "<strong>Frau Schneider:</strong> Dann brauchen Sie eine große Wohnung! <em>Then you need a big flat!</em>",
+            "<strong>Peter Lange:</strong> Ja, wir haben vier Zimmer und einen Garten. <em>Yes, we have four rooms and a garden.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-03-wohnen/dialogues/12-am-stammtisch.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Wohnen Sie allein?</strong> – Do you live alone? (formal)</li><li><strong>mit meiner Frau und zwei Kindern</strong> – with my wife and two children</li><li><strong>Sie brauchen …</strong> – you need …</li></ul>"
+        ]
+      }
+    ]
+  }
+}

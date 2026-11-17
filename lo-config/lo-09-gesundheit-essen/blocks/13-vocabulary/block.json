@@ -1,0 +1,63 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Healthy living",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. These verbs often take zu + infinitive.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "healthy habits (<em>Sport treiben, schlafen, ausruhen</em>);",
+        "plans (<em>versuchen, vorhaben, Lust haben</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "Sport treiben",
+        "gloss": "to do sport",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-leben-sport.mp3"
+      },
+      {
+        "term": "schlafen",
+        "gloss": "to sleep",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-leben-schlafen.mp3"
+      },
+      {
+        "term": "sich ausruhen",
+        "gloss": "to rest",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-leben-ausruhen.mp3"
+      },
+      {
+        "term": "der Stress",
+        "gloss": "stress",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-leben-stress.mp3"
+      },
+      {
+        "term": "die Ernährung",
+        "gloss": "diet, nutrition",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-leben-ernaehrung.mp3"
+      },
+      {
+        "term": "versuchen",
+        "gloss": "to try",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-leben-versuchen.mp3"
+      },
+      {
+        "term": "vorhaben",
+        "gloss": "to plan",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-leben-vorhaben.mp3"
+      },
+      {
+        "term": "Lust haben",
+        "gloss": "to feel like",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-leben-lust.mp3"
+      },
+      {
+        "term": "wichtig",
+        "gloss": "important",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-leben-wichtig.mp3"
+      }
+    ]
+  }
+}

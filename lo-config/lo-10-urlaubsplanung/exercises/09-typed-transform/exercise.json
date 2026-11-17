@@ -1,0 +1,38 @@
+{
+  "type": "typed-transform",
+  "title": "The comparative",
+  "content": {
+    "instructions": "Write the comparative form of each adjective.",
+    "columns": {
+      "prompt": "Basic form",
+      "answer": "Comparative"
+    },
+    "rows": [
+      {
+        "prompt": "warm",
+        "answer": "wärmer"
+      },
+      {
+        "prompt": "kalt",
+        "answer": "kälter"
+      },
+      {
+        "prompt": "groß",
+        "answer": "größer"
+      },
+      {
+        "prompt": "teuer",
+        "answer": "teurer"
+      },
+      {
+        "prompt": "gut",
+        "answer": "besser"
+      },
+      {
+        "prompt": "gern",
+        "answer": "lieber"
+      }
+    ],
+    "footnote": "Many short adjectives take an umlaut; gut, gern and viel are irregular."
+  }
+}

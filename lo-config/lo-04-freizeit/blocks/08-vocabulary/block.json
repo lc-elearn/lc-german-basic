@@ -1,0 +1,79 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Hobbies",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "Listen and repeat. Most hobbies are a verb, sometimes with a noun.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "hobbies (<em>lesen, kochen, wandern, tanzen</em>);",
+        "the word for free time (<em>die Freizeit</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "die Freizeit",
+        "gloss": "free time",
+        "audio": "audio/lo-04-freizeit/u4_v-hobby-freizeit.mp3"
+      },
+      {
+        "term": "das Hobby",
+        "gloss": "hobby",
+        "audio": "audio/lo-04-freizeit/u4_v-hobby-hobby.mp3"
+      },
+      {
+        "term": "lesen",
+        "gloss": "to read",
+        "audio": "audio/lo-04-freizeit/u4_v-hobby-lesen.mp3"
+      },
+      {
+        "term": "Musik hören",
+        "gloss": "to listen to music",
+        "audio": "audio/lo-04-freizeit/u4_v-hobby-musik.mp3"
+      },
+      {
+        "term": "kochen",
+        "gloss": "to cook",
+        "audio": "audio/lo-04-freizeit/u4_v-hobby-kochen.mp3"
+      },
+      {
+        "term": "wandern",
+        "gloss": "to hike",
+        "audio": "audio/lo-04-freizeit/u4_v-hobby-wandern.mp3"
+      },
+      {
+        "term": "fotografieren",
+        "gloss": "to take photos",
+        "audio": "audio/lo-04-freizeit/u4_v-hobby-fotografieren.mp3"
+      },
+      {
+        "term": "tanzen",
+        "gloss": "to dance",
+        "audio": "audio/lo-04-freizeit/u4_v-hobby-tanzen.mp3"
+      },
+      {
+        "term": "reisen",
+        "gloss": "to travel",
+        "audio": "audio/lo-04-freizeit/u4_v-hobby-reisen.mp3"
+      },
+      {
+        "term": "malen",
+        "gloss": "to paint",
+        "audio": "audio/lo-04-freizeit/u4_v-hobby-malen.mp3"
+      },
+      {
+        "term": "Gitarre spielen",
+        "gloss": "to play the guitar",
+        "audio": "audio/lo-04-freizeit/u4_v-hobby-gitarre.mp3"
+      },
+      {
+        "term": "spazieren gehen",
+        "gloss": "to go for a walk",
+        "audio": "audio/lo-04-freizeit/u4_v-hobby-spazieren.mp3"
+      }
+    ]
+  }
+}

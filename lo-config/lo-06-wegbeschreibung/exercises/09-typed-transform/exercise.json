@@ -1,0 +1,38 @@
+{
+  "type": "typed-transform",
+  "title": "From Sie to du",
+  "content": {
+    "instructions": "Change the Sie imperative to the du imperative.",
+    "columns": {
+      "prompt": "Sie",
+      "answer": "du"
+    },
+    "rows": [
+      {
+        "prompt": "Gehen Sie!",
+        "answer": "Geh!"
+      },
+      {
+        "prompt": "Nehmen Sie!",
+        "answer": "Nimm!"
+      },
+      {
+        "prompt": "Fahren Sie!",
+        "answer": "Fahr!"
+      },
+      {
+        "prompt": "Kommen Sie mit!",
+        "answer": "Komm mit!"
+      },
+      {
+        "prompt": "Steigen Sie aus!",
+        "answer": "Steig aus!"
+      },
+      {
+        "prompt": "Lesen Sie!",
+        "answer": "Lies!"
+      }
+    ],
+    "footnote": "The du imperative drops -st; e → i verbs keep the vowel change."
+  }
+}

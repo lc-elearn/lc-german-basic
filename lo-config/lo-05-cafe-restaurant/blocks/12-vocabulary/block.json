@@ -1,0 +1,63 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Quantities and tableware",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. After a quantity you use the noun without an article: ein Glas Wasser.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "containers and portions (<em>das Glas, die Tasse, die Flasche, das Stück</em>);",
+        "tableware (<em>der Teller, die Gabel, der Löffel</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "das Glas",
+        "gloss": "glass",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-menge-glas.mp3"
+      },
+      {
+        "term": "die Tasse",
+        "gloss": "cup",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-menge-tasse.mp3"
+      },
+      {
+        "term": "die Flasche",
+        "gloss": "bottle",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-menge-flasche.mp3"
+      },
+      {
+        "term": "das Stück",
+        "gloss": "piece",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-menge-stueck.mp3"
+      },
+      {
+        "term": "die Portion",
+        "gloss": "portion",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-menge-portion.mp3"
+      },
+      {
+        "term": "der Teller",
+        "gloss": "plate",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-menge-teller.mp3"
+      },
+      {
+        "term": "die Gabel",
+        "gloss": "fork",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-menge-gabel.mp3"
+      },
+      {
+        "term": "der Löffel",
+        "gloss": "spoon",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-menge-loeffel.mp3"
+      },
+      {
+        "term": "das Messer",
+        "gloss": "knife",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-menge-messer.mp3"
+      }
+    ]
+  }
+}

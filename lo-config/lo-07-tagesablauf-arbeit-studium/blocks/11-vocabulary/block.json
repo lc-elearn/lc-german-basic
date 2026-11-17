@@ -1,0 +1,73 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Study",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Check the article of each noun.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "university words (<em>das Studium, die Vorlesung, das Seminar, die Prüfung</em>);",
+        "studying (<em>studieren, lernen, der Stundenplan</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "das Studium",
+        "gloss": "studies, degree course",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-studium-studium.mp3"
+      },
+      {
+        "term": "studieren",
+        "gloss": "to study (at university)",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-studium-studieren.mp3"
+      },
+      {
+        "term": "lernen",
+        "gloss": "to learn",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-studium-lernen.mp3"
+      },
+      {
+        "term": "die Vorlesung",
+        "gloss": "lecture",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-studium-vorlesung.mp3"
+      },
+      {
+        "term": "das Seminar",
+        "gloss": "seminar",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-studium-seminar.mp3"
+      },
+      {
+        "term": "die Prüfung",
+        "gloss": "exam",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-studium-pruefung.mp3"
+      },
+      {
+        "term": "der Stundenplan",
+        "gloss": "timetable",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-studium-stundenplan.mp3"
+      },
+      {
+        "term": "die Sprechstunde",
+        "gloss": "office hour",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-studium-sprechstunde.mp3"
+      },
+      {
+        "term": "das Labor",
+        "gloss": "laboratory",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-studium-labor.mp3"
+      },
+      {
+        "term": "die Hausarbeit",
+        "gloss": "essay, paper",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-studium-hausarbeit.mp3"
+      },
+      {
+        "term": "der Abschluss",
+        "gloss": "degree, qualification",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-studium-abschluss.mp3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "type": "tabs",
+  "title": "Möbel und Zimmer – Furniture and rooms",
+  "presentation": "card",
+  "content": {
+    "label": "Möbel und Zimmer – Furniture and rooms",
+    "tabs": [
+      {
+        "label": "Im Möbelhaus",
+        "instructions": "Two friends look for furniture. They use \"du\". Which adjectives do they use, and what ending do they have?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-03-wohnen/u3_c1-im-moebelhaus.mp3",
+            "label": "Listen to the dialogue: Im Möbelhaus"
+          },
+          "transcript": [
+            "<strong>Lukas:</strong> Ich suche einen Tisch und einen Stuhl. <em>I am looking for a table and a chair.</em>",
+            "<strong>Anna Becker:</strong> Hier ist ein großer Tisch. <em>Here is a big table.</em>",
+            "<strong>Lukas:</strong> Der ist zu groß. Ich suche einen kleinen Tisch. <em>That one is too big. I am looking for a small table.</em>",
+            "<strong>Anna Becker:</strong> Und ich suche eine neue Lampe und ein kleines Regal. <em>And I am looking for a new lamp and a small shelf.</em>",
+            "<strong>Lukas:</strong> Hier ist ein schönes Regal! <em>Here is a nice shelf!</em>",
+            "<strong>Anna Becker:</strong> Das ist perfekt. <em>That is perfect.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-03-wohnen/dialogues/07-im-moebelhaus.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Ich suche einen kleinen Tisch.</strong> – I am looking for a small table.</li><li><strong>eine neue Lampe</strong> – a new lamp</li><li><strong>zu groß</strong> – too big</li></ul>"
+        ]
+      },
+      {
+        "label": "Das neue Zimmer",
+        "instructions": "A student describes her new room to a friend. They use \"du\". What does the room have?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-03-wohnen/u3_c2-das-neue-zimmer.mp3",
+            "label": "Listen to the dialogue: Das neue Zimmer"
+          },
+          "transcript": [
+            "<strong>Sophie:</strong> Wie ist dein neues Zimmer, Daniel? <em>What is your new room like, Daniel?</em>",
+            "<strong>Daniel:</strong> Es ist klein, aber hell. Ich habe ein großes Fenster und einen kleinen Balkon. <em>It is small but bright. I have a big window and a small balcony.</em>",
+            "<strong>Sophie:</strong> Und was hast du im Zimmer? <em>And what do you have in the room?</em>",
+            "<strong>Daniel:</strong> Ein Bett, einen Schreibtisch und einen Schrank. <em>A bed, a desk and a wardrobe.</em>",
+            "<strong>Sophie:</strong> Und eine Pflanze? <em>And a plant?</em>",
+            "<strong>Daniel:</strong> Noch nicht, aber ich suche eine grüne Pflanze. <em>Not yet, but I am looking for a green plant.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-03-wohnen/dialogues/08-das-neue-zimmer.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Es ist klein, aber hell.</strong> – It is small but bright.</li><li><strong>ein großes Fenster</strong> – a big window</li><li><strong>eine grüne Pflanze</strong> – a green plant</li></ul>"
+        ]
+      },
+      {
+        "label": "Wohin mit dem Sofa?",
+        "instructions": "Two friends move furniture. Listen for \"an die Wand\" (where to?) and \"an der Wand\" (where is it?). What changes?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-03-wohnen/u3_c3-wohin-mit-dem-sofa.mp3",
+            "label": "Listen to the dialogue: Wohin mit dem Sofa?"
+          },
+          "transcript": [
+            "<strong>Lukas:</strong> Wohin stelle ich das Sofa? <em>Where do I put the sofa?</em>",
+            "<strong>Anna Becker:</strong> Stell das Sofa an die Wand. <em>Put the sofa against the wall.</em>",
+            "<strong>Lukas:</strong> Und die Lampe? <em>And the lamp?</em>",
+            "<strong>Anna Becker:</strong> Stell sie auf den Tisch. <em>Put it on the table.</em>",
+            "<strong>Lukas:</strong> So? Jetzt steht die Lampe auf dem Tisch. <em>Like this? Now the lamp is on the table.</em>",
+            "<strong>Anna Becker:</strong> Perfekt! Und das Sofa steht an der Wand. <em>Perfect! And the sofa is against the wall.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-03-wohnen/dialogues/09-wohin-mit-dem-sofa.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Wohin stelle ich …?</strong> – Where do I put …?</li><li><strong>an die Wand / an der Wand</strong> – against the wall (movement) / against the wall (position)</li><li><strong>auf den Tisch / auf dem Tisch</strong> – onto the table / on the table</li></ul>"
+        ]
+      }
+    ]
+  }
+}

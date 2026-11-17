@@ -1,0 +1,78 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Weather",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Weather sentences start with “es”: es regnet, es schneit.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "weather nouns (<em>die Sonne, der Regen, der Schnee, der Wind</em>);",
+        "weather adjectives (<em>sonnig, warm, kalt, heiß, windig</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "das Wetter",
+        "gloss": "weather",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-wetter.mp3"
+      },
+      {
+        "term": "die Sonne",
+        "gloss": "sun",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-sonne.mp3"
+      },
+      {
+        "term": "der Regen",
+        "gloss": "rain",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-regen.mp3"
+      },
+      {
+        "term": "der Schnee",
+        "gloss": "snow",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-schnee.mp3"
+      },
+      {
+        "term": "der Wind",
+        "gloss": "wind",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-wind.mp3"
+      },
+      {
+        "term": "die Wolke",
+        "gloss": "cloud",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-wolke.mp3"
+      },
+      {
+        "term": "sonnig",
+        "gloss": "sunny",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-sonnig.mp3"
+      },
+      {
+        "term": "warm",
+        "gloss": "warm",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-warm.mp3"
+      },
+      {
+        "term": "kalt",
+        "gloss": "cold",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-kalt.mp3"
+      },
+      {
+        "term": "heiß",
+        "gloss": "hot",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-heiss.mp3"
+      },
+      {
+        "term": "windig",
+        "gloss": "windy",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-windig.mp3"
+      },
+      {
+        "term": "das Grad",
+        "gloss": "degree",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-grad.mp3"
+      }
+    ]
+  }
+}

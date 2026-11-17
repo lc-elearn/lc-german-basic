@@ -1,0 +1,34 @@
+{
+  "type": "inline-choice",
+  "title": "Imperative, prepositions and pronouns",
+  "content": {
+    "instructions": "Choose the correct form for each sentence.",
+    "items": [
+      {
+        "text": "[*Gehen|Geh|Geht] Sie hier links."
+      },
+      {
+        "text": "[*Nimm|Nehm|Nimmt] die Straßenbahn, Lukas!"
+      },
+      {
+        "text": "Die Post ist [*neben der|neben die|neben das] Bank."
+      },
+      {
+        "text": "Wie komme ich [*zum|zur|nach] Bahnhof?"
+      },
+      {
+        "text": "Der Schal ist schön. Ich finde [*ihn|er|sie] schön."
+      },
+      {
+        "text": "Wir fahren [*mit dem|mit der|mit den] Bus."
+      },
+      {
+        "text": "Ich fahre [*nach|zu|in] Berlin."
+      },
+      {
+        "text": "Das Rathaus ist [*gegenüber der|gegenüber die|gegenüber den] Kirche."
+      }
+    ],
+    "footnote": "Imperative: Sie form = infinitive + Sie; du form = stem (nehmen → nimm)."
+  }
+}

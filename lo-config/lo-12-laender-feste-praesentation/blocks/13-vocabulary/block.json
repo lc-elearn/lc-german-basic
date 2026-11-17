@@ -1,0 +1,53 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Linking words",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. These words connect your ideas and make a text easier to read.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "contrast and reason (<em>aber, deshalb, trotzdem</em>);",
+        "adding and concluding (<em>außerdem, zum Beispiel, also</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "aber",
+        "gloss": "but",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-wort-aber.mp3"
+      },
+      {
+        "term": "deshalb",
+        "gloss": "therefore",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-wort-deshalb.mp3"
+      },
+      {
+        "term": "außerdem",
+        "gloss": "besides",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-wort-ausserdem.mp3"
+      },
+      {
+        "term": "trotzdem",
+        "gloss": "nevertheless",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-wort-trotzdem.mp3"
+      },
+      {
+        "term": "zum Beispiel",
+        "gloss": "for example",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-wort-beispiel.mp3"
+      },
+      {
+        "term": "einerseits … andererseits",
+        "gloss": "on the one hand … on the other",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-wort-einerseits.mp3"
+      },
+      {
+        "term": "also",
+        "gloss": "so, therefore",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-wort-also.mp3"
+      }
+    ]
+  }
+}

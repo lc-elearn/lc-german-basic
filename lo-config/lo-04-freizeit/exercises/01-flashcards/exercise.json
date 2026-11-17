@@ -1,0 +1,59 @@
+{
+  "type": "flashcards",
+  "title": "Flashcards: hobbies and sport",
+  "content": {
+    "instructions": "Flip each card, listen and say the word aloud. Mark the ones you know.",
+    "cards": [
+      {
+        "target": "lesen",
+        "native": "to read",
+        "audio": "audio/lo-04-freizeit/u4_v-hobby-lesen.mp3"
+      },
+      {
+        "target": "kochen",
+        "native": "to cook",
+        "audio": "audio/lo-04-freizeit/u4_v-hobby-kochen.mp3"
+      },
+      {
+        "target": "wandern",
+        "native": "to hike",
+        "audio": "audio/lo-04-freizeit/u4_v-hobby-wandern.mp3"
+      },
+      {
+        "target": "tanzen",
+        "native": "to dance",
+        "audio": "audio/lo-04-freizeit/u4_v-hobby-tanzen.mp3"
+      },
+      {
+        "target": "Fußball spielen",
+        "native": "to play football",
+        "audio": "audio/lo-04-freizeit/u4_v-sport-fussball.mp3"
+      },
+      {
+        "target": "schwimmen",
+        "native": "to swim",
+        "audio": "audio/lo-04-freizeit/u4_v-sport-schwimmen.mp3"
+      },
+      {
+        "target": "klettern",
+        "native": "to climb",
+        "audio": "audio/lo-04-freizeit/u4_v-sport-klettern.mp3"
+      },
+      {
+        "target": "das Kino",
+        "native": "cinema",
+        "audio": "audio/lo-04-freizeit/u4_v-aus-kino.mp3"
+      },
+      {
+        "target": "das Konzert",
+        "native": "concert",
+        "audio": "audio/lo-04-freizeit/u4_v-aus-konzert.mp3"
+      },
+      {
+        "target": "die Einladung",
+        "native": "invitation",
+        "audio": "audio/lo-04-freizeit/u4_v-aus-einladung.mp3"
+      }
+    ]
+  }
+}

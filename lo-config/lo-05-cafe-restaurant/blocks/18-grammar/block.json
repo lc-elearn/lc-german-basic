@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "title": "möchten and Ich hätte gern",
+  "presentation": "card",
+  "content": {
+    "instructions": "“Ich möchte …” and “Ich hätte gern …” are the polite ways to ask for something. “möchten” is a modal verb: the other verb goes to the end, in the infinitive (“Ich möchte einen Tisch reservieren”). In a shop or café, without a second verb, you can also say “Ich nehme …” (\"I will have\").",
+    "text": [
+      "<table><caption>möchten</caption><thead><tr><th></th><th>möchten</th></tr></thead><tbody><tr><th>ich</th><td>möchte</td></tr><tr><th>du</th><td>möchtest</td></tr><tr><th>er / sie / es</th><td>möchte</td></tr><tr><th>wir</th><td>möchten</td></tr><tr><th>ihr</th><td>möchtet</td></tr><tr><th>sie / Sie</th><td>möchten</td></tr></tbody></table>",
+      "<span data-audio-player=\"audio/lo-05-cafe-restaurant/u5_g-moechten.mp3\" data-audio-label=\"Listen to möchten\"></span>",
+      "Ich möchte einen Tisch reservieren. Ich hätte gern einen Kaffee."
+    ]
+  }
+}

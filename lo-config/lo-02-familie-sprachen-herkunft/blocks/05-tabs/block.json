@@ -1,0 +1,83 @@
+{
+  "type": "tabs",
+  "title": "Datum und Geburtstag – Dates",
+  "presentation": "card",
+  "content": {
+    "label": "Datum und Geburtstag – Dates",
+    "tabs": [
+      {
+        "label": "Im Sekretariat",
+        "instructions": "A student asks the office about the date. Listen for the date. Which ending do ordinal numbers get after \"am\"?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-02-familie-sprachen-herkunft/u2_c1-im-sekretariat.mp3",
+            "label": "Listen to the dialogue: Im Sekretariat"
+          },
+          "transcript": [
+            "<strong>Anna Becker:</strong> Entschuldigung, Frau Schneider. Welches Datum ist heute? <em>Excuse me, Mrs Schneider. What is the date today?</em>",
+            "<strong>Frau Schneider:</strong> Heute ist der dritte Oktober. <em>Today is the third of October.</em>",
+            "<strong>Anna Becker:</strong> Und wann beginnt der Kurs? <em>And when does the course start?</em>",
+            "<strong>Frau Schneider:</strong> Am zehnten Oktober. <em>On the tenth of October.</em>",
+            "<strong>Anna Becker:</strong> Danke, Frau Schneider! <em>Thank you, Mrs Schneider!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-02-familie-sprachen-herkunft/dialogues/07-im-sekretariat.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Welches Datum ist heute?</strong> – What is the date today?</li><li><strong>Heute ist der dritte Oktober.</strong> – Today is 3 October.</li><li><strong>am zehnten Oktober</strong> – on 10 October</li></ul>"
+        ]
+      },
+      {
+        "label": "Bei der Anmeldung",
+        "instructions": "A new arrival fills in a form at the registration desk. Listen for the place, the date and the year.",
+        "media": {
+          "audio": {
+            "src": "audio/lo-02-familie-sprachen-herkunft/u2_c2-bei-der-anmeldung.mp3",
+            "label": "Listen to the dialogue: Bei der Anmeldung"
+          },
+          "transcript": [
+            "<strong>Frau Schneider:</strong> Wo und wann sind Sie geboren, Herr Vogel? <em>Where and when were you born, Mr Vogel?</em>",
+            "<strong>Herr Vogel:</strong> Ich bin in Graz geboren, am sechsten Juli 1981. <em>I was born in Graz on 6 July 1981.</em>",
+            "<strong>Frau Schneider:</strong> Danke. Und wo wohnen Sie jetzt? <em>Thank you. And where do you live now?</em>",
+            "<strong>Herr Vogel:</strong> Jetzt wohne ich in Berlin. <em>Now I live in Berlin.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-02-familie-sprachen-herkunft/dialogues/08-bei-der-anmeldung.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Wo sind Sie geboren?</strong> – Where were you born?</li><li><strong>Ich bin in … geboren.</strong> – I was born in …</li><li><strong>am sechsten Juli 1981</strong> – on 6 July 1981</li></ul>"
+        ]
+      },
+      {
+        "label": "Geburtstag",
+        "instructions": "Two friends talk about birthdays. Notice the informal \"du\".",
+        "media": {
+          "audio": {
+            "src": "audio/lo-02-familie-sprachen-herkunft/u2_c3-geburtstag.mp3",
+            "label": "Listen to the dialogue: Geburtstag"
+          },
+          "transcript": [
+            "<strong>Elif:</strong> Wann hast du Geburtstag, Marco? <em>When is your birthday, Marco?</em>",
+            "<strong>Marco:</strong> Am vierzehnten Februar. Und du? <em>On 14 February. And you?</em>",
+            "<strong>Elif:</strong> Ich habe am ersten März Geburtstag. <em>My birthday is on 1 March.</em>",
+            "<strong>Marco:</strong> Dann feiern wir bald zusammen! <em>Then we will celebrate together soon!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-02-familie-sprachen-herkunft/dialogues/09-geburtstag.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Wann hast du Geburtstag?</strong> – When is your birthday? (informal)</li><li><strong>am vierzehnten Februar</strong> – on 14 February</li><li><strong>Ich habe am … Geburtstag.</strong> – My birthday is on …</li></ul>"
+        ]
+      }
+    ]
+  }
+}

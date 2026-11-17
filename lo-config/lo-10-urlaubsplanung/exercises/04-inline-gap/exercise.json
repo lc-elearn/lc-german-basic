@@ -1,0 +1,27 @@
+{
+  "type": "inline-gap",
+  "title": "Comparing",
+  "content": {
+    "instructions": "Type the comparative. The basic form is shown as a hint.",
+    "items": [
+      {
+        "text": "Wien ist [wärmer::warm] als Berlin."
+      },
+      {
+        "text": "Der Zug ist [langsamer::langsam] als das Flugzeug."
+      },
+      {
+        "text": "Das Hotel ist [teurer::teuer] als die Pension."
+      },
+      {
+        "text": "Das Apartment ist [billiger::billig] und [besser::gut]."
+      },
+      {
+        "text": "Im Norden ist es [kälter::kalt]."
+      },
+      {
+        "text": "Ich fahre [lieber::gern] im Mai."
+      }
+    ]
+  }
+}

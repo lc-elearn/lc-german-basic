@@ -1,0 +1,27 @@
+{
+  "type": "inline-gap",
+  "title": "The dative pronouns",
+  "content": {
+    "instructions": "Type the dative pronoun. The nominative is shown as a hint.",
+    "items": [
+      {
+        "text": "Können Sie [mir::ich] helfen?"
+      },
+      {
+        "text": "Das Zimmer gefällt [uns::wir]."
+      },
+      {
+        "text": "Ich schicke [Ihnen::Sie] eine E-Mail."
+      },
+      {
+        "text": "Wir danken [dir::du]."
+      },
+      {
+        "text": "Er hilft [ihr::sie]."
+      },
+      {
+        "text": "Die Tasche gehört [ihm::er]."
+      }
+    ]
+  }
+}

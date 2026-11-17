@@ -1,0 +1,34 @@
+{
+  "type": "inline-choice",
+  "title": "gefallen, mögen and man",
+  "content": {
+    "instructions": "Choose the correct form for each sentence.",
+    "items": [
+      {
+        "text": "Das Hotel [*gefällt|gefallen|gefallt] mir."
+      },
+      {
+        "text": "Die Bilder [*gefallen|gefällt] mir."
+      },
+      {
+        "text": "Wie gefällt [*dir|du|dich] die Stadt?"
+      },
+      {
+        "text": "Ich [*mag|mage|mögen] Jazz."
+      },
+      {
+        "text": "In Österreich [*sagt|sagen|sagst] man Semmel."
+      },
+      {
+        "text": "Ich denke, dass es wichtig [*ist|sind|bist]."
+      },
+      {
+        "text": "Das Rad ist schnell. [*Deshalb|Trotzdem] fahre ich oft damit."
+      },
+      {
+        "text": "Ich [*finde|findet|finden] die Stadt interessant."
+      }
+    ],
+    "footnote": "gefallen: the thing is the subject and you are in the dative."
+  }
+}

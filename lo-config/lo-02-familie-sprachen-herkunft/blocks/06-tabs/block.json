@@ -1,0 +1,84 @@
+{
+  "type": "tabs",
+  "title": "Familie – Family",
+  "presentation": "card",
+  "content": {
+    "label": "Familie – Family",
+    "tabs": [
+      {
+        "label": "Auf dem Gartenfest",
+        "instructions": "Two colleagues chat at a faculty garden party. They use \"Sie\". What does \"keine Geschwister\" mean?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-02-familie-sprachen-herkunft/u2_d1-gartenfest.mp3",
+            "label": "Listen to the dialogue: Auf dem Gartenfest"
+          },
+          "transcript": [
+            "<strong>Frau Keller:</strong> Haben Sie Kinder, Frau Huber? <em>Do you have children, Mrs Huber?</em>",
+            "<strong>Katrin Huber:</strong> Ja, wir haben einen Sohn. Mein Mann heißt Stefan. <em>Yes, we have a son. My husband is called Stefan.</em>",
+            "<strong>Frau Keller:</strong> Und haben Sie Geschwister? <em>And do you have brothers or sisters?</em>",
+            "<strong>Katrin Huber:</strong> Nein, ich habe keine Geschwister. Ich bin Einzelkind. <em>No, I have no brothers or sisters. I am an only child.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-02-familie-sprachen-herkunft/dialogues/10-auf-dem-gartenfest.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Haben Sie Kinder?</strong> – Do you have children?</li><li><strong>Wir haben einen Sohn.</strong> – We have a son.</li><li><strong>Ich habe keine Geschwister.</strong> – I have no siblings.</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Zug nach London",
+        "instructions": "Two colleagues on a train. Peter has a big family. Count his brothers and sisters.",
+        "media": {
+          "audio": {
+            "src": "audio/lo-02-familie-sprachen-herkunft/u2_d2-im-zug.mp3",
+            "label": "Listen to the dialogue: Im Zug nach London"
+          },
+          "transcript": [
+            "<strong>Frau Keller:</strong> Haben Sie Geschwister, Herr Lange? <em>Do you have brothers and sisters, Mr Lange?</em>",
+            "<strong>Peter Lange:</strong> Ja, ich habe zwei Brüder und zwei Schwestern. <em>Yes, I have two brothers and two sisters.</em>",
+            "<strong>Frau Keller:</strong> Das ist eine große Familie! <em>That is a big family!</em>",
+            "<strong>Peter Lange:</strong> Ja! Und Sie? <em>Yes! And you?</em>",
+            "<strong>Frau Keller:</strong> Ich habe nur einen Bruder. <em>I only have one brother.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-02-familie-sprachen-herkunft/dialogues/11-im-zug-nach-london.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Haben Sie Geschwister?</strong> – Do you have siblings?</li><li><strong>zwei Brüder und zwei Schwestern</strong> – two brothers and two sisters</li><li><strong>nur einen Bruder</strong> – only one brother</li></ul>"
+        ]
+      },
+      {
+        "label": "Das Foto",
+        "instructions": "Alex shows Lena a photo of the family on his phone. Listen for \"mein\", \"meine\" and the words \"älter\" and \"jünger\".",
+        "media": {
+          "audio": {
+            "src": "audio/lo-02-familie-sprachen-herkunft/u2_d3-das-foto.mp3",
+            "label": "Listen to the dialogue: Das Foto"
+          },
+          "transcript": [
+            "<strong>Alex:</strong> Das ist meine Familie. Das sind mein Vater und meine Mutter. <em>This is my family. These are my father and my mother.</em>",
+            "<strong>Lena:</strong> Und wer ist das? <em>And who is that?</em>",
+            "<strong>Alex:</strong> Das ist mein Bruder Ben. Ich habe einen älteren Bruder und eine jüngere Schwester. <em>That is my brother Ben. I have an older brother and a younger sister.</em>",
+            "<strong>Lena:</strong> Wie alt ist dein Bruder? <em>How old is your brother?</em>",
+            "<strong>Alex:</strong> Er ist fünfundzwanzig. <em>He is twenty-five.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-02-familie-sprachen-herkunft/dialogues/12-das-foto.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Das ist meine Familie.</strong> – This is my family.</li><li><strong>einen älteren Bruder</strong> – an older brother</li><li><strong>eine jüngere Schwester</strong> – a younger sister</li></ul>"
+        ]
+      }
+    ]
+  }
+}

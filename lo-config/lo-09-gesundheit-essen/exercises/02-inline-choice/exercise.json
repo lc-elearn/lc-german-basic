@@ -1,0 +1,34 @@
+{
+  "type": "inline-choice",
+  "title": "Modals, seit and zu",
+  "content": {
+    "instructions": "Choose the correct form for each sentence.",
+    "items": [
+      {
+        "text": "Ich habe [*seit|vor|für] drei Tagen Fieber."
+      },
+      {
+        "text": "Seit [*einem|einen|ein] Jahr esse ich kein Fleisch."
+      },
+      {
+        "text": "Ich [*kann|kannst|können] heute nicht kommen."
+      },
+      {
+        "text": "Wir [*müssen|muss|musst] zum Arzt gehen."
+      },
+      {
+        "text": "Es ist wichtig, genug [*zu schlafen|schlafen zu|schlafen]."
+      },
+      {
+        "text": "Hast du Lust, [*mitzukommen|zu mitkommen|mitkommen zu]?"
+      },
+      {
+        "text": "Ich muss früh [*aufstehen|zu aufstehen|aufzustehen]."
+      },
+      {
+        "text": "Mein Kopf [*tut|tun|tust] weh."
+      }
+    ],
+    "footnote": "After a modal verb there is no zu."
+  }
+}

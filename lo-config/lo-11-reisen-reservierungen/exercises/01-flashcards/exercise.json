@@ -1,0 +1,59 @@
+{
+  "type": "flashcards",
+  "title": "Flashcards: travel",
+  "content": {
+    "instructions": "Flip each card, listen and say the word aloud. Mark the ones you know.",
+    "cards": [
+      {
+        "target": "das Gleis",
+        "native": "platform, track",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-bahn-gleis.mp3"
+      },
+      {
+        "target": "die Abfahrt",
+        "native": "departure",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-bahn-abfahrt.mp3"
+      },
+      {
+        "target": "der Anschluss",
+        "native": "connection",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-bahn-anschluss.mp3"
+      },
+      {
+        "target": "hin und zurück",
+        "native": "return (ticket)",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-bahn-hin-zurueck.mp3"
+      },
+      {
+        "target": "die Bordkarte",
+        "native": "boarding pass",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-flug-bordkarte.mp3"
+      },
+      {
+        "target": "der Ausweis",
+        "native": "ID card",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-flug-ausweis.mp3"
+      },
+      {
+        "target": "der Schlüssel",
+        "native": "key",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-unterkunft-schluessel.mp3"
+      },
+      {
+        "target": "das Zelt",
+        "native": "tent",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-unterkunft-zelt.mp3"
+      },
+      {
+        "target": "kaputt",
+        "native": "broken",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-problem-kaputt.mp3"
+      },
+      {
+        "target": "mieten",
+        "native": "to rent",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-miete-mieten.mp3"
+      }
+    ]
+  }
+}

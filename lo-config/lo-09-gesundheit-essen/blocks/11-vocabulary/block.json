@@ -1,0 +1,78 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Quantities and shopping",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. After a quantity word there is no article and no plural: ein Kilo Äpfel.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "quantities (<em>das Kilo, das Gramm, der Liter, die Packung</em>);",
+        "shopping (<em>der Markt, die Kasse, die Tüte, frisch</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "das Kilo",
+        "gloss": "kilo",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-menge-kilo.mp3"
+      },
+      {
+        "term": "das Gramm",
+        "gloss": "gram",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-menge-gramm.mp3"
+      },
+      {
+        "term": "der Liter",
+        "gloss": "litre",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-menge-liter.mp3"
+      },
+      {
+        "term": "die Packung",
+        "gloss": "packet",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-menge-packung.mp3"
+      },
+      {
+        "term": "die Dose",
+        "gloss": "tin, can",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-menge-dose.mp3"
+      },
+      {
+        "term": "der Markt",
+        "gloss": "market",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-menge-markt.mp3"
+      },
+      {
+        "term": "der Supermarkt",
+        "gloss": "supermarket",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-menge-supermarkt.mp3"
+      },
+      {
+        "term": "die Kasse",
+        "gloss": "checkout",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-menge-kasse.mp3"
+      },
+      {
+        "term": "die Tüte",
+        "gloss": "bag",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-menge-tuete.mp3"
+      },
+      {
+        "term": "das Angebot",
+        "gloss": "special offer",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-menge-angebot.mp3"
+      },
+      {
+        "term": "frisch",
+        "gloss": "fresh",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-menge-frisch.mp3"
+      },
+      {
+        "term": "Bio",
+        "gloss": "organic",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-menge-bio.mp3"
+      }
+    ]
+  }
+}

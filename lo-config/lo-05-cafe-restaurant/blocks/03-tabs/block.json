@@ -1,0 +1,74 @@
+{
+  "type": "tabs",
+  "title": "Im Café – Ordering a drink and a snack",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Im Café – Ordering a drink and a snack",
+    "tabs": [
+      {
+        "label": "Am Tresen",
+        "instructions": "A visitor orders at a café counter. They use \"Sie\". What does he have with the coffee, and what does it cost?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-05-cafe-restaurant/u5_a1-am-tresen.mp3",
+            "label": "Listen to the dialogue: Am Tresen"
+          },
+          "transcript": [
+            "<strong>Frau Weber:</strong> Guten Morgen! Was möchten Sie? <em>Good morning! What would you like?</em>",
+            "<strong>Herr Vogel:</strong> Guten Morgen. Ich hätte gern einen Kaffee, bitte. <em>Good morning. I would like a coffee, please.</em>",
+            "<strong>Frau Weber:</strong> Mit Milch und Zucker? <em>With milk and sugar?</em>",
+            "<strong>Herr Vogel:</strong> Mit Milch, ohne Zucker. Und ein Stück Apfelkuchen. <em>With milk, without sugar. And a piece of apple cake.</em>",
+            "<strong>Frau Weber:</strong> Gern. Das macht vier Euro fünfzig. <em>Certainly. That comes to four euros fifty.</em>",
+            "<strong>Herr Vogel:</strong> Bitte schön. <em>Here you are.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Ich hätte gern …</strong> – I would like … (polite)</li><li><strong>mit / ohne</strong> – with / without</li><li><strong>Das macht vier Euro fünfzig.</strong> – That is €4.50.</li></ul>"
+        ]
+      },
+      {
+        "label": "Mit Freunden",
+        "instructions": "Alex and Lena order breakfast together in a Berlin café. They use \"du\". Who pays this time?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-05-cafe-restaurant/u5_a2-mit-freunden.mp3",
+            "label": "Listen to the dialogue: Mit Freunden"
+          },
+          "transcript": [
+            "<strong>Lena:</strong> Was nimmst du, Alex? <em>What are you having, Alex?</em>",
+            "<strong>Alex:</strong> Ich nehme einen Tee und ein Käsebrötchen. Und du? <em>I will have a tea and a cheese roll. And you?</em>",
+            "<strong>Lena:</strong> Ich nehme einen Kaffee und ein Croissant. <em>I will have a coffee and a croissant.</em>",
+            "<strong>Alex:</strong> Bestellen wir zusammen? <em>Shall we order together?</em>",
+            "<strong>Lena:</strong> Ja, gern. Ich zahle, du zahlst das nächste Mal. <em>Yes, gladly. I will pay, you pay next time.</em>",
+            "<strong>Alex:</strong> Abgemacht! <em>Deal!</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Was nimmst du?</strong> – What are you having? (informal)</li><li><strong>ein Käsebrötchen</strong> – a cheese roll</li><li><strong>das nächste Mal</strong> – next time</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Café des Sprachenzentrums",
+        "instructions": "A tutor and a student order drinks. They use \"Sie\". What does Marco drink?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-05-cafe-restaurant/u5_a3-im-sprachenzentrum.mp3",
+            "label": "Listen to the dialogue: Im Café des Sprachenzentrums"
+          },
+          "transcript": [
+            "<strong>Frau Keller:</strong> Möchten Sie auch etwas trinken, Marco? <em>Would you like something to drink too, Marco?</em>",
+            "<strong>Marco:</strong> Ja, gern. Haben Sie Tee? <em>Yes, please. Do you have tea?</em>",
+            "<strong>Frau Weber:</strong> Ja, wir haben schwarzen und grünen Tee. <em>Yes, we have black and green tea.</em>",
+            "<strong>Marco:</strong> Dann bitte einen grünen Tee. <em>Then a green tea, please.</em>",
+            "<strong>Frau Keller:</strong> Und ich nehme einen Kaffee. <em>And I will have a coffee.</em>",
+            "<strong>Frau Weber:</strong> Kommt sofort. <em>Coming right up.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>etwas trinken</strong> – something to drink</li><li><strong>Haben Sie Tee?</strong> – Do you have tea?</li><li><strong>Kommt sofort.</strong> – Right away.</li></ul>"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "Languages, jobs, dates and family look a little different in the German-speaking world. This section explains the conventions, and the map shows the languages of Switzerland."
+    ],
+    "image": {
+      "src": "images/lo-02-familie-sprachen-herkunft/sections/culture.webp",
+      "alt": ""
+    }
+  }
+}

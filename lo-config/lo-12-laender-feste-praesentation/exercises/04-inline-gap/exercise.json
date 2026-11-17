@@ -1,0 +1,27 @@
+{
+  "type": "inline-gap",
+  "title": "A short presentation",
+  "content": {
+    "instructions": "Complete the sentences of a short presentation. Type the missing word.",
+    "items": [
+      {
+        "text": "Ich möchte heute [über::] meine Heimatstadt sprechen."
+      },
+      {
+        "text": "[Zuerst::] erzähle ich etwas über die Stadt."
+      },
+      {
+        "text": "Dann spreche ich [über::] das Essen."
+      },
+      {
+        "text": "Zum [Schluss::] spreche ich über die Universität."
+      },
+      {
+        "text": "Vielen Dank für Ihre [Aufmerksamkeit::]."
+      },
+      {
+        "text": "Gibt es [Fragen::]?"
+      }
+    ]
+  }
+}

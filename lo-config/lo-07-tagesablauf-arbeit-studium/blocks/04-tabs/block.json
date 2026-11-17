@@ -1,0 +1,70 @@
+{
+  "type": "tabs",
+  "title": "Mein Tag – My day",
+  "presentation": "card",
+  "content": {
+    "label": "Mein Tag – My day",
+    "tabs": [
+      {
+        "label": "In der Teeküche",
+        "instructions": "Alex and Max chat in the office kitchen about their mornings and Alex's first weeks of work. They use \"du\". Why does Alex get up early?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-07-tagesablauf-arbeit-studium/u7_b1-in-der-teekueche.mp3",
+            "label": "Listen to the dialogue: In der Teeküche"
+          },
+          "transcript": [
+            "<strong>Alex:</strong> Wann stehst du normalerweise auf, Max? <em>When do you normally get up, Max?</em>",
+            "<strong>Max:</strong> Um sieben. Ich frühstücke schnell und fahre dann zur Uni. <em>At seven. I have a quick breakfast and then go to university.</em>",
+            "<strong>Alex:</strong> Und wann kommst du nach Hause? <em>And when do you get home?</em>",
+            "<strong>Max:</strong> Meistens um sechs. Und du? <em>Usually at six. And you?</em>",
+            "<strong>Alex:</strong> Ich stehe schon um sechs auf, weil ich im Labor früh anfange. <em>I get up at six, because I start early in the lab.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>normalerweise</strong> – normally</li><li><strong>meistens</strong> – mostly</li><li><strong>weil ich früh anfange</strong> – because I start early</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Labor",
+        "instructions": "Two colleagues talk about their working hours. They use \"Sie\". When does Mr Lange stop on Friday?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-07-tagesablauf-arbeit-studium/u7_b2-im-labor.mp3",
+            "label": "Listen to the dialogue: Im Labor"
+          },
+          "transcript": [
+            "<strong>Katrin Huber:</strong> Herr Lange, wann fängt Ihr Arbeitstag an? <em>Mr Lange, when does your working day begin?</em>",
+            "<strong>Peter Lange:</strong> Um acht. Ich arbeite bis siebzehn Uhr, mit einer Mittagspause von zwölf bis dreizehn Uhr. <em>At eight. I work until five p.m., with a lunch break from twelve to one.</em>",
+            "<strong>Katrin Huber:</strong> Und am Freitag? <em>And on Friday?</em>",
+            "<strong>Peter Lange:</strong> Am Freitag mache ich schon um fünfzehn Uhr Feierabend. <em>On Friday I finish work at three p.m.</em>",
+            "<strong>Katrin Huber:</strong> Das ist ein guter Plan! <em>That is a good plan!</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>der Arbeitstag</strong> – working day</li><li><strong>die Mittagspause</strong> – lunch break</li><li><strong>Feierabend machen</strong> – to finish work for the day</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Zug",
+        "instructions": "Two colleagues talk about their commute. They use \"Sie\". When does Mrs Keller get home?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-07-tagesablauf-arbeit-studium/u7_b3-im-zug.mp3",
+            "label": "Listen to the dialogue: Im Zug"
+          },
+          "transcript": [
+            "<strong>Herr Vogel:</strong> Fahren Sie jeden Tag mit dem Zug, Frau Keller? <em>Do you take the train every day, Mrs Keller?</em>",
+            "<strong>Frau Keller:</strong> Ja, ich fahre um sieben ab und bin um acht im Büro. <em>Yes, I leave at seven and am in the office at eight.</em>",
+            "<strong>Herr Vogel:</strong> Und abends? <em>And in the evening?</em>",
+            "<strong>Frau Keller:</strong> Ich komme gegen halb sieben nach Hause. <em>I get home around half past six.</em>",
+            "<strong>Herr Vogel:</strong> Das ist ein langer Tag. <em>That is a long day.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>gegen halb sieben</strong> – around half past six</li><li><strong>abfahren → ich fahre ab</strong> – to leave, to depart</li><li><strong>abends</strong> – in the evenings</li></ul>"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Useful questions",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Learn these as whole phrases.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "polite questions (<em>Wissen Sie, …? Können Sie mir sagen, …?</em>);",
+        "getting information (<em>Ist hier noch frei? Wo ist das Gleis?</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "Wissen Sie, wann der Zug fährt?",
+        "gloss": "Do you know when the train leaves?",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-frage-wissen-sie.mp3"
+      },
+      {
+        "term": "Können Sie mir sagen, wo …?",
+        "gloss": "Can you tell me where …?",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-frage-sagen.mp3"
+      },
+      {
+        "term": "Ist hier noch frei?",
+        "gloss": "Is this seat free?",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-frage-frei.mp3"
+      },
+      {
+        "term": "Von welchem Gleis fährt der Zug?",
+        "gloss": "From which platform does the train leave?",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-frage-welchem.mp3"
+      },
+      {
+        "term": "Muss ich umsteigen?",
+        "gloss": "Do I have to change?",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-frage-umsteigen.mp3"
+      },
+      {
+        "term": "Wie lange dauert die Fahrt?",
+        "gloss": "How long does the journey take?",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-frage-dauert.mp3"
+      }
+    ]
+  }
+}

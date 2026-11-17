@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Indirect questions",
+  "presentation": "card",
+  "content": {
+    "instructions": "To ask politely, put the real question inside “Können Sie mir sagen, …?” or “Wissen Sie, …?” In the inner question the verb goes to the end. A yes/no question becomes a clause with “ob”. The inner clause is separated by a comma.",
+    "text": [
+      "<table><caption>Direct and indirect questions</caption><thead><tr><th>Listen</th><th>Direct</th><th>Indirect</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-indirekt-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Wo ist der Bahnsteig?</td><td>Können Sie mir sagen, wo der Bahnsteig <strong>ist</strong>?</td></tr><tr><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-indirekt-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Wann fährt der Zug?</td><td>Wissen Sie, wann der Zug <strong>fährt</strong>?</td></tr><tr><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-indirekt-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Hat der Zug Verspätung?</td><td>Wissen Sie, ob der Zug Verspätung <strong>hat</strong>?</td></tr></tbody></table>"
+    ]
+  }
+}

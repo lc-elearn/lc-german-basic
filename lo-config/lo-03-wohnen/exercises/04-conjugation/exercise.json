@@ -1,0 +1,36 @@
+{
+  "type": "conjugation",
+  "title": "Conjugation: wohnen",
+  "content": {
+    "instructions": "Write the correct form of wohnen.",
+    "verb": "wohnen",
+    "tense": "Präsens",
+    "answerMode": "typed",
+    "rows": [
+      {
+        "person": "ich",
+        "answer": "wohne"
+      },
+      {
+        "person": "du",
+        "answer": "wohnst"
+      },
+      {
+        "person": "er / sie / es",
+        "answer": "wohnt"
+      },
+      {
+        "person": "wir",
+        "answer": "wohnen"
+      },
+      {
+        "person": "ihr",
+        "answer": "wohnt"
+      },
+      {
+        "person": "sie / Sie",
+        "answer": "wohnen"
+      }
+    ]
+  }
+}

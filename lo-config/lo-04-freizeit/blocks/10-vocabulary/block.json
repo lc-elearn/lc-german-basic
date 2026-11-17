@@ -1,0 +1,73 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Going out",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Check the article of each noun.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "places and events (<em>das Kino, das Konzert, das Museum</em>);",
+        "inviting (<em>die Einladung, die Karte</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "das Kino",
+        "gloss": "cinema",
+        "audio": "audio/lo-04-freizeit/u4_v-aus-kino.mp3"
+      },
+      {
+        "term": "das Theater",
+        "gloss": "theatre",
+        "audio": "audio/lo-04-freizeit/u4_v-aus-theater.mp3"
+      },
+      {
+        "term": "das Konzert",
+        "gloss": "concert",
+        "audio": "audio/lo-04-freizeit/u4_v-aus-konzert.mp3"
+      },
+      {
+        "term": "das Museum",
+        "gloss": "museum",
+        "audio": "audio/lo-04-freizeit/u4_v-aus-museum.mp3"
+      },
+      {
+        "term": "die Ausstellung",
+        "gloss": "exhibition",
+        "audio": "audio/lo-04-freizeit/u4_v-aus-ausstellung.mp3"
+      },
+      {
+        "term": "der Film",
+        "gloss": "film",
+        "audio": "audio/lo-04-freizeit/u4_v-aus-film.mp3"
+      },
+      {
+        "term": "die Karte",
+        "gloss": "ticket",
+        "audio": "audio/lo-04-freizeit/u4_v-aus-karte.mp3"
+      },
+      {
+        "term": "die Kneipe",
+        "gloss": "pub",
+        "audio": "audio/lo-04-freizeit/u4_v-aus-kneipe.mp3"
+      },
+      {
+        "term": "der Park",
+        "gloss": "park",
+        "audio": "audio/lo-04-freizeit/u4_v-aus-park.mp3"
+      },
+      {
+        "term": "das Fest",
+        "gloss": "party, festival",
+        "audio": "audio/lo-04-freizeit/u4_v-aus-fest.mp3"
+      },
+      {
+        "term": "die Einladung",
+        "gloss": "invitation",
+        "audio": "audio/lo-04-freizeit/u4_v-aus-einladung.mp3"
+      }
+    ]
+  }
+}

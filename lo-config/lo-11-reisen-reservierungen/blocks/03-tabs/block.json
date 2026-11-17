@@ -1,0 +1,73 @@
+{
+  "type": "tabs",
+  "title": "Am Bahnhof – Tickets and platforms",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Am Bahnhof – Tickets and platforms",
+    "tabs": [
+      {
+        "label": "Am Schalter",
+        "instructions": "A traveller buys a return ticket. They use \"Sie\". Which seat does he reserve?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-11-reisen-reservierungen/u11_a1-am-schalter.mp3",
+            "label": "Listen to the dialogue: Am Schalter"
+          },
+          "transcript": [
+            "<strong>Frau Weber:</strong> Guten Tag. Was kann ich für Sie tun? <em>Hello. What can I do for you?</em>",
+            "<strong>Herr Vogel:</strong> Eine Fahrkarte nach Hamburg, bitte. <em>A ticket to Hamburg, please.</em>",
+            "<strong>Frau Weber:</strong> Einfach oder hin und zurück? <em>Single or return?</em>",
+            "<strong>Herr Vogel:</strong> Hin und zurück, zweite Klasse. Ich fahre am Freitagmorgen und komme am Sonntag zurück. <em>Return, second class. I leave on Friday morning and come back on Sunday.</em>",
+            "<strong>Frau Weber:</strong> Das macht neunundachtzig Euro. Möchten Sie einen Sitzplatz reservieren? <em>That is €89. Would you like to reserve a seat?</em>",
+            "<strong>Herr Vogel:</strong> Ja, bitte, am Fenster. <em>Yes, please, by the window.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>einfach / hin und zurück</strong> – single / return</li><li><strong>zweite Klasse</strong> – second class</li><li><strong>einen Sitzplatz reservieren</strong> – to reserve a seat</li></ul>"
+        ]
+      },
+      {
+        "label": "Am Automaten",
+        "instructions": "Two friends use a ticket machine. They use \"du\". Which platform do they need?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-11-reisen-reservierungen/u11_a2-am-automaten.mp3",
+            "label": "Listen to the dialogue: Am Automaten"
+          },
+          "transcript": [
+            "<strong>Lukas:</strong> Wie funktioniert der Automat? <em>How does the machine work?</em>",
+            "<strong>Anna Becker:</strong> Wähle zuerst das Ziel und dann den Tag. <em>First choose the destination and then the day.</em>",
+            "<strong>Lukas:</strong> Und die Personen? <em>And the number of people?</em>",
+            "<strong>Anna Becker:</strong> Zwei. Dann drückst du hier und bezahlst mit Karte. <em>Two. Then you press here and pay by card.</em>",
+            "<strong>Lukas:</strong> Fertig! Wo ist das Gleis? <em>Done! Where is the platform?</em>",
+            "<strong>Anna Becker:</strong> Auf der Fahrkarte steht Gleis 4. <em>The ticket says platform 4.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>der Automat</strong> – ticket machine</li><li><strong>Wähle zuerst das Ziel.</strong> – Choose the destination first. (du imperative)</li><li><strong>das Gleis</strong> – platform, track</li></ul>"
+        ]
+      },
+      {
+        "label": "Auf dem Bahnsteig",
+        "instructions": "A passenger asks which platform his train leaves from. They use \"Sie\". Where does he change trains?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-11-reisen-reservierungen/u11_a3-auf-dem-bahnsteig.mp3",
+            "label": "Listen to the dialogue: Auf dem Bahnsteig"
+          },
+          "transcript": [
+            "<strong>Peter Lange:</strong> Entschuldigung, fährt der Zug nach Köln von Gleis 5? <em>Excuse me, does the train to Cologne leave from platform 5?</em>",
+            "<strong>Frau Schneider:</strong> Nein, von Gleis 7. Er hat zehn Minuten Verspätung. <em>No, from platform 7. It is ten minutes late.</em>",
+            "<strong>Peter Lange:</strong> Muss ich umsteigen? <em>Do I have to change?</em>",
+            "<strong>Frau Schneider:</strong> Ja, in Frankfurt. Der Anschluss fährt um vierzehn Uhr zwanzig. <em>Yes, in Frankfurt. The connection leaves at 14:20.</em>",
+            "<strong>Peter Lange:</strong> Vielen Dank! <em>Thank you very much!</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>von Gleis 7</strong> – from platform 7</li><li><strong>der Anschluss</strong> – connection</li><li><strong>umsteigen</strong> – to change (trains)</li></ul>"
+        ]
+      }
+    ]
+  }
+}

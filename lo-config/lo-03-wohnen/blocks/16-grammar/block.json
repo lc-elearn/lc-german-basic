@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "title": "Where? in, an, neben + dative",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "To say where something is, use a preposition with the dative. The article changes: der → dem, das → dem, die → der, and in the plural die → den (the noun adds -n). Some prepositions merge with dem: in dem → im, an dem → am, von dem → vom, zu dem → zum, bei dem → beim, and in das → ins, an das → ans.",
+    "text": [
+      "<table><caption>Dative articles</caption><thead><tr><th>Gender</th><th>Listen</th><th>Nominative</th><th>Dative</th><th>Example</th></tr></thead><tbody><tr><th>masculine</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-dativ-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>der Bahnhof</td><td>dem Bahnhof</td><td>Ich wohne nicht weit vom Bahnhof.</td></tr><tr><th>feminine</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-dativ-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>die Stadt</td><td>der Stadt</td><td>Ich wohne in der Stadt.</td></tr><tr><th>neuter</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-dativ-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>das Zentrum</td><td>dem Zentrum</td><td>Ich wohne im Zentrum.</td></tr><tr><th>plural</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-dativ-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>die Häuser</td><td>den Häusern</td><td>In den Häusern am Stadtrand ist es ruhig.</td></tr></tbody></table>",
+      "Ich wohne im Zentrum, in der Nähe vom Bahnhof."
+    ]
+  }
+}

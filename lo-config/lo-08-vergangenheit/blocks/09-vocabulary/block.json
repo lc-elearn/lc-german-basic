@@ -1,0 +1,78 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Participles with haben",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Regular verbs end in -t, irregular ones in -en.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "regular participles (<em>gemacht, gearbeitet, gekauft</em>);",
+        "irregular participles (<em>gegessen, getrunken, gesehen</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "gemacht",
+        "gloss": "made, done",
+        "audio": "audio/lo-08-vergangenheit/u8_v-pp-gemacht.mp3"
+      },
+      {
+        "term": "gearbeitet",
+        "gloss": "worked",
+        "audio": "audio/lo-08-vergangenheit/u8_v-pp-gearbeitet.mp3"
+      },
+      {
+        "term": "gekauft",
+        "gloss": "bought",
+        "audio": "audio/lo-08-vergangenheit/u8_v-pp-gekauft.mp3"
+      },
+      {
+        "term": "besucht",
+        "gloss": "visited",
+        "audio": "audio/lo-08-vergangenheit/u8_v-pp-besucht.mp3"
+      },
+      {
+        "term": "studiert",
+        "gloss": "studied",
+        "audio": "audio/lo-08-vergangenheit/u8_v-pp-studiert.mp3"
+      },
+      {
+        "term": "gegessen",
+        "gloss": "eaten",
+        "audio": "audio/lo-08-vergangenheit/u8_v-pp-gegessen.mp3"
+      },
+      {
+        "term": "getrunken",
+        "gloss": "drunk",
+        "audio": "audio/lo-08-vergangenheit/u8_v-pp-getrunken.mp3"
+      },
+      {
+        "term": "gesehen",
+        "gloss": "seen",
+        "audio": "audio/lo-08-vergangenheit/u8_v-pp-gesehen.mp3"
+      },
+      {
+        "term": "gelesen",
+        "gloss": "read",
+        "audio": "audio/lo-08-vergangenheit/u8_v-pp-gelesen.mp3"
+      },
+      {
+        "term": "geschrieben",
+        "gloss": "written",
+        "audio": "audio/lo-08-vergangenheit/u8_v-pp-geschrieben.mp3"
+      },
+      {
+        "term": "getroffen",
+        "gloss": "met",
+        "audio": "audio/lo-08-vergangenheit/u8_v-pp-getroffen.mp3"
+      },
+      {
+        "term": "gesprochen",
+        "gloss": "spoken",
+        "audio": "audio/lo-08-vergangenheit/u8_v-pp-gesprochen.mp3"
+      }
+    ]
+  }
+}

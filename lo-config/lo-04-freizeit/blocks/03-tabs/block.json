@@ -1,0 +1,88 @@
+{
+  "type": "tabs",
+  "title": "Was machen Sie gern? – Hobbies",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Was machen Sie gern? – Hobbies",
+    "tabs": [
+      {
+        "label": "Am Infostand",
+        "instructions": "At a societies fair a visitor talks to a volunteer. They use \"Sie\". Which two hobbies does he name, and when does the group walk?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-04-freizeit/u4_a1-am-infostand.mp3",
+            "label": "Listen to the dialogue: Am Infostand"
+          },
+          "transcript": [
+            "<strong>Frau Schneider:</strong> Guten Tag, Herr Vogel. Haben Sie ein Hobby? <em>Hello, Mr Vogel. Do you have a hobby?</em>",
+            "<strong>Herr Vogel:</strong> Ja, ich wandere gern und ich fotografiere gern. <em>Yes, I like hiking and I like taking photos.</em>",
+            "<strong>Frau Schneider:</strong> Dann kommen Sie doch zu unserer Wandergruppe. Wir wandern jeden Sonntag. <em>Then do join our walking group. We walk every Sunday.</em>",
+            "<strong>Herr Vogel:</strong> Sehr gern! Wo ist der Treffpunkt? <em>I would love to! Where is the meeting point?</em>",
+            "<strong>Frau Schneider:</strong> Am Bahnhof. <em>At the station.</em>",
+            "<strong>Herr Vogel:</strong> Danke schön, bis Sonntag! <em>Thank you very much, see you on Sunday!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-04-freizeit/dialogues/01-am-infostand.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Haben Sie ein Hobby?</strong> – Do you have a hobby? (formal)</li><li><strong>gern</strong> – gladly, with pleasure: ich wandere gern = I like hiking</li><li><strong>jeden Sonntag</strong> – every Sunday</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Studentenclub",
+        "instructions": "Two students compare their free time. They use \"du\". Who plays an instrument?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-04-freizeit/u4_a2-im-college.mp3",
+            "label": "Listen to the dialogue: Im Studentenclub"
+          },
+          "transcript": [
+            "<strong>Lukas:</strong> Was machst du in deiner Freizeit, Elif? <em>What do you do in your free time, Elif?</em>",
+            "<strong>Elif:</strong> Ich höre gern Musik und ich gehe gern ins Kino. Und du? <em>I like listening to music and I like going to the cinema. And you?</em>",
+            "<strong>Lukas:</strong> Ich spiele Gitarre und ich koche gern. <em>I play the guitar and I like cooking.</em>",
+            "<strong>Elif:</strong> Was kochst du gern? <em>What do you like cooking?</em>",
+            "<strong>Lukas:</strong> Pasta. Isst du gern Pasta? <em>Pasta. Do you like eating pasta?</em>",
+            "<strong>Elif:</strong> Ja, sehr gern! <em>Yes, very much!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-04-freizeit/dialogues/02-im-studentenclub.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Was machst du in deiner Freizeit?</strong> – What do you do in your free time? (informal)</li><li><strong>Musik hören</strong> – to listen to music</li><li><strong>Gitarre spielen</strong> – to play the guitar</li></ul>"
+        ]
+      },
+      {
+        "label": "Am Stammtisch",
+        "instructions": "Two regulars at the pub talk about hobbies. They use \"Sie\". Who reads, and who runs?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-04-freizeit/u4_a3-am-stammtisch.mp3",
+            "label": "Listen to the dialogue: Am Stammtisch"
+          },
+          "transcript": [
+            "<strong>Peter Lange:</strong> Frau Schneider, haben Sie Hobbys? <em>Mrs Schneider, do you have hobbies?</em>",
+            "<strong>Frau Schneider:</strong> Ja, ich fahre gern Fahrrad und ich lese viel. <em>Yes, I like cycling and I read a lot.</em>",
+            "<strong>Peter Lange:</strong> Was lesen Sie gern? <em>What do you like to read?</em>",
+            "<strong>Frau Schneider:</strong> Krimis. Und Sie, Herr Lange? <em>Crime novels. And you, Mr Lange?</em>",
+            "<strong>Peter Lange:</strong> Ich laufe gern, aber ich spiele nicht gern Fußball. <em>I like running, but I do not like playing football.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-04-freizeit/dialogues/03-am-stammtisch.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Ich fahre gern Fahrrad.</strong> – I like cycling.</li><li><strong>viel</strong> – a lot</li><li><strong>nicht gern</strong> – not gladly: ich spiele nicht gern Fußball = I do not like playing football</li></ul>"
+        ]
+      }
+    ]
+  }
+}

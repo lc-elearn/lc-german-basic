@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "Adjectives: älter, jünger, klein",
+  "presentation": "card",
+  "content": {
+    "instructions": "When an adjective stands before a noun after ein or mein, it takes an ending. In the accusative: masculine -en, feminine -e, neuter -es. Comparatives such as älter and jünger work the same way.",
+    "text": [
+      "<table><caption>Adjectives in the accusative</caption><thead><tr><th>Listen</th><th>Gender</th><th>Example</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-adjectives-aelter-juenger-kl-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>masculine (-en)</td><td>Ich habe einen älteren Bruder.</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-adjectives-aelter-juenger-kl-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>feminine (-e)</td><td>Ich habe eine jüngere Schwester.</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-adjectives-aelter-juenger-kl-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>neuter (-es)</td><td>Wir haben ein kleines Kind.</td></tr></tbody></table>",
+      "Ich habe einen älteren Bruder und eine jüngere Schwester."
+    ]
+  }
+}

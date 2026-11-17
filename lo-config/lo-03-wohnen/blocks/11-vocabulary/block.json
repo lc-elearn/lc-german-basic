@@ -1,0 +1,73 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Describing a home",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. These adjectives take an ending before a noun (see the grammar section).",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "adjectives to describe a home (<em>groß, klein, hell, ruhig</em>);",
+        "the rent (<em>die Miete, kosten</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "groß",
+        "gloss": "big",
+        "audio": "audio/lo-03-wohnen/u3_v-adj-gross.mp3"
+      },
+      {
+        "term": "klein",
+        "gloss": "small",
+        "audio": "audio/lo-03-wohnen/u3_v-adj-klein.mp3"
+      },
+      {
+        "term": "hell",
+        "gloss": "bright, light",
+        "audio": "audio/lo-03-wohnen/u3_v-adj-hell.mp3"
+      },
+      {
+        "term": "dunkel",
+        "gloss": "dark",
+        "audio": "audio/lo-03-wohnen/u3_v-adj-dunkel.mp3"
+      },
+      {
+        "term": "neu",
+        "gloss": "new",
+        "audio": "audio/lo-03-wohnen/u3_v-adj-neu.mp3"
+      },
+      {
+        "term": "alt",
+        "gloss": "old",
+        "audio": "audio/lo-03-wohnen/u3_v-adj-alt.mp3"
+      },
+      {
+        "term": "schön",
+        "gloss": "nice, lovely",
+        "audio": "audio/lo-03-wohnen/u3_v-adj-schoen.mp3"
+      },
+      {
+        "term": "ruhig",
+        "gloss": "quiet",
+        "audio": "audio/lo-03-wohnen/u3_v-adj-ruhig.mp3"
+      },
+      {
+        "term": "laut",
+        "gloss": "loud, noisy",
+        "audio": "audio/lo-03-wohnen/u3_v-adj-laut.mp3"
+      },
+      {
+        "term": "die Miete",
+        "gloss": "rent",
+        "audio": "audio/lo-03-wohnen/u3_v-adj-miete.mp3"
+      },
+      {
+        "term": "kosten",
+        "gloss": "to cost",
+        "audio": "audio/lo-03-wohnen/u3_v-adj-kosten.mp3"
+      }
+    ]
+  }
+}

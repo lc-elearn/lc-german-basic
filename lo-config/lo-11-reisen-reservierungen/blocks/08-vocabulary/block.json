@@ -1,0 +1,79 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "At the station",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "Listen and repeat. Check the article of each noun.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "the station (<em>das Gleis, der Bahnsteig, der Fahrkartenschalter, der Automat</em>);",
+        "timetable words (<em>die Abfahrt, die Ankunft, der Anschluss</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "der Fahrkartenschalter",
+        "gloss": "ticket counter",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-bahn-schalter.mp3"
+      },
+      {
+        "term": "der Automat",
+        "gloss": "ticket machine",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-bahn-automat.mp3"
+      },
+      {
+        "term": "das Gleis",
+        "gloss": "platform, track",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-bahn-gleis.mp3"
+      },
+      {
+        "term": "der Bahnsteig",
+        "gloss": "platform",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-bahn-bahnsteig.mp3"
+      },
+      {
+        "term": "die Abfahrt",
+        "gloss": "departure",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-bahn-abfahrt.mp3"
+      },
+      {
+        "term": "die Ankunft",
+        "gloss": "arrival",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-bahn-ankunft.mp3"
+      },
+      {
+        "term": "der Anschluss",
+        "gloss": "connection",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-bahn-anschluss.mp3"
+      },
+      {
+        "term": "einfach",
+        "gloss": "single (ticket)",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-bahn-einfach.mp3"
+      },
+      {
+        "term": "hin und zurück",
+        "gloss": "return (ticket)",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-bahn-hin-zurueck.mp3"
+      },
+      {
+        "term": "die erste / zweite Klasse",
+        "gloss": "first / second class",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-bahn-klasse.mp3"
+      },
+      {
+        "term": "der Sitzplatz",
+        "gloss": "seat",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-bahn-sitzplatz.mp3"
+      },
+      {
+        "term": "ausfallen",
+        "gloss": "to be cancelled",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-bahn-ausfallen.mp3"
+      }
+    ]
+  }
+}

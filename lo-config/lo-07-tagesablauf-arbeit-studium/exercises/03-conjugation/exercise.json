@@ -1,0 +1,36 @@
+{
+  "type": "conjugation",
+  "title": "Conjugation: müssen",
+  "content": {
+    "instructions": "Write the correct form of müssen.",
+    "verb": "müssen",
+    "tense": "Präsens",
+    "answerMode": "typed",
+    "rows": [
+      {
+        "person": "ich",
+        "answer": "muss"
+      },
+      {
+        "person": "du",
+        "answer": "musst"
+      },
+      {
+        "person": "er / sie / es",
+        "answer": "muss"
+      },
+      {
+        "person": "wir",
+        "answer": "müssen"
+      },
+      {
+        "person": "ihr",
+        "answer": "müsst"
+      },
+      {
+        "person": "sie / Sie",
+        "answer": "müssen"
+      }
+    ]
+  }
+}

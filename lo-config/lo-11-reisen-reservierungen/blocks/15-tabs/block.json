@@ -1,0 +1,25 @@
+{
+  "type": "tabs",
+  "title": "Sounds",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Sounds in this unit",
+    "tabs": [
+      {
+        "label": "ei, eu and au",
+        "instructions": "ei sounds like English \"eye\": Gleis, einfach. eu (and äu) sounds like \"oy\": Euro, neu. au sounds like \"ow\": Aufzug, Ausweis.",
+        "text": [
+          "<table><caption>ei, eu and au</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>Gleis</td><td>ei = \"eye\"</td><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_p-gleis.mp3\" data-audio-label=\"Play: Gleis\"></span></td></tr><tr><td>einfach</td><td>ei = \"eye\"</td><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_p-einfach.mp3\" data-audio-label=\"Play: einfach\"></span></td></tr><tr><td>Euro</td><td>eu = \"oy\"</td><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_p-euro.mp3\" data-audio-label=\"Play: Euro\"></span></td></tr><tr><td>neu</td><td>eu = \"oy\"</td><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_p-neu.mp3\" data-audio-label=\"Play: neu\"></span></td></tr><tr><td>Aufzug</td><td>au = \"ow\"</td><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_p-aufzug.mp3\" data-audio-label=\"Play: Aufzug\"></span></td></tr><tr><td>Ausweis</td><td>au = \"ow\", ei = \"eye\"</td><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_p-ausweis.mp3\" data-audio-label=\"Play: Ausweis\"></span></td></tr></tbody></table>"
+        ]
+      },
+      {
+        "label": "The endings -e and -er",
+        "instructions": "An unstressed -e at the end is a short, soft \"uh\": Reise, Karte. An unstressed -er sounds like a short \"ah\": Koffer, Schalter, Zimmer.",
+        "text": [
+          "<table><caption>Unstressed endings</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>Reise</td><td>-e = \"uh\"</td><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_p-reise.mp3\" data-audio-label=\"Play: Reise\"></span></td></tr><tr><td>Karte</td><td>-e = \"uh\"</td><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_p-karte.mp3\" data-audio-label=\"Play: Karte\"></span></td></tr><tr><td>Koffer</td><td>-er = \"ah\"</td><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_p-koffer.mp3\" data-audio-label=\"Play: Koffer\"></span></td></tr><tr><td>Schalter</td><td>-er = \"ah\"</td><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_p-schalter.mp3\" data-audio-label=\"Play: Schalter\"></span></td></tr><tr><td>Zimmer</td><td>-er = \"ah\"</td><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_p-zimmer.mp3\" data-audio-label=\"Play: Zimmer\"></span></td></tr><tr><td>Bahnsteig</td><td>ei = \"eye\"; stress on BAHN</td><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_p-bahnsteig.mp3\" data-audio-label=\"Play: Bahnsteig\"></span></td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}

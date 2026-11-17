@@ -1,0 +1,24 @@
+{
+  "type": "tabs",
+  "title": "Giving a short talk",
+  "presentation": "card",
+  "content": {
+    "label": "Giving a short talk",
+    "tabs": [
+      {
+        "label": "Vor dem Vortrag",
+        "instructions": "Preparing makes the talk better. Check these points.",
+        "text": [
+          "<ul><li><strong>Thema:</strong> one clear topic.</li><li><strong>Struktur:</strong> introduction, main part, conclusion.</li><li><strong>Folien:</strong> short, with few words.</li><li><strong>Üben:</strong> say it aloud and check the time.</li></ul>"
+        ]
+      },
+      {
+        "label": "Beim Vortrag",
+        "instructions": "Speaking in front of others needs a calm tone.",
+        "text": [
+          "<ul><li>Greet formally: <em>Liebe Kolleginnen und Kollegen</em> or <em>Sehr geehrte Damen und Herren</em>.</li><li>Look at your audience, not only at the screen.</li><li>Pause after each point.</li><li>End with <em>Vielen Dank für Ihre Aufmerksamkeit.</em></li></ul>"
+        ]
+      }
+    ]
+  }
+}

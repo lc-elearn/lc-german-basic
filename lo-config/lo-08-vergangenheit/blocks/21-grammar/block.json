@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "title": "war and hatte",
+  "presentation": "card",
+  "content": {
+    "instructions": "For “sein” and “haben” speakers normally use the simple past rather than the Perfekt: “ich war”, “ich hatte”. The same goes for modals (“ich musste, ich wollte”). Other verbs normally use the Perfekt in speech.",
+    "text": [
+      "<table><caption>Simple past of sein and haben</caption><thead><tr><th></th><th>sein</th><th>haben</th></tr></thead><tbody><tr><th>ich</th><td>war</td><td>hatte</td></tr><tr><th>du</th><td>warst</td><td>hattest</td></tr><tr><th>er / sie / es</th><td>war</td><td>hatte</td></tr><tr><th>wir</th><td>waren</td><td>hatten</td></tr><tr><th>ihr</th><td>wart</td><td>hattet</td></tr><tr><th>sie / Sie</th><td>waren</td><td>hatten</td></tr></tbody></table>",
+      "<span data-audio-player=\"audio/lo-08-vergangenheit/u8_g-war-hatte.mp3\" data-audio-label=\"Listen to war and hatte\"></span>",
+      "Ich war eine Woche in Lissabon. Der Zug hatte Verspätung."
+    ]
+  }
+}

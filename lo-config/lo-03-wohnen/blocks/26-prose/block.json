@@ -1,0 +1,11 @@
+{
+  "type": "prose",
+  "title": "Student housing and flat shares",
+  "presentation": "card",
+  "content": {
+    "text": [
+      "Many students live in a <em>Studentenwohnheim</em> (hall of residence) or in a <em>WG</em> (<em>Wohngemeinschaft</em>), a flat share where each person has a room and everybody shares the kitchen and bathroom. In Berlin, many halls of residence are run by the <em>Studierendenwerk</em>, the student services organisation.",
+      "Finding a room in a WG often means a <em>WG-Casting</em>: a short, friendly interview with the current flatmates, who want to know if you will fit in."
+    ]
+  }
+}

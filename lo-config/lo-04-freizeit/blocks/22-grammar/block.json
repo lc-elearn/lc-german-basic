@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "spielen, machen or gehen?",
+  "presentation": "card",
+  "content": {
+    "instructions": "Which verb goes with a hobby is mostly fixed. “spielen” for games, ball sports and instruments, “machen” for yoga and sport in general, “gehen” for going somewhere to do it (“ins Kino, schwimmen, wandern”).",
+    "text": [
+      "<table><caption>Verbs with hobbies</caption><thead><tr><th>Verb</th><th>Listen</th><th>Examples</th></tr></thead><tbody><tr><th>spielen</th><td><span data-audio=\"audio/lo-04-freizeit/u4_g-verben-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Fußball spielen, Tennis spielen, Gitarre spielen</td></tr><tr><th>machen</th><td><span data-audio=\"audio/lo-04-freizeit/u4_g-verben-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Sport machen, Yoga machen</td></tr><tr><th>gehen</th><td><span data-audio=\"audio/lo-04-freizeit/u4_g-verben-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>ins Kino gehen, schwimmen gehen, wandern gehen</td></tr><tr><th>fahren</th><td><span data-audio=\"audio/lo-04-freizeit/u4_g-verben-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Fahrrad fahren</td></tr></tbody></table>"
+    ]
+  }
+}

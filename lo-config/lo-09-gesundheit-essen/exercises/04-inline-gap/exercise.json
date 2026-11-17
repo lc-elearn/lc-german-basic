@@ -1,0 +1,27 @@
+{
+  "type": "inline-gap",
+  "title": "Complete the sentences",
+  "content": {
+    "instructions": "Type the missing word. A hint is shown in the gap.",
+    "items": [
+      {
+        "text": "Ich habe [seit::since, for] drei Tagen Fieber."
+      },
+      {
+        "text": "Es ist wichtig, genug [zu::to] schlafen."
+      },
+      {
+        "text": "Ich möchte ein [Kilo::unit of weight] Äpfel."
+      },
+      {
+        "text": "Mein Kopf [tut::hurts] weh."
+      },
+      {
+        "text": "Ich muss früh [aufstehen::to get up]."
+      },
+      {
+        "text": "Wir [brauchen::need] zwei Liter Milch."
+      }
+    ]
+  }
+}

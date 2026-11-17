@@ -1,0 +1,88 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Food",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Check the article of each noun.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "bread, cakes and snacks (<em>das Brot, das Brötchen, der Kuchen</em>);",
+        "meals and ingredients (<em>die Suppe, der Salat, das Gemüse, das Fleisch</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "das Brot",
+        "gloss": "bread",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-brot.mp3"
+      },
+      {
+        "term": "das Brötchen",
+        "gloss": "bread roll",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-broetchen.mp3"
+      },
+      {
+        "term": "der Kuchen",
+        "gloss": "cake",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-kuchen.mp3"
+      },
+      {
+        "term": "das Croissant",
+        "gloss": "croissant",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-croissant.mp3"
+      },
+      {
+        "term": "die Suppe",
+        "gloss": "soup",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-suppe.mp3"
+      },
+      {
+        "term": "der Salat",
+        "gloss": "salad",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-salat.mp3"
+      },
+      {
+        "term": "das Gemüse",
+        "gloss": "vegetables",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-gemuese.mp3"
+      },
+      {
+        "term": "das Obst",
+        "gloss": "fruit",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-obst.mp3"
+      },
+      {
+        "term": "das Fleisch",
+        "gloss": "meat",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-fleisch.mp3"
+      },
+      {
+        "term": "der Fisch",
+        "gloss": "fish",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-fisch.mp3"
+      },
+      {
+        "term": "die Nudeln",
+        "gloss": "pasta (plural)",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-nudeln.mp3"
+      },
+      {
+        "term": "der Reis",
+        "gloss": "rice",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-reis.mp3"
+      },
+      {
+        "term": "der Käse",
+        "gloss": "cheese",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-kaese.mp3"
+      },
+      {
+        "term": "das Ei",
+        "gloss": "egg",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-ei.mp3"
+      }
+    ]
+  }
+}

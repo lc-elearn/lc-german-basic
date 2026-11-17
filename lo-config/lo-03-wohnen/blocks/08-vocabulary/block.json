@@ -1,0 +1,79 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Where you live",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "Listen to each word and say it aloud. Learn every noun with its article.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "places in a town (<em>die Stadt, das Dorf, der Bahnhof</em>);",
+        "where in a town you live (<em>im Zentrum, am Stadtrand, in der Nähe von</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "die Stadt",
+        "gloss": "town, city",
+        "audio": "audio/lo-03-wohnen/u3_v-ort-stadt.mp3"
+      },
+      {
+        "term": "das Dorf",
+        "gloss": "village",
+        "audio": "audio/lo-03-wohnen/u3_v-ort-dorf.mp3"
+      },
+      {
+        "term": "das Stadtzentrum",
+        "gloss": "town centre",
+        "audio": "audio/lo-03-wohnen/u3_v-ort-zentrum.mp3"
+      },
+      {
+        "term": "der Stadtrand",
+        "gloss": "outskirts",
+        "audio": "audio/lo-03-wohnen/u3_v-ort-stadtrand.mp3"
+      },
+      {
+        "term": "die Nähe",
+        "gloss": "nearness (in der Nähe von = near)",
+        "audio": "audio/lo-03-wohnen/u3_v-ort-naehe.mp3"
+      },
+      {
+        "term": "der Bahnhof",
+        "gloss": "railway station",
+        "audio": "audio/lo-03-wohnen/u3_v-ort-bahnhof.mp3"
+      },
+      {
+        "term": "die Straße",
+        "gloss": "street",
+        "audio": "audio/lo-03-wohnen/u3_v-ort-strasse.mp3"
+      },
+      {
+        "term": "das Viertel",
+        "gloss": "district, neighbourhood",
+        "audio": "audio/lo-03-wohnen/u3_v-ort-viertel.mp3"
+      },
+      {
+        "term": "weit",
+        "gloss": "far",
+        "audio": "audio/lo-03-wohnen/u3_v-ort-weit.mp3"
+      },
+      {
+        "term": "nicht weit von",
+        "gloss": "not far from",
+        "audio": "audio/lo-03-wohnen/u3_v-ort-nicht-weit-von.mp3"
+      },
+      {
+        "term": "hier",
+        "gloss": "here",
+        "audio": "audio/lo-03-wohnen/u3_v-ort-hier.mp3"
+      },
+      {
+        "term": "dort",
+        "gloss": "there",
+        "audio": "audio/lo-03-wohnen/u3_v-ort-dort.mp3"
+      }
+    ]
+  }
+}

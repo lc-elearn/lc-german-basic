@@ -1,0 +1,71 @@
+{
+  "type": "tabs",
+  "title": "Probleme – Problems and help",
+  "presentation": "card",
+  "content": {
+    "label": "Probleme – Problems and help",
+    "tabs": [
+      {
+        "label": "Eine Beschwerde",
+        "instructions": "A guest complains politely about the shower. They use \"Sie\". Since when has it not worked?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-11-reisen-reservierungen/u11_d1-beschwerde.mp3",
+            "label": "Listen to the dialogue: Eine Beschwerde"
+          },
+          "transcript": [
+            "<strong>Frau Keller:</strong> Entschuldigung, die Dusche in meinem Zimmer funktioniert nicht. <em>Excuse me, the shower in my room does not work.</em>",
+            "<strong>Herr Braun:</strong> Das tut mir leid. Seit wann? <em>I am sorry. Since when?</em>",
+            "<strong>Frau Keller:</strong> Seit gestern Abend. Ich habe kein warmes Wasser. <em>Since yesterday evening. I have no hot water.</em>",
+            "<strong>Herr Braun:</strong> Ich schicke gleich jemanden hoch. Können Sie in zehn Minuten wieder auf Ihr Zimmer gehen? <em>I will send someone up straight away. Can you go back to your room in ten minutes?</em>",
+            "<strong>Frau Keller:</strong> Ja, danke. Das ist nett. <em>Yes, thank you. That is kind.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>funktioniert nicht</strong> – does not work</li><li><strong>Das tut mir leid.</strong> – I am sorry.</li><li><strong>jemanden hochschicken</strong> – to send someone up</li></ul>"
+        ]
+      },
+      {
+        "label": "Verspätung",
+        "instructions": "Alex and Max sit on a delayed train to Munich. They use \"du\". When will they arrive?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-11-reisen-reservierungen/u11_d2-verspaetung.mp3",
+            "label": "Listen to the dialogue: Verspätung"
+          },
+          "transcript": [
+            "<strong>Alex:</strong> Max, unser Zug hat eine Stunde Verspätung. <em>Max, our train is an hour late.</em>",
+            "<strong>Max:</strong> Oh nein! Wann kommen wir jetzt an? <em>Oh no! When will we arrive now?</em>",
+            "<strong>Alex:</strong> Erst um zwanzig Uhr. <em>Not until eight in the evening.</em>",
+            "<strong>Max:</strong> Soll ich meine Schwester anrufen? Sie kann uns am Bahnhof abholen. <em>Shall I call my sister? She can pick us up at the station.</em>",
+            "<strong>Alex:</strong> Ja, gern. Ich rufe sie an, wenn wir in München sind. <em>Yes, please. I will call her when we are in Munich.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Mein Zug hat Verspätung.</strong> – My train is late.</li><li><strong>abholen → sie holt uns ab</strong> – to pick up</li><li><strong>Soll ich …?</strong> – Shall I …?</li></ul>"
+        ]
+      },
+      {
+        "label": "Ein Fahrrad mieten",
+        "instructions": "A visitor rents a bike. They use \"Sie\". How much is the deposit?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-11-reisen-reservierungen/u11_d3-fahrrad-mieten.mp3",
+            "label": "Listen to the dialogue: Ein Fahrrad mieten"
+          },
+          "transcript": [
+            "<strong>Katrin Huber:</strong> Guten Tag. Ich möchte ein Fahrrad mieten. <em>Hello. I would like to rent a bike.</em>",
+            "<strong>Herr Braun:</strong> Für wie lange? <em>For how long?</em>",
+            "<strong>Katrin Huber:</strong> Für einen Tag. Was kostet das? <em>For one day. What does that cost?</em>",
+            "<strong>Herr Braun:</strong> Zwölf Euro. Dazu kommt ein Pfand von fünfzig Euro. <em>Twelve euros. On top there is a deposit of fifty euros.</em>",
+            "<strong>Katrin Huber:</strong> Brauchen Sie einen Ausweis? <em>Do you need an ID?</em>",
+            "<strong>Herr Braun:</strong> Ja, bitte, und eine Unterschrift hier. <em>Yes, please, and a signature here.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>mieten</strong> – to rent</li><li><strong>das Pfand</strong> – deposit</li><li><strong>die Unterschrift</strong> – signature</li></ul>"
+        ]
+      }
+    ]
+  }
+}

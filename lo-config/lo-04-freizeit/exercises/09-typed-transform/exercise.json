@@ -1,0 +1,38 @@
+{
+  "type": "typed-transform",
+  "title": "Separable verbs in a sentence",
+  "content": {
+    "instructions": "Write the sentence with the verb in the form shown (the prefix goes to the end).",
+    "columns": {
+      "prompt": "Verb (person)",
+      "answer": "Sentence"
+    },
+    "rows": [
+      {
+        "prompt": "aufstehen (ich)",
+        "answer": "ich stehe auf"
+      },
+      {
+        "prompt": "einkaufen (wir)",
+        "answer": "wir kaufen ein"
+      },
+      {
+        "prompt": "anrufen (du)",
+        "answer": "du rufst an"
+      },
+      {
+        "prompt": "mitkommen (ihr)",
+        "answer": "ihr kommt mit"
+      },
+      {
+        "prompt": "fernsehen (er)",
+        "answer": "er sieht fern"
+      },
+      {
+        "prompt": "ausgehen (sie, plural)",
+        "answer": "sie gehen aus"
+      }
+    ],
+    "footnote": "The prefix is always the last word in a main clause."
+  }
+}

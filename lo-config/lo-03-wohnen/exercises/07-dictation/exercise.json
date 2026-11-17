@@ -1,0 +1,38 @@
+{
+  "type": "dictation",
+  "title": "Dictation: sentences",
+  "content": {
+    "instructions": "Listen and type the sentence. Punctuation is not marked, but umlauts are.",
+    "columns": {
+      "prompt": "Sentence",
+      "answer": "What you hear"
+    },
+    "rows": [
+      {
+        "prompt": "Sentence 1",
+        "answer": "Ich wohne im Zentrum.",
+        "audio": "audio/lo-03-wohnen/u3_x-dikt-01.mp3"
+      },
+      {
+        "prompt": "Sentence 2",
+        "answer": "Die Wohnung hat zwei Zimmer.",
+        "audio": "audio/lo-03-wohnen/u3_x-dikt-02.mp3"
+      },
+      {
+        "prompt": "Sentence 3",
+        "answer": "Das Sofa steht an der Wand.",
+        "audio": "audio/lo-03-wohnen/u3_x-dikt-03.mp3"
+      },
+      {
+        "prompt": "Sentence 4",
+        "answer": "Ich suche einen kleinen Tisch.",
+        "audio": "audio/lo-03-wohnen/u3_x-dikt-04.mp3"
+      },
+      {
+        "prompt": "Sentence 5",
+        "answer": "Er wohnt mit seiner Familie in einem Haus.",
+        "audio": "audio/lo-03-wohnen/u3_x-dikt-05.mp3"
+      }
+    ]
+  }
+}

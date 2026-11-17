@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "Where or where to? an, auf, in, neben …",
+  "presentation": "card",
+  "content": {
+    "instructions": "Nine prepositions can take the dative or the accusative: an, auf, hinter, in, neben, über, unter, vor, zwischen. Use the dative to say WHERE something is (position: Wo?) and the accusative to say WHERE TO it moves (direction: Wohin?). Verb pairs help: stehen (to stand) and stellen (to put upright), liegen (to lie) and legen (to lay down), hängen (to hang) and hängen (to hang something up).",
+    "text": [
+      "<table><caption>Wo? (dative) and wohin? (accusative)</caption><thead><tr><th>Preposition</th><th>Listen</th><th>Wo? + dative</th><th>Wohin? + accusative</th></tr></thead><tbody><tr><th>an</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-wechsel-an.mp3\" data-audio-label=\"Play: an\"></span></td><td>Das Sofa steht an der Wand.</td><td>Ich stelle das Sofa an die Wand.</td></tr><tr><th>auf</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-wechsel-auf.mp3\" data-audio-label=\"Play: auf\"></span></td><td>Die Lampe steht auf dem Tisch.</td><td>Ich stelle die Lampe auf den Tisch.</td></tr><tr><th>in</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-wechsel-in.mp3\" data-audio-label=\"Play: in\"></span></td><td>Das Buch liegt im Regal.</td><td>Ich lege das Buch ins Regal.</td></tr><tr><th>neben</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-wechsel-neben.mp3\" data-audio-label=\"Play: neben\"></span></td><td>Der Stuhl steht neben dem Tisch.</td><td>Ich stelle den Stuhl neben den Tisch.</td></tr><tr><th>über</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-wechsel-ueber.mp3\" data-audio-label=\"Play: über\"></span></td><td>Das Bild hängt über dem Sofa.</td><td>Ich hänge das Bild über das Sofa.</td></tr><tr><th>unter</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-wechsel-unter.mp3\" data-audio-label=\"Play: unter\"></span></td><td>Der Stuhl steht unter dem Tisch.</td><td>Ich stelle den Stuhl unter den Tisch.</td></tr></tbody></table>",
+      "Wo steht die Lampe? – Auf dem Tisch. Wohin stelle ich die Lampe? – Auf den Tisch."
+    ]
+  }
+}

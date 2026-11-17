@@ -1,0 +1,9 @@
+{
+  "type": "word-order",
+  "title": "Word order: a statement",
+  "content": {
+    "instructions": "Put the words in the right order to make a statement.",
+    "words": ["Ich", "wohne", "mit", "zwei", "Freunden", "in", "einer", "WG."],
+    "audio": "audio/lo-03-wohnen/u3_x-wo-wg.mp3"
+  }
+}

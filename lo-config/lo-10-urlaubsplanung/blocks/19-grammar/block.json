@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "Comparing: wärmer als, am schönsten",
+  "presentation": "card",
+  "content": {
+    "instructions": "To compare, add “-er” to the adjective and use “als” for \"than\": “Der Süden ist wärmer als der Norden.” For the highest degree use “am … -sten”: “Am schönsten ist das Meer.” Many short adjectives take an umlaut. Learn three irregular ones: “gut – besser – am besten”, “gern – lieber – am liebsten”, “viel – mehr – am meisten”.",
+    "text": [
+      "<table><caption>Comparison</caption><thead><tr><th>Listen</th><th>Basic form</th><th>Comparative</th><th>Superlative</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-komparativ-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>billig</td><td>billiger</td><td>am billigsten</td></tr><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-komparativ-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>warm</td><td>wärmer</td><td>am wärmsten</td></tr><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-komparativ-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>teuer</td><td>teurer</td><td>am teuersten</td></tr><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-komparativ-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>schön</td><td>schöner</td><td>am schönsten</td></tr><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-komparativ-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>gut</td><td>besser</td><td>am besten</td></tr><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-komparativ-06.mp3\" data-audio-label=\"Play row 6\"></span></td><td>gern</td><td>lieber</td><td>am liebsten</td></tr></tbody></table>",
+      "Der Süden ist wärmer als der Norden. Am schönsten finde ich das Meer."
+    ]
+  }
+}

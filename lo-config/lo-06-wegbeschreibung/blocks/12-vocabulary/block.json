@@ -1,0 +1,85 @@
+{
+  "type": "vocabulary",
+  "title": "At the Christmas market",
+  "presentation": "card",
+  "options": {
+    "selfTest": true,
+    "letterHeadings": true
+  },
+  "content": {
+    "instructions": "Listen and repeat. Many Christmas-market words are compound nouns.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "market food and drink (<em>der Glühwein, die Bratwurst, der Lebkuchen</em>);",
+        "market words (<em>der Stand, das Pfand, der Weihnachtsmarkt</em>)."
+      ]
+    },
+    "topics": [
+      {
+        "id": "market",
+        "heading": "Market words"
+      },
+      {
+        "id": "food",
+        "heading": "Food and drink"
+      }
+    ],
+    "items": [
+      {
+        "term": "der Weihnachtsmarkt",
+        "gloss": "Christmas market",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-markt-weihnachtsmarkt.mp3",
+        "topic": "market"
+      },
+      {
+        "term": "der Glühwein",
+        "gloss": "mulled wine",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-markt-gluehwein.mp3",
+        "topic": "food"
+      },
+      {
+        "term": "die Bratwurst",
+        "gloss": "grilled sausage",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-markt-bratwurst.mp3",
+        "topic": "food"
+      },
+      {
+        "term": "der Lebkuchen",
+        "gloss": "gingerbread",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-markt-lebkuchen.mp3",
+        "topic": "food"
+      },
+      {
+        "term": "der Stand",
+        "gloss": "stall",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-markt-stand.mp3",
+        "topic": "market"
+      },
+      {
+        "term": "das Pfand",
+        "gloss": "deposit",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-markt-pfand.mp3",
+        "topic": "market"
+      },
+      {
+        "term": "der Adventskalender",
+        "gloss": "advent calendar",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-markt-adventskalender.mp3",
+        "topic": "market"
+      },
+      {
+        "term": "der Weihnachtsbaum",
+        "gloss": "Christmas tree",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-markt-weihnachtsbaum.mp3",
+        "topic": "market"
+      },
+      {
+        "term": "die Lichter",
+        "gloss": "lights",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-markt-lichter.mp3",
+        "topic": "market"
+      }
+    ]
+  }
+}

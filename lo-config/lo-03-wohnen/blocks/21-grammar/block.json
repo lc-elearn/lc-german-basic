@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "Compound nouns",
+  "presentation": "card",
+  "content": {
+    "instructions": "German joins nouns (and sometimes verbs) into one long word. The last part decides the article and the meaning: der Schreibtisch is a kind of Tisch, so it is der. Sometimes a linking -s- or -n- sits between the parts.",
+    "text": [
+      "<table><caption>Compound nouns</caption><thead><tr><th>Parts</th><th>Listen</th><th>Compound</th><th>Meaning</th></tr></thead><tbody><tr><th>wohnen + das Zimmer</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-kompositum-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>das Wohnzimmer</td><td>living room</td></tr><tr><th>schlafen + das Zimmer</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-kompositum-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>das Schlafzimmer</td><td>bedroom</td></tr><tr><th>schreiben + der Tisch</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-kompositum-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>der Schreibtisch</td><td>desk</td></tr><tr><th>das Haus + die Tür</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-kompositum-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>die Haustür</td><td>front door</td></tr><tr><th>die Wohnung + s + die Tür</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-kompositum-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>die Wohnungstür</td><td>flat door</td></tr><tr><th>die Küche + n + der Tisch</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-kompositum-06.mp3\" data-audio-label=\"Play row 6\"></span></td><td>der Küchentisch</td><td>kitchen table</td></tr></tbody></table>",
+      "Das Wohnzimmer ist hell. Der Schreibtisch steht im Schlafzimmer."
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "type": "vocabulary",
+  "title": "Directions",
+  "presentation": "card",
+  "options": {
+    "selfTest": true,
+    "letterHeadings": true
+  },
+  "content": {
+    "instructions": "Listen and repeat. These are the words you listen for when someone gives you directions.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "directions (<em>links, rechts, geradeaus</em>);",
+        "positions (<em>neben, vor, hinter, zwischen, gegenüber</em>)."
+      ]
+    },
+    "topics": [
+      {
+        "id": "directions",
+        "heading": "Directions"
+      },
+      {
+        "id": "positions",
+        "heading": "Positions"
+      }
+    ],
+    "items": [
+      {
+        "term": "links",
+        "gloss": "left",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-links.mp3",
+        "topic": "directions"
+      },
+      {
+        "term": "rechts",
+        "gloss": "right",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-rechts.mp3",
+        "topic": "directions"
+      },
+      {
+        "term": "geradeaus",
+        "gloss": "straight ahead",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-geradeaus.mp3",
+        "topic": "directions"
+      },
+      {
+        "term": "die Kreuzung",
+        "gloss": "crossing",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-kreuzung.mp3",
+        "topic": "directions"
+      },
+      {
+        "term": "die Ecke",
+        "gloss": "corner",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-ecke.mp3",
+        "topic": "directions"
+      },
+      {
+        "term": "neben",
+        "gloss": "next to",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-neben.mp3",
+        "topic": "positions"
+      },
+      {
+        "term": "vor",
+        "gloss": "in front of",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-vor.mp3",
+        "topic": "positions"
+      },
+      {
+        "term": "hinter",
+        "gloss": "behind",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-hinter.mp3",
+        "topic": "positions"
+      },
+      {
+        "term": "zwischen",
+        "gloss": "between",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-zwischen.mp3",
+        "topic": "positions"
+      },
+      {
+        "term": "gegenüber",
+        "gloss": "opposite",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-gegenueber.mp3",
+        "topic": "positions"
+      },
+      {
+        "term": "die Straße",
+        "gloss": "street",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-strasse.mp3",
+        "topic": "directions"
+      },
+      {
+        "term": "weit / nah",
+        "gloss": "far / near",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-weit-nah.mp3",
+        "topic": "directions"
+      }
+    ]
+  }
+}

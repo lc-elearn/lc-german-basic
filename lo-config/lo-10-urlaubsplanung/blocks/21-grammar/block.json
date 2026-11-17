@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Dates and how long",
+  "presentation": "card",
+  "content": {
+    "instructions": "Say a period with “vom … bis zum …” and the ordinal: “vom 5. bis zum 12. August” (vom fünften bis zum zwölften August). Say how long with “für” or without a preposition: “für zwei Wochen, eine Woche lang”. “Anfang, Mitte, Ende” + month give the part of the month.",
+    "text": [
+      "<table><caption>Dates and durations</caption><thead><tr><th>Listen</th><th>Question</th><th>Answer</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-datum-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Wann?</td><td>vom 5. bis zum 12. August</td></tr><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-datum-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Wie lange?</td><td>für zwei Wochen, eine Woche</td></tr><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-datum-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Wann im Monat?</td><td>Anfang, Mitte, Ende August</td></tr><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-datum-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Seit wann?</td><td>seit dem 1. August</td></tr></tbody></table>"
+    ]
+  }
+}

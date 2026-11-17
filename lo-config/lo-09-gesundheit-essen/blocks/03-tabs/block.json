@@ -1,0 +1,74 @@
+{
+  "type": "tabs",
+  "title": "Beim Arzt – At the doctor",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Beim Arzt – At the doctor",
+    "tabs": [
+      {
+        "label": "Ein Termin",
+        "instructions": "A patient phones a surgery. They use \"Sie\". How long has he had a fever?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-09-gesundheit-essen/u9_a1-termin.mp3",
+            "label": "Listen to the dialogue: Ein Termin"
+          },
+          "transcript": [
+            "<strong>Frau Schneider:</strong> Praxis Dr. Krause, guten Tag. <em>Dr Krause's surgery, good afternoon.</em>",
+            "<strong>Marco:</strong> Guten Tag, hier ist Marco Rossi. Ich möchte einen Termin, bitte. <em>Hello, this is Marco Rossi. I would like an appointment, please.</em>",
+            "<strong>Frau Schneider:</strong> Was ist das Problem? <em>What is the problem?</em>",
+            "<strong>Marco:</strong> Ich habe seit drei Tagen Fieber und Husten. <em>I have had a fever and a cough for three days.</em>",
+            "<strong>Frau Schneider:</strong> Können Sie morgen um zehn Uhr kommen? <em>Can you come tomorrow at ten o'clock?</em>",
+            "<strong>Marco:</strong> Ja, das passt. Danke! <em>Yes, that suits me. Thank you!</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>einen Termin machen</strong> – to make an appointment</li><li><strong>seit drei Tagen</strong> – for three days (seit + dative)</li><li><strong>Fieber, Husten</strong> – fever, cough</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Wartezimmer",
+        "instructions": "Two friends talk in a waiting room. They use \"du\". What else hurts?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-09-gesundheit-essen/u9_a2-im-wartezimmer.mp3",
+            "label": "Listen to the dialogue: Im Wartezimmer"
+          },
+          "transcript": [
+            "<strong>Anna Becker:</strong> Wie geht es dir, Lukas? <em>How are you, Lukas?</em>",
+            "<strong>Lukas:</strong> Nicht so gut. Ich habe Kopfschmerzen und bin müde. <em>Not so well. I have a headache and I am tired.</em>",
+            "<strong>Anna Becker:</strong> Seit wann denn? <em>Since when?</em>",
+            "<strong>Lukas:</strong> Seit gestern. Mein Hals tut auch weh. <em>Since yesterday. My throat hurts too.</em>",
+            "<strong>Anna Becker:</strong> Gute Besserung! Hoffentlich ist es nur eine Erkältung. <em>Get well soon! I hope it is just a cold.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Wie geht es dir?</strong> – How are you? (informal)</li><li><strong>Mein Hals tut weh.</strong> – My throat hurts.</li><li><strong>Gute Besserung!</strong> – Get well soon!</li></ul>"
+        ]
+      },
+      {
+        "label": "Beim Arzt",
+        "instructions": "A patient sees the doctor. They use \"Sie\". What must he do, and may he work?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-09-gesundheit-essen/u9_a3-beim-arzt.mp3",
+            "label": "Listen to the dialogue: Beim Arzt"
+          },
+          "transcript": [
+            "<strong>Frau Dr. Krause:</strong> Guten Tag, Herr Rossi. Was fehlt Ihnen? <em>Hello, Mr Rossi. What is wrong?</em>",
+            "<strong>Marco:</strong> Ich habe Fieber, Husten und Halsschmerzen. <em>I have a fever, a cough and a sore throat.</em>",
+            "<strong>Frau Dr. Krause:</strong> Seit wann haben Sie das? <em>How long have you had that?</em>",
+            "<strong>Marco:</strong> Seit drei Tagen. <em>For three days.</em>",
+            "<strong>Frau Dr. Krause:</strong> Das ist eine Erkältung. Sie sollen viel trinken und im Bett bleiben. <em>It is a cold. You should drink a lot and stay in bed.</em>",
+            "<strong>Marco:</strong> Darf ich arbeiten? <em>May I work?</em>",
+            "<strong>Frau Dr. Krause:</strong> Nein, ich schreibe Sie eine Woche krank. <em>No, I will sign you off sick for a week.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Was fehlt Ihnen?</strong> – What is wrong? (formal)</li><li><strong>Sie sollen …</strong> – You should … (the doctor's instruction)</li><li><strong>krankschreiben → ich schreibe Sie krank</strong> – to sign someone off sick</li></ul>"
+        ]
+      }
+    ]
+  }
+}

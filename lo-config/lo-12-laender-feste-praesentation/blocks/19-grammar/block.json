@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Linking words: aber, deshalb, außerdem",
+  "presentation": "card",
+  "content": {
+    "instructions": "Linking words make a text flow. “aber” (but) does not change the word order. “deshalb” (therefore), “außerdem” (besides) and “trotzdem” (nevertheless) take the first position, so the verb comes next: “Das Rad ist schnell. Deshalb fahre ich oft damit.”",
+    "text": [
+      "<table><caption>Linking words</caption><thead><tr><th>Word</th><th>Listen</th><th>Example</th></tr></thead><tbody><tr><th>aber</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-verbindung-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Berlin ist groß, aber sehr grün.</td></tr><tr><th>deshalb, außerdem</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-verbindung-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Das Rad ist schnell. Deshalb fahre ich oft damit. Außerdem ist es gesund.</td></tr><tr><th>trotzdem</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-verbindung-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Es regnet. Trotzdem fahre ich mit dem Rad.</td></tr></tbody></table>"
+    ]
+  }
+}

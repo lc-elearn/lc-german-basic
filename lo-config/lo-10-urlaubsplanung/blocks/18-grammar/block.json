@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "The weather",
+  "presentation": "card",
+  "content": {
+    "instructions": "Weather sentences use “es” as the subject: “Es regnet. Es schneit. Es ist sonnig.” To ask, say “Wie ist das Wetter?” or “Wie wird das Wetter?” for the forecast. Temperatures are in degrees Celsius: “Es sind zwanzig Grad.”",
+    "text": [
+      "<table><caption>Weather</caption><thead><tr><th>Listen</th><th>German</th><th>English</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-wetter-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Es regnet.</td><td>It is raining.</td></tr><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-wetter-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Es schneit.</td><td>It is snowing.</td></tr><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-wetter-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Die Sonne scheint.</td><td>The sun is shining.</td></tr><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-wetter-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Es ist sonnig / windig / kalt.</td><td>It is sunny / windy / cold.</td></tr><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-wetter-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>Es wird warm.</td><td>It is getting warm.</td></tr><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-wetter-06.mp3\" data-audio-label=\"Play row 6\"></span></td><td>Es sind zwanzig Grad.</td><td>It is twenty degrees.</td></tr></tbody></table>"
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "prose",
+  "title": "Buying a train ticket",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "text": [
+      "In Germany you can buy tickets at a counter, at a machine, in an app and online. Tickets bought well in advance are cheaper, but some are valid only for a named train (<em>Zugbindung</em>). A flexible ticket costs more, but you can take any train on that day. A discount card (<em>BahnCard</em>) gives a reduction on long-distance fares.",
+      "Seats can be reserved for a small fee. In Austria and Switzerland tickets and rules differ, so check the national railway's website before you go."
+    ]
+  }
+}

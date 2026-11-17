@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "Learn each word and say it aloud. Many destinations need an article or a preposition, so learn the whole phrase: <em>nach Italien</em>, <em>in die Schweiz</em>, <em>ans Meer</em>."
+    ],
+    "image": {
+      "src": "images/lo-10-urlaubsplanung/sections/vocabulary.webp",
+      "alt": ""
+    }
+  }
+}

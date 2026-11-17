@@ -1,0 +1,11 @@
+{
+  "type": "prose",
+  "title": "Public transport",
+  "presentation": "card",
+  "content": {
+    "text": [
+      "German cities have an integrated system of buses, trams and underground or suburban trains (<em>S-Bahn</em>). Tickets are often valid on all of them within one region. Buy a ticket before you board: at a machine, in an app or at a counter. A ticket is checked at random, and if you cannot show one you pay a fine.",
+      "On some systems you stamp a paper ticket in a small machine (<em>entwerten</em>) before your first ride. Look for <em>Fahrkarte entwerten</em> on the machine. Local transport is generally punctual, but announcements on stops and in vehicles are in German."
+    ]
+  }
+}

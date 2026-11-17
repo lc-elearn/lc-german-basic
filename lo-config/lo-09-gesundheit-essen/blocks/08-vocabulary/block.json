@@ -1,0 +1,79 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "The body",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "Listen and repeat. Learn the article with each body part.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "parts of the body (<em>der Kopf, der Rücken, das Bein, die Hand</em>);",
+        "organs and senses (<em>der Magen, das Auge, das Ohr</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "der Kopf",
+        "gloss": "head",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-kopf.mp3"
+      },
+      {
+        "term": "der Hals",
+        "gloss": "throat, neck",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-hals.mp3"
+      },
+      {
+        "term": "der Rücken",
+        "gloss": "back",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-ruecken.mp3"
+      },
+      {
+        "term": "der Bauch",
+        "gloss": "stomach, belly",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-bauch.mp3"
+      },
+      {
+        "term": "der Arm",
+        "gloss": "arm",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-arm.mp3"
+      },
+      {
+        "term": "die Hand",
+        "gloss": "hand",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-hand.mp3"
+      },
+      {
+        "term": "das Bein",
+        "gloss": "leg",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-bein.mp3"
+      },
+      {
+        "term": "der Fuß",
+        "gloss": "foot",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-fuss.mp3"
+      },
+      {
+        "term": "das Auge",
+        "gloss": "eye",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-auge.mp3"
+      },
+      {
+        "term": "das Ohr",
+        "gloss": "ear",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-ohr.mp3"
+      },
+      {
+        "term": "der Zahn",
+        "gloss": "tooth",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-zahn.mp3"
+      },
+      {
+        "term": "der Magen",
+        "gloss": "stomach",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-magen.mp3"
+      }
+    ]
+  }
+}

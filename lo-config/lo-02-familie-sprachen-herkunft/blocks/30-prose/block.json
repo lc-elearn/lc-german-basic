@@ -1,0 +1,13 @@
+{
+  "type": "prose",
+  "title": "Languages in the German-speaking world",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "text": [
+      "German is an official language in Germany, Austria and Liechtenstein, and one of four national languages of Switzerland, together with French, Italian and Romansh. In Luxembourg and in South Tyrol (Italy) it is also an official language.",
+      "Germany recognises minority languages such as Danish, Low German, Sorbian, North Frisian and Romani; in Austria, Croatian, Slovene and Hungarian are recognised minority languages. Many people also speak Turkish, Russian, Polish or Arabic at home.",
+      "Standard German is understood everywhere, but dialects and regional vocabulary differ. In Austria, for example, January is often called <em>Jänner</em>."
+    ]
+  }
+}

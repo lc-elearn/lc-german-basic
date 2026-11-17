@@ -1,0 +1,29 @@
+{
+  "type": "phrase-reorder",
+  "title": "Put the conversation in order",
+  "content": {
+    "instructions": "A guest arrives at a birthday party. Drag the lines into the right order.",
+    "rows": [
+      {
+        "prompt": "Lukas",
+        "phrase": "Alles Gute zum Geburtstag, Anna!"
+      },
+      {
+        "prompt": "Anna",
+        "phrase": "Danke, Lukas! Komm rein!"
+      },
+      {
+        "prompt": "Lukas",
+        "phrase": "Das ist für dich. Ich hoffe, es gefällt dir."
+      },
+      {
+        "prompt": "Anna",
+        "phrase": "Oh, ein Buch! Vielen Dank, das ist aber nett."
+      },
+      {
+        "prompt": "Lukas",
+        "phrase": "Gern geschehen. Wie alt bist du jetzt?"
+      }
+    ]
+  }
+}

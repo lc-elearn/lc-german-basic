@@ -1,0 +1,74 @@
+{
+  "type": "tabs",
+  "title": "Einkaufen – Food shopping",
+  "presentation": "card",
+  "content": {
+    "label": "Einkaufen – Food shopping",
+    "tabs": [
+      {
+        "label": "Auf dem Markt",
+        "instructions": "A customer buys fruit at a market. They use \"Sie\". What does the whole shopping cost?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-09-gesundheit-essen/u9_c1-auf-dem-markt.mp3",
+            "label": "Listen to the dialogue: Auf dem Markt"
+          },
+          "transcript": [
+            "<strong>Frau Weber:</strong> Guten Morgen! Was darf es sein? <em>Good morning! What can I get you?</em>",
+            "<strong>Frau Schneider:</strong> Ein Kilo Äpfel, bitte. Und fünfhundert Gramm Tomaten. <em>A kilo of apples, please. And five hundred grams of tomatoes.</em>",
+            "<strong>Frau Weber:</strong> Gern. Die Äpfel sind ganz frisch. <em>Certainly. The apples are very fresh.</em>",
+            "<strong>Frau Schneider:</strong> Was kostet das Kilo? <em>How much is a kilo?</em>",
+            "<strong>Frau Weber:</strong> Drei Euro. Die Tomaten kosten vier Euro das Kilo. <em>Three euros. The tomatoes cost four euros a kilo.</em>",
+            "<strong>Frau Schneider:</strong> Dann zusammen fünf Euro? <em>So five euros together?</em>",
+            "<strong>Frau Weber:</strong> Genau, fünf Euro. <em>Exactly, five euros.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>ein Kilo Äpfel</strong> – a kilo of apples (no article, no plural)</li><li><strong>fünfhundert Gramm</strong> – five hundred grams</li><li><strong>vier Euro das Kilo</strong> – four euros a kilo</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Supermarkt",
+        "instructions": "Alex and Max write a shopping list for a shared meal. They use \"du\". How many eggs do they need?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-09-gesundheit-essen/u9_c2-im-supermarkt.mp3",
+            "label": "Listen to the dialogue: Im Supermarkt"
+          },
+          "transcript": [
+            "<strong>Max:</strong> Was brauchen wir für das Essen am Samstag? <em>What do we need for the meal on Saturday?</em>",
+            "<strong>Alex:</strong> Milch, Eier, Butter und Brot. <em>Milk, eggs, butter and bread.</em>",
+            "<strong>Max:</strong> Und etwas Gemüse. Nimm Tomaten und Zwiebeln. <em>And some vegetables. Take tomatoes and onions.</em>",
+            "<strong>Alex:</strong> Wie viele Eier brauchen wir? <em>How many eggs do we need?</em>",
+            "<strong>Max:</strong> Zehn. Und einen Liter Milch. <em>Ten. And a litre of milk.</em>",
+            "<strong>Alex:</strong> Ich schreibe es auf. Hast du die Tasche? <em>I will write it down. Do you have the bag?</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Wir brauchen …</strong> – We need …</li><li><strong>Wie viele Eier?</strong> – How many eggs?</li><li><strong>einen Liter Milch</strong> – a litre of milk</li></ul>"
+        ]
+      },
+      {
+        "label": "An der Kasse",
+        "instructions": "A customer pays at a supermarket checkout. They use \"Sie\". How does he pay?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-09-gesundheit-essen/u9_c3-an-der-kasse.mp3",
+            "label": "Listen to the dialogue: An der Kasse"
+          },
+          "transcript": [
+            "<strong>Frau Weber:</strong> Haben Sie eine Kundenkarte? <em>Do you have a loyalty card?</em>",
+            "<strong>Daniel:</strong> Nein, leider nicht. <em>No, unfortunately not.</em>",
+            "<strong>Frau Weber:</strong> Brauchen Sie eine Tüte? <em>Do you need a bag?</em>",
+            "<strong>Daniel:</strong> Nein, danke, ich habe eine Tasche dabei. <em>No, thank you, I have a bag with me.</em>",
+            "<strong>Frau Weber:</strong> Das macht zwölf Euro dreißig. Bar oder mit Karte? <em>That is €12.30. Cash or card?</em>",
+            "<strong>Daniel:</strong> Mit Karte, bitte. <em>By card, please.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>die Kundenkarte</strong> – loyalty card</li><li><strong>die Tüte</strong> – carrier bag</li><li><strong>Bar oder mit Karte?</strong> – Cash or card?</li></ul>"
+        ]
+      }
+    ]
+  }
+}

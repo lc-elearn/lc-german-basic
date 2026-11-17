@@ -1,0 +1,25 @@
+{
+  "type": "tabs",
+  "title": "Sounds",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Sounds in this unit",
+    "tabs": [
+      {
+        "label": "Sounds in time words",
+        "instructions": "zw in zwölf is \"tsv\". Uhr has a long \"oo\". ü in fünf and pünktlich is a rounded \"ee\". The ch in Mittag is the ach-sound after a, and the ich-sound after i.",
+        "text": [
+          "<table><caption>Sounds in time words</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>zwölf</td><td>zw = \"tsv\"</td><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_p-zwoelf.mp3\" data-audio-label=\"Play: zwölf\"></span></td></tr><tr><td>Uhr</td><td>long u</td><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_p-uhr.mp3\" data-audio-label=\"Play: Uhr\"></span></td></tr><tr><td>fünf</td><td>ü</td><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_p-fuenf.mp3\" data-audio-label=\"Play: fünf\"></span></td></tr><tr><td>pünktlich</td><td>ü; -lich = soft ch</td><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_p-puenktlich.mp3\" data-audio-label=\"Play: pünktlich\"></span></td></tr><tr><td>Viertel</td><td>ie = long \"ee\"</td><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_p-viertel.mp3\" data-audio-label=\"Play: Viertel\"></span></td></tr><tr><td>Mittag</td><td>short i</td><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_p-mittag.mp3\" data-audio-label=\"Play: Mittag\"></span></td></tr></tbody></table>"
+        ]
+      },
+      {
+        "label": "Stress in compound words",
+        "instructions": "In a compound noun the stress is on the first part: STUNdenplan, MITtagspause, SPRECHstunde. The last part decides the article.",
+        "text": [
+          "<table><caption>Stress in compound nouns</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>Stundenplan</td><td>stress on STUN</td><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_p-stundenplan.mp3\" data-audio-label=\"Play: Stundenplan\"></span></td></tr><tr><td>Mittagspause</td><td>stress on MIT</td><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_p-mittagspause.mp3\" data-audio-label=\"Play: Mittagspause\"></span></td></tr><tr><td>Sprechstunde</td><td>stress on SPRECH</td><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_p-sprechstunde.mp3\" data-audio-label=\"Play: Sprechstunde\"></span></td></tr><tr><td>Arbeitstag</td><td>stress on AR</td><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_p-arbeitstag.mp3\" data-audio-label=\"Play: Arbeitstag\"></span></td></tr><tr><td>Feierabend</td><td>stress on FEI</td><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_p-feierabend.mp3\" data-audio-label=\"Play: Feierabend\"></span></td></tr><tr><td>Hausarbeit</td><td>stress on HAUS</td><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_p-hausarbeit.mp3\" data-audio-label=\"Play: Hausarbeit\"></span></td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Years and dates",
+  "presentation": "card",
+  "content": {
+    "instructions": "Say a year in hundreds up to 1999 (“neunzehnhundertneunundachtzig”) and as a number from 2000 (“zweitausendvierundzwanzig”). Say “im Jahr 1989” or just “1989”. For a date use “am” and the ordinal: “am neunten November”.",
+    "text": [
+      "<table><caption>Years and dates</caption><thead><tr><th>Listen</th><th>Written</th><th>Said</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-jahre-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>1961</td><td>neunzehnhunderteinundsechzig</td></tr><tr><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-jahre-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>1989</td><td>neunzehnhundertneunundachtzig</td></tr><tr><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-jahre-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>2024</td><td>zweitausendvierundzwanzig</td></tr><tr><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-jahre-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>am 9. November 1989</td><td>am neunten November neunzehnhundertneunundachtzig</td></tr></tbody></table>"
+    ]
+  }
+}

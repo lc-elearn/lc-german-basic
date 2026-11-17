@@ -1,0 +1,11 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": ["Switzerland has four national languages. The map shows where each is mainly spoken."],
+    "image": {
+      "src": "images/lo-02-familie-sprachen-herkunft/figures/languages-switzerland.webp",
+      "alt": "Map of Switzerland: German in the centre and east, French west, Italian south, Romansh south-east."
+    }
+  }
+}

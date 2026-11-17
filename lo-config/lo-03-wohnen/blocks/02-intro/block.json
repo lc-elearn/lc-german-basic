@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "Each tab is one short conversation, set in a place you may know. Play the audio first, without the transcript, then open the transcript to check. The English is shown in italics after each line. Notice who says <em>du</em> and who says <em>Sie</em>: the place and the people usually decide."
+    ],
+    "image": {
+      "src": "images/lo-03-wohnen/sections/dialogues.webp",
+      "alt": ""
+    }
+  }
+}

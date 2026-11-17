@@ -1,0 +1,11 @@
+{
+  "type": "prose",
+  "title": "Describing a flat",
+  "presentation": "card",
+  "content": {
+    "text": [
+      "In Germany a flat is described by its number of rooms, not bedrooms: a <em>3-Zimmer-Wohnung</em> has three rooms, usually not counting the kitchen and bathroom. Its size is given in square metres, for example <em>2 Zimmer, 55 m²</em>.",
+      "The monthly rent is quoted as <em>Kaltmiete</em> (rent without heating and service charges) or <em>Warmmiete</em> (including them, the <em>Nebenkosten</em>). Tenants normally pay a deposit, the <em>Kaution</em>, of up to three months’ <em>Kaltmiete</em>."
+    ]
+  }
+}

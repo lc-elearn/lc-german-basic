@@ -1,0 +1,75 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Furniture",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Most furniture words are masculine or neuter: check each article.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": ["furniture and fittings (<em>der Tisch, das Bett, der Schrank</em>)."]
+    },
+    "items": [
+      {
+        "term": "der Tisch",
+        "gloss": "table",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-tisch.mp3"
+      },
+      {
+        "term": "der Stuhl",
+        "gloss": "chair",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-stuhl.mp3"
+      },
+      {
+        "term": "das Bett",
+        "gloss": "bed",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-bett.mp3"
+      },
+      {
+        "term": "der Schrank",
+        "gloss": "wardrobe, cupboard",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-schrank.mp3"
+      },
+      {
+        "term": "das Sofa",
+        "gloss": "sofa",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-sofa.mp3"
+      },
+      {
+        "term": "das Regal",
+        "gloss": "shelf, bookcase",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-regal.mp3"
+      },
+      {
+        "term": "die Lampe",
+        "gloss": "lamp",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-lampe.mp3"
+      },
+      {
+        "term": "der Schreibtisch",
+        "gloss": "desk",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-schreibtisch.mp3"
+      },
+      {
+        "term": "das Fenster",
+        "gloss": "window",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-fenster.mp3"
+      },
+      {
+        "term": "die Tür",
+        "gloss": "door",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-tuer.mp3"
+      },
+      {
+        "term": "die Pflanze",
+        "gloss": "plant",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-pflanze.mp3"
+      },
+      {
+        "term": "das Bild",
+        "gloss": "picture",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-bild.mp3"
+      }
+    ]
+  }
+}

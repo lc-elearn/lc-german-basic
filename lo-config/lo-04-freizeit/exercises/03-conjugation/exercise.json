@@ -1,0 +1,36 @@
+{
+  "type": "conjugation",
+  "title": "Conjugation: fahren",
+  "content": {
+    "instructions": "Write the correct form of fahren. Note the vowel change.",
+    "verb": "fahren",
+    "tense": "Präsens",
+    "answerMode": "typed",
+    "rows": [
+      {
+        "person": "ich",
+        "answer": "fahre"
+      },
+      {
+        "person": "du",
+        "answer": "fährst"
+      },
+      {
+        "person": "er / sie / es",
+        "answer": "fährt"
+      },
+      {
+        "person": "wir",
+        "answer": "fahren"
+      },
+      {
+        "person": "ihr",
+        "answer": "fahrt"
+      },
+      {
+        "person": "sie / Sie",
+        "answer": "fahren"
+      }
+    ]
+  }
+}

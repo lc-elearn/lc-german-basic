@@ -1,0 +1,87 @@
+{
+  "type": "tabs",
+  "title": "Sprachen – Languages",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Sprachen – Languages",
+    "tabs": [
+      {
+        "label": "Am Posterstand",
+        "instructions": "Two delegates meet at a conference poster session. They use \"Sie\". Listen for \"sprechen\", \"ein bisschen\" and \"leider nicht\".",
+        "media": {
+          "audio": {
+            "src": "audio/lo-02-familie-sprachen-herkunft/u2_a1-am-posterstand.mp3",
+            "label": "Listen to the dialogue: Am Posterstand"
+          },
+          "transcript": [
+            "<strong>Frau Keller:</strong> Entschuldigung, Herr Vogel, welche Sprachen sprechen Sie? <em>Excuse me, Mr Vogel, which languages do you speak?</em>",
+            "<strong>Herr Vogel:</strong> Ich spreche Deutsch und auch ziemlich gut Englisch. <em>I speak German and also fairly good English.</em>",
+            "<strong>Frau Keller:</strong> Sprechen Sie auch Französisch? <em>Do you also speak French?</em>",
+            "<strong>Herr Vogel:</strong> Nein, leider nicht. Aber ich lerne Spanisch. Und Sie? <em>No, unfortunately not. But I am learning Spanish. And you?</em>",
+            "<strong>Frau Keller:</strong> Ich spreche Deutsch, Englisch und ein bisschen Französisch. <em>I speak German, English and a little French.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-02-familie-sprachen-herkunft/dialogues/01-am-posterstand.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Welche Sprachen sprechen Sie?</strong> – Which languages do you speak?</li><li><strong>Ich spreche …</strong> – I speak …</li><li><strong>ein bisschen / ziemlich gut</strong> – a little / quite well</li><li><strong>leider nicht</strong> – unfortunately not</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Tandem-Café",
+        "instructions": "A language-exchange evening in a café, where Lena has taken Alex. The speakers use \"du\". Notice how the verb changes: du sprichst, er spricht, sie spricht.",
+        "media": {
+          "audio": {
+            "src": "audio/lo-02-familie-sprachen-herkunft/u2_a2-im-tandem-cafe.mp3",
+            "label": "Listen to the dialogue: Im Tandem-Café"
+          },
+          "transcript": [
+            "<strong>Elif:</strong> Sprichst du Deutsch, Marco? <em>Do you speak German, Marco?</em>",
+            "<strong>Marco:</strong> Ja, ziemlich gut. Ich spreche Italienisch, Deutsch und Englisch. <em>Yes, quite well. I speak Italian, German and English.</em>",
+            "<strong>Elif:</strong> Und Französisch? <em>And French?</em>",
+            "<strong>Marco:</strong> Nein. Aber Sophie spricht Französisch. <em>No. But Sophie speaks French.</em>",
+            "<strong>Elif:</strong> Sophie, sprichst du auch Italienisch? <em>Sophie, do you speak Italian too?</em>",
+            "<strong>Sophie:</strong> Nur ein bisschen. <em>Only a little.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-02-familie-sprachen-herkunft/dialogues/02-im-tandem-cafe.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Sprichst du …?</strong> – Do you speak …? (informal)</li><li><strong>ziemlich gut</strong> – quite well</li><li><strong>Sie spricht …</strong> – She speaks …</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Kurs",
+        "instructions": "Useful classroom questions. How do you ask for a word, and for its spelling?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-02-familie-sprachen-herkunft/u2_a3-im-kurs.mp3",
+            "label": "Listen to the dialogue: Im Kurs"
+          },
+          "transcript": [
+            "<strong>Daniel:</strong> Entschuldigung, wie sagt man „thank you“ auf Deutsch? <em>Excuse me, how do you say \"thank you\" in German?</em>",
+            "<strong>Frau Keller:</strong> Danke. <em>Danke.</em>",
+            "<strong>Daniel:</strong> Und wie schreibt man das? <em>And how do you spell that?</em>",
+            "<strong>Frau Keller:</strong> D-A-N-K-E. <em>D-A-N-K-E.</em>",
+            "<strong>Daniel:</strong> Vielen Dank! <em>Thank you very much!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-02-familie-sprachen-herkunft/dialogues/03-im-kurs.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Wie sagt man … auf Deutsch?</strong> – How do you say … in German?</li><li><strong>Wie schreibt man das?</strong> – How do you spell that?</li><li><strong>Vielen Dank!</strong> – Thank you very much!</li></ul>"
+        ]
+      }
+    ]
+  }
+}

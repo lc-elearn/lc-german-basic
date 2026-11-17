@@ -1,0 +1,71 @@
+{
+  "type": "tabs",
+  "title": "Kultur und Alltag – Culture and daily life",
+  "presentation": "card",
+  "content": {
+    "label": "Kultur und Alltag – Culture and daily life",
+    "tabs": [
+      {
+        "label": "Im Museum",
+        "instructions": "Two colleagues disagree politely about art. They use \"Sie\". What does Mrs Schneider prefer?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-12-laender-feste-praesentation/u12_b1-im-museum.mp3",
+            "label": "Listen to the dialogue: Im Museum"
+          },
+          "transcript": [
+            "<strong>Herr Vogel:</strong> Wie gefällt Ihnen die Ausstellung, Frau Schneider? <em>How do you like the exhibition, Mrs Schneider?</em>",
+            "<strong>Frau Schneider:</strong> Sehr gut. Mir gefallen besonders die modernen Bilder. <em>Very much. I particularly like the modern pictures.</em>",
+            "<strong>Herr Vogel:</strong> Mir auch. Aber die alten Skulpturen finde ich noch interessanter. <em>Me too. But I find the old sculptures even more interesting.</em>",
+            "<strong>Frau Schneider:</strong> Das sehe ich anders. Ich mag moderne Kunst lieber. <em>I see that differently. I prefer modern art.</em>",
+            "<strong>Herr Vogel:</strong> Dann gehen wir noch in den nächsten Saal. <em>Then let us go into the next room.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Mir gefallen die Bilder.</strong> – I like the pictures. (the pictures are pleasing to me)</li><li><strong>Das sehe ich anders.</strong> – I see that differently.</li><li><strong>besonders</strong> – particularly</li></ul>"
+        ]
+      },
+      {
+        "label": "In der WG",
+        "instructions": "Two flatmates sort their rubbish. They use \"du\". Where does the glass bottle go?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-12-laender-feste-praesentation/u12_b2-in-der-wg.mp3",
+            "label": "Listen to the dialogue: In der WG"
+          },
+          "transcript": [
+            "<strong>Daniel:</strong> Wohin kommt die Flasche? <em>Where does the bottle go?</em>",
+            "<strong>Elif:</strong> Die Plastikflasche kommt in den gelben Sack, die Glasflasche in den Glascontainer. <em>The plastic bottle goes into the yellow bag, the glass bottle into the glass container.</em>",
+            "<strong>Daniel:</strong> Und das Papier? <em>And the paper?</em>",
+            "<strong>Elif:</strong> In die blaue Tonne. Der Biomüll kommt in die braune Tonne. <em>Into the blue bin. The organic waste goes into the brown bin.</em>",
+            "<strong>Daniel:</strong> Mülltrennung ist hier sehr wichtig. <em>Sorting rubbish is very important here.</em>",
+            "<strong>Elif:</strong> Ja, und für Pfandflaschen bekommst du Geld zurück. <em>Yes, and you get money back for deposit bottles.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>die Mülltrennung</strong> – sorting rubbish</li><li><strong>der gelbe Sack</strong> – yellow bag (packaging)</li><li><strong>die Pfandflasche</strong> – deposit bottle</li></ul>"
+        ]
+      },
+      {
+        "label": "Meine Meinung",
+        "instructions": "Two students discuss public transport. They use \"du\". Do they agree?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-12-laender-feste-praesentation/u12_b3-meinung.mp3",
+            "label": "Listen to the dialogue: Meine Meinung"
+          },
+          "transcript": [
+            "<strong>Marco:</strong> Meiner Meinung nach sollten alle öffentlichen Verkehrsmittel billiger sein. <em>In my opinion all public transport should be cheaper.</em>",
+            "<strong>Sophie:</strong> Da stimme ich dir zu. Das wäre gut für die Umwelt. <em>I agree with you there. That would be good for the environment.</em>",
+            "<strong>Marco:</strong> Aber das kostet viel Geld. <em>But that costs a lot of money.</em>",
+            "<strong>Sophie:</strong> Das stimmt. Ich denke, dass es wichtig ist. <em>That is true. I think that it is important.</em>",
+            "<strong>Marco:</strong> Vielleicht hast du recht. <em>Maybe you are right.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Meiner Meinung nach …</strong> – In my opinion …</li><li><strong>Da stimme ich dir zu.</strong> – I agree with you.</li><li><strong>Ich denke, dass …</strong> – I think that … (verb at the end)</li></ul>"
+        ]
+      }
+    ]
+  }
+}

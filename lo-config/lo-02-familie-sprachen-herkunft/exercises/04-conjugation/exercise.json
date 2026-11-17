@@ -1,0 +1,36 @@
+{
+  "type": "conjugation",
+  "title": "Conjugation: haben",
+  "content": {
+    "instructions": "Write the correct form of haben.",
+    "verb": "haben",
+    "tense": "Präsens",
+    "answerMode": "typed",
+    "rows": [
+      {
+        "person": "ich",
+        "answer": "habe"
+      },
+      {
+        "person": "du",
+        "answer": "hast"
+      },
+      {
+        "person": "er / sie / es",
+        "answer": "hat"
+      },
+      {
+        "person": "wir",
+        "answer": "haben"
+      },
+      {
+        "person": "ihr",
+        "answer": "habt"
+      },
+      {
+        "person": "sie / Sie",
+        "answer": "haben"
+      }
+    ]
+  }
+}

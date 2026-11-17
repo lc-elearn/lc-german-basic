@@ -1,0 +1,9 @@
+{
+  "type": "word-order",
+  "title": "Word order: an opinion",
+  "content": {
+    "instructions": "Put the words in the right order to give an opinion.",
+    "words": ["Meiner", "Meinung", "nach", "ist", "Berlin", "eine", "interessante", "Stadt."],
+    "audio": "audio/lo-12-laender-feste-praesentation/u12_x-wo-meinung.mp3"
+  }
+}

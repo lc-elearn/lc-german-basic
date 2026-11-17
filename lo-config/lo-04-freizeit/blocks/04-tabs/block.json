@@ -1,0 +1,86 @@
+{
+  "type": "tabs",
+  "title": "Das Wochenende – Planning the weekend",
+  "presentation": "card",
+  "content": {
+    "label": "Das Wochenende – Planning the weekend",
+    "tabs": [
+      {
+        "label": "Am Montag",
+        "instructions": "Two colleagues talk about the weekend on Monday morning. They use \"Sie\". Find three separable verbs.",
+        "media": {
+          "audio": {
+            "src": "audio/lo-04-freizeit/u4_b1-am-montag.mp3",
+            "label": "Listen to the dialogue: Am Montag"
+          },
+          "transcript": [
+            "<strong>Frau Schneider:</strong> Guten Morgen, Herr Vogel. Was machen Sie am Wochenende? <em>Good morning, Mr Vogel. What are you doing at the weekend?</em>",
+            "<strong>Herr Vogel:</strong> Am Samstag besuche ich Freunde in London. Am Sonntag stehe ich spät auf. <em>On Saturday I am visiting friends in London. On Sunday I get up late.</em>",
+            "<strong>Frau Schneider:</strong> Und dann? <em>And then?</em>",
+            "<strong>Herr Vogel:</strong> Dann gehe ich spazieren und rufe meine Familie an. <em>Then I go for a walk and phone my family.</em>",
+            "<strong>Frau Schneider:</strong> Das klingt gut. <em>That sounds good.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-04-freizeit/dialogues/04-am-montag.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Am Samstag besuche ich Freunde.</strong> – On Saturday I visit friends. (time first, then the verb)</li><li><strong>aufstehen → ich stehe auf</strong> – to get up</li><li><strong>anrufen → ich rufe an</strong> – to phone</li></ul>"
+        ]
+      },
+      {
+        "label": "Am Samstag",
+        "instructions": "Two students plan Saturday. They use \"du\". What does Daniel want to do first?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-04-freizeit/u4_b2-am-samstag.mp3",
+            "label": "Listen to the dialogue: Am Samstag"
+          },
+          "transcript": [
+            "<strong>Anna Becker:</strong> Hast du am Samstag Zeit? <em>Do you have time on Saturday?</em>",
+            "<strong>Daniel:</strong> Ja, warum? <em>Yes, why?</em>",
+            "<strong>Anna Becker:</strong> Ich gehe am Samstagabend ins Konzert. Kommst du mit? <em>I am going to a concert on Saturday evening. Are you coming?</em>",
+            "<strong>Daniel:</strong> Gern! Aber vorher kaufe ich noch ein. <em>Gladly! But first I am doing some shopping.</em>",
+            "<strong>Anna Becker:</strong> Kein Problem. Das Konzert fängt erst am Abend an. <em>No problem. The concert only starts in the evening.</em>",
+            "<strong>Daniel:</strong> Super, dann bis Samstag! <em>Great, see you on Saturday!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-04-freizeit/dialogues/05-am-samstag.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Kommst du mit?</strong> – Are you coming (with me)?</li><li><strong>einkaufen → ich kaufe ein</strong> – to shop</li><li><strong>anfangen → es fängt an</strong> – to begin</li></ul>"
+        ]
+      },
+      {
+        "label": "Am Telefon",
+        "instructions": "Alex answers a phone call from Lena about Sunday. They use \"du\". What will they do on Saturday?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-04-freizeit/u4_b3-am-telefon.mp3",
+            "label": "Listen to the dialogue: Am Telefon"
+          },
+          "transcript": [
+            "<strong>Lena:</strong> Hallo, Alex, hier ist Lena. Gehst du am Sonntag wandern? <em>Hello, Alex, this is Lena. Are you going walking on Sunday?</em>",
+            "<strong>Alex:</strong> Ja, wir fahren schon am Morgen ab. <em>Yes, we are setting off in the morning.</em>",
+            "<strong>Lena:</strong> Ach, wie schön! Ich komme gern mit. <em>Oh, how lovely! I would like to come along.</em>",
+            "<strong>Alex:</strong> Prima. Dann rufe ich dich am Samstag an. <em>Great. Then I will phone you on Saturday.</em>",
+            "<strong>Lena:</strong> Gut, danke. Bis Samstag! <em>Good, thank you. See you on Saturday!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-04-freizeit/dialogues/06-am-telefon.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>abfahren → wir fahren ab</strong> – to set off, to leave</li><li><strong>mitkommen → ich komme mit</strong> – to come along</li><li><strong>Hier ist Lena.</strong> – This is Lena. (on the phone)</li></ul>"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "Where to? nach, in, ans, zu",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "For towns, most countries and continents use “nach”, with no article: “nach Italien, nach Wien”. Countries with an article (“die Schweiz, die Türkei, die USA”) use “in” + accusative: “in die Schweiz”. For the sea and the mountains use “ans Meer” (an das) and “in die Berge”. For a person or an office use “zu”.",
+    "text": [
+      "<table><caption>Destinations</caption><thead><tr><th>Destination</th><th>Listen</th><th>Wohin?</th><th>Wo?</th></tr></thead><tbody><tr><th>town, country</th><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-wohin-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>nach Wien, nach Italien</td><td>in Wien, in Italien</td></tr><tr><th>country with article</th><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-wohin-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>in die Schweiz</td><td>in der Schweiz</td></tr><tr><th>the sea</th><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-wohin-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>ans Meer</td><td>am Meer</td></tr><tr><th>the mountains</th><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-wohin-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>in die Berge</td><td>in den Bergen</td></tr><tr><th>my family</th><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-wohin-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>zu meiner Familie</td><td>bei meiner Familie</td></tr></tbody></table>"
+    ]
+  }
+}

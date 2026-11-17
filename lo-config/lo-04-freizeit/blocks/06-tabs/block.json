@@ -1,0 +1,80 @@
+{
+  "type": "tabs",
+  "title": "Lieber oder am liebsten? – Preferences",
+  "presentation": "card",
+  "content": {
+    "label": "Lieber oder am liebsten? – Preferences",
+    "tabs": [
+      {
+        "label": "In der Mensa",
+        "instructions": "Two students compare what they prefer. They use \"du\". Where does Elif like to read most?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-04-freizeit/u4_d1-in-der-mensa.mp3",
+            "label": "Listen to the dialogue: In der Mensa"
+          },
+          "transcript": [
+            "<strong>Elif:</strong> Was machst du lieber, Daniel: lesen oder Filme sehen? <em>What do you prefer doing, Daniel: reading or watching films?</em>",
+            "<strong>Daniel:</strong> Ich sehe lieber Filme. Und du? <em>I prefer watching films. And you?</em>",
+            "<strong>Elif:</strong> Ich lese lieber. Am liebsten lese ich im Park. <em>I prefer reading. Most of all I like reading in the park.</em>",
+            "<strong>Daniel:</strong> Auch im Winter? <em>Even in winter?</em>",
+            "<strong>Elif:</strong> Nein, im Winter lese ich am liebsten im Café. <em>No, in winter I like reading best in a café.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-04-freizeit/dialogues/10-in-der-mensa.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>gern → lieber → am liebsten</strong> – like → prefer → like best</li><li><strong>Filme sehen</strong> – to watch films</li><li><strong>im Winter</strong> – in winter</li></ul>"
+        ]
+      },
+      {
+        "label": "Beim Gartenfest",
+        "instructions": "Two guests at a garden party talk about holidays outdoors. They use \"Sie\". Which two activities does Katrin name?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-04-freizeit/u4_d2-beim-gartenfest.mp3",
+            "label": "Listen to the dialogue: Beim Gartenfest"
+          },
+          "transcript": [
+            "<strong>Katrin Huber:</strong> Herr Lange, wandern Sie lieber in den Bergen oder am Meer? <em>Mr Lange, do you prefer hiking in the mountains or by the sea?</em>",
+            "<strong>Peter Lange:</strong> Ich mache Urlaub entweder in den Bergen oder am Meer. Beides ist schön. <em>I go on holiday either to the mountains or to the sea. Both are lovely.</em>",
+            "<strong>Katrin Huber:</strong> Ich wandere nicht nur gern, sondern ich klettere auch gern. <em>I do not only like hiking, I like climbing too.</em>",
+            "<strong>Peter Lange:</strong> Dann sind Sie in Österreich zu Hause! <em>Then you are at home in Austria!</em>",
+            "<strong>Katrin Huber:</strong> Das stimmt! <em>That is true!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-04-freizeit/dialogues/11-beim-gartenfest.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>entweder … oder</strong> – either … or</li><li><strong>nicht nur … sondern auch</strong> – not only … but also</li><li><strong>in den Bergen / am Meer</strong> – in the mountains / by the sea</li></ul>"
+        ]
+      },
+      {
+        "label": "Beim Sport",
+        "instructions": "Two friends talk about sport. They use \"du\". Which sport does Lukas like best?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-04-freizeit/u4_d3-beim-sport.mp3",
+            "label": "Listen to the dialogue: Beim Sport"
+          },
+          "transcript": [
+            "<strong>Anna Becker:</strong> Spielst du Tennis, Lukas? <em>Do you play tennis, Lukas?</em>",
+            "<strong>Lukas:</strong> Ich spiele nicht nur Tennis, sondern auch Badminton. <em>I do not only play tennis, I play badminton too.</em>",
+            "<strong>Anna Becker:</strong> Und welchen Sport machst du am liebsten? <em>And which sport do you like doing best?</em>",
+            "<strong>Lukas:</strong> Am liebsten schwimme ich. Und du? <em>Swimming is my favourite. And you?</em>",
+            "<strong>Anna Becker:</strong> Ich gehe lieber klettern. <em>I prefer going climbing.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>am liebsten</strong> – best of all</li><li><strong>Welchen Sport machst du?</strong> – Which sport do you do? (welchen = masculine accusative)</li><li><strong>klettern gehen</strong> – to go climbing</li></ul>"
+        ]
+      }
+    ]
+  }
+}

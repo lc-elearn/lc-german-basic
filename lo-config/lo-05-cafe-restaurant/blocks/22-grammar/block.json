@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Grammar check 1: units 1 to 5",
+  "presentation": "card",
+  "content": {
+    "instructions": "A short summary of what you have learned in units 1 to 5, with one example each. Use it to check what you are unsure about, then try the last exercise.",
+    "text": [
+      "<table><caption>Units 1 to 5 at a glance</caption><thead><tr><th>Topic</th><th>Listen</th><th>Rule</th><th>Example</th></tr></thead><tbody><tr><th>sein, haben</th><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-check-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>irregular, learn by heart</td><td>Ich bin Studentin. Wir haben zwei Kinder.</td></tr><tr><th>regular verbs</th><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-check-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>stem + -e, -st, -t, -en, -t, -en</td><td>Du wohnst in Berlin.</td></tr><tr><th>vowel-change verbs</th><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-check-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>du and er change the vowel</td><td>Er fährt, sie liest.</td></tr><tr><th>du or Sie</th><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-check-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Sie with strangers, du with friends</td><td>Wie heißen Sie? Wie heißt du?</td></tr><tr><th>verb position</th><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-check-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>verb second; yes/no question verb first</td><td>Am Samstag gehe ich ins Kino.</td></tr><tr><th>accusative</th><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-check-06.mp3\" data-audio-label=\"Play row 6\"></span></td><td>only masculine changes</td><td>Ich hätte gern einen Kaffee.</td></tr><tr><th>dative after in, mit, von</th><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-check-07.mp3\" data-audio-label=\"Play row 7\"></span></td><td>der/das → dem, die → der</td><td>Ich wohne in einer Wohnung.</td></tr><tr><th>negation</th><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-check-08.mp3\" data-audio-label=\"Play row 8\"></span></td><td>kein + noun, nicht + verb</td><td>Ich habe keine Zeit.</td></tr></tbody></table>"
+    ]
+  }
+}

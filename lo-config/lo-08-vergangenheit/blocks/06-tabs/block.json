@@ -1,0 +1,72 @@
+{
+  "type": "tabs",
+  "title": "Geschichte – A little history",
+  "presentation": "card",
+  "content": {
+    "label": "Geschichte – A little history",
+    "tabs": [
+      {
+        "label": "Im Museum",
+        "instructions": "Two colleagues talk about 1989 in a museum. They use \"Sie\". How old was Mr Vogel?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-08-vergangenheit/u8_d1-im-museum.mp3",
+            "label": "Listen to the dialogue: Im Museum"
+          },
+          "transcript": [
+            "<strong>Frau Schneider:</strong> Wo waren Sie 1989, Herr Vogel? <em>Where were you in 1989, Mr Vogel?</em>",
+            "<strong>Herr Vogel:</strong> Ich war acht Jahre alt und habe in Graz gewohnt. Ich habe die Bilder aus Berlin im Fernsehen gesehen. <em>I was eight years old and lived in Graz. I saw the pictures from Berlin on television.</em>",
+            "<strong>Frau Schneider:</strong> Ich war dreizehn. Meine Eltern sind im November nach Berlin gefahren. <em>I was thirteen. My parents went to Berlin in November.</em>",
+            "<strong>Herr Vogel:</strong> Das war ein großer Moment. <em>That was a big moment.</em>",
+            "<strong>Frau Schneider:</strong> Ja, die Mauer ist gefallen und die Grenze war offen. <em>Yes, the Wall fell and the border was open.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>1989</strong> – neunzehnhundertneunundachtzig</li><li><strong>die Mauer ist gefallen</strong> – the Wall fell</li><li><strong>die Grenze war offen</strong> – the border was open</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Seminar",
+        "instructions": "Two students revise dates for a seminar. They use \"du\". When did the Wall fall?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-08-vergangenheit/u8_d2-im-seminar.mp3",
+            "label": "Listen to the dialogue: Im Seminar"
+          },
+          "transcript": [
+            "<strong>Marco:</strong> Wann haben sie die Berliner Mauer gebaut? <em>When did they build the Berlin Wall?</em>",
+            "<strong>Sophie:</strong> Im Jahr 1961. Und sie ist am 9. November 1989 gefallen. <em>In 1961. And it fell on 9 November 1989.</em>",
+            "<strong>Marco:</strong> Wie lange hat sie gestanden? <em>How long did it stand?</em>",
+            "<strong>Sophie:</strong> Mehr als achtundzwanzig Jahre. <em>More than twenty-eight years.</em>",
+            "<strong>Marco:</strong> Und wann ist Deutschland wieder ein Land geworden? <em>And when did Germany become one country again?</em>",
+            "<strong>Sophie:</strong> Am 3. Oktober 1990. <em>On 3 October 1990.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>im Jahr 1961</strong> – in 1961</li><li><strong>am 9. November</strong> – on 9 November (am neunten November)</li><li><strong>wieder</strong> – again</li></ul>"
+        ]
+      },
+      {
+        "label": "Als ich ein Kind war",
+        "instructions": "Two students talk about their childhood. They use \"du\". When did Daniel come to Berlin?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-08-vergangenheit/u8_d3-als-kind.mp3",
+            "label": "Listen to the dialogue: Als ich ein Kind war"
+          },
+          "transcript": [
+            "<strong>Daniel:</strong> Als ich ein Kind war, habe ich in Manchester gewohnt. <em>When I was a child, I lived in Manchester.</em>",
+            "<strong>Elif:</strong> Und wann bist du nach Berlin gekommen? <em>And when did you come to Berlin?</em>",
+            "<strong>Daniel:</strong> Als ich achtzehn war. Und du, wo hast du als Kind gewohnt? <em>When I was eighteen. And you, where did you live as a child?</em>",
+            "<strong>Elif:</strong> In Köln. Als ich zehn war, sind wir in ein neues Haus umgezogen. <em>In Cologne. When I was ten, we moved to a new house.</em>",
+            "<strong>Daniel:</strong> Weit weg? <em>Far away?</em>",
+            "<strong>Elif:</strong> Nein, nur in den Nachbarort. <em>No, only to the next village.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Als ich ein Kind war, …</strong> – When I was a child, … (single time in the past)</li><li><strong>als Kind</strong> – as a child</li><li><strong>der Nachbarort</strong> – neighbouring village</li></ul>"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Grammar check 3: the whole course",
+  "presentation": "card",
+  "content": {
+    "instructions": "A short summary of the main patterns of units 1 to 11, with one example each. Use it to check what you are unsure about, then try the last exercise.",
+    "text": [
+      "<table><caption>The course at a glance</caption><thead><tr><th>Topic</th><th>Listen</th><th>Rule</th><th>Example</th></tr></thead><tbody><tr><th>verbs in the present</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-check3-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>stem + -e, -st, -t, -en; vowel change for du and er</td><td>Ich wohne in Berlin. Er fährt.</td></tr><tr><th>past</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-check3-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Perfekt: haben / sein + participle; war, hatte</td><td>Ich habe gegessen. Wir sind gefahren. Ich war in Wien.</td></tr><tr><th>imperative</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-check3-04.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Sie: infinitive + Sie; du: stem</td><td>Nehmen Sie die U-Bahn! Nimm die Bahn!</td></tr><tr><th>cases</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-check3-05.mp3\" data-audio-label=\"Play row 4\"></span></td><td>nominative, accusative (only masculine changes), dative</td><td>Ich hätte gern einen Kaffee. Ich fahre mit dem Zug.</td></tr><tr><th>modal verbs</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-check3-06.mp3\" data-audio-label=\"Play row 5\"></span></td><td>können, müssen, möchten + infinitive at the end</td><td>Ich muss um sechs aufstehen.</td></tr><tr><th>main clause</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-check3-07.mp3\" data-audio-label=\"Play row 6\"></span></td><td>verb second; yes/no question verb first</td><td>Am Samstag gehe ich ins Kino. Gehen wir ins Kino?</td></tr><tr><th>subordinate clause</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-check3-08.mp3\" data-audio-label=\"Play row 7\"></span></td><td>als: verb at the end</td><td>Als ich ein Kind war, wohnte ich in Leipzig.</td></tr></tbody></table>"
+    ]
+  }
+}

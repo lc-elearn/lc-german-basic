@@ -1,0 +1,78 @@
+{
+  "title": "Reisen und Reservierungen",
+  "description": "Buy tickets, travel by train and plane, check in at a hotel or campsite, report problems and ask for help, in places from the station and airport to a youth hostel. Includes a grammar check of units 6 to 11.",
+  "sections": [
+    {
+      "id": "introduction",
+      "label": "Introduction",
+      "blocks": ["00-intro", "01-outcomes"]
+    },
+    {
+      "id": "dialogues",
+      "label": "German in Use: Dialogues",
+      "navLabel": "Dialogues",
+      "blocks": ["02-intro", "03-tabs", "04-tabs", "05-tabs", "06-tabs"]
+    },
+    {
+      "id": "vocabulary",
+      "label": "Vocabulary",
+      "blocks": [
+        "07-intro",
+        "08-vocabulary",
+        "09-vocabulary",
+        "10-vocabulary",
+        "11-vocabulary",
+        "12-vocabulary",
+        "13-vocabulary"
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "label": "Pronunciation",
+      "blocks": ["14-intro", "15-tabs"]
+    },
+    {
+      "id": "grammar",
+      "label": "Grammar",
+      "blocks": [
+        "16-intro",
+        "17-grammar",
+        "18-grammar",
+        "19-grammar",
+        "20-grammar",
+        "21-grammar",
+        "22-grammar",
+        "23-grammar"
+      ]
+    },
+    {
+      "id": "culture",
+      "label": "Cultural Notes",
+      "navLabel": "Culture",
+      "blocks": ["24-intro", "25-prose", "26-prose", "27-prose", "28-tabs"]
+    },
+    {
+      "id": "exercises",
+      "label": "Exercises",
+      "blocks": ["29-intro"],
+      "exercises": [
+        "01-flashcards",
+        "02-inline-choice",
+        "03-conjugation",
+        "04-inline-gap",
+        "05-word-order",
+        "06-phrase-reorder",
+        "07-dictation",
+        "08-reading",
+        "09-inline-choice"
+      ]
+    }
+  ],
+  "modals": ["credits"],
+  "hovers": [],
+  "image": "images/lo-11-reisen-reservierungen/card.webp",
+  "hero": {
+    "src": "images/lo-11-reisen-reservierungen/hero.webp"
+  },
+  "credits": "credits"
+}

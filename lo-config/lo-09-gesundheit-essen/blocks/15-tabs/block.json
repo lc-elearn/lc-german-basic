@@ -1,0 +1,25 @@
+{
+  "type": "tabs",
+  "title": "Sounds",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Sounds in this unit",
+    "tabs": [
+      {
+        "label": "Long and short vowels",
+        "instructions": "A vowel before h is long (Zahn, Ohr). A vowel before a double consonant is short (Bett, Mund). Often a single consonant after the vowel gives a long vowel, two consonants a short one.",
+        "text": [
+          "<table><caption>Long and short vowels</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>Zahn</td><td>long a</td><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_p-zahn.mp3\" data-audio-label=\"Play: Zahn\"></span></td></tr><tr><td>Ohr</td><td>long o</td><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_p-ohr.mp3\" data-audio-label=\"Play: Ohr\"></span></td></tr><tr><td>Fuß</td><td>long u</td><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_p-fuss.mp3\" data-audio-label=\"Play: Fuß\"></span></td></tr><tr><td>Kopf</td><td>short o</td><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_p-kopf.mp3\" data-audio-label=\"Play: Kopf\"></span></td></tr><tr><td>Mund</td><td>short u</td><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_p-mund.mp3\" data-audio-label=\"Play: Mund\"></span></td></tr><tr><td>Hals</td><td>short a</td><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_p-hals.mp3\" data-audio-label=\"Play: Hals\"></span></td></tr></tbody></table>"
+        ]
+      },
+      {
+        "label": "ck, ng, nk and chs",
+        "instructions": "ck is a hard k, after a short vowel: Rücken. ng is one sound, as in \"sing\": Zunge. nk is ng plus k: krank. chs is \"ks\": sechs.",
+        "text": [
+          "<table><caption>Consonant groups</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>Rücken</td><td>ck = k</td><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_p-ruecken.mp3\" data-audio-label=\"Play: Rücken\"></span></td></tr><tr><td>Zunge</td><td>ng = \"ng\"</td><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_p-zunge.mp3\" data-audio-label=\"Play: Zunge\"></span></td></tr><tr><td>krank</td><td>nk = \"ngk\"</td><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_p-krank.mp3\" data-audio-label=\"Play: krank\"></span></td></tr><tr><td>Schmerzen</td><td>sch, rz</td><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_p-schmerzen.mp3\" data-audio-label=\"Play: Schmerzen\"></span></td></tr><tr><td>sechs</td><td>chs = \"ks\"</td><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_p-sechs.mp3\" data-audio-label=\"Play: sechs\"></span></td></tr><tr><td>Husten</td><td>st = \"scht\" at the start of a stem</td><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_p-husten.mp3\" data-audio-label=\"Play: Husten\"></span></td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}

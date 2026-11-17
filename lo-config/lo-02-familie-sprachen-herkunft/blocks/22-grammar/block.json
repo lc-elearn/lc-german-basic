@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "Plurals of nouns",
+  "presentation": "card",
+  "content": {
+    "instructions": "German plurals are not fully predictable. The main patterns are shown here. Always learn a noun with its plural: der Bruder, die Brüder. The plural article is always die.",
+    "text": [
+      "<table><caption>Plural patterns</caption><thead><tr><th>Listen</th><th>Pattern</th><th>Singular</th><th>Plural</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-plurals-of-nouns-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>no change</td><td>der Lehrer</td><td>die Lehrer</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-plurals-of-nouns-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>umlaut</td><td>der Bruder</td><td>die Brüder</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-plurals-of-nouns-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>umlaut</td><td>die Mutter</td><td>die Mütter</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-plurals-of-nouns-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>-n</td><td>die Schwester</td><td>die Schwestern</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-plurals-of-nouns-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>-en</td><td>der Student</td><td>die Studenten</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-plurals-of-nouns-06.mp3\" data-audio-label=\"Play row 6\"></span></td><td>-nen (-in nouns)</td><td>die Lehrerin</td><td>die Lehrerinnen</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-plurals-of-nouns-07.mp3\" data-audio-label=\"Play row 7\"></span></td><td>-e (with umlaut)</td><td>der Sohn</td><td>die Söhne</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-plurals-of-nouns-08.mp3\" data-audio-label=\"Play row 8\"></span></td><td>umlaut + -e</td><td>die Tochter</td><td>die Töchter</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-plurals-of-nouns-09.mp3\" data-audio-label=\"Play row 9\"></span></td><td>-er</td><td>das Kind</td><td>die Kinder</td></tr></tbody></table>",
+      "Das sind meine Brüder. Wir haben zwei Töchter und einen Sohn."
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Countries, regions and places",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "Listen and repeat. Check the article of each noun.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "countries and regions (<em>das Land, die Region, der Norden, der Süden</em>);",
+        "places (<em>die Hauptstadt, der Fluss, der See, die Landschaft</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "das Land",
+        "gloss": "country, state",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-land-land.mp3"
+      },
+      {
+        "term": "die Region",
+        "gloss": "region",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-land-region.mp3"
+      },
+      {
+        "term": "das Bundesland",
+        "gloss": "federal state",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-land-bundesland.mp3"
+      },
+      {
+        "term": "der Kanton",
+        "gloss": "canton",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-land-kanton.mp3"
+      },
+      {
+        "term": "die Hauptstadt",
+        "gloss": "capital",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-land-hauptstadt.mp3"
+      },
+      {
+        "term": "der Norden / der Süden",
+        "gloss": "north / south",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-land-nord-sued.mp3"
+      },
+      {
+        "term": "der Osten / der Westen",
+        "gloss": "east / west",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-land-ost-west.mp3"
+      },
+      {
+        "term": "der Fluss",
+        "gloss": "river",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-land-fluss.mp3"
+      },
+      {
+        "term": "der See",
+        "gloss": "lake",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-land-see.mp3"
+      },
+      {
+        "term": "die Landschaft",
+        "gloss": "landscape",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-land-landschaft.mp3"
+      },
+      {
+        "term": "die Burg",
+        "gloss": "castle",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-land-burg.mp3"
+      }
+    ]
+  }
+}

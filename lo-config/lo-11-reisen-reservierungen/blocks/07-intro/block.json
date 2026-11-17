@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "Learn each word and say it aloud. Many travel words are compound nouns: <em>der Fahrkartenschalter</em> is Fahrkarte + Schalter."
+    ],
+    "image": {
+      "src": "images/lo-11-reisen-reservierungen/sections/vocabulary.webp",
+      "alt": ""
+    }
+  }
+}

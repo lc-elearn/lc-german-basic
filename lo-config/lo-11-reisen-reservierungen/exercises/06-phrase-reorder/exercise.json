@@ -1,0 +1,29 @@
+{
+  "type": "phrase-reorder",
+  "title": "Put the conversation in order",
+  "content": {
+    "instructions": "A traveller buys a ticket. Drag the lines into the right order.",
+    "rows": [
+      {
+        "prompt": "Frau Weber",
+        "phrase": "Guten Tag. Was kann ich für Sie tun?"
+      },
+      {
+        "prompt": "Herr Vogel",
+        "phrase": "Eine Fahrkarte nach Hamburg, bitte."
+      },
+      {
+        "prompt": "Frau Weber",
+        "phrase": "Einfach oder hin und zurück?"
+      },
+      {
+        "prompt": "Herr Vogel",
+        "phrase": "Hin und zurück, zweite Klasse. Ich fahre am Freitagmorgen und komme am Sonntag zurück."
+      },
+      {
+        "prompt": "Frau Weber",
+        "phrase": "Das macht neunundachtzig Euro. Möchten Sie einen Sitzplatz reservieren?"
+      }
+    ]
+  }
+}
