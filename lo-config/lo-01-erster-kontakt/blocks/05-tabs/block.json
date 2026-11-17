@@ -1,0 +1,69 @@
+{
+  "type": "tabs",
+  "title": "Wie alt sind Sie? – Saying your age",
+  "presentation": "card",
+  "content": {
+    "label": "Wie alt sind Sie? – Saying your age",
+    "tabs": [
+      {
+        "label": "Am Fluss",
+        "instructions": "Two students walk along the river. They use \"du\". Listen for the numbers: how do you say 24 and 22?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-01-erster-kontakt/u1_d3-s1-am-fluss.mp3",
+            "label": "Listen to the dialogue: Am Fluss"
+          },
+          "transcript": [
+            "<strong>Anna Becker:</strong> Wie alt bist du, Lukas? <em>How old are you, Lukas?</em>",
+            "<strong>Lukas:</strong> Ich bin vierundzwanzig. Und du? <em>I am twenty-four. And you?</em>",
+            "<strong>Anna Becker:</strong> Ich bin zweiundzwanzig. <em>I am twenty-two.</em>",
+            "<strong>Lukas:</strong> Wohnst du hier in Berlin? <em>Do you live here in Berlin?</em>",
+            "<strong>Anna Becker:</strong> Ja, ich wohne hier. Und du? <em>Yes, I live here. And you?</em>",
+            "<strong>Lukas:</strong> Ich auch. <em>Me too.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-01-erster-kontakt/dialogues/07-am-fluss.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Wie alt bist du?</strong> – How old are you? (informal)</li><li><strong>Ich bin vierundzwanzig.</strong> – I am twenty-four.</li><li><strong>Wohnst du hier?</strong> – Do you live here? (informal)</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Sportclub",
+        "instructions": "A new member fills in a form at the sports club desk. They use \"Sie\". How old is he, and where is he from?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-01-erster-kontakt/u1_d3-s2-im-sportclub.mp3",
+            "label": "Listen to the dialogue: Im Sportclub"
+          },
+          "transcript": [
+            "<strong>Anna Becker:</strong> Guten Tag! Das Formular, bitte. Wie alt sind Sie? <em>Hello! The form, please. How old are you?</em>",
+            "<strong>Herr Vogel:</strong> Ich bin fünfundvierzig Jahre alt. <em>I am forty-five years old.</em>",
+            "<strong>Anna Becker:</strong> Und woher kommen Sie? <em>And where are you from?</em>",
+            "<strong>Herr Vogel:</strong> Ich komme aus Graz. Ich bin Österreicher. <em>I come from Graz. I am Austrian.</em>",
+            "<strong>Anna Becker:</strong> Danke, Herr Vogel. Willkommen im Club! <em>Thank you, Mr Vogel. Welcome to the club!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-01-erster-kontakt/dialogues/08-im-sportclub.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Wie alt sind Sie?</strong> – How old are you? (formal)</li><li><strong>Ich bin … Jahre alt.</strong> – I am … years old.</li><li><strong>Das Formular, bitte.</strong> – The form, please.</li></ul>"
+        ]
+      },
+      {
+        "label": "Notes",
+        "instructions": "Two things to know before you ask about age.",
+        "text": [
+          "Between students, <em>Wie alt bist du?</em> is a normal question. Between adult strangers, in German as in English, age is only asked where it matters, for example on a form or for a discount.",
+          "The answer is short: <em>Ich bin fünfundvierzig.</em> You can leave out <em>Jahre alt</em>."
+        ]
+      }
+    ]
+  }
+}

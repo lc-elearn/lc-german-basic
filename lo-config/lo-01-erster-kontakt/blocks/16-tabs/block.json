@@ -1,0 +1,39 @@
+{
+  "type": "tabs",
+  "title": "du, ihr or Sie?",
+  "presentation": "card",
+  "content": {
+    "label": "du, ihr and Sie",
+    "tabs": [
+      {
+        "label": "du",
+        "instructions": "Use du with one person you know well: friends, family, usually other students, and colleagues when your workplace uses du.",
+        "text": [
+          "<ul><li>Wie heißt <strong>du</strong>? – Ich heiße Elif.</li><li>Woher kommst <strong>du</strong>?</li><li>Wie geht es <strong>dir</strong>? / Und <strong>dir</strong>?</li></ul>"
+        ]
+      },
+      {
+        "label": "Sie",
+        "instructions": "Use Sie (always with a capital S) with one or more people you do not know well: officials, library and shop staff, lecturers, and older people. The verb form is the same as for \"they\" (sie).",
+        "text": [
+          "<ul><li>Wie heißen <strong>Sie</strong>? – Mein Name ist Vogel.</li><li>Woher kommen <strong>Sie</strong>?</li><li>Wie geht es <strong>Ihnen</strong>? / Und <strong>Ihnen</strong>?</li></ul>"
+        ]
+      },
+      {
+        "label": "ihr",
+        "instructions": "Use ihr to talk to two or more people you would each call du.",
+        "text": [
+          "<ul><li>Woher kommt <strong>ihr</strong>? – Wir kommen aus Italien.</li><li>Seid <strong>ihr</strong> Studenten?</li></ul>"
+        ]
+      },
+      {
+        "label": "Pronoun forms",
+        "instructions": "The table shows subject, object and indirect-object forms of these pronouns. In this unit you meet dir / Ihnen in \"Wie geht es dir / Ihnen?\" and mich in \"Freut mich\".",
+        "text": [
+          "<table><caption>Personal pronouns</caption><thead><tr><th>Nominative</th><th>Accusative</th><th>Dative</th></tr></thead><tbody><tr><td>ich</td><td>mich</td><td>mir</td></tr><tr><td>du</td><td>dich</td><td>dir</td></tr><tr><td>Sie</td><td>Sie</td><td>Ihnen</td></tr></tbody></table>",
+          "Freut mich! Wie geht es dir? Wie geht es Ihnen?"
+        ]
+      }
+    ]
+  }
+}

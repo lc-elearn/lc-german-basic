@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "Nationalities and kommen aus",
+  "presentation": "card",
+  "content": {
+    "instructions": "Nationalities are nouns, so they are capitalised. Most have a male and a female form (add -in for women). After sein there is no article: Ich bin Italienerin. (Ich bin eine Italienerin is possible, but the form without the article is the usual way to state nationality.) With aus, most countries take no article. A few countries do: aus der Schweiz, aus der Türkei, aus den USA.",
+    "text": [
+      "<table><caption>Nationalities</caption><thead><tr><th>Listen</th><th>Male</th><th>Female</th><th>Country</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-nationalities-and-kommen-aus-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Italiener</td><td>Italienerin</td><td>Italien</td></tr><tr><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-nationalities-and-kommen-aus-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Engländer</td><td>Engländerin</td><td>England</td></tr><tr><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-nationalities-and-kommen-aus-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Österreicher</td><td>Österreicherin</td><td>Österreich</td></tr><tr><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-nationalities-and-kommen-aus-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Franzose</td><td>Französin</td><td>Frankreich</td></tr><tr><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-nationalities-and-kommen-aus-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>Deutscher</td><td>Deutsche</td><td>Deutschland</td></tr></tbody></table>",
+      "Ich komme aus Italien. Ich bin Italiener. – Ich komme aus der Schweiz. Ich bin Schweizerin."
+    ]
+  }
+}

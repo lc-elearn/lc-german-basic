@@ -1,0 +1,9 @@
+{
+  "type": "word-order",
+  "title": "Word order: a question",
+  "content": {
+    "instructions": "Put the words in the right order to make a question.",
+    "words": ["Woher", "kommen", "Sie,", "Frau", "Keller?"],
+    "audio": "audio/lo-01-erster-kontakt/u1_x-wo-woher-kommen-sie.mp3"
+  }
+}

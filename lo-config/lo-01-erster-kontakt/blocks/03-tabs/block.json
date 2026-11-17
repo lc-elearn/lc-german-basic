@@ -1,0 +1,88 @@
+{
+  "type": "tabs",
+  "title": "Guten Tag! – Hello!",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Guten Tag! – Hello!",
+    "tabs": [
+      {
+        "label": "Im Sprachenzentrum",
+        "instructions": "A new learner collects a course book at the Language Centre front desk in the morning. They use \"Sie\". Which greeting fits the time of day?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-01-erster-kontakt/u1_d1-s1-im-sprachenzentrum.mp3",
+            "label": "Listen to the dialogue: Im Sprachenzentrum"
+          },
+          "transcript": [
+            "<strong>Frau Schneider:</strong> Guten Morgen! Wie geht es Ihnen? <em>Good morning! How are you?</em>",
+            "<strong>Daniel:</strong> Guten Morgen. Gut, danke. Und Ihnen? <em>Good morning. Fine, thank you. And you?</em>",
+            "<strong>Frau Schneider:</strong> Auch gut, danke. Hier ist Ihr Kursbuch. <em>Also fine, thank you. Here is your course book.</em>",
+            "<strong>Daniel:</strong> Danke schön! <em>Thank you very much!</em>",
+            "<strong>Frau Schneider:</strong> Bitte schön. Einen schönen Tag! <em>You are welcome. Have a nice day!</em>",
+            "<strong>Daniel:</strong> Danke, Ihnen auch! Auf Wiedersehen! <em>Thanks, you too! Goodbye!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-01-erster-kontakt/dialogues/01-im-sprachenzentrum.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Guten Morgen!</strong> – Good morning!</li><li><strong>Wie geht es Ihnen?</strong> – How are you? (formal)</li><li><strong>Danke schön! / Bitte schön!</strong> – Thank you! / You are welcome!</li><li><strong>Einen schönen Tag! / Ihnen auch!</strong> – Have a nice day! / You too! (formal)</li></ul>"
+        ]
+      },
+      {
+        "label": "Auf dem Markt",
+        "instructions": "Alex buys bread at a stall on the market square. How many times do you hear \"bitte\", and does it mean the same each time?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-01-erster-kontakt/u1_d1-s2-auf-dem-markt.mp3",
+            "label": "Listen to the dialogue: Auf dem Markt"
+          },
+          "transcript": [
+            "<strong>Lukas:</strong> Guten Tag! <em>Hello!</em>",
+            "<strong>Alex:</strong> Guten Tag! Zwei Brötchen, bitte. <em>Hello! Two bread rolls, please.</em>",
+            "<strong>Lukas:</strong> Bitte schön. Zwei Euro, bitte. <em>Here you are. Two euros, please.</em>",
+            "<strong>Alex:</strong> Bitte schön. <em>Here you are.</em>",
+            "<strong>Lukas:</strong> Danke schön! Auf Wiedersehen! <em>Thank you! Goodbye!</em>",
+            "<strong>Alex:</strong> Auf Wiedersehen! <em>Goodbye!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-01-erster-kontakt/dialogues/02-auf-dem-markt.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Zwei Brötchen, bitte.</strong> – Two bread rolls, please.</li><li><strong>Bitte schön.</strong> – Here you are. / You are welcome.</li><li><strong>Zwei Euro, bitte.</strong> – Two euros, please.</li></ul>"
+        ]
+      },
+      {
+        "label": "Am Abend im Studentenclub",
+        "instructions": "Two students meet in the student club in the evening. They use \"du\". Which words tell you so?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-01-erster-kontakt/u1_d1-s3-am-abend-im-studentenclub.mp3",
+            "label": "Listen to the dialogue: Am Abend im Studentenclub"
+          },
+          "transcript": [
+            "<strong>Marco:</strong> Guten Abend, Anna! Wie geht's? <em>Good evening, Anna! How are you?</em>",
+            "<strong>Anna Becker:</strong> Hallo, Marco! Gut, danke. Und dir? <em>Hi, Marco! Fine, thanks. And you?</em>",
+            "<strong>Marco:</strong> Auch gut, danke. <em>Also fine, thanks.</em>",
+            "<strong>Anna Becker:</strong> Tschüs, Marco! Bis später! <em>Bye, Marco! See you later!</em>",
+            "<strong>Marco:</strong> Tschüs, bis später! <em>Bye, see you later!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-01-erster-kontakt/dialogues/03-am-abend-im-studentenclub.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Wie geht's?</strong> – How are you? (informal)</li><li><strong>Und dir?</strong> – And you? (informal)</li><li><strong>Tschüs! / Bis später!</strong> – Bye! / See you later!</li></ul>"
+        ]
+      }
+    ]
+  }
+}

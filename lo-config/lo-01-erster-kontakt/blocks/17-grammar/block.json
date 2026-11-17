@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Asking questions",
+  "presentation": "card",
+  "content": {
+    "instructions": "Question words (Wie? Woher? Wo? Wer? Was?) go first; the verb comes second. A yes/no question starts with the verb. Answer with Ja or Nein.",
+    "text": [
+      "<table><caption>Two kinds of question</caption><thead><tr><th>Type</th><th>Listen</th><th>Question</th><th>Answer</th></tr></thead><tbody><tr><th>Question word</th><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-asking-questions-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Wie heißen Sie?</td><td>Ich heiße Vogel.</td></tr><tr><th>Question word</th><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-asking-questions-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Woher kommst du?</td><td>Ich komme aus Köln.</td></tr><tr><th>Question word</th><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-asking-questions-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Wo wohnen Sie?</td><td>Ich wohne in Berlin.</td></tr><tr><th>Question word</th><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-asking-questions-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Wie alt bist du?</td><td>Ich bin 22 Jahre alt.</td></tr><tr><th>Verb first (yes / no)</th><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-asking-questions-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>Sind Sie Österreicher?</td><td>Ja, ich bin Österreicher.</td></tr><tr><th>Verb first (yes / no)</th><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-asking-questions-06.mp3\" data-audio-label=\"Play row 6\"></span></td><td>Kommst du aus Italien?</td><td>Nein, ich komme aus Spanien.</td></tr></tbody></table>"
+    ]
+  }
+}

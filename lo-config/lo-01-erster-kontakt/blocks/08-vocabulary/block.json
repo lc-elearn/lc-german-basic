@@ -1,0 +1,90 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Greetings and polite phrases",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "Listen to each phrase, say it aloud, and notice which ones are formal and which informal.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "greetings for different times of day (<em>Guten Morgen, Guten Tag, Guten Abend</em>);",
+        "saying goodbye, formally and informally (<em>Auf Wiedersehen, Tschüs</em>);",
+        "polite phrases (<em>danke, bitte, Entschuldigung</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "Guten Morgen!",
+        "gloss": "Good morning!",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-greet-guten-morgen.mp3"
+      },
+      {
+        "term": "Guten Tag!",
+        "gloss": "Hello! / Good day!",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-greet-guten-tag.mp3"
+      },
+      {
+        "term": "Guten Abend!",
+        "gloss": "Good evening!",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-greet-guten-abend.mp3"
+      },
+      {
+        "term": "Hallo!",
+        "gloss": "Hello! (informal)",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-greet-hallo.mp3"
+      },
+      {
+        "term": "Wie geht es Ihnen?",
+        "gloss": "How are you? (formal)",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-greet-wie-geht-es-ihnen.mp3"
+      },
+      {
+        "term": "Wie geht's?",
+        "gloss": "How are you? (casual)",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-greet-wie-gehts.mp3"
+      },
+      {
+        "term": "Gut, danke.",
+        "gloss": "Fine, thank you.",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-greet-gut-danke.mp3"
+      },
+      {
+        "term": "Auf Wiedersehen!",
+        "gloss": "Goodbye!",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-greet-auf-wiedersehen.mp3"
+      },
+      {
+        "term": "Tschüs!",
+        "gloss": "Bye! (informal)",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-greet-tschues.mp3"
+      },
+      {
+        "term": "Bis später!",
+        "gloss": "See you later!",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-greet-bis-spaeter.mp3"
+      },
+      {
+        "term": "Danke schön! / Bitte schön!",
+        "gloss": "Thank you very much! / You are welcome!",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-greet-danke-bitte-schoen.mp3"
+      },
+      {
+        "term": "Entschuldigung!",
+        "gloss": "Excuse me! / Sorry!",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-greet-entschuldigung.mp3"
+      },
+      {
+        "term": "Wie bitte?",
+        "gloss": "Pardon?",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-greet-wie-bitte.mp3"
+      },
+      {
+        "term": "Freut mich!",
+        "gloss": "Pleased to meet you!",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-greet-freut-mich.mp3"
+      }
+    ]
+  }
+}

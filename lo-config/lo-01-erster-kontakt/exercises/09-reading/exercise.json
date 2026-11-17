@@ -1,0 +1,42 @@
+{
+  "type": "reading",
+  "title": "Reading: three self-introductions",
+  "content": {
+    "instructions": "Read the three introductions and answer the questions.",
+    "passage": "Hallo! Ich heiße Nora Bauer. Ich bin 20 Jahre alt und komme aus Hamburg. Ich wohne in Berlin. Ich bin Deutsche.\nGuten Tag! Mein Name ist Paul Gruber. Ich bin 47 Jahre alt. Ich komme aus Wien. Ich bin Österreicher.\nGrüezi! Ich bin Sara Meier. Ich bin 31 und komme aus Zürich. Ich bin Schweizerin.",
+    "trueLabel": "Richtig",
+    "falseLabel": "Falsch",
+    "questions": [
+      {
+        "type": "true-false",
+        "prompt": "Nora ist 20 Jahre alt.",
+        "answer": true,
+        "explanation": "“Ich bin 20 Jahre alt.”"
+      },
+      {
+        "type": "true-false",
+        "prompt": "Nora wohnt in Hamburg.",
+        "answer": false,
+        "explanation": "Nora kommt aus Hamburg, aber sie wohnt in Berlin."
+      },
+      {
+        "type": "true-false",
+        "prompt": "Paul kommt aus Deutschland.",
+        "answer": false,
+        "explanation": "Paul kommt aus Wien, in Österreich."
+      },
+      {
+        "type": "radio",
+        "prompt": "Wer kommt aus Zürich?",
+        "options": ["Nora", "Paul", "Sara"],
+        "answer": "Sara"
+      },
+      {
+        "type": "radio",
+        "prompt": "Wie alt ist Paul?",
+        "options": ["20", "31", "47"],
+        "answer": "47"
+      }
+    ]
+  }
+}

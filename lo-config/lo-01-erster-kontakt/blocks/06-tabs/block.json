@@ -1,0 +1,87 @@
+{
+  "type": "tabs",
+  "title": "Woher kommen Sie? – Where you are from",
+  "presentation": "card",
+  "content": {
+    "label": "Woher kommen Sie? – Where you are from",
+    "tabs": [
+      {
+        "label": "Kaffeepause auf der Konferenz",
+        "instructions": "Two delegates meet during a conference coffee break. They use \"Sie\". Where does each person come from, and where does she live?",
+        "media": {
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-01-erster-kontakt/dialogues/09-kaffeepause-auf-der-konferenz.webp",
+            "alt": ""
+          },
+          "audio": {
+            "src": "audio/lo-01-erster-kontakt/u1_d4-s1-kaffeepause.mp3",
+            "label": "Listen to the dialogue: Kaffeepause auf der Konferenz"
+          },
+          "transcript": [
+            "<strong>Frau Keller:</strong> Entschuldigung, sind Sie Herr Vogel? <em>Excuse me, are you Mr Vogel?</em>",
+            "<strong>Herr Vogel:</strong> Ja, guten Tag. <em>Yes, hello.</em>",
+            "<strong>Frau Keller:</strong> Guten Tag. Ich bin Anja Keller. Sie kommen aus Österreich, oder? <em>Hello. I am Anja Keller. You are from Austria, aren't you?</em>",
+            "<strong>Herr Vogel:</strong> Ja, genau. Ich komme aus Graz. Und Sie? <em>Yes, exactly. I come from Graz. And you?</em>",
+            "<strong>Frau Keller:</strong> Ich komme aus Leipzig und wohne in Berlin. <em>I come from Leipzig and live in Berlin.</em>",
+            "<strong>Herr Vogel:</strong> Freut mich, Frau Keller! <em>Nice to meet you, Mrs Keller!</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Sind Sie …?</strong> – Are you …? (formal)</li><li><strong>… , oder?</strong> – … , aren't you? / … , right?</li><li><strong>Ja, genau.</strong> – Yes, exactly.</li></ul>"
+        ]
+      },
+      {
+        "label": "Willkommensabend",
+        "instructions": "Three students at a welcome evening. Lukas asks two people at once: which pronoun does he use, and why?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-01-erster-kontakt/u1_d4-s2-willkommensabend.mp3",
+            "label": "Listen to the dialogue: Willkommensabend"
+          },
+          "transcript": [
+            "<strong>Lukas:</strong> Hallo, ich bin Lukas. Woher kommt ihr? <em>Hi, I am Lukas. Where are you from?</em>",
+            "<strong>Daniel:</strong> Ich komme aus Manchester. Ich bin Engländer. <em>I come from Manchester. I am English.</em>",
+            "<strong>Sophie:</strong> Ich bin Sophie. Ich komme aus Lyon. Ich bin Französin. <em>I am Sophie. I come from Lyon. I am French.</em>",
+            "<strong>Lukas:</strong> Toll! Ich komme aus Leipzig. Ich bin Deutscher. <em>Great! I come from Leipzig. I am German.</em>",
+            "<strong>Daniel:</strong> Freut mich, Lukas! <em>Nice to meet you, Lukas!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-01-erster-kontakt/dialogues/10-willkommensabend.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Woher kommt ihr?</strong> – Where are you from? (to two or more people you call du)</li><li><strong>Ich komme aus … Ich bin …</strong> – I come from … I am …</li><li><strong>Toll!</strong> – Great!</li></ul>"
+        ]
+      },
+      {
+        "label": "Stammtisch im Pub",
+        "instructions": "A German conversation evening in a pub, for students and members of the public. Frau Schneider says \"Sie\" to Herr Vogel but \"du\" to Elif. Why?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-01-erster-kontakt/u1_d4-s3-stammtisch.mp3",
+            "label": "Listen to the dialogue: Stammtisch im Pub"
+          },
+          "transcript": [
+            "<strong>Frau Schneider:</strong> Guten Abend! Ich bin Ruth Schneider. Wie heißen Sie? <em>Good evening! I am Ruth Schneider. What is your name?</em>",
+            "<strong>Herr Vogel:</strong> Guten Abend. Ich heiße Thomas Vogel. Ich komme aus Graz. <em>Good evening. My name is Thomas Vogel. I come from Graz.</em>",
+            "<strong>Frau Schneider:</strong> Aus Graz! Schön. Ich komme aus Hamburg. <em>From Graz! Lovely. I come from Hamburg.</em>",
+            "<strong>Elif:</strong> Hallo, ich bin Elif. Ich komme aus Köln. <em>Hi, I am Elif. I come from Cologne.</em>",
+            "<strong>Frau Schneider:</strong> Freut mich, Elif. Du bist Studentin, oder? <em>Nice to meet you, Elif. You are a student, aren't you?</em>",
+            "<strong>Elif:</strong> Ja, ich bin Studentin hier. <em>Yes, I am a student here.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-01-erster-kontakt/dialogues/11-stammtisch-im-pub.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Du bist Studentin, oder?</strong> – You are a student, aren't you? (informal)</li><li><strong>Schön!</strong> – Lovely! / Nice!</li></ul>"
+        ]
+      }
+    ]
+  }
+}

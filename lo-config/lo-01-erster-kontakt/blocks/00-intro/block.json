@@ -1,0 +1,14 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "Follow Alex, a British newcomer who arrives in Berlin for several months. In this first unit you will meet people and introduce yourself in places where you are likely to use German: the Language Centre, a stairwell, the library, a conference, a market stall, a student club or a pub. You will greet people at different times of day, say your name, age and where you come from, and learn when to say <em>du</em> and when to say <em>Sie</em>.",
+      "Listen to the dialogues first: each one is short, so you can replay a single conversation as often as you like. Then work through the other sections in any order."
+    ],
+    "image": {
+      "src": "images/lo-01-erster-kontakt/sections/introduction.webp",
+      "alt": ""
+    }
+  }
+}

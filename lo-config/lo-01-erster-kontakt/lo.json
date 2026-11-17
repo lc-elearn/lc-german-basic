@@ -1,0 +1,70 @@
+{
+  "title": "Erster Kontakt",
+  "description": "Greet people, introduce yourself, and say your name, age and where you come from, in places from the Language Centre desk to the library, the stairwell of a Berlin flat and the pub. Includes formal and informal German (du and Sie).",
+  "image": "images/lo-01-erster-kontakt/card.webp",
+  "hero": {
+    "src": "images/lo-01-erster-kontakt/hero.webp"
+  },
+  "sections": [
+    {
+      "id": "introduction",
+      "label": "Introduction",
+      "blocks": ["00-intro", "01-outcomes"]
+    },
+    {
+      "id": "dialogues",
+      "label": "German in Use: Dialogues",
+      "navLabel": "Dialogues",
+      "blocks": ["02-intro", "03-tabs", "04-tabs", "05-tabs", "06-tabs"]
+    },
+    {
+      "id": "vocabulary",
+      "label": "Vocabulary",
+      "blocks": ["07-intro", "08-vocabulary", "09-vocabulary", "10-vocabulary"]
+    },
+    {
+      "id": "pronunciation",
+      "label": "Pronunciation",
+      "blocks": ["11-intro", "12-tabs"]
+    },
+    {
+      "id": "grammar",
+      "label": "Grammar",
+      "blocks": [
+        "13-intro",
+        "14-grammar",
+        "15-grammar",
+        "16-tabs",
+        "17-grammar",
+        "18-grammar",
+        "19-grammar",
+        "20-grammar"
+      ]
+    },
+    {
+      "id": "culture",
+      "label": "Cultural Notes",
+      "navLabel": "Culture",
+      "blocks": ["21-intro", "22-prose", "23-intro", "24-prose", "25-prose", "26-tabs"]
+    },
+    {
+      "id": "exercises",
+      "label": "Exercises",
+      "blocks": ["27-intro"],
+      "exercises": [
+        "01-flashcards",
+        "02-memory-match",
+        "03-inline-choice",
+        "04-conjugation",
+        "05-inline-gap",
+        "06-word-order",
+        "07-phrase-reorder",
+        "08-dictation",
+        "09-reading"
+      ]
+    }
+  ],
+  "modals": ["eszett", "credits"],
+  "hovers": [],
+  "credits": "credits"
+}

@@ -1,0 +1,87 @@
+{
+  "type": "tabs",
+  "title": "Wie heißen Sie? – Saying your name",
+  "presentation": "card",
+  "content": {
+    "label": "Wie heißen Sie? – Saying your name",
+    "tabs": [
+      {
+        "label": "Im Kurs",
+        "instructions": "The tutor asks a new learner her name on the first day. They use \"Sie\". Listen for how the surname is spelled.",
+        "media": {
+          "audio": {
+            "src": "audio/lo-01-erster-kontakt/u1_d2-s1-im-kurs.mp3",
+            "label": "Listen to the dialogue: Im Kurs"
+          },
+          "transcript": [
+            "<strong>Frau Keller:</strong> Guten Tag! Wie heißen Sie? <em>Hello! What is your name?</em>",
+            "<strong>Sophie:</strong> Mein Name ist Sophie Martin. <em>My name is Sophie Martin.</em>",
+            "<strong>Frau Keller:</strong> Wie bitte? <em>Pardon?</em>",
+            "<strong>Sophie:</strong> Martin. M-A-R-T-I-N. <em>Martin. M-A-R-T-I-N.</em>",
+            "<strong>Frau Keller:</strong> Danke, Frau Martin. Willkommen im Kurs! <em>Thank you, Ms Martin. Welcome to the course!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-01-erster-kontakt/dialogues/04-im-kurs.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Wie heißen Sie?</strong> – What is your name? (formal)</li><li><strong>Mein Name ist …</strong> – My name is …</li><li><strong>Wie bitte?</strong> – Pardon?</li></ul>"
+        ]
+      },
+      {
+        "label": "In der Bibliothek",
+        "instructions": "A visitor registers at the library desk. Listen for the question that asks for the spelling.",
+        "media": {
+          "audio": {
+            "src": "audio/lo-01-erster-kontakt/u1_d2-s2-in-der-bibliothek.mp3",
+            "label": "Listen to the dialogue: In der Bibliothek"
+          },
+          "transcript": [
+            "<strong>Elif:</strong> Guten Tag! Ihr Name, bitte? <em>Hello! Your name, please?</em>",
+            "<strong>Herr Vogel:</strong> Vogel. Thomas Vogel. <em>Vogel. Thomas Vogel.</em>",
+            "<strong>Elif:</strong> Wie schreibt man das? <em>How do you spell that?</em>",
+            "<strong>Herr Vogel:</strong> V-O-G-E-L. <em>V-O-G-E-L.</em>",
+            "<strong>Elif:</strong> Danke, Herr Vogel. Hier ist Ihr Ausweis. <em>Thank you, Mr Vogel. Here is your card.</em>",
+            "<strong>Herr Vogel:</strong> Vielen Dank! <em>Many thanks!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-01-erster-kontakt/dialogues/05-in-der-bibliothek.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Ihr Name, bitte?</strong> – Your name, please?</li><li><strong>Wie schreibt man das?</strong> – How do you spell that?</li><li><strong>Vielen Dank!</strong> – Many thanks!</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Treppenhaus",
+        "instructions": "Alex arrives at a block of flats in Berlin on Sunday evening and meets a neighbour on the stairs. They use \"du\". Listen for the two ways to say your name: \"ich bin\" and \"ich heiße\".",
+        "media": {
+          "audio": {
+            "src": "audio/lo-01-erster-kontakt/u1_d2-s3-im-treppenhaus.mp3",
+            "label": "Listen to the dialogue: Im Treppenhaus"
+          },
+          "transcript": [
+            "<strong>Lena:</strong> Hallo! Bist du neu hier? <em>Hello! Are you new here?</em>",
+            "<strong>Alex:</strong> Ja, ich bin Alex. Ich komme aus Cambridge. <em>Yes, I am Alex. I come from Cambridge.</em>",
+            "<strong>Lena:</strong> Wie bitte? Wie heißt du? <em>Pardon? What is your name?</em>",
+            "<strong>Alex:</strong> Alex. A-L-E-X. <em>Alex. A-L-E-X.</em>",
+            "<strong>Lena:</strong> Freut mich, Alex! Ich heiße Lena. Willkommen in Berlin! <em>Nice to meet you, Alex! I am called Lena. Welcome to Berlin!</em>",
+            "<strong>Alex:</strong> Danke, Lena! Freut mich auch! <em>Thank you, Lena! Nice to meet you too!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-01-erster-kontakt/dialogues/06-im-treppenhaus.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Wie heißt du?</strong> – What is your name? (informal)</li><li><strong>Ich bin … / Ich heiße …</strong> – I am … / I am called …</li><li><strong>Freut mich!</strong> – Pleased to meet you!</li></ul>"
+        ]
+      }
+    ]
+  }
+}

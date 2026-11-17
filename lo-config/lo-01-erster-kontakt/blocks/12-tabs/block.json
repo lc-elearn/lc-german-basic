@@ -1,0 +1,35 @@
+{
+  "type": "tabs",
+  "title": "Alphabet and sounds",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "German sounds",
+    "tabs": [
+      {
+        "label": "Alphabet",
+        "instructions": "Listen to the letter names, then to a name being spelled aloud. Practise spelling your own name.",
+        "text": [
+          "<span data-audio-player=\"audio/lo-01-erster-kontakt/u1_p-alphabet.mp3\" data-audio-label=\"Listen to the alphabet\"></span>",
+          "<table><caption>The German alphabet (approximate English-style spelling of each letter name)</caption><thead><tr><th>Letter</th><th>Name</th></tr></thead><tbody><tr><th>A</th><td>ah</td></tr><tr><th>B</th><td>beh</td></tr><tr><th>C</th><td>tseh</td></tr><tr><th>D</th><td>deh</td></tr><tr><th>E</th><td>eh</td></tr><tr><th>F</th><td>eff</td></tr><tr><th>G</th><td>geh</td></tr><tr><th>H</th><td>hah</td></tr><tr><th>I</th><td>ee</td></tr><tr><th>J</th><td>yot</td></tr><tr><th>K</th><td>kah</td></tr><tr><th>L</th><td>ell</td></tr><tr><th>M</th><td>emm</td></tr><tr><th>N</th><td>enn</td></tr><tr><th>O</th><td>oh</td></tr><tr><th>P</th><td>peh</td></tr><tr><th>Q</th><td>koo</td></tr><tr><th>R</th><td>err</td></tr><tr><th>S</th><td>ess</td></tr><tr><th>T</th><td>teh</td></tr><tr><th>U</th><td>oo</td></tr><tr><th>V</th><td>fow</td></tr><tr><th>W</th><td>veh</td></tr><tr><th>X</th><td>iks</td></tr><tr><th>Y</th><td>ÜP-si-lon</td></tr><tr><th>Z</th><td>tset</td></tr><tr><th>Ä</th><td>eh (Umlaut)</td></tr><tr><th>Ö</th><td>ö (Umlaut)</td></tr><tr><th>Ü</th><td>ü (Umlaut)</td></tr><tr><th>ß</th><td>ess-tset (Eszett)</td></tr></tbody></table>",
+          "<span data-audio-player=\"audio/lo-01-erster-kontakt/u1_p-spell-schneider.mp3\" data-audio-label=\"Listen: spelling the name Schneider\"></span>",
+          "Y is called <em>Üpsilon</em>. <a class=\"modal-link\" href=\"#content\" data-modal-target=\"eszett\">What is ß?</a>"
+        ]
+      },
+      {
+        "label": "Vowels and umlauts",
+        "instructions": "Listen and repeat. Pay attention to the lips for ö and ü.",
+        "text": [
+          "<table><caption>Vowels and umlauts</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>schön</td><td>ö = lips rounded, say \"e\"</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-schoen.mp3\" data-audio-label=\"Play: schön\"></span></td></tr><tr><td>Tür</td><td>ü = lips rounded, say \"i\"</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-tuer.mp3\" data-audio-label=\"Play: Tür\"></span></td></tr><tr><td>Käse</td><td>ä = a long vowel, like a stretched \"e\" in \"bed\" (it varies a little by region)</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-kaese.mp3\" data-audio-label=\"Play: Käse\"></span></td></tr><tr><td>Wien</td><td>ie = long \"ee\"</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-wien.mp3\" data-audio-label=\"Play: Wien\"></span></td></tr><tr><td>nein</td><td>ei = like \"eye\"</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-nein.mp3\" data-audio-label=\"Play: nein\"></span></td></tr><tr><td>heute</td><td>eu / äu = like \"oy\" in \"boy\"</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-heute.mp3\" data-audio-label=\"Play: heute\"></span></td></tr><tr><td>Bahn</td><td>long vowel before h</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-bahn.mp3\" data-audio-label=\"Play: Bahn\"></span></td></tr><tr><td>Mutter</td><td>short vowel before double consonant</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-mutter.mp3\" data-audio-label=\"Play: Mutter\"></span></td></tr></tbody></table>"
+        ]
+      },
+      {
+        "label": "Consonants",
+        "instructions": "Listen and repeat. Some consonants are pronounced differently from English.",
+        "text": [
+          "<table><caption>Consonants</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>ich</td><td>ch after e, i, ä, ö, ü: soft \"hiss\" (like \"h\" in \"huge\")</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-ich.mp3\" data-audio-label=\"Play: ich\"></span></td></tr><tr><td>Nacht</td><td>ch after a, o, u, au: rough, in the throat</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-nacht.mp3\" data-audio-label=\"Play: Nacht\"></span></td></tr><tr><td>Schule</td><td>sch = \"sh\"</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-schule.mp3\" data-audio-label=\"Play: Schule\"></span></td></tr><tr><td>Sprache</td><td>sp / st at the start of a word = \"shp\" / \"sht\"</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-sprache.mp3\" data-audio-label=\"Play: Sprache\"></span></td></tr><tr><td>zehn</td><td>z = \"ts\"</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-zehn.mp3\" data-audio-label=\"Play: zehn\"></span></td></tr><tr><td>Wasser</td><td>w = English \"v\"</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-wasser.mp3\" data-audio-label=\"Play: Wasser\"></span></td></tr><tr><td>Vater</td><td>v = usually \"f\"</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-vater.mp3\" data-audio-label=\"Play: Vater\"></span></td></tr><tr><td>Sonne</td><td>s before a vowel = English \"z\"</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-sonne.mp3\" data-audio-label=\"Play: Sonne\"></span></td></tr><tr><td>Hund</td><td>final d = \"t\"</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-hund.mp3\" data-audio-label=\"Play: Hund\"></span></td></tr><tr><td>Straße</td><td>ß = \"ss\" after a long vowel or diphthong</td><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_p-strasse.mp3\" data-audio-label=\"Play: Straße\"></span></td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}
