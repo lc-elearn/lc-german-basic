@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "German spelling often gives useful clues to pronunciation. Learn the patterns below to help you pronounce many unfamiliar words. Listen first, then repeat after the speaker. For ö and ü, round your lips as if you were saying <em>o</em> or <em>u</em>, then try to say <em>e</em> or <em>i</em>."
+    ],
+    "image": {
+      "src": "images/lo-01-erster-kontakt/sections/pronunciation.webp",
+      "alt": ""
+    }
+  }
+}

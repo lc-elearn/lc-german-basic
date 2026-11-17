@@ -1,0 +1,43 @@
+{
+  "type": "dictation",
+  "title": "Dictation: numbers and names",
+  "content": {
+    "instructions": "Listen. Write the numbers in words, and the spelled names as words.",
+    "columns": {
+      "prompt": "Item",
+      "answer": "What you write"
+    },
+    "rows": [
+      {
+        "prompt": "Number 1",
+        "answer": "dreizehn",
+        "audio": "audio/lo-01-erster-kontakt/u1_x-dikt-01-dreizehn.mp3"
+      },
+      {
+        "prompt": "Number 2",
+        "answer": "vierundzwanzig",
+        "audio": "audio/lo-01-erster-kontakt/u1_x-dikt-02-vierundzwanzig.mp3"
+      },
+      {
+        "prompt": "Number 3",
+        "answer": "fünfundvierzig",
+        "audio": "audio/lo-01-erster-kontakt/u1_x-dikt-03-fuenfundvierzig.mp3"
+      },
+      {
+        "prompt": "Number 4",
+        "answer": "siebenundachtzig",
+        "audio": "audio/lo-01-erster-kontakt/u1_x-dikt-04-siebenundachtzig.mp3"
+      },
+      {
+        "prompt": "Spelled name 1",
+        "answer": "Keller",
+        "audio": "audio/lo-01-erster-kontakt/u1_x-dikt-05-name-keller.mp3"
+      },
+      {
+        "prompt": "Spelled name 2",
+        "answer": "Becker",
+        "audio": "audio/lo-01-erster-kontakt/u1_x-dikt-06-name-becker.mp3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Numbers 0–20",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen to the numbers and repeat them. The gloss shows the digit.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": ["the numbers from 0 to 20 (<em>null, eins, zwei … zwanzig</em>)."]
+    },
+    "items": [
+      {
+        "term": "null",
+        "gloss": "0",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-00-null.mp3"
+      },
+      {
+        "term": "eins",
+        "gloss": "1",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-01-eins.mp3"
+      },
+      {
+        "term": "zwei",
+        "gloss": "2",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-02-zwei.mp3"
+      },
+      {
+        "term": "drei",
+        "gloss": "3",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-03-drei.mp3"
+      },
+      {
+        "term": "vier",
+        "gloss": "4",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-04-vier.mp3"
+      },
+      {
+        "term": "fünf",
+        "gloss": "5",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-05-fuenf.mp3"
+      },
+      {
+        "term": "sechs",
+        "gloss": "6",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-06-sechs.mp3"
+      },
+      {
+        "term": "sieben",
+        "gloss": "7",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-07-sieben.mp3"
+      },
+      {
+        "term": "acht",
+        "gloss": "8",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-08-acht.mp3"
+      },
+      {
+        "term": "neun",
+        "gloss": "9",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-09-neun.mp3"
+      },
+      {
+        "term": "zehn",
+        "gloss": "10",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-10-zehn.mp3"
+      },
+      {
+        "term": "elf",
+        "gloss": "11",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-11-elf.mp3"
+      },
+      {
+        "term": "zwölf",
+        "gloss": "12",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-12-zwoelf.mp3"
+      },
+      {
+        "term": "dreizehn",
+        "gloss": "13",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-13-dreizehn.mp3"
+      },
+      {
+        "term": "vierzehn",
+        "gloss": "14",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-14-vierzehn.mp3"
+      },
+      {
+        "term": "fünfzehn",
+        "gloss": "15",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-15-fuenfzehn.mp3"
+      },
+      {
+        "term": "sechzehn",
+        "gloss": "16",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-16-sechzehn.mp3"
+      },
+      {
+        "term": "siebzehn",
+        "gloss": "17",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-17-siebzehn.mp3"
+      },
+      {
+        "term": "achtzehn",
+        "gloss": "18",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-18-achtzehn.mp3"
+      },
+      {
+        "term": "neunzehn",
+        "gloss": "19",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-19-neunzehn.mp3"
+      },
+      {
+        "term": "zwanzig",
+        "gloss": "20",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-zahl-20-zwanzig.mp3"
+      }
+    ]
+  }
+}

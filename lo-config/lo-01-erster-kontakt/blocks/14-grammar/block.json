@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "title": "sein – to be",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "The verb sein (to be) is irregular: learn the forms by heart. You use it to say who you are, where you are from and your nationality.",
+    "text": [
+      "<table><caption>sein – to be</caption><thead><tr><th>Pronoun</th><th>Listen</th><th>Form</th><th>Example</th></tr></thead><tbody><tr><th>ich</th><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-sein-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>bin</td><td>Ich bin Anna.</td></tr><tr><th>du</th><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-sein-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>bist</td><td>Du bist Lukas.</td></tr><tr><th>er / sie / es</th><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-sein-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>ist</td><td>Er ist Österreicher. Sie ist Französin.</td></tr><tr><th>wir</th><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-sein-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>sind</td><td>Wir sind Studenten.</td></tr><tr><th>ihr</th><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-sein-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>seid</td><td>Ihr seid Deutsche.</td></tr><tr><th>sie (they)</th><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-sein-06.mp3\" data-audio-label=\"Play row 6\"></span></td><td>sind</td><td>Sie sind aus Italien.</td></tr><tr><th>Sie (formal)</th><td><span data-audio=\"audio/lo-01-erster-kontakt/u1_g-sein-07.mp3\" data-audio-label=\"Play row 7\"></span></td><td>sind</td><td>Sind Sie Frau Keller?</td></tr></tbody></table>",
+      "Ich bin Anna. Ich bin 22 Jahre alt. Ich bin Deutsche."
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "grammar",
+  "title": "Regular verbs: kommen, wohnen, heißen",
+  "presentation": "card",
+  "content": {
+    "instructions": "Most German verbs are regular. Remove -en from the infinitive to get the stem (komm-, wohn-, heiß-), then add the endings: -e, -st, -t, -en, -t, -en. After an s-sound, the du-ending is just -t (du heißt). In a main-clause statement, the conjugated verb is the second element.",
+    "text": [
+      "<table><caption>Present tense of regular verbs</caption><thead><tr><th>Pronoun</th><th>kommen</th><th>wohnen</th><th>heißen</th></tr></thead><tbody><tr><th>ich</th><td>komme</td><td>wohne</td><td>heiße</td></tr><tr><th>du</th><td>kommst</td><td>wohnst</td><td>heißt</td></tr><tr><th>er / sie / es</th><td>kommt</td><td>wohnt</td><td>heißt</td></tr><tr><th>wir</th><td>kommen</td><td>wohnen</td><td>heißen</td></tr><tr><th>ihr</th><td>kommt</td><td>wohnt</td><td>heißt</td></tr><tr><th>sie / Sie</th><td>kommen</td><td>wohnen</td><td>heißen</td></tr></tbody></table>",
+      "<span data-audio-player=\"audio/lo-01-erster-kontakt/u1_g-verb-kommen.mp3\" data-audio-label=\"Listen: pronouns + kommen (column 1 and 2)\"></span>",
+      "<span data-audio-player=\"audio/lo-01-erster-kontakt/u1_g-verb-wohnen.mp3\" data-audio-label=\"Listen: pronouns + wohnen (column 1 and 3)\"></span>",
+      "<span data-audio-player=\"audio/lo-01-erster-kontakt/u1_g-verb-heissen.mp3\" data-audio-label=\"Listen: pronouns + heißen (column 1 and 4)\"></span>",
+      "Ich komme aus Hamburg. Ich wohne in Berlin. Ich heiße Anna Becker."
+    ]
+  }
+}

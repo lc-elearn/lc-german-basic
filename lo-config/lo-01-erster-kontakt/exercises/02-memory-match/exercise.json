@@ -1,0 +1,49 @@
+{
+  "type": "memory-match",
+  "title": "Memory: landmarks and countries",
+  "content": {
+    "instructions": "Turn two cards at a time. Match each picture with the country or region it belongs to.",
+    "items": [
+      {
+        "text": "Deutschland",
+        "image": "images/lo-01-erster-kontakt/figures/landmark-01.webp",
+        "alt": "A gate with tall columns and a statue on top"
+      },
+      {
+        "text": "Frankreich",
+        "image": "images/lo-01-erster-kontakt/figures/landmark-02.webp",
+        "alt": "A tall iron tower"
+      },
+      {
+        "text": "Italien",
+        "image": "images/lo-01-erster-kontakt/figures/landmark-03.webp",
+        "alt": "A large oval arena with arched openings"
+      },
+      {
+        "text": "die Alpen",
+        "image": "images/lo-01-erster-kontakt/figures/landmark-04.webp",
+        "alt": "A snow-capped mountain peak"
+      },
+      {
+        "text": "England",
+        "image": "images/lo-01-erster-kontakt/figures/landmark-05.webp",
+        "alt": "A clock tower with a pointed roof"
+      },
+      {
+        "text": "Spanien",
+        "image": "images/lo-01-erster-kontakt/figures/landmark-06.webp",
+        "alt": "A church with several tall, slender spires"
+      },
+      {
+        "text": "die Niederlande",
+        "image": "images/lo-01-erster-kontakt/figures/landmark-07.webp",
+        "alt": "A windmill with four sails"
+      },
+      {
+        "text": "Österreich",
+        "image": "images/lo-01-erster-kontakt/figures/landmark-08.webp",
+        "alt": "A grand building with a row of columns and a flat roof"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Countries and nationalities",
+  "presentation": "card",
+  "content": {
+    "instructions": "Each line gives the country, then the male and female form of the nationality.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "the names of some countries (<em>Deutschland, Frankreich, die Schweiz, Großbritannien</em>);",
+        "nationalities, male and female (<em>Italiener / Italienerin</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "Deutschland – Deutscher / Deutsche",
+        "gloss": "Germany: male / female nationality",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-land-deutschland.mp3"
+      },
+      {
+        "term": "Österreich – Österreicher / Österreicherin",
+        "gloss": "Austria: male / female nationality",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-land-oesterreich.mp3"
+      },
+      {
+        "term": "die Schweiz – Schweizer / Schweizerin",
+        "gloss": "Switzerland: male / female nationality",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-land-schweiz.mp3"
+      },
+      {
+        "term": "Großbritannien – Brite / Britin",
+        "gloss": "Britain: male / female nationality",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-land-grossbritannien.mp3"
+      },
+      {
+        "term": "England – Engländer / Engländerin",
+        "gloss": "England: male / female nationality",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-land-england.mp3"
+      },
+      {
+        "term": "Frankreich – Franzose / Französin",
+        "gloss": "France: male / female nationality",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-land-frankreich.mp3"
+      },
+      {
+        "term": "Italien – Italiener / Italienerin",
+        "gloss": "Italy: male / female nationality",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-land-italien.mp3"
+      },
+      {
+        "term": "Spanien – Spanier / Spanierin",
+        "gloss": "Spain: male / female nationality",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-land-spanien.mp3"
+      },
+      {
+        "term": "die Türkei – Türke / Türkin",
+        "gloss": "Turkey: male / female nationality",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-land-tuerkei.mp3"
+      },
+      {
+        "term": "die USA – Amerikaner / Amerikanerin",
+        "gloss": "the USA: male / female nationality",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-land-usa.mp3"
+      },
+      {
+        "term": "China – Chinese / Chinesin",
+        "gloss": "China: male / female nationality",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-land-china.mp3"
+      },
+      {
+        "term": "Indien – Inder / Inderin",
+        "gloss": "India: male / female nationality",
+        "audio": "audio/lo-01-erster-kontakt/u1_v-land-indien.mp3"
+      }
+    ]
+  }
+}

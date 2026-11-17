@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "German grammar is more regular than it first looks. This unit needs only a few patterns: the verb <em>sein</em>, the endings of regular verbs, the choice between <em>du</em> and <em>Sie</em>, how to ask a question, and how to say your age."
+    ],
+    "image": {
+      "src": "images/lo-01-erster-kontakt/sections/grammar.webp",
+      "alt": ""
+    }
+  }
+}

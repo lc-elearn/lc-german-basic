@@ -1,0 +1,24 @@
+{
+  "type": "inline-gap",
+  "title": "Complete the conversation",
+  "content": {
+    "instructions": "Complete each gap with the correct verb form or pronoun. A cue is shown in the gap.",
+    "items": [
+      {
+        "text": "– Woher [kommen::kommen] Sie, Frau Keller? – Ich [komme::kommen] aus Leipzig."
+      },
+      {
+        "text": "– Wo [wohnst::wohnen] du? – Ich [wohne::wohnen] in Berlin."
+      },
+      {
+        "text": "– Wie alt [bist::sein] du, Lukas? – Ich [bin::sein] vierundzwanzig."
+      },
+      {
+        "text": "– [Sind::sein] Sie Österreicher, Herr Vogel? – Ja, ich [bin::sein] Österreicher."
+      },
+      {
+        "text": "Das ist Sophie. [Sie::pronoun] kommt aus Lyon."
+      }
+    ]
+  }
+}
