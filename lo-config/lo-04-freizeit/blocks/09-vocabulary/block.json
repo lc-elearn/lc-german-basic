@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Sport and clubs",
   "presentation": "card",
   "content": {
@@ -62,16 +64,6 @@
         "term": "Yoga machen",
         "gloss": "to do yoga",
         "audio": "audio/lo-04-freizeit/u4_v-sport-yoga.mp3"
-      },
-      {
-        "term": "das Fitnessstudio",
-        "gloss": "gym",
-        "audio": "audio/lo-04-freizeit/u4_v-sport-fitnessstudio.mp3"
-      },
-      {
-        "term": "trainieren",
-        "gloss": "to train",
-        "audio": "audio/lo-04-freizeit/u4_v-sport-trainieren.mp3"
       }
     ]
   }

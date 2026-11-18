@@ -57,31 +57,6 @@
         "text": [
           "<ul><li><strong>Was machst du in deiner Freizeit?</strong> – What do you do in your free time? (informal)</li><li><strong>Musik hören</strong> – to listen to music</li><li><strong>Gitarre spielen</strong> – to play the guitar</li></ul>"
         ]
-      },
-      {
-        "label": "Am Stammtisch",
-        "instructions": "Two regulars at the pub talk about hobbies. They use \"Sie\". Who reads, and who runs?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-04-freizeit/u4_a3-am-stammtisch.mp3",
-            "label": "Listen to the dialogue: Am Stammtisch"
-          },
-          "transcript": [
-            "<strong>Peter Lange:</strong> Frau Schneider, haben Sie Hobbys? <em>Mrs Schneider, do you have hobbies?</em>",
-            "<strong>Frau Schneider:</strong> Ja, ich fahre gern Fahrrad und ich lese viel. <em>Yes, I like cycling and I read a lot.</em>",
-            "<strong>Peter Lange:</strong> Was lesen Sie gern? <em>What do you like to read?</em>",
-            "<strong>Frau Schneider:</strong> Krimis. Und Sie, Herr Lange? <em>Crime novels. And you, Mr Lange?</em>",
-            "<strong>Peter Lange:</strong> Ich laufe gern, aber ich spiele nicht gern Fußball. <em>I like running, but I do not like playing football.</em>"
-          ],
-          "image": {
-            "kind": "portrait",
-            "src": "images/lo-04-freizeit/dialogues/03-am-stammtisch.webp",
-            "alt": ""
-          }
-        },
-        "text": [
-          "<ul><li><strong>Ich fahre gern Fahrrad.</strong> – I like cycling.</li><li><strong>viel</strong> – a lot</li><li><strong>nicht gern</strong> – not gladly: ich spiele nicht gern Fußball = I do not like playing football</li></ul>"
-        ]
       }
     ]
   }

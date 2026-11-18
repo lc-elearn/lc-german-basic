@@ -1,9 +1,0 @@
-{
-  "type": "word-order",
-  "title": "Word order: time first",
-  "content": {
-    "instructions": "Put the words in the right order to make a statement.",
-    "words": ["Am", "Samstag", "gehe", "ich", "mit", "Freunden", "ins", "Kino."],
-    "audio": "audio/lo-04-freizeit/u4_x-wo-kino.mp3"
-  }
-}

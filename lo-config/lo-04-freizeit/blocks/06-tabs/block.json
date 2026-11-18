@@ -31,31 +31,6 @@
         ]
       },
       {
-        "label": "Beim Gartenfest",
-        "instructions": "Two guests at a garden party talk about holidays outdoors. They use \"Sie\". Which two activities does Katrin name?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-04-freizeit/u4_d2-beim-gartenfest.mp3",
-            "label": "Listen to the dialogue: Beim Gartenfest"
-          },
-          "transcript": [
-            "<strong>Katrin Huber:</strong> Herr Lange, wandern Sie lieber in den Bergen oder am Meer? <em>Mr Lange, do you prefer hiking in the mountains or by the sea?</em>",
-            "<strong>Peter Lange:</strong> Ich mache Urlaub entweder in den Bergen oder am Meer. Beides ist schön. <em>I go on holiday either to the mountains or to the sea. Both are lovely.</em>",
-            "<strong>Katrin Huber:</strong> Ich wandere nicht nur gern, sondern ich klettere auch gern. <em>I do not only like hiking, I like climbing too.</em>",
-            "<strong>Peter Lange:</strong> Dann sind Sie in Österreich zu Hause! <em>Then you are at home in Austria!</em>",
-            "<strong>Katrin Huber:</strong> Das stimmt! <em>That is true!</em>"
-          ],
-          "image": {
-            "kind": "portrait",
-            "src": "images/lo-04-freizeit/dialogues/11-beim-gartenfest.webp",
-            "alt": ""
-          }
-        },
-        "text": [
-          "<ul><li><strong>entweder … oder</strong> – either … or</li><li><strong>nicht nur … sondern auch</strong> – not only … but also</li><li><strong>in den Bergen / am Meer</strong> – in the mountains / by the sea</li></ul>"
-        ]
-      },
-      {
         "label": "Beim Sport",
         "instructions": "Two friends talk about sport. They use \"du\". Which sport does Lukas like best?",
         "media": {

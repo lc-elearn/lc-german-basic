@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "How often, and how much you like it",
   "presentation": "card",
   "content": {

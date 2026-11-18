@@ -32,32 +32,6 @@
         ]
       },
       {
-        "label": "Im Theater",
-        "instructions": "A scholar invites the tutor to the theatre. They use \"Sie\". Why can she not come on Friday?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-04-freizeit/u4_c2-im-theater.mp3",
-            "label": "Listen to the dialogue: Im Theater"
-          },
-          "transcript": [
-            "<strong>Herr Vogel:</strong> Gehen Sie am Freitag mit ins Theater, Frau Keller? <em>Are you coming to the theatre on Friday, Mrs Keller?</em>",
-            "<strong>Frau Keller:</strong> Leider nicht, ich arbeite am Freitag. <em>Unfortunately not, I am working on Friday.</em>",
-            "<strong>Herr Vogel:</strong> Schade. Und am Samstag? <em>A pity. And on Saturday?</em>",
-            "<strong>Frau Keller:</strong> Am Samstag habe ich Zeit. Gibt es noch Karten? <em>On Saturday I have time. Are there still tickets?</em>",
-            "<strong>Herr Vogel:</strong> Ich rufe gleich an und frage. <em>I will phone straight away and ask.</em>",
-            "<strong>Frau Keller:</strong> Prima, danke für die Einladung! <em>Great, thank you for the invitation!</em>"
-          ],
-          "image": {
-            "kind": "portrait",
-            "src": "images/lo-04-freizeit/dialogues/08-im-theater.webp",
-            "alt": ""
-          }
-        },
-        "text": [
-          "<ul><li><strong>Leider nicht.</strong> – Unfortunately not.</li><li><strong>Schade!</strong> – What a pity!</li><li><strong>die Einladung</strong> – the invitation</li></ul>"
-        ]
-      },
-      {
         "label": "Im Sportzentrum",
         "instructions": "A student joins sports courses. They use \"Sie\". Which sport does he not like?",
         "media": {

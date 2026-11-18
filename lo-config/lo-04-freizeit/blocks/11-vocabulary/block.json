@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Times of day and the weekend",
   "presentation": "card",
   "content": {
@@ -22,11 +24,6 @@
         "term": "der Morgen",
         "gloss": "morning",
         "audio": "audio/lo-04-freizeit/u4_v-zeit-morgen.mp3"
-      },
-      {
-        "term": "der Vormittag",
-        "gloss": "late morning",
-        "audio": "audio/lo-04-freizeit/u4_v-zeit-vormittag.mp3"
       },
       {
         "term": "der Mittag",
@@ -57,11 +54,6 @@
         "term": "morgen",
         "gloss": "tomorrow",
         "audio": "audio/lo-04-freizeit/u4_v-zeit-morgen2.mp3"
-      },
-      {
-        "term": "übermorgen",
-        "gloss": "the day after tomorrow",
-        "audio": "audio/lo-04-freizeit/u4_v-zeit-uebermorgen.mp3"
       },
       {
         "term": "jeden Tag",

@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Hobbies",
   "presentation": "card",
   "defaultOpen": true,
@@ -45,11 +47,6 @@
         "audio": "audio/lo-04-freizeit/u4_v-hobby-wandern.mp3"
       },
       {
-        "term": "fotografieren",
-        "gloss": "to take photos",
-        "audio": "audio/lo-04-freizeit/u4_v-hobby-fotografieren.mp3"
-      },
-      {
         "term": "tanzen",
         "gloss": "to dance",
         "audio": "audio/lo-04-freizeit/u4_v-hobby-tanzen.mp3"
@@ -58,11 +55,6 @@
         "term": "reisen",
         "gloss": "to travel",
         "audio": "audio/lo-04-freizeit/u4_v-hobby-reisen.mp3"
-      },
-      {
-        "term": "malen",
-        "gloss": "to paint",
-        "audio": "audio/lo-04-freizeit/u4_v-hobby-malen.mp3"
       },
       {
         "term": "Gitarre spielen",

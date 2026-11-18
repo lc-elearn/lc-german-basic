@@ -31,32 +31,6 @@
         ]
       },
       {
-        "label": "Am Samstag",
-        "instructions": "Two students plan Saturday. They use \"du\". What does Daniel want to do first?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-04-freizeit/u4_b2-am-samstag.mp3",
-            "label": "Listen to the dialogue: Am Samstag"
-          },
-          "transcript": [
-            "<strong>Anna Becker:</strong> Hast du am Samstag Zeit? <em>Do you have time on Saturday?</em>",
-            "<strong>Daniel:</strong> Ja, warum? <em>Yes, why?</em>",
-            "<strong>Anna Becker:</strong> Ich gehe am Samstagabend ins Konzert. Kommst du mit? <em>I am going to a concert on Saturday evening. Are you coming?</em>",
-            "<strong>Daniel:</strong> Gern! Aber vorher kaufe ich noch ein. <em>Gladly! But first I am doing some shopping.</em>",
-            "<strong>Anna Becker:</strong> Kein Problem. Das Konzert fängt erst am Abend an. <em>No problem. The concert only starts in the evening.</em>",
-            "<strong>Daniel:</strong> Super, dann bis Samstag! <em>Great, see you on Saturday!</em>"
-          ],
-          "image": {
-            "kind": "portrait",
-            "src": "images/lo-04-freizeit/dialogues/05-am-samstag.webp",
-            "alt": ""
-          }
-        },
-        "text": [
-          "<ul><li><strong>Kommst du mit?</strong> – Are you coming (with me)?</li><li><strong>einkaufen → ich kaufe ein</strong> – to shop</li><li><strong>anfangen → es fängt an</strong> – to begin</li></ul>"
-        ]
-      },
-      {
         "label": "Am Telefon",
         "instructions": "Alex answers a phone call from Lena about Sunday. They use \"du\". What will they do on Saturday?",
         "media": {

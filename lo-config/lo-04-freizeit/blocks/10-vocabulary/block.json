@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Going out",
   "presentation": "card",
   "content": {
@@ -27,16 +29,6 @@
         "term": "das Konzert",
         "gloss": "concert",
         "audio": "audio/lo-04-freizeit/u4_v-aus-konzert.mp3"
-      },
-      {
-        "term": "das Museum",
-        "gloss": "museum",
-        "audio": "audio/lo-04-freizeit/u4_v-aus-museum.mp3"
-      },
-      {
-        "term": "die Ausstellung",
-        "gloss": "exhibition",
-        "audio": "audio/lo-04-freizeit/u4_v-aus-ausstellung.mp3"
       },
       {
         "term": "der Film",
