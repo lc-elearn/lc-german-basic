@@ -6,31 +6,6 @@
     "label": "Beruf – Occupation",
     "tabs": [
       {
-        "label": "Auf der Karrieremesse",
-        "instructions": "Two visitors meet at a careers fair stand. They use \"Sie\". Listen for the place of work: \"in Dortmund\", \"in einer Schule\".",
-        "media": {
-          "audio": {
-            "src": "audio/lo-02-familie-sprachen-herkunft/u2_b1-karrieremesse.mp3",
-            "label": "Listen to the dialogue: Auf der Karrieremesse"
-          },
-          "transcript": [
-            "<strong>Katrin Huber:</strong> Guten Tag! Ich bin Katrin Huber. Was sind Sie von Beruf? <em>Hello! I am Katrin Huber. What do you do for a living?</em>",
-            "<strong>Peter Lange:</strong> Peter Lange. Ich bin Ingenieur und arbeite in Dortmund. Und Sie? <em>Peter Lange. I am an engineer and work in Dortmund. And you?</em>",
-            "<strong>Katrin Huber:</strong> Ich bin Lehrerin. Ich arbeite in einer Schule in Linz. <em>I am a teacher. I work in a school in Linz.</em>",
-            "<strong>Peter Lange:</strong> Das ist interessant, Frau Huber! <em>That is interesting, Mrs Huber!</em>",
-            "<strong>Katrin Huber:</strong> Hier ist meine Karte, Herr Lange. <em>Here is my card, Mr Lange.</em>"
-          ],
-          "image": {
-            "kind": "portrait",
-            "src": "images/lo-02-familie-sprachen-herkunft/dialogues/04-auf-der-karrieremesse.webp",
-            "alt": ""
-          }
-        },
-        "text": [
-          "<ul><li><strong>Was sind Sie von Beruf?</strong> – What is your job?</li><li><strong>Ich bin Ingenieur / Lehrerin.</strong> – I am an engineer / a teacher.</li><li><strong>Ich arbeite in …</strong> – I work in …</li></ul>"
-        ]
-      },
-      {
         "label": "Im Gemeinschaftsraum",
         "instructions": "Two students talk in the department common room. They use \"du\". Which verb do they use for what they study?",
         "media": {

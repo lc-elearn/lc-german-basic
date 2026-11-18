@@ -31,30 +31,6 @@
         ]
       },
       {
-        "label": "Bei der Anmeldung",
-        "instructions": "A new arrival fills in a form at the registration desk. Listen for the place, the date and the year.",
-        "media": {
-          "audio": {
-            "src": "audio/lo-02-familie-sprachen-herkunft/u2_c2-bei-der-anmeldung.mp3",
-            "label": "Listen to the dialogue: Bei der Anmeldung"
-          },
-          "transcript": [
-            "<strong>Frau Schneider:</strong> Wo und wann sind Sie geboren, Herr Vogel? <em>Where and when were you born, Mr Vogel?</em>",
-            "<strong>Herr Vogel:</strong> Ich bin in Graz geboren, am sechsten Juli 1981. <em>I was born in Graz on 6 July 1981.</em>",
-            "<strong>Frau Schneider:</strong> Danke. Und wo wohnen Sie jetzt? <em>Thank you. And where do you live now?</em>",
-            "<strong>Herr Vogel:</strong> Jetzt wohne ich in Berlin. <em>Now I live in Berlin.</em>"
-          ],
-          "image": {
-            "kind": "portrait",
-            "src": "images/lo-02-familie-sprachen-herkunft/dialogues/08-bei-der-anmeldung.webp",
-            "alt": ""
-          }
-        },
-        "text": [
-          "<ul><li><strong>Wo sind Sie geboren?</strong> – Where were you born?</li><li><strong>Ich bin in … geboren.</strong> – I was born in …</li><li><strong>am sechsten Juli 1981</strong> – on 6 July 1981</li></ul>"
-        ]
-      },
-      {
         "label": "Geburtstag",
         "instructions": "Two friends talk about birthdays. Notice the informal \"du\".",
         "media": {

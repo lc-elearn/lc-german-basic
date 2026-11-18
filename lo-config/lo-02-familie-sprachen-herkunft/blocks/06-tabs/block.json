@@ -53,31 +53,6 @@
         "text": [
           "<ul><li><strong>Haben Sie Geschwister?</strong> – Do you have siblings?</li><li><strong>zwei Brüder und zwei Schwestern</strong> – two brothers and two sisters</li><li><strong>nur einen Bruder</strong> – only one brother</li></ul>"
         ]
-      },
-      {
-        "label": "Das Foto",
-        "instructions": "Alex shows Lena a photo of the family on his phone. Listen for \"mein\", \"meine\" and the words \"älter\" and \"jünger\".",
-        "media": {
-          "audio": {
-            "src": "audio/lo-02-familie-sprachen-herkunft/u2_d3-das-foto.mp3",
-            "label": "Listen to the dialogue: Das Foto"
-          },
-          "transcript": [
-            "<strong>Alex:</strong> Das ist meine Familie. Das sind mein Vater und meine Mutter. <em>This is my family. These are my father and my mother.</em>",
-            "<strong>Lena:</strong> Und wer ist das? <em>And who is that?</em>",
-            "<strong>Alex:</strong> Das ist mein Bruder Ben. Ich habe einen älteren Bruder und eine jüngere Schwester. <em>That is my brother Ben. I have an older brother and a younger sister.</em>",
-            "<strong>Lena:</strong> Wie alt ist dein Bruder? <em>How old is your brother?</em>",
-            "<strong>Alex:</strong> Er ist fünfundzwanzig. <em>He is twenty-five.</em>"
-          ],
-          "image": {
-            "kind": "portrait",
-            "src": "images/lo-02-familie-sprachen-herkunft/dialogues/12-das-foto.webp",
-            "alt": ""
-          }
-        },
-        "text": [
-          "<ul><li><strong>Das ist meine Familie.</strong> – This is my family.</li><li><strong>einen älteren Bruder</strong> – an older brother</li><li><strong>eine jüngere Schwester</strong> – a younger sister</li></ul>"
-        ]
       }
     ]
   }

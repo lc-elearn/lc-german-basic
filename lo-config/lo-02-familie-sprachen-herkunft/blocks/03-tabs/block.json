@@ -56,31 +56,6 @@
         "text": [
           "<ul><li><strong>Sprichst du …?</strong> – Do you speak …? (informal)</li><li><strong>ziemlich gut</strong> – quite well</li><li><strong>Sie spricht …</strong> – She speaks …</li></ul>"
         ]
-      },
-      {
-        "label": "Im Kurs",
-        "instructions": "Useful classroom questions. How do you ask for a word, and for its spelling?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-02-familie-sprachen-herkunft/u2_a3-im-kurs.mp3",
-            "label": "Listen to the dialogue: Im Kurs"
-          },
-          "transcript": [
-            "<strong>Daniel:</strong> Entschuldigung, wie sagt man „thank you“ auf Deutsch? <em>Excuse me, how do you say \"thank you\" in German?</em>",
-            "<strong>Frau Keller:</strong> Danke. <em>Danke.</em>",
-            "<strong>Daniel:</strong> Und wie schreibt man das? <em>And how do you spell that?</em>",
-            "<strong>Frau Keller:</strong> D-A-N-K-E. <em>D-A-N-K-E.</em>",
-            "<strong>Daniel:</strong> Vielen Dank! <em>Thank you very much!</em>"
-          ],
-          "image": {
-            "kind": "portrait",
-            "src": "images/lo-02-familie-sprachen-herkunft/dialogues/03-im-kurs.webp",
-            "alt": ""
-          }
-        },
-        "text": [
-          "<ul><li><strong>Wie sagt man … auf Deutsch?</strong> – How do you say … in German?</li><li><strong>Wie schreibt man das?</strong> – How do you spell that?</li><li><strong>Vielen Dank!</strong> – Thank you very much!</li></ul>"
-        ]
       }
     ]
   }

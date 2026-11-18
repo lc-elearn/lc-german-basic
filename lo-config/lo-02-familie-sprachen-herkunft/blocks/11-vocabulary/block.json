@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Family",
   "presentation": "card",
   "content": {
@@ -9,7 +11,7 @@
       "lead": "You will learn:",
       "items": [
         "family members (<em>die Mutter, der Bruder, die Kinder</em>);",
-        "family status (<em>verheiratet, ledig, geschieden</em>)."
+        "family status (<em>verheiratet</em>)."
       ]
     },
     "items": [
@@ -59,16 +61,6 @@
         "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-familie-kind.mp3"
       },
       {
-        "term": "der Mann",
-        "gloss": "husband / man",
-        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-familie-mann.mp3"
-      },
-      {
-        "term": "die Frau",
-        "gloss": "wife / woman",
-        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-familie-frau.mp3"
-      },
-      {
         "term": "der Großvater",
         "gloss": "grandfather",
         "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-familie-grossvater.mp3"
@@ -79,11 +71,6 @@
         "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-familie-grossmutter.mp3"
       },
       {
-        "term": "die Großeltern",
-        "gloss": "grandparents",
-        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-familie-grosseltern.mp3"
-      },
-      {
         "term": "das Einzelkind",
         "gloss": "only child",
         "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-familie-einzelkind.mp3"
@@ -92,16 +79,6 @@
         "term": "verheiratet",
         "gloss": "married",
         "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-familie-verheiratet.mp3"
-      },
-      {
-        "term": "ledig",
-        "gloss": "single",
-        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-familie-ledig.mp3"
-      },
-      {
-        "term": "geschieden",
-        "gloss": "divorced",
-        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-familie-geschieden.mp3"
       }
     ]
   }

@@ -1,9 +1,0 @@
-{
-  "type": "word-order",
-  "title": "Word order: a question",
-  "content": {
-    "instructions": "Put the words in the right order to make a question.",
-    "words": ["Welche", "Sprachen", "sprechen", "Sie?"],
-    "audio": "audio/lo-02-familie-sprachen-herkunft/u2_x-wo-welche-sprachen.mp3"
-  }
-}

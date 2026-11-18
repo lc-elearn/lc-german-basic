@@ -47,16 +47,8 @@
         "21-grammar",
         "22-grammar",
         "23-grammar",
-        "24-grammar",
-        "25-grammar",
         "26-grammar"
       ]
-    },
-    {
-      "id": "culture",
-      "label": "Cultural Notes",
-      "navLabel": "Culture",
-      "blocks": ["28-intro", "29-intro", "30-prose", "31-prose", "32-prose", "33-prose"]
     },
     {
       "id": "exercises",
@@ -66,9 +58,7 @@
         "01-flashcards",
         "02-memory-match",
         "03-inline-choice",
-        "04-conjugation",
         "05-inline-gap",
-        "06-word-order",
         "07-phrase-reorder",
         "08-dictation",
         "09-reading"
