@@ -56,32 +56,6 @@
         "text": [
           "<ul><li><strong>Wo wohnst du?</strong> – Where do you live? (informal)</li><li><strong>weit von der Uni</strong> – far from the university</li><li><strong>in der Nähe vom Markt</strong> – near the market</li></ul>"
         ]
-      },
-      {
-        "label": "Auf der Konferenz",
-        "instructions": "Two delegates talk about their homes. They use \"Sie\". Listen for the preposition and the article in \"in einer Wohnung\".",
-        "media": {
-          "audio": {
-            "src": "audio/lo-03-wohnen/u3_a3-auf-der-konferenz.mp3",
-            "label": "Listen to the dialogue: Auf der Konferenz"
-          },
-          "transcript": [
-            "<strong>Frau Keller:</strong> Wo wohnen Sie, Herr Lange? <em>Where do you live, Mr Lange?</em>",
-            "<strong>Peter Lange:</strong> In Dortmund, in der Nähe vom Bahnhof. <em>In Dortmund, near the station.</em>",
-            "<strong>Frau Keller:</strong> Wohnen Sie in einem Haus? <em>Do you live in a house?</em>",
-            "<strong>Peter Lange:</strong> Nein, in einer Wohnung, im dritten Stock. <em>No, in a flat, on the third floor.</em>",
-            "<strong>Frau Keller:</strong> Ich wohne in einem Haus am Stadtrand von Berlin. <em>I live in a house on the outskirts of Berlin.</em>",
-            "<strong>Peter Lange:</strong> Das ist bestimmt ruhig. <em>That is surely quiet.</em>"
-          ],
-          "image": {
-            "kind": "portrait",
-            "src": "images/lo-03-wohnen/dialogues/03-auf-der-konferenz.webp",
-            "alt": ""
-          }
-        },
-        "text": [
-          "<ul><li><strong>in einem Haus / in einer Wohnung</strong> – in a house / in a flat</li><li><strong>im dritten Stock</strong> – on the third floor</li><li><strong>bestimmt</strong> – surely</li></ul>"
-        ]
       }
     ]
   }

@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Who you live with",
   "presentation": "card",
   "content": {
@@ -27,11 +29,6 @@
         "term": "der Freund / die Freundin",
         "gloss": "friend (m / f)",
         "audio": "audio/lo-03-wohnen/u3_v-mit-freund.mp3"
-      },
-      {
-        "term": "der Partner / die Partnerin",
-        "gloss": "partner (m / f)",
-        "audio": "audio/lo-03-wohnen/u3_v-mit-partner.mp3"
       },
       {
         "term": "das Haustier",

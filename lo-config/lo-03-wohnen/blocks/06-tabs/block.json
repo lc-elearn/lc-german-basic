@@ -55,30 +55,6 @@
         "text": [
           "<ul><li><strong>Wohnst du allein?</strong> – Do you live alone? (informal)</li><li><strong>mit zwei Freunden</strong> – with two friends</li><li><strong>allein</strong> – alone</li></ul>"
         ]
-      },
-      {
-        "label": "Am Stammtisch",
-        "instructions": "At the pub conversation evening, a new acquaintance asks about family and home. They use \"Sie\". How many rooms does the family have?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-03-wohnen/u3_d3-am-stammtisch.mp3",
-            "label": "Listen to the dialogue: Am Stammtisch"
-          },
-          "transcript": [
-            "<strong>Frau Schneider:</strong> Wohnen Sie allein, Herr Lange? <em>Do you live alone, Mr Lange?</em>",
-            "<strong>Peter Lange:</strong> Nein, mit meiner Frau und zwei Kindern. <em>No, with my wife and two children.</em>",
-            "<strong>Frau Schneider:</strong> Dann brauchen Sie eine große Wohnung! <em>Then you need a big flat!</em>",
-            "<strong>Peter Lange:</strong> Ja, wir haben vier Zimmer und einen Garten. <em>Yes, we have four rooms and a garden.</em>"
-          ],
-          "image": {
-            "kind": "portrait",
-            "src": "images/lo-03-wohnen/dialogues/12-am-stammtisch.webp",
-            "alt": ""
-          }
-        },
-        "text": [
-          "<ul><li><strong>Wohnen Sie allein?</strong> – Do you live alone? (formal)</li><li><strong>mit meiner Frau und zwei Kindern</strong> – with my wife and two children</li><li><strong>Sie brauchen …</strong> – you need …</li></ul>"
-        ]
       }
     ]
   }

@@ -20,15 +20,9 @@
         "text": "Die Lampe steht auf [*dem|den] Tisch."
       },
       {
-        "text": "Ich stelle die Lampe auf [dem|*den] Tisch."
-      },
-      {
         "text": "Das Sofa steht [*an der|an die] Wand."
-      },
-      {
-        "text": "Ich stelle das Sofa [an der|*an die] Wand."
       }
     ],
-    "footnote": "Wo? takes the dative; wohin? takes the accusative."
+    "footnote": "Remember: wo? takes the dative."
   }
 }

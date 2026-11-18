@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Furniture",
   "presentation": "card",
   "content": {
@@ -59,16 +61,6 @@
         "term": "die Tür",
         "gloss": "door",
         "audio": "audio/lo-03-wohnen/u3_v-moebel-tuer.mp3"
-      },
-      {
-        "term": "die Pflanze",
-        "gloss": "plant",
-        "audio": "audio/lo-03-wohnen/u3_v-moebel-pflanze.mp3"
-      },
-      {
-        "term": "das Bild",
-        "gloss": "picture",
-        "audio": "audio/lo-03-wohnen/u3_v-moebel-bild.mp3"
       }
     ]
   }

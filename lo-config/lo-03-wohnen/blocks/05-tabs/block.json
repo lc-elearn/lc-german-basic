@@ -56,32 +56,6 @@
         "text": [
           "<ul><li><strong>Es ist klein, aber hell.</strong> – It is small but bright.</li><li><strong>ein großes Fenster</strong> – a big window</li><li><strong>eine grüne Pflanze</strong> – a green plant</li></ul>"
         ]
-      },
-      {
-        "label": "Wohin mit dem Sofa?",
-        "instructions": "Two friends move furniture. Listen for \"an die Wand\" (where to?) and \"an der Wand\" (where is it?). What changes?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-03-wohnen/u3_c3-wohin-mit-dem-sofa.mp3",
-            "label": "Listen to the dialogue: Wohin mit dem Sofa?"
-          },
-          "transcript": [
-            "<strong>Lukas:</strong> Wohin stelle ich das Sofa? <em>Where do I put the sofa?</em>",
-            "<strong>Anna Becker:</strong> Stell das Sofa an die Wand. <em>Put the sofa against the wall.</em>",
-            "<strong>Lukas:</strong> Und die Lampe? <em>And the lamp?</em>",
-            "<strong>Anna Becker:</strong> Stell sie auf den Tisch. <em>Put it on the table.</em>",
-            "<strong>Lukas:</strong> So? Jetzt steht die Lampe auf dem Tisch. <em>Like this? Now the lamp is on the table.</em>",
-            "<strong>Anna Becker:</strong> Perfekt! Und das Sofa steht an der Wand. <em>Perfect! And the sofa is against the wall.</em>"
-          ],
-          "image": {
-            "kind": "portrait",
-            "src": "images/lo-03-wohnen/dialogues/09-wohin-mit-dem-sofa.webp",
-            "alt": ""
-          }
-        },
-        "text": [
-          "<ul><li><strong>Wohin stelle ich …?</strong> – Where do I put …?</li><li><strong>an die Wand / an der Wand</strong> – against the wall (movement) / against the wall (position)</li><li><strong>auf den Tisch / auf dem Tisch</strong> – onto the table / on the table</li></ul>"
-        ]
       }
     ]
   }

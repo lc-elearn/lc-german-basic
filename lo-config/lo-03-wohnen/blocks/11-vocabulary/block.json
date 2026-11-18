@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Describing a home",
   "presentation": "card",
   "content": {
@@ -52,11 +54,6 @@
         "term": "ruhig",
         "gloss": "quiet",
         "audio": "audio/lo-03-wohnen/u3_v-adj-ruhig.mp3"
-      },
-      {
-        "term": "laut",
-        "gloss": "loud, noisy",
-        "audio": "audio/lo-03-wohnen/u3_v-adj-laut.mp3"
       },
       {
         "term": "die Miete",

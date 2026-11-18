@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Where you live",
   "presentation": "card",
   "defaultOpen": true,
@@ -18,11 +20,6 @@
         "term": "die Stadt",
         "gloss": "town, city",
         "audio": "audio/lo-03-wohnen/u3_v-ort-stadt.mp3"
-      },
-      {
-        "term": "das Dorf",
-        "gloss": "village",
-        "audio": "audio/lo-03-wohnen/u3_v-ort-dorf.mp3"
       },
       {
         "term": "das Stadtzentrum",
@@ -63,16 +60,6 @@
         "term": "nicht weit von",
         "gloss": "not far from",
         "audio": "audio/lo-03-wohnen/u3_v-ort-nicht-weit-von.mp3"
-      },
-      {
-        "term": "hier",
-        "gloss": "here",
-        "audio": "audio/lo-03-wohnen/u3_v-ort-hier.mp3"
-      },
-      {
-        "term": "dort",
-        "gloss": "there",
-        "audio": "audio/lo-03-wohnen/u3_v-ort-dort.mp3"
       }
     ]
   }

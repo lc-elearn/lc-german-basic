@@ -56,32 +56,6 @@
         "text": [
           "<ul><li><strong>Hier ist die Küche.</strong> – Here is the kitchen.</li><li><strong>neben der Küche</strong> – next to the kitchen</li><li><strong>im ersten Stock</strong> – on the first floor</li></ul>"
         ]
-      },
-      {
-        "label": "Am Telefon: die Anzeige",
-        "instructions": "A caller asks about a flat she has seen advertised. They use \"Sie\". Which questions does she ask?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-03-wohnen/u3_b3-am-telefon.mp3",
-            "label": "Listen to the dialogue: Am Telefon: die Anzeige"
-          },
-          "transcript": [
-            "<strong>Katrin Huber:</strong> Guten Tag, hier ist Katrin Huber. Ist die Wohnung noch frei? <em>Hello, this is Katrin Huber. Is the flat still available?</em>",
-            "<strong>Frau Schneider:</strong> Ja, sie ist noch frei. <em>Yes, it is still available.</em>",
-            "<strong>Katrin Huber:</strong> Wie viele Zimmer hat sie? <em>How many rooms does it have?</em>",
-            "<strong>Frau Schneider:</strong> Zwei Zimmer, eine Küche und ein Bad. <em>Two rooms, a kitchen and a bathroom.</em>",
-            "<strong>Katrin Huber:</strong> Gibt es einen Garten? <em>Is there a garden?</em>",
-            "<strong>Frau Schneider:</strong> Nein, aber es gibt einen Balkon. <em>No, but there is a balcony.</em>"
-          ],
-          "image": {
-            "kind": "portrait",
-            "src": "images/lo-03-wohnen/dialogues/06-am-telefon-die-anzeige.webp",
-            "alt": ""
-          }
-        },
-        "text": [
-          "<ul><li><strong>Ist die Wohnung noch frei?</strong> – Is the flat still available?</li><li><strong>Wie viele Zimmer hat sie?</strong> – How many rooms does it have?</li><li><strong>Es gibt einen Balkon.</strong> – There is a balcony.</li></ul>"
-        ]
       }
     ]
   }

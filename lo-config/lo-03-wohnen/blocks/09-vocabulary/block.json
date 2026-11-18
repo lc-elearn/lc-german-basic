@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Homes and rooms",
   "presentation": "card",
   "content": {
@@ -67,16 +69,6 @@
         "term": "der Garten",
         "gloss": "garden",
         "audio": "audio/lo-03-wohnen/u3_v-wohnung-garten.mp3"
-      },
-      {
-        "term": "der Keller",
-        "gloss": "cellar",
-        "audio": "audio/lo-03-wohnen/u3_v-wohnung-keller.mp3"
-      },
-      {
-        "term": "das Erdgeschoss",
-        "gloss": "ground floor",
-        "audio": "audio/lo-03-wohnen/u3_v-wohnung-erdgeschoss.mp3"
       }
     ]
   }
