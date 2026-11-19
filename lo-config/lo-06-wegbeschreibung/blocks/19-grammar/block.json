@@ -3,7 +3,7 @@
   "title": "Where? neben, vor, hinter, zwischen, gegenüber",
   "presentation": "card",
   "content": {
-    "instructions": "To say where something is, use these prepositions with the dative (“der”/“das” → “dem”, “die” → “der”, plural → “den”). “gegenüber” usually follows the noun or the article: “gegenüber der Bibliothek”.",
+    "instructions": "To say where something is, use these prepositions with the dative (“der”/“das” → “dem”, “die” → “der”, plural → “den”). “gegenüber” comes before a noun (“gegenüber der Bibliothek”) and after a pronoun (“mir gegenüber”).",
     "text": [
       "<table><caption>Prepositions of place</caption><thead><tr><th>Preposition</th><th>Listen</th><th>Example</th></tr></thead><tbody><tr><th>neben</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-ort-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Die Bibliothek ist neben der Mensa.</td></tr><tr><th>vor</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-ort-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Der Weihnachtsmarkt ist vor dem Rathaus.</td></tr><tr><th>hinter</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-ort-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Der Parkplatz ist hinter dem Bahnhof.</td></tr><tr><th>zwischen</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-ort-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Die Post ist zwischen der Bank und der Kirche.</td></tr><tr><th>gegenüber</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-ort-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>Das Café ist gegenüber der Bibliothek.</td></tr></tbody></table>"
     ]

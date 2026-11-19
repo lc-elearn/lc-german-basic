@@ -10,7 +10,7 @@
     "rows": [
       {
         "prompt": "Gehen Sie!",
-        "answer": "Geh!"
+        "answer": "Geh!|Gehe!"
       },
       {
         "prompt": "Nehmen Sie!",
@@ -18,15 +18,15 @@
       },
       {
         "prompt": "Fahren Sie!",
-        "answer": "Fahr!"
+        "answer": "Fahr!|Fahre!"
       },
       {
         "prompt": "Kommen Sie mit!",
-        "answer": "Komm mit!"
+        "answer": "Komm mit!|Komme mit!"
       },
       {
         "prompt": "Steigen Sie aus!",
-        "answer": "Steig aus!"
+        "answer": "Steig aus!|Steige aus!"
       },
       {
         "prompt": "Lesen Sie!",

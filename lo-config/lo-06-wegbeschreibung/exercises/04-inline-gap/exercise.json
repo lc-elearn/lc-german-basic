@@ -11,10 +11,10 @@
         "text": "[Nehmen::nehmen] Sie die U-Bahn."
       },
       {
-        "text": "[Geh::gehen] bitte geradeaus, Lukas."
+        "text": "[Geh|Gehe::gehen] bitte geradeaus, Lukas."
       },
       {
-        "text": "[Fahr::fahren] nicht zu schnell!"
+        "text": "[Fahr|Fahre::fahren] nicht zu schnell!"
       },
       {
         "text": "[Nimm::nehmen] die Straßenbahn!"

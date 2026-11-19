@@ -33,7 +33,7 @@
       },
       {
         "label": "Das neue Zimmer",
-        "instructions": "A student describes her new room to a friend. They use \"du\". What does the room have?",
+        "instructions": "A student describes his new room to a friend. They use \"du\". What does the room have?",
         "media": {
           "audio": {
             "src": "audio/lo-03-wohnen/u3_c2-das-neue-zimmer.mp3",
