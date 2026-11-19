@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "Learn each word and say it aloud. Many of these words let you give an opinion: <em>schön, interessant, wichtig</em>."
+    ],
+    "image": {
+      "src": "images/lo-12-laender-feste-praesentation/sections/vocabulary.webp",
+      "alt": ""
+    }
+  }
+}

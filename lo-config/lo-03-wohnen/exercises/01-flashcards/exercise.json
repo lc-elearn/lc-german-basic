@@ -1,0 +1,66 @@
+{
+  "type": "flashcards",
+  "title": "Flashcards: rooms and furniture",
+  "content": {
+    "instructions": "Flip each card, listen and say the word aloud. Mark the ones you know.",
+    "cards": [
+      {
+        "target": "der Tisch",
+        "native": "table",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-tisch.mp3",
+        "image": "images/lo-03-wohnen/figures/rooms-table.webp"
+      },
+      {
+        "target": "der Stuhl",
+        "native": "chair",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-stuhl.mp3",
+        "image": "images/lo-03-wohnen/figures/rooms-chair.webp"
+      },
+      {
+        "target": "das Bett",
+        "native": "bed",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-bett.mp3",
+        "image": "images/lo-03-wohnen/figures/rooms-bed.webp"
+      },
+      {
+        "target": "der Schrank",
+        "native": "wardrobe",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-schrank.mp3",
+        "image": "images/lo-03-wohnen/figures/rooms-wardrobe.webp"
+      },
+      {
+        "target": "das Sofa",
+        "native": "sofa",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-sofa.mp3",
+        "image": "images/lo-03-wohnen/figures/rooms-sofa.webp"
+      },
+      {
+        "target": "das Regal",
+        "native": "shelf",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-regal.mp3",
+        "image": "images/lo-03-wohnen/figures/rooms-bookshelf.webp"
+      },
+      {
+        "target": "die Lampe",
+        "native": "lamp",
+        "audio": "audio/lo-03-wohnen/u3_v-moebel-lampe.mp3",
+        "image": "images/lo-03-wohnen/figures/rooms-lamp.webp"
+      },
+      {
+        "target": "die Küche",
+        "native": "kitchen",
+        "audio": "audio/lo-03-wohnen/u3_v-wohnung-kueche.mp3"
+      },
+      {
+        "target": "das Bad",
+        "native": "bathroom",
+        "audio": "audio/lo-03-wohnen/u3_v-wohnung-bad.mp3"
+      },
+      {
+        "target": "der Balkon",
+        "native": "balcony",
+        "audio": "audio/lo-03-wohnen/u3_v-wohnung-balkon.mp3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Staying overnight",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Check the article of each noun.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "hotel and hostel (<em>die Rezeption, der Schlüssel, das Mehrbettzimmer</em>);",
+        "camping (<em>der Campingplatz, das Zelt, die Dusche</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "die Rezeption",
+        "gloss": "reception",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-unterkunft-rezeption.mp3"
+      },
+      {
+        "term": "der Schlüssel",
+        "gloss": "key",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-unterkunft-schluessel.mp3"
+      },
+      {
+        "term": "die Dusche",
+        "gloss": "shower",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-unterkunft-dusche.mp3"
+      },
+      {
+        "term": "das Mehrbettzimmer",
+        "gloss": "dormitory",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-unterkunft-mehrbett.mp3"
+      },
+      {
+        "term": "der Aufenthaltsraum",
+        "gloss": "common room",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-unterkunft-aufenthaltsraum.mp3"
+      },
+      {
+        "term": "das Erdgeschoss",
+        "gloss": "ground floor",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-unterkunft-erdgeschoss.mp3"
+      },
+      {
+        "term": "der Aufzug",
+        "gloss": "lift",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-unterkunft-aufzug.mp3"
+      },
+      {
+        "term": "der Campingplatz",
+        "gloss": "campsite",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-unterkunft-camping.mp3"
+      },
+      {
+        "term": "das Zelt",
+        "gloss": "tent",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-unterkunft-zelt.mp3"
+      },
+      {
+        "term": "abreisen",
+        "gloss": "to leave (on a trip)",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-unterkunft-abreisen.mp3"
+      }
+    ]
+  }
+}

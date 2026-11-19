@@ -1,0 +1,85 @@
+{
+  "type": "vocabulary",
+  "title": "Useful questions and answers",
+  "presentation": "card",
+  "options": {
+    "selfTest": true,
+    "letterHeadings": true
+  },
+  "content": {
+    "instructions": "Listen and repeat. Learn these as whole phrases.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "polite questions (<em>Entschuldigung, wo ist …?</em>);",
+        "common answers (<em>Gern geschehen, Das ist nicht weit</em>)."
+      ]
+    },
+    "topics": [
+      {
+        "id": "questions",
+        "heading": "Polite questions"
+      },
+      {
+        "id": "answers",
+        "heading": "Common answers"
+      }
+    ],
+    "items": [
+      {
+        "term": "Entschuldigung, wo ist …?",
+        "gloss": "Excuse me, where is …?",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-satz-wo-ist.mp3",
+        "topic": "questions"
+      },
+      {
+        "term": "Wie komme ich zu …?",
+        "gloss": "How do I get to …?",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-satz-wie-komme.mp3",
+        "topic": "questions"
+      },
+      {
+        "term": "Können Sie mir helfen?",
+        "gloss": "Can you help me?",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-satz-helfen.mp3",
+        "topic": "questions"
+      },
+      {
+        "term": "Ich suche …",
+        "gloss": "I am looking for …",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-satz-suche.mp3",
+        "topic": "questions"
+      },
+      {
+        "term": "Wie weit ist es?",
+        "gloss": "How far is it?",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-satz-weit.mp3",
+        "topic": "questions"
+      },
+      {
+        "term": "Das ist nicht weit.",
+        "gloss": "That is not far.",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-satz-nicht-weit.mp3",
+        "topic": "answers"
+      },
+      {
+        "term": "Gern geschehen.",
+        "gloss": "You are welcome.",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-satz-geschehen.mp3",
+        "topic": "answers"
+      },
+      {
+        "term": "Was darf es sein?",
+        "gloss": "What can I get you?",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-satz-darf.mp3",
+        "topic": "questions"
+      },
+      {
+        "term": "Sonst noch etwas?",
+        "gloss": "Anything else?",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-satz-sonst.mp3",
+        "topic": "questions"
+      }
+    ]
+  }
+}

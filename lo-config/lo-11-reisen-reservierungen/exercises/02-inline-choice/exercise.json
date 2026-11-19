@@ -1,0 +1,34 @@
+{
+  "type": "inline-choice",
+  "title": "Prepositions",
+  "content": {
+    "instructions": "Choose the correct preposition or article for each sentence.",
+    "items": [
+      {
+        "text": "Ich fahre [*mit dem|mit den|mit der] Zug."
+      },
+      {
+        "text": "Der Zug fährt [*von|aus|bei] Gleis 7."
+      },
+      {
+        "text": "Das Geschenk ist [*für|mit|von] meine Mutter."
+      },
+      {
+        "text": "Wir gehen [*durch|bei|nach] den Park."
+      },
+      {
+        "text": "Ich wohne [*bei|zu|für] meiner Schwester."
+      },
+      {
+        "text": "Ich steige [*in den|im|in dem] Zug."
+      },
+      {
+        "text": "Der Koffer liegt [*unter dem|unter den|unter die] Sitz."
+      },
+      {
+        "text": "Ich lege die Tasche [*auf den|auf dem|auf der] Sitz."
+      }
+    ],
+    "footnote": "Wo? takes the dative; wohin? takes the accusative."
+  }
+}

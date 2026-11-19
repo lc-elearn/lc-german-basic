@@ -1,0 +1,59 @@
+{
+  "type": "flashcards",
+  "title": "Flashcards: opinions, culture and celebrations",
+  "content": {
+    "instructions": "Flip each card, listen and say the word aloud. Mark the ones you know.",
+    "cards": [
+      {
+        "target": "gefallen",
+        "native": "to please, to like",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-meinung-gefallen.mp3"
+      },
+      {
+        "target": "die Meinung",
+        "native": "opinion",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-meinung-meinung.mp3"
+      },
+      {
+        "target": "interessant",
+        "native": "interesting",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-meinung-interessant.mp3"
+      },
+      {
+        "target": "die Landschaft",
+        "native": "landscape",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-land-landschaft.mp3"
+      },
+      {
+        "target": "die Hauptstadt",
+        "native": "capital",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-land-hauptstadt.mp3"
+      },
+      {
+        "target": "der Geburtstag",
+        "native": "birthday",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-geburtstag.mp3"
+      },
+      {
+        "target": "Herzlichen Glückwunsch!",
+        "native": "Congratulations!",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-glueckwunsch.mp3"
+      },
+      {
+        "target": "die Präsentation",
+        "native": "presentation",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-praes-praesentation.mp3"
+      },
+      {
+        "target": "der Hauptteil",
+        "native": "main part",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-praes-hauptteil.mp3"
+      },
+      {
+        "target": "deshalb",
+        "native": "therefore",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-wort-deshalb.mp3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "The Perfekt with sein",
+  "presentation": "card",
+  "content": {
+    "instructions": "Verbs of movement from A to B (“fahren, gehen, kommen, fliegen”), verbs of change (“aufstehen, einschlafen”) and “sein” and “bleiben” take “sein” as the helping verb. A few verbs you simply have to learn.",
+    "text": [
+      "<table><caption>Participles with sein</caption><thead><tr><th>Listen</th><th>Infinitive</th><th>Participle</th><th>Example</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-perfekt-sein-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>fahren</td><td>gefahren</td><td>Wir sind nach Potsdam gefahren.</td></tr><tr><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-perfekt-sein-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>gehen</td><td>gegangen</td><td>Ich bin spazieren gegangen.</td></tr><tr><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-perfekt-sein-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>kommen</td><td>gekommen</td><td>Er ist gestern gekommen.</td></tr><tr><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-perfekt-sein-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>bleiben</td><td>geblieben</td><td>Sie ist zu Hause geblieben.</td></tr><tr><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-perfekt-sein-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>sein</td><td>gewesen</td><td>Ich bin in Lissabon gewesen.</td></tr></tbody></table>"
+    ]
+  }
+}

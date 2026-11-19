@@ -1,0 +1,27 @@
+{
+  "type": "inline-gap",
+  "title": "Telling the time",
+  "content": {
+    "instructions": "Complete the time. Type the missing word.",
+    "items": [
+      {
+        "text": "8:30 – Es ist [halb::] neun."
+      },
+      {
+        "text": "8:15 – Es ist Viertel [nach::] acht."
+      },
+      {
+        "text": "8:45 – Es ist Viertel [vor::] neun."
+      },
+      {
+        "text": "9:10 – Es ist zehn [nach::] neun."
+      },
+      {
+        "text": "Die Vorlesung beginnt [um::] zehn Uhr."
+      },
+      {
+        "text": "Ich arbeite [von::] acht [bis::] siebzehn Uhr."
+      }
+    ]
+  }
+}

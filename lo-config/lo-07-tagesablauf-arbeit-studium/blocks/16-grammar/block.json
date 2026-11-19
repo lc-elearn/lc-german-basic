@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "Telling the time",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "In everyday speech use “Viertel nach / vor”, “zehn nach / vor” and “halb”. Careful: “halb neun” is 8:30, \"half the way to nine\". In timetables and official announcements use the 24-hour clock: “zwanzig Uhr dreißig”.",
+    "text": [
+      "<table><caption>The time</caption><thead><tr><th>Listen</th><th>Time</th><th>Everyday speech</th><th>24-hour clock</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_g-uhrzeit-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>8:00</td><td>acht Uhr</td><td>acht Uhr</td></tr><tr><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_g-uhrzeit-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>8:15</td><td>Viertel nach acht</td><td>acht Uhr fünfzehn</td></tr><tr><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_g-uhrzeit-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>8:30</td><td>halb neun</td><td>acht Uhr dreißig</td></tr><tr><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_g-uhrzeit-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>8:45</td><td>Viertel vor neun</td><td>acht Uhr fünfundvierzig</td></tr><tr><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_g-uhrzeit-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>8:10</td><td>zehn nach acht</td><td>acht Uhr zehn</td></tr><tr><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_g-uhrzeit-06.mp3\" data-audio-label=\"Play row 6\"></span></td><td>17:30</td><td>halb sechs</td><td>siebzehn Uhr dreißig</td></tr></tbody></table>"
+    ]
+  }
+}

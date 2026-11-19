@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "This unit needs a few patterns: where to go with <em>nach, in, ans</em>, the weather, comparing with <em>wärmer als</em>, dates and suggestions."
+    ],
+    "image": {
+      "src": "images/lo-10-urlaubsplanung/sections/grammar.webp",
+      "alt": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "A year has twelve months. Birthdays and holidays are said with the ordinal numbers you will meet in the grammar section."
+    ],
+    "image": {
+      "src": "images/lo-02-familie-sprachen-herkunft/figures/calendar.webp",
+      "alt": "A year of twelve calendar pages, with a birthday cake on one page and a star on another."
+    }
+  }
+}

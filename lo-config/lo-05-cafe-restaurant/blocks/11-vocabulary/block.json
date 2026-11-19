@@ -1,0 +1,63 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Money and prices",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Prices are said as euros and cents: 4,50 € is vier Euro fünfzig.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "money and prices (<em>der Euro, der Cent, kosten</em>);",
+        "ways to pay (<em>bar, mit Karte, zusammen, getrennt</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "der Euro",
+        "gloss": "euro",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-geld-euro.mp3"
+      },
+      {
+        "term": "der Cent",
+        "gloss": "cent",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-geld-cent.mp3"
+      },
+      {
+        "term": "kosten",
+        "gloss": "to cost",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-geld-kosten.mp3"
+      },
+      {
+        "term": "zusammen",
+        "gloss": "together",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-geld-zusammen.mp3"
+      },
+      {
+        "term": "getrennt",
+        "gloss": "separately",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-geld-getrennt.mp3"
+      },
+      {
+        "term": "bar",
+        "gloss": "in cash",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-geld-bar.mp3"
+      },
+      {
+        "term": "mit Karte",
+        "gloss": "by card",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-geld-karte.mp3"
+      },
+      {
+        "term": "Stimmt so.",
+        "gloss": "Keep the change.",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-geld-stimmt-so.mp3"
+      },
+      {
+        "term": "Das macht …",
+        "gloss": "That comes to …",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-geld-macht.mp3"
+      }
+    ]
+  }
+}

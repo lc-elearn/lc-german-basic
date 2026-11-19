@@ -1,0 +1,24 @@
+{
+  "type": "tabs",
+  "title": "Understanding announcements",
+  "presentation": "card",
+  "content": {
+    "label": "Understanding announcements",
+    "tabs": [
+      {
+        "label": "Am Bahnhof",
+        "instructions": "Station announcements use short fixed phrases. Learn to recognise them.",
+        "text": [
+          "<ul><li><strong>Der Zug nach Köln fährt von Gleis 7.</strong> – The train to Cologne leaves from platform 7.</li><li><strong>Der Zug hat zehn Minuten Verspätung.</strong> – The train is ten minutes late.</li><li><strong>Bitte zurücktreten!</strong> – Please stand back!</li><li><strong>Dieser Zug fällt aus.</strong> – This train is cancelled.</li></ul>"
+        ]
+      },
+      {
+        "label": "Am Flughafen",
+        "instructions": "Airport announcements are often in German and English.",
+        "text": [
+          "<ul><li><strong>Der Flug nach London ist jetzt zum Einsteigen bereit.</strong> – The flight to London is now ready for boarding.</li><li><strong>Letzter Aufruf.</strong> – Final call.</li><li><strong>Gate B12.</strong> – Gate B12.</li></ul>"
+        ]
+      }
+    ]
+  }
+}

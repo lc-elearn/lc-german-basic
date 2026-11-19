@@ -1,0 +1,36 @@
+{
+  "type": "reading",
+  "title": "Reading: a notice in a pharmacy",
+  "content": {
+    "instructions": "Read the notice and answer the questions.",
+    "passage": "Apotheke am Markt\nÖffnungszeiten: Montag bis Freitag von 8 bis 18.30 Uhr, Samstag von 9 bis 13 Uhr. Sonntag: nur Notdienst.\nBitte bringen Sie Ihr Rezept mit.\nTabletten gegen Kopfschmerzen: eine bis zwei Tabletten, höchstens dreimal täglich. Nicht länger als drei Tage nehmen.",
+    "trueLabel": "Richtig",
+    "falseLabel": "Falsch",
+    "questions": [
+      {
+        "type": "radio",
+        "prompt": "Wann ist die Apotheke am Samstag geöffnet?",
+        "options": ["von 8 bis 18.30 Uhr", "von 9 bis 13 Uhr", "den ganzen Tag"],
+        "answer": "von 9 bis 13 Uhr"
+      },
+      {
+        "type": "true-false",
+        "prompt": "Die Apotheke ist am Sonntag normal geöffnet.",
+        "answer": false,
+        "explanation": "Am Sonntag gibt es nur den Notdienst."
+      },
+      {
+        "type": "radio",
+        "prompt": "Wie oft kann man die Tabletten höchstens nehmen?",
+        "options": ["einmal täglich", "dreimal täglich", "fünfmal täglich"],
+        "answer": "dreimal täglich"
+      },
+      {
+        "type": "true-false",
+        "prompt": "Man muss sein Rezept mitbringen.",
+        "answer": true,
+        "explanation": "Auf dem Schild steht: Bitte bringen Sie Ihr Rezept mit."
+      }
+    ]
+  }
+}

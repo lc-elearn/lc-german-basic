@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "Prices and quantities",
+  "presentation": "card",
+  "content": {
+    "instructions": "Say a price with euros and cents: “4,50 €” is “vier Euro fünfzig”. After a quantity word the noun has no article and no plural: “ein Glas Wasser, eine Tasse Kaffee, ein Stück Kuchen”. The numbers 21 to 100 are in unit 1.",
+    "text": [
+      "<table><caption>Prices and quantities</caption><thead><tr><th>Listen</th><th>Written</th><th>Said</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-preise-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>2,80 €</td><td>zwei Euro achtzig</td></tr><tr><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-preise-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>4,50 €</td><td>vier Euro fünfzig</td></tr><tr><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-preise-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>12 €</td><td>zwölf Euro</td></tr><tr><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-preise-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>0,60 €</td><td>sechzig Cent</td></tr></tbody></table>",
+      "ein Glas Wasser, eine Tasse Kaffee, eine Flasche Wein, ein Stück Kuchen"
+    ]
+  }
+}

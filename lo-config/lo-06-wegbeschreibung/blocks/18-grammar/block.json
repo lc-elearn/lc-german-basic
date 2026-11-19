@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "title": "können: can, to be able to",
+  "presentation": "card",
+  "content": {
+    "instructions": "“können” is a modal verb. The second verb goes to the end in the infinitive: “Können Sie mir helfen?” “Ich kann bezahlen.” “ich” and “er/sie/es” have the same form, and the vowel changes.",
+    "text": [
+      "<table><caption>können</caption><thead><tr><th></th><th>können</th></tr></thead><tbody><tr><th>ich</th><td>kann</td></tr><tr><th>du</th><td>kannst</td></tr><tr><th>er / sie / es</th><td>kann</td></tr><tr><th>wir</th><td>können</td></tr><tr><th>ihr</th><td>könnt</td></tr><tr><th>sie / Sie</th><td>können</td></tr></tbody></table>",
+      "<span data-audio-player=\"audio/lo-06-wegbeschreibung/u6_g-koennen.mp3\" data-audio-label=\"Listen to können\"></span>",
+      "Können Sie mir helfen? Ich kann Sie leider nicht verstehen."
+    ]
+  }
+}

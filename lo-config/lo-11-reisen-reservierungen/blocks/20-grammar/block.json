@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "title": "wissen",
+  "presentation": "card",
+  "content": {
+    "instructions": "“wissen” means \"to know a fact\". It is irregular in the singular and often introduces an indirect question. Do not confuse it with “kennen” (to know a person or a place).",
+    "text": [
+      "<table><caption>wissen</caption><thead><tr><th></th><th>wissen</th></tr></thead><tbody><tr><th>ich</th><td>weiß</td></tr><tr><th>du</th><td>weißt</td></tr><tr><th>er / sie / es</th><td>weiß</td></tr><tr><th>wir</th><td>wissen</td></tr><tr><th>ihr</th><td>wisst</td></tr><tr><th>sie / Sie</th><td>wissen</td></tr></tbody></table>",
+      "<span data-audio-player=\"audio/lo-11-reisen-reservierungen/u11_g-wissen.mp3\" data-audio-label=\"Listen to wissen\"></span>",
+      "Ich weiß nicht, wann der Zug fährt."
+    ]
+  }
+}

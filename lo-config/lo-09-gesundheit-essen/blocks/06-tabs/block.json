@@ -1,0 +1,70 @@
+{
+  "type": "tabs",
+  "title": "Gesund leben – Healthy habits",
+  "presentation": "card",
+  "content": {
+    "label": "Gesund leben – Healthy habits",
+    "tabs": [
+      {
+        "label": "In der Mensa",
+        "instructions": "Two students talk about diet. They use \"du\". How long has Lukas eaten no meat?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-09-gesundheit-essen/u9_d1-in-der-mensa.mp3",
+            "label": "Listen to the dialogue: In der Mensa"
+          },
+          "transcript": [
+            "<strong>Sophie:</strong> Du isst nur Salat, Lukas? <em>You are only eating salad, Lukas?</em>",
+            "<strong>Lukas:</strong> Ja, ich esse seit einem Jahr kein Fleisch mehr. <em>Yes, I have not eaten meat for a year.</em>",
+            "<strong>Sophie:</strong> Und geht es dir besser? <em>And do you feel better?</em>",
+            "<strong>Lukas:</strong> Ja, viel besser. Ich schlafe auch besser. <em>Yes, much better. I sleep better too.</em>",
+            "<strong>Sophie:</strong> Vielleicht probiere ich das auch. <em>Maybe I will try that too.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>seit einem Jahr</strong> – for a year</li><li><strong>kein Fleisch mehr</strong> – no meat any more</li><li><strong>Geht es dir besser?</strong> – Do you feel better?</li></ul>"
+        ]
+      },
+      {
+        "label": "Am Stammtisch",
+        "instructions": "Two regulars talk about fitness. They use \"Sie\". Since when does Mrs Schneider run?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-09-gesundheit-essen/u9_d2-am-stammtisch.mp3",
+            "label": "Listen to the dialogue: Am Stammtisch"
+          },
+          "transcript": [
+            "<strong>Peter Lange:</strong> Frau Schneider, Sie sehen fit aus. <em>Mrs Schneider, you look fit.</em>",
+            "<strong>Frau Schneider:</strong> Danke. Ich versuche, jeden Tag zu laufen. <em>Thank you. I try to run every day.</em>",
+            "<strong>Peter Lange:</strong> Seit wann machen Sie das? <em>How long have you been doing that?</em>",
+            "<strong>Frau Schneider:</strong> Seit zwei Monaten. Es ist wichtig, genug zu schlafen und viel zu trinken. <em>For two months. It is important to sleep enough and to drink a lot.</em>",
+            "<strong>Peter Lange:</strong> Da haben Sie recht. <em>You are right there.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Ich versuche, zu laufen.</strong> – I try to run. (comma + zu + infinitive)</li><li><strong>seit zwei Monaten</strong> – for two months</li><li><strong>Es ist wichtig, zu schlafen.</strong> – It is important to sleep.</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Park",
+        "instructions": "Two friends plan a run. They use \"du\". When do they run?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-09-gesundheit-essen/u9_d3-im-park.mp3",
+            "label": "Listen to the dialogue: Im Park"
+          },
+          "transcript": [
+            "<strong>Marco:</strong> Hast du Lust, am Samstag mitzukommen? Ich habe vor, im Park zu laufen. <em>Would you like to come along on Saturday? I plan to run in the park.</em>",
+            "<strong>Lukas:</strong> Gern, aber ich habe keine Zeit, früh aufzustehen. <em>Gladly, but I do not have time to get up early.</em>",
+            "<strong>Marco:</strong> Wir laufen erst am Nachmittag. <em>We will only run in the afternoon.</em>",
+            "<strong>Lukas:</strong> Dann komme ich mit. <em>Then I will come along.</em>",
+            "<strong>Marco:</strong> Prima, bis Samstag! <em>Great, see you on Saturday!</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Hast du Lust, mitzukommen?</strong> – Would you like to come along? (zu inside a separable verb)</li><li><strong>Ich habe vor, zu laufen.</strong> – I plan to run.</li><li><strong>früh aufzustehen</strong> – to get up early</li></ul>"
+        ]
+      }
+    ]
+  }
+}

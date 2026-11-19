@@ -1,0 +1,38 @@
+{
+  "type": "dictation",
+  "title": "Dictation: sentences",
+  "content": {
+    "instructions": "Listen and type the sentence. Punctuation is not marked, but umlauts are.",
+    "columns": {
+      "prompt": "Sentence",
+      "answer": "What you hear"
+    },
+    "rows": [
+      {
+        "prompt": "Sentence 1",
+        "answer": "Ich lese gern Krimis.",
+        "audio": "audio/lo-04-freizeit/u4_x-dikt-01.mp3"
+      },
+      {
+        "prompt": "Sentence 2",
+        "answer": "Am Samstag stehe ich spät auf.",
+        "audio": "audio/lo-04-freizeit/u4_x-dikt-02.mp3"
+      },
+      {
+        "prompt": "Sentence 3",
+        "answer": "Gehen wir am Sonntag ins Kino?",
+        "audio": "audio/lo-04-freizeit/u4_x-dikt-03.mp3"
+      },
+      {
+        "prompt": "Sentence 4",
+        "answer": "Er fährt jeden Tag Fahrrad.",
+        "audio": "audio/lo-04-freizeit/u4_x-dikt-04.mp3"
+      },
+      {
+        "prompt": "Sentence 5",
+        "answer": "Ich spiele nicht gern Fußball.",
+        "audio": "audio/lo-04-freizeit/u4_x-dikt-05.mp3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "dictation",
+  "title": "Dictation: sentences",
+  "content": {
+    "instructions": "Listen and type the sentence. Punctuation is not marked, but umlauts are.",
+    "columns": {
+      "prompt": "Sentence",
+      "answer": "What you hear"
+    },
+    "rows": [
+      {
+        "prompt": "Sentence 1",
+        "answer": "Die Stadt gefällt mir sehr.",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_x-dikt-01.mp3"
+      },
+      {
+        "prompt": "Sentence 2",
+        "answer": "In Österreich sagt man Semmel.",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_x-dikt-02.mp3"
+      },
+      {
+        "prompt": "Sentence 3",
+        "answer": "Meiner Meinung nach ist das wichtig.",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_x-dikt-03.mp3"
+      },
+      {
+        "prompt": "Sentence 4",
+        "answer": "Alles Gute zum Geburtstag!",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_x-dikt-04.mp3"
+      },
+      {
+        "prompt": "Sentence 5",
+        "answer": "Vielen Dank für Ihre Aufmerksamkeit.",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_x-dikt-05.mp3"
+      }
+    ]
+  }
+}

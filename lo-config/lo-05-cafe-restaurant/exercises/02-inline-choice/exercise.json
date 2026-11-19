@@ -1,0 +1,34 @@
+{
+  "type": "inline-choice",
+  "title": "Accusative, kein and möchten",
+  "content": {
+    "instructions": "Choose the correct form for each sentence.",
+    "items": [
+      {
+        "text": "Ich hätte gern [*einen|eine|ein] Kaffee."
+      },
+      {
+        "text": "Ich nehme [*eine|einen|ein] Suppe."
+      },
+      {
+        "text": "Ich esse [*kein|keinen|nicht] Fleisch."
+      },
+      {
+        "text": "Er trinkt [*keinen|kein|keine] Kaffee."
+      },
+      {
+        "text": "Ich möchte einen Tisch [*reservieren|reserviere|reserviert]."
+      },
+      {
+        "text": "Es [*gibt|gebt|geben] heute Nudeln."
+      },
+      {
+        "text": "Der Kaffee ist [*nicht|kein|keine] heiß."
+      },
+      {
+        "text": "Ich esse [*keine|kein|keinen] Nudeln."
+      }
+    ],
+    "footnote": "kein + noun; nicht + verb or adjective. The masculine accusative takes -en."
+  }
+}

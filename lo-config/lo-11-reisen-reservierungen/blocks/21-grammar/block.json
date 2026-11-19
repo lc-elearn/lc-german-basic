@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "title": "The dative pronouns: mir, dir, ihm, ihr",
+  "presentation": "card",
+  "content": {
+    "instructions": "Many verbs take a person in the dative: “helfen, danken, gefallen, schmecken, gehören”, and verbs of giving and telling: “geben, schicken, sagen”. The dative pronouns differ from the accusative ones (“mich, dich, ihn, sie, es”).",
+    "text": [
+      "<table><caption>Pronouns</caption><thead><tr><th>Nominative</th><th>Accusative</th><th>Dative</th></tr></thead><tbody><tr><td>ich</td><td>mich</td><td>mir</td></tr><tr><td>du</td><td>dich</td><td>dir</td></tr><tr><td>er</td><td>ihn</td><td>ihm</td></tr><tr><td>sie</td><td>sie</td><td>ihr</td></tr><tr><td>es</td><td>es</td><td>ihm</td></tr><tr><td>wir</td><td>uns</td><td>uns</td></tr><tr><td>ihr</td><td>euch</td><td>euch</td></tr><tr><td>sie</td><td>sie</td><td>ihnen</td></tr><tr><td>Sie</td><td>Sie</td><td>Ihnen</td></tr></tbody></table>",
+      "<span data-audio-player=\"audio/lo-11-reisen-reservierungen/u11_g-dativ.mp3\" data-audio-label=\"Listen to the dative pronouns\"></span>",
+      "Können Sie mir helfen? Ich schicke Ihnen eine E-Mail. Das Zimmer gefällt uns."
+    ]
+  }
+}

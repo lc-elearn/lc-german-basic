@@ -1,0 +1,72 @@
+{
+  "type": "tabs",
+  "title": "Mein Lebenslauf – My story",
+  "presentation": "card",
+  "content": {
+    "label": "Mein Lebenslauf – My story",
+    "tabs": [
+      {
+        "label": "Im Vorstellungsgespräch",
+        "instructions": "A tutor interviews a student for a job. They use \"Sie\". Where did he study?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-08-vergangenheit/u8_c1-vorstellungsgespraech.mp3",
+            "label": "Listen to the dialogue: Im Vorstellungsgespräch"
+          },
+          "transcript": [
+            "<strong>Frau Keller:</strong> Wo haben Sie studiert, Herr Rossi? <em>Where did you study, Mr Rossi?</em>",
+            "<strong>Marco:</strong> Ich habe in Bologna studiert. <em>I studied in Bologna.</em>",
+            "<strong>Frau Keller:</strong> Und danach? <em>And after that?</em>",
+            "<strong>Marco:</strong> Danach habe ich ein Jahr in München gearbeitet. Dann bin ich nach Berlin gezogen. <em>After that I worked for a year in Munich. Then I moved to Berlin.</em>",
+            "<strong>Frau Keller:</strong> Warum sind Sie nach Berlin gezogen? <em>Why did you move to Berlin?</em>",
+            "<strong>Marco:</strong> Weil ich hier weiterstudieren möchte. <em>Because I want to continue studying here.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>studieren → habe studiert</strong> – to study (no ge- before the participle)</li><li><strong>umziehen → bin umgezogen</strong> – to move house</li><li><strong>danach</strong> – after that</li></ul>"
+        ]
+      },
+      {
+        "label": "Auf der Konferenz",
+        "instructions": "Two delegates talk about where they grew up. They use \"Sie\". Where did Mr Vogel work before?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-08-vergangenheit/u8_c2-auf-der-konferenz.mp3",
+            "label": "Listen to the dialogue: Auf der Konferenz"
+          },
+          "transcript": [
+            "<strong>Peter Lange:</strong> Herr Vogel, wo sind Sie aufgewachsen? <em>Mr Vogel, where did you grow up?</em>",
+            "<strong>Herr Vogel:</strong> In Graz. Ich habe dort die Schule besucht und studiert. <em>In Graz. I went to school and studied there.</em>",
+            "<strong>Peter Lange:</strong> Und wann sind Sie nach Berlin gekommen? <em>And when did you come to Berlin?</em>",
+            "<strong>Herr Vogel:</strong> Vor zwei Jahren. Davor habe ich in Wien gearbeitet. <em>Two years ago. Before that I worked in Vienna.</em>",
+            "<strong>Peter Lange:</strong> Interessant! <em>Interesting!</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>aufwachsen → bin aufgewachsen</strong> – to grow up</li><li><strong>vor zwei Jahren</strong> – two years ago</li><li><strong>davor</strong> – before that</li></ul>"
+        ]
+      },
+      {
+        "label": "Familiengeschichte",
+        "instructions": "Two students talk about family history. They use \"du\". What did Elif's grandfather do?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-08-vergangenheit/u8_c3-familiengeschichte.mp3",
+            "label": "Listen to the dialogue: Familiengeschichte"
+          },
+          "transcript": [
+            "<strong>Lukas:</strong> Du kommst aus Köln, Elif. Bist du dort geboren? <em>You are from Cologne, Elif. Were you born there?</em>",
+            "<strong>Elif:</strong> Ja. Meine Großeltern sind in den Sechzigerjahren aus der Türkei nach Deutschland gekommen. <em>Yes. My grandparents came from Turkey to Germany in the 1960s.</em>",
+            "<strong>Lukas:</strong> Was haben sie gearbeitet? <em>What did they do for work?</em>",
+            "<strong>Elif:</strong> Mein Großvater hat in einer Fabrik gearbeitet, meine Großmutter in einer Schule. <em>My grandfather worked in a factory, my grandmother in a school.</em>",
+            "<strong>Lukas:</strong> Und deine Eltern? <em>And your parents?</em>",
+            "<strong>Elif:</strong> Sie sind in Köln geboren. Sie haben dort studiert. <em>They were born in Cologne. They studied there.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>in den Sechzigerjahren</strong> – in the 1960s</li><li><strong>geboren sein</strong> – to be born</li><li><strong>die Fabrik</strong> – factory</li></ul>"
+        ]
+      }
+    ]
+  }
+}

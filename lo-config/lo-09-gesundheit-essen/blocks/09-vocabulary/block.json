@@ -1,0 +1,78 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Illness",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. You have a cold with “haben”, and a body part hurts with “weh tun”.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "illnesses (<em>die Erkältung, die Grippe, das Fieber, der Husten</em>);",
+        "how you feel (<em>müde, krank, gesund</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "die Schmerzen",
+        "gloss": "pain (plural)",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-schmerzen.mp3"
+      },
+      {
+        "term": "die Kopfschmerzen",
+        "gloss": "headache",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-kopfschmerzen.mp3"
+      },
+      {
+        "term": "das Fieber",
+        "gloss": "fever",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-fieber.mp3"
+      },
+      {
+        "term": "der Husten",
+        "gloss": "cough",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-husten.mp3"
+      },
+      {
+        "term": "der Schnupfen",
+        "gloss": "cold (runny nose)",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-schnupfen.mp3"
+      },
+      {
+        "term": "die Erkältung",
+        "gloss": "cold",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-erkaeltung.mp3"
+      },
+      {
+        "term": "die Grippe",
+        "gloss": "flu",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-grippe.mp3"
+      },
+      {
+        "term": "müde",
+        "gloss": "tired",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-muede.mp3"
+      },
+      {
+        "term": "krank",
+        "gloss": "ill",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-krank.mp3"
+      },
+      {
+        "term": "gesund",
+        "gloss": "healthy",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-gesund.mp3"
+      },
+      {
+        "term": "weh tun",
+        "gloss": "to hurt",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-wehtun.mp3"
+      },
+      {
+        "term": "Gute Besserung!",
+        "gloss": "Get well soon!",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-besserung.mp3"
+      }
+    ]
+  }
+}

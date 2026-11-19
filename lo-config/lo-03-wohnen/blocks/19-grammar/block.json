@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "Adjectives after ein, eine, ein",
+  "presentation": "card",
+  "content": {
+    "instructions": "An adjective before a noun takes an ending. After ein, eine, ein (and mein, dein, kein) the ending shows the gender, because ein alone does not: nominative masculine -er, feminine -e, neuter -es; accusative masculine -en, feminine -e, neuter -es. In the dative the ending is -en in every gender.",
+    "text": [
+      "<table><caption>Adjective endings after ein-words</caption><thead><tr><th>Gender</th><th>Listen</th><th>Nominative</th><th>Accusative</th><th>Dative</th></tr></thead><tbody><tr><th>masculine</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-adjectives-after-ein-eine-ei-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>ein großer Tisch</td><td>einen großen Tisch</td><td>einem großen Tisch</td></tr><tr><th>feminine</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-adjectives-after-ein-eine-ei-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>eine neue Lampe</td><td>eine neue Lampe</td><td>einer neuen Lampe</td></tr><tr><th>neuter</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-adjectives-after-ein-eine-ei-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>ein kleines Fenster</td><td>ein kleines Fenster</td><td>einem kleinen Fenster</td></tr></tbody></table>",
+      "Hier ist ein großer Tisch. Ich suche einen kleinen Tisch. Ich wohne in einem kleinen Haus."
+    ]
+  }
+}

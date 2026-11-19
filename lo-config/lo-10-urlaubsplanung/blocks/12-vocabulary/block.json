@@ -1,0 +1,63 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Dates and durations",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. These phrases tell your host or agent when and for how long.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "dates (<em>vom … bis zum …, Anfang, Mitte, Ende</em>);",
+        "durations (<em>eine Woche, zwei Wochen, für drei Tage</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "vom … bis zum …",
+        "gloss": "from … to …",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-zeit-vom-bis.mp3"
+      },
+      {
+        "term": "die Woche",
+        "gloss": "week",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-zeit-woche.mp3"
+      },
+      {
+        "term": "zwei Wochen",
+        "gloss": "two weeks",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-zeit-zwei-wochen.mp3"
+      },
+      {
+        "term": "die Ferien",
+        "gloss": "holidays (school, university)",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-zeit-ferien.mp3"
+      },
+      {
+        "term": "Anfang August",
+        "gloss": "at the start of August",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-zeit-anfang.mp3"
+      },
+      {
+        "term": "Mitte August",
+        "gloss": "in the middle of August",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-zeit-mitte.mp3"
+      },
+      {
+        "term": "Ende August",
+        "gloss": "at the end of August",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-zeit-ende.mp3"
+      },
+      {
+        "term": "frei haben",
+        "gloss": "to have time off",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-zeit-frei.mp3"
+      },
+      {
+        "term": "für drei Tage",
+        "gloss": "for three days",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-zeit-fuer-tage.mp3"
+      }
+    ]
+  }
+}

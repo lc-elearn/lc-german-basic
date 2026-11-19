@@ -1,0 +1,36 @@
+{
+  "type": "conjugation",
+  "title": "Conjugation: möchten",
+  "content": {
+    "instructions": "Write the correct form of möchten.",
+    "verb": "möchten",
+    "tense": "Präsens",
+    "answerMode": "typed",
+    "rows": [
+      {
+        "person": "ich",
+        "answer": "möchte"
+      },
+      {
+        "person": "du",
+        "answer": "möchtest"
+      },
+      {
+        "person": "er / sie / es",
+        "answer": "möchte"
+      },
+      {
+        "person": "wir",
+        "answer": "möchten"
+      },
+      {
+        "person": "ihr",
+        "answer": "möchtet"
+      },
+      {
+        "person": "sie / Sie",
+        "answer": "möchten"
+      }
+    ]
+  }
+}

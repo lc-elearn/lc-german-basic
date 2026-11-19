@@ -1,0 +1,70 @@
+{
+  "type": "tabs",
+  "title": "In der Stadt – Getting around town",
+  "presentation": "card",
+  "content": {
+    "label": "In der Stadt – Getting around town",
+    "tabs": [
+      {
+        "label": "An der Haltestelle",
+        "instructions": "A teacher asks about the bus at a stop. They use \"Sie\". How often does the tram run?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-06-wegbeschreibung/u6_b1-an-der-haltestelle.mp3",
+            "label": "Listen to the dialogue: An der Haltestelle"
+          },
+          "transcript": [
+            "<strong>Katrin Huber:</strong> Entschuldigung, fährt hier der Bus zum Bahnhof? <em>Excuse me, does the bus to the station go from here?</em>",
+            "<strong>Frau Keller:</strong> Nein, zum Bahnhof fährt die Straßenbahn. Die Haltestelle ist dort, gegenüber. <em>No, the tram goes to the station. The stop is over there, opposite.</em>",
+            "<strong>Katrin Huber:</strong> Wie oft fährt sie? <em>How often does it run?</em>",
+            "<strong>Frau Keller:</strong> Alle zehn Minuten. <em>Every ten minutes.</em>",
+            "<strong>Katrin Huber:</strong> Danke, das ist sehr nett. <em>Thank you, that is very kind.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>die Straßenbahn</strong> – tram</li><li><strong>alle zehn Minuten</strong> – every ten minutes</li><li><strong>dort, gegenüber</strong> – over there, opposite</li></ul>"
+        ]
+      },
+      {
+        "label": "Mit dem Stadtplan",
+        "instructions": "Two friends are lost and look at a map. They use \"du\". How long is the walk?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-06-wegbeschreibung/u6_b2-mit-dem-stadtplan.mp3",
+            "label": "Listen to the dialogue: Mit dem Stadtplan"
+          },
+          "transcript": [
+            "<strong>Marco:</strong> Wo sind wir? Ich sehe die Straße nicht auf dem Stadtplan. <em>Where are we? I cannot see the street on the map.</em>",
+            "<strong>Sophie:</strong> Hier, wir sind an der Kirche. Das Café ist gleich um die Ecke. <em>Here, we are at the church. The café is just around the corner.</em>",
+            "<strong>Marco:</strong> Gehen wir zu Fuß? <em>Shall we walk?</em>",
+            "<strong>Sophie:</strong> Ja, es sind nur zwei Minuten. <em>Yes, it is only two minutes.</em>",
+            "<strong>Marco:</strong> Gut, du hast den Stadtplan, du gehst zuerst. <em>Good, you have the map, you go first.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>der Stadtplan</strong> – town map</li><li><strong>um die Ecke</strong> – around the corner</li><li><strong>Wo sind wir?</strong> – Where are we?</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Touristenbüro",
+        "instructions": "A visitor asks the tourist office for the town hall. They use \"Sie\". What does the clerk give him?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-06-wegbeschreibung/u6_b3-im-touristenbuero.mp3",
+            "label": "Listen to the dialogue: Im Touristenbüro"
+          },
+          "transcript": [
+            "<strong>Herr Vogel:</strong> Guten Tag. Ich suche das Rathaus. <em>Hello. I am looking for the town hall.</em>",
+            "<strong>Frau Weber:</strong> Das Rathaus ist am Marktplatz. Gehen Sie die Hauptstraße geradeaus bis zum Marktplatz. <em>The town hall is on the market square. Go straight along the main street to the market square.</em>",
+            "<strong>Herr Vogel:</strong> Wie lange dauert das? <em>How long does that take?</em>",
+            "<strong>Frau Weber:</strong> Zehn Minuten zu Fuß. Hier ist ein Stadtplan. <em>Ten minutes on foot. Here is a town map.</em>",
+            "<strong>Herr Vogel:</strong> Danke, sehr freundlich. <em>Thank you, very kind.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Ich suche das Rathaus.</strong> – I am looking for the town hall.</li><li><strong>bis zum Marktplatz</strong> – as far as the market square</li><li><strong>Wie lange dauert das?</strong> – How long does that take?</li></ul>"
+        ]
+      }
+    ]
+  }
+}

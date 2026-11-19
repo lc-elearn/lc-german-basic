@@ -1,0 +1,73 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Comparing and wishing",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. These are the key words for comparison and for making suggestions.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "comparative forms (<em>besser, billiger, teurer, wärmer</em>);",
+        "set phrases for suggestions (<em>Wie wäre es mit …?, Das wäre schön</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "besser",
+        "gloss": "better",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wort-besser.mp3"
+      },
+      {
+        "term": "billiger",
+        "gloss": "cheaper",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wort-billiger.mp3"
+      },
+      {
+        "term": "teurer",
+        "gloss": "more expensive",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wort-teurer.mp3"
+      },
+      {
+        "term": "wärmer",
+        "gloss": "warmer",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wort-waermer.mp3"
+      },
+      {
+        "term": "kälter",
+        "gloss": "colder",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wort-kaelter.mp3"
+      },
+      {
+        "term": "schöner",
+        "gloss": "more beautiful",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wort-schoener.mp3"
+      },
+      {
+        "term": "lieber",
+        "gloss": "rather",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wort-lieber.mp3"
+      },
+      {
+        "term": "am liebsten",
+        "gloss": "most of all",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wort-liebsten.mp3"
+      },
+      {
+        "term": "Ich würde gern …",
+        "gloss": "I would like to …",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wort-wuerde-gern.mp3"
+      },
+      {
+        "term": "Das wäre schön.",
+        "gloss": "That would be nice.",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wort-waere-schoen.mp3"
+      },
+      {
+        "term": "Wie wäre es mit …?",
+        "gloss": "How about …?",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wort-wie-waere.mp3"
+      }
+    ]
+  }
+}

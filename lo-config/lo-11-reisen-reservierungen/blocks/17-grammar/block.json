@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "title": "Prepositions with the accusative and the dative",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "Some prepositions always take the accusative and some always take the dative. Learn them in two groups. Always accusative: “durch, für, gegen, ohne, um”. Always dative: “aus, bei, mit, nach, seit, von, zu”.",
+    "text": [
+      "<table><caption>Fixed prepositions</caption><thead><tr><th>Case</th><th>Prepositions</th><th>Example</th></tr></thead><tbody><tr><th>accusative</th><td>durch, für, gegen, ohne, um</td><td>Ich kaufe eine Fahrkarte für meinen Bruder.</td></tr><tr><th>dative</th><td>aus, bei, mit, nach, seit, von, zu</td><td>Ich fahre mit dem Zug von Hamburg nach Berlin.</td></tr></tbody></table>",
+      "<span data-audio-player=\"audio/lo-11-reisen-reservierungen/u11_g-praep-fest.mp3\" data-audio-label=\"Listen to the fixed prepositions\"></span>"
+    ]
+  }
+}

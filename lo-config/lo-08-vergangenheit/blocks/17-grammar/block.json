@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "The Perfekt with haben",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "In speech, the perfect tense is the normal past tense. It has two parts: a form of “haben” in second position and the participle at the end. Regular verbs form the participle with “ge-” + stem + “-t”; irregular verbs with “ge-” + stem + “-en”, often with a vowel change.",
+    "text": [
+      "<table><caption>Participles with haben</caption><thead><tr><th>Listen</th><th>Infinitive</th><th>Participle</th><th>Example</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-perfekt-haben-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>machen</td><td>gemacht</td><td>Ich habe viel gemacht.</td></tr><tr><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-perfekt-haben-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>arbeiten</td><td>gearbeitet</td><td>Wir haben gestern gearbeitet.</td></tr><tr><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-perfekt-haben-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>essen</td><td>gegessen</td><td>Sie hat Pizza gegessen.</td></tr><tr><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-perfekt-haben-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>trinken</td><td>getrunken</td><td>Er hat Kaffee getrunken.</td></tr><tr><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-perfekt-haben-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>sehen</td><td>gesehen</td><td>Ich habe einen Film gesehen.</td></tr></tbody></table>"
+    ]
+  }
+}

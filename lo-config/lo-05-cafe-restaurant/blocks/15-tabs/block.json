@@ -1,0 +1,25 @@
+{
+  "type": "tabs",
+  "title": "Sounds",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Sounds in this unit",
+    "tabs": [
+      {
+        "label": "s, ss, ß and z",
+        "instructions": "s before a vowel is voiced, like English z: Suppe. ss and ß are voiceless, like English s: Wasser, heiß. z is always \"ts\": Zucker.",
+        "text": [
+          "<table><caption>s, ss, ß and z</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>Suppe</td><td>s = voiced</td><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_p-suppe.mp3\" data-audio-label=\"Play: Suppe\"></span></td></tr><tr><td>Salat</td><td>s = voiced</td><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_p-salat.mp3\" data-audio-label=\"Play: Salat\"></span></td></tr><tr><td>Wasser</td><td>ss = voiceless</td><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_p-wasser.mp3\" data-audio-label=\"Play: Wasser\"></span></td></tr><tr><td>heiß</td><td>ß = voiceless</td><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_p-heiss.mp3\" data-audio-label=\"Play: heiß\"></span></td></tr><tr><td>Zucker</td><td>z = \"ts\"</td><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_p-zucker.mp3\" data-audio-label=\"Play: Zucker\"></span></td></tr><tr><td>Salz</td><td>z = \"ts\"</td><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_p-salz.mp3\" data-audio-label=\"Play: Salz\"></span></td></tr></tbody></table>"
+        ]
+      },
+      {
+        "label": "ä, ö and ü in food words",
+        "instructions": "Round your lips for ö and ü, and say ä like a short or long \"e\".",
+        "text": [
+          "<table><caption>Umlauts</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>Käse</td><td>ä = \"e\"</td><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_p-kaese.mp3\" data-audio-label=\"Play: Käse\"></span></td></tr><tr><td>Brötchen</td><td>ö</td><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_p-broetchen.mp3\" data-audio-label=\"Play: Brötchen\"></span></td></tr><tr><td>Gemüse</td><td>ü</td><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_p-gemuese.mp3\" data-audio-label=\"Play: Gemüse\"></span></td></tr><tr><td>süß</td><td>ü</td><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_p-suess.mp3\" data-audio-label=\"Play: süß\"></span></td></tr><tr><td>Müsli</td><td>ü</td><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_p-muesli.mp3\" data-audio-label=\"Play: Müsli\"></span></td></tr><tr><td>Würstchen</td><td>ü</td><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_p-wuerstchen.mp3\" data-audio-label=\"Play: Würstchen\"></span></td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}

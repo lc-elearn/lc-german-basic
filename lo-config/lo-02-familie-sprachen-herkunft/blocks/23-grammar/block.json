@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "Occupations: sein, als, seit",
+  "presentation": "card",
+  "content": {
+    "instructions": "After sein, an occupation has no article: Ich bin Lehrerin (not “eine Lehrerin”). To say who you work as, use als. Seit with the present tense says how long: Ich arbeite seit zehn Jahren als Lehrerin.",
+    "text": [
+      "<table><caption>Occupations</caption><thead><tr><th>Listen</th><th>Pattern</th><th>Example</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-occupations-sein-als-seit-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>sein + occupation</td><td>Ich bin Ingenieur. Sie ist Ärztin.</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-occupations-sein-als-seit-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>arbeiten als</td><td>Ich arbeite als Lehrerin.</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-occupations-sein-als-seit-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>seit + time (dative)</td><td>Seit wann arbeiten Sie hier? – Seit zwei Jahren.</td></tr></tbody></table>",
+      "Was sind Sie von Beruf? – Ich bin Verkäufer."
+    ]
+  }
+}

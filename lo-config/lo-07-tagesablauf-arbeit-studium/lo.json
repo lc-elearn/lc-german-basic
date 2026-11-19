@@ -1,0 +1,68 @@
+{
+  "title": "Tagesablauf, Arbeit und Studium",
+  "description": "Tell the time, describe your day, talk about work and study, make appointments and talk about plans, in places from an office and a lab to a train and a café.",
+  "sections": [
+    {
+      "id": "introduction",
+      "label": "Introduction",
+      "blocks": ["00-intro", "01-outcomes"]
+    },
+    {
+      "id": "dialogues",
+      "label": "German in Use: Dialogues",
+      "navLabel": "Dialogues",
+      "blocks": ["02-intro", "03-tabs", "04-tabs", "05-tabs", "06-tabs"]
+    },
+    {
+      "id": "vocabulary",
+      "label": "Vocabulary",
+      "blocks": [
+        "07-intro",
+        "08-vocabulary",
+        "09-vocabulary",
+        "10-vocabulary",
+        "11-vocabulary",
+        "12-vocabulary"
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "label": "Pronunciation",
+      "blocks": ["13-intro", "14-tabs"]
+    },
+    {
+      "id": "grammar",
+      "label": "Grammar",
+      "blocks": ["15-intro", "16-grammar", "17-grammar", "18-grammar", "19-grammar"]
+    },
+    {
+      "id": "culture",
+      "label": "Cultural Notes",
+      "navLabel": "Culture",
+      "blocks": ["22-intro", "23-prose", "24-prose", "25-prose", "26-tabs"]
+    },
+    {
+      "id": "exercises",
+      "label": "Exercises",
+      "blocks": ["27-intro"],
+      "exercises": [
+        "01-flashcards",
+        "02-inline-choice",
+        "03-conjugation",
+        "04-inline-gap",
+        "05-word-order",
+        "06-phrase-reorder",
+        "07-dictation",
+        "08-reading",
+        "09-typed-transform"
+      ]
+    }
+  ],
+  "modals": ["credits"],
+  "hovers": [],
+  "image": "images/lo-07-tagesablauf-arbeit-studium/card.webp",
+  "hero": {
+    "src": "images/lo-07-tagesablauf-arbeit-studium/hero.webp"
+  },
+  "credits": "credits"
+}

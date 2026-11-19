@@ -1,0 +1,104 @@
+{
+  "type": "vocabulary",
+  "title": "Places in town",
+  "presentation": "card",
+  "options": {
+    "selfTest": true,
+    "letterHeadings": true
+  },
+  "defaultOpen": true,
+  "content": {
+    "instructions": "Listen and repeat. Learn the article with each place.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "places in a town (<em>die Post, die Bank, die Bibliothek, das Rathaus</em>);",
+        "shops (<em>die Bäckerei, die Buchhandlung, der Supermarkt</em>)."
+      ]
+    },
+    "topics": [
+      {
+        "id": "places",
+        "heading": "Places in town"
+      },
+      {
+        "id": "shops",
+        "heading": "Shops"
+      }
+    ],
+    "items": [
+      {
+        "term": "die Post",
+        "gloss": "post office",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-post.mp3",
+        "topic": "places"
+      },
+      {
+        "term": "die Bank",
+        "gloss": "bank",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-bank.mp3",
+        "topic": "places"
+      },
+      {
+        "term": "die Bibliothek",
+        "gloss": "library",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-bibliothek.mp3",
+        "topic": "places"
+      },
+      {
+        "term": "das Rathaus",
+        "gloss": "town hall",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-rathaus.mp3",
+        "topic": "places"
+      },
+      {
+        "term": "der Bahnhof",
+        "gloss": "railway station",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-bahnhof.mp3",
+        "topic": "places"
+      },
+      {
+        "term": "die Kirche",
+        "gloss": "church",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-kirche.mp3",
+        "topic": "places"
+      },
+      {
+        "term": "der Marktplatz",
+        "gloss": "market square",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-marktplatz.mp3",
+        "topic": "places"
+      },
+      {
+        "term": "die Bäckerei",
+        "gloss": "bakery",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-baeckerei.mp3",
+        "topic": "shops"
+      },
+      {
+        "term": "die Buchhandlung",
+        "gloss": "bookshop",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-buchhandlung.mp3",
+        "topic": "shops"
+      },
+      {
+        "term": "der Supermarkt",
+        "gloss": "supermarket",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-supermarkt.mp3",
+        "topic": "shops"
+      },
+      {
+        "term": "die Apotheke",
+        "gloss": "pharmacy",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-apotheke.mp3",
+        "topic": "shops"
+      },
+      {
+        "term": "das Touristenbüro",
+        "gloss": "tourist office",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-touristenbuero.mp3",
+        "topic": "places"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "prose",
+  "title": "Three countries, one language",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "text": [
+      "German is the main language of Germany, Austria and Liechtenstein, and one of the four national languages of Switzerland. Together they are often called <em>D-A-CH</em> (D for Deutschland, A for Austria, CH for Confoederatio Helvetica). Germany has 16 federal states (<em>Bundesländer</em>), Austria has 9, and Switzerland has 26 cantons.",
+      "The capitals are Berlin, Vienna (<em>Wien</em>) and Bern. Each country has its own culture, history and way of speaking German."
+    ]
+  }
+}

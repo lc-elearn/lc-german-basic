@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "When? um, am, von … bis",
+  "presentation": "card",
+  "content": {
+    "instructions": "Use “um” with a clock time: “um acht Uhr”. Use “am” with days and parts of the day: “am Montag, am Abend”. Use “von … bis” for a period. “vor” and “nach” (+ dative) mean before and after: “nach der Vorlesung”.",
+    "text": [
+      "<table><caption>Time prepositions</caption><thead><tr><th>Word</th><th>Listen</th><th>Meaning</th><th>Example</th></tr></thead><tbody><tr><th>um</th><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_g-praeposition-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>at (clock time)</td><td>Der Kurs beginnt um neun Uhr.</td></tr><tr><th>am</th><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_g-praeposition-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>on, in (day, part of day)</td><td>am Dienstag, am Nachmittag</td></tr><tr><th>von … bis</th><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_g-praeposition-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>from … to</td><td>von acht bis siebzehn Uhr</td></tr><tr><th>vor, nach</th><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_g-praeposition-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>before, after</td><td>nach der Vorlesung, vor dem Essen</td></tr><tr><th>gegen</th><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_g-praeposition-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>around</td><td>gegen halb sieben</td></tr></tbody></table>"
+    ]
+  }
+}

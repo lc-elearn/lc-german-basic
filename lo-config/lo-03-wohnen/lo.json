@@ -1,0 +1,60 @@
+{
+  "title": "Wohnen",
+  "description": "Say where you live and with whom, describe a home, a room and its furniture, and read a flat advert, in places from a flat viewing to a flat share.",
+  "sections": [
+    {
+      "id": "introduction",
+      "label": "Introduction",
+      "blocks": ["00-intro", "01-outcomes"]
+    },
+    {
+      "id": "dialogues",
+      "label": "German in Use: Dialogues",
+      "navLabel": "Dialogues",
+      "blocks": ["02-intro", "03-tabs", "04-tabs", "05-tabs", "06-tabs"]
+    },
+    {
+      "id": "vocabulary",
+      "label": "Vocabulary",
+      "blocks": [
+        "07-intro",
+        "08-vocabulary",
+        "09-vocabulary",
+        "10-vocabulary",
+        "11-vocabulary",
+        "12-vocabulary",
+        "28-tabs"
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "label": "Pronunciation",
+      "blocks": ["13-intro", "14-tabs"]
+    },
+    {
+      "id": "grammar",
+      "label": "Grammar",
+      "blocks": ["15-intro", "16-grammar", "18-grammar", "19-grammar", "21-grammar"]
+    },
+    {
+      "id": "exercises",
+      "label": "Exercises",
+      "blocks": ["29-intro"],
+      "exercises": [
+        "01-flashcards",
+        "02-inline-choice",
+        "03-inline-gap",
+        "07-dictation",
+        "08-reading",
+        "09-typed-transform"
+      ]
+    }
+  ],
+  "modals": ["credits"],
+  "hovers": [],
+  "image": "images/lo-03-wohnen/card.webp",
+  "hero": {
+    "src": "images/lo-03-wohnen/hero.webp"
+  },
+  "credits": "credits"
+}

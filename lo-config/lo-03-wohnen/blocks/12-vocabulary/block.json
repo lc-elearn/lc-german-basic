@@ -1,0 +1,50 @@
+{
+  "type": "vocabulary",
+  "options": {
+    "selfTest": true
+  },
+  "title": "Who you live with",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "who you live with (<em>allein, mit Freunden, mit der Familie</em>);",
+        "flatmates and pets (<em>der Mitbewohner, das Haustier</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "allein",
+        "gloss": "alone",
+        "audio": "audio/lo-03-wohnen/u3_v-mit-allein.mp3"
+      },
+      {
+        "term": "der Mitbewohner / die Mitbewohnerin",
+        "gloss": "flatmate (m / f)",
+        "audio": "audio/lo-03-wohnen/u3_v-mit-mitbewohner.mp3"
+      },
+      {
+        "term": "der Freund / die Freundin",
+        "gloss": "friend (m / f)",
+        "audio": "audio/lo-03-wohnen/u3_v-mit-freund.mp3"
+      },
+      {
+        "term": "das Haustier",
+        "gloss": "pet",
+        "audio": "audio/lo-03-wohnen/u3_v-mit-haustier.mp3"
+      },
+      {
+        "term": "die Katze",
+        "gloss": "cat",
+        "audio": "audio/lo-03-wohnen/u3_v-mit-katze.mp3"
+      },
+      {
+        "term": "der Hund",
+        "gloss": "dog",
+        "audio": "audio/lo-03-wohnen/u3_v-mit-hund.mp3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "The accusative: einen, eine, ein",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "What you order, buy or eat is the direct object, and it takes the accusative. Only the masculine form changes: “ein” becomes “einen”, and “kein” becomes “keinen”. Feminine, neuter and plural stay the same.",
+    "text": [
+      "<table><caption>Accusative of ein and kein</caption><thead><tr><th>Gender</th><th>Listen</th><th>Nominative</th><th>Accusative</th><th>Example</th></tr></thead><tbody><tr><th>masculine</th><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-akkusativ-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>ein Kaffee</td><td>ein<strong>en</strong> Kaffee</td><td>Ich hätte gern einen Kaffee.</td></tr><tr><th>feminine</th><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-akkusativ-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>eine Suppe</td><td>eine Suppe</td><td>Ich nehme eine Suppe.</td></tr><tr><th>neuter</th><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-akkusativ-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>ein Brötchen</td><td>ein Brötchen</td><td>Ich nehme ein Brötchen.</td></tr><tr><th>plural</th><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-akkusativ-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>– (Nudeln)</td><td>keine Nudeln</td><td>Ich esse keine Nudeln.</td></tr></tbody></table>"
+    ]
+  }
+}

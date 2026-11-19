@@ -1,0 +1,70 @@
+{
+  "type": "vocabulary",
+  "options": {
+    "selfTest": true
+  },
+  "title": "How often, and how much you like it",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. These small words change the meaning of a sentence a lot.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "how often (<em>immer, oft, manchmal, selten, nie</em>);",
+        "likes and polite replies (<em>gern, lieber, am liebsten, Schade!</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "immer",
+        "gloss": "always",
+        "audio": "audio/lo-04-freizeit/u4_v-oft-immer.mp3"
+      },
+      {
+        "term": "oft",
+        "gloss": "often",
+        "audio": "audio/lo-04-freizeit/u4_v-oft-oft.mp3"
+      },
+      {
+        "term": "manchmal",
+        "gloss": "sometimes",
+        "audio": "audio/lo-04-freizeit/u4_v-oft-manchmal.mp3"
+      },
+      {
+        "term": "selten",
+        "gloss": "rarely",
+        "audio": "audio/lo-04-freizeit/u4_v-oft-selten.mp3"
+      },
+      {
+        "term": "nie",
+        "gloss": "never",
+        "audio": "audio/lo-04-freizeit/u4_v-oft-nie.mp3"
+      },
+      {
+        "term": "gern",
+        "gloss": "gladly, with pleasure",
+        "audio": "audio/lo-04-freizeit/u4_v-oft-gern.mp3"
+      },
+      {
+        "term": "lieber",
+        "gloss": "rather, preferably",
+        "audio": "audio/lo-04-freizeit/u4_v-oft-lieber.mp3"
+      },
+      {
+        "term": "am liebsten",
+        "gloss": "best of all",
+        "audio": "audio/lo-04-freizeit/u4_v-oft-liebsten.mp3"
+      },
+      {
+        "term": "Schade!",
+        "gloss": "What a pity!",
+        "audio": "audio/lo-04-freizeit/u4_v-oft-schade.mp3"
+      },
+      {
+        "term": "Tut mir leid.",
+        "gloss": "I am sorry.",
+        "audio": "audio/lo-04-freizeit/u4_v-oft-leid.mp3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Opinions",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Notice which verbs take the dative: gefallen.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "liking (<em>gefallen, mögen, finden</em>);",
+        "adjectives for opinions (<em>interessant, langweilig, toll, wichtig</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "gefallen",
+        "gloss": "to please, to like",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-meinung-gefallen.mp3"
+      },
+      {
+        "term": "mögen",
+        "gloss": "to like",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-meinung-moegen.mp3"
+      },
+      {
+        "term": "finden",
+        "gloss": "to think, to find",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-meinung-finden.mp3"
+      },
+      {
+        "term": "die Meinung",
+        "gloss": "opinion",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-meinung-meinung.mp3"
+      },
+      {
+        "term": "interessant",
+        "gloss": "interesting",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-meinung-interessant.mp3"
+      },
+      {
+        "term": "langweilig",
+        "gloss": "boring",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-meinung-langweilig.mp3"
+      },
+      {
+        "term": "toll",
+        "gloss": "great",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-meinung-toll.mp3"
+      },
+      {
+        "term": "wichtig",
+        "gloss": "important",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-meinung-wichtig.mp3"
+      },
+      {
+        "term": "typisch",
+        "gloss": "typical",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-meinung-typisch.mp3"
+      },
+      {
+        "term": "besonders",
+        "gloss": "particularly",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-meinung-besonders.mp3"
+      }
+    ]
+  }
+}

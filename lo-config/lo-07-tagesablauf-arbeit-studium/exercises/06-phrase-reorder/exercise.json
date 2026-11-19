@@ -1,0 +1,29 @@
+{
+  "type": "phrase-reorder",
+  "title": "Put the conversation in order",
+  "content": {
+    "instructions": "Two students check their timetable. Drag the lines into the right order.",
+    "rows": [
+      {
+        "prompt": "Lukas",
+        "phrase": "Wann beginnt die Vorlesung heute?"
+      },
+      {
+        "prompt": "Anna",
+        "phrase": "Um Viertel vor neun."
+      },
+      {
+        "prompt": "Lukas",
+        "phrase": "Und wann ist sie zu Ende?"
+      },
+      {
+        "prompt": "Anna",
+        "phrase": "Um zehn. Danach habe ich ein Seminar bis zwölf."
+      },
+      {
+        "prompt": "Lukas",
+        "phrase": "Dann gehen wir um zwölf zusammen essen."
+      }
+    ]
+  }
+}

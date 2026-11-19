@@ -1,0 +1,25 @@
+{
+  "type": "tabs",
+  "title": "Sounds",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Sounds in this unit",
+    "tabs": [
+      {
+        "label": "ich-sound and ach-sound",
+        "instructions": "The letters ch have two sounds. After e, i, ä, ö, ü and after consonants it is soft, like a hissed \"h\" (ich-Laut). After a, o, u and au it is rougher, made further back in the throat (ach-Laut).",
+        "text": [
+          "<table><caption>The two sounds of ch</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>ich</td><td>soft ch</td><td><span data-audio=\"audio/lo-03-wohnen/u3_p-ich.mp3\" data-audio-label=\"Play: ich\"></span></td></tr><tr><td>nicht</td><td>soft ch</td><td><span data-audio=\"audio/lo-03-wohnen/u3_p-nicht.mp3\" data-audio-label=\"Play: nicht\"></span></td></tr><tr><td>Küche</td><td>soft ch</td><td><span data-audio=\"audio/lo-03-wohnen/u3_p-kueche.mp3\" data-audio-label=\"Play: Küche\"></span></td></tr><tr><td>Buch</td><td>rough ch</td><td><span data-audio=\"audio/lo-03-wohnen/u3_p-buch.mp3\" data-audio-label=\"Play: Buch\"></span></td></tr><tr><td>Dach</td><td>rough ch</td><td><span data-audio=\"audio/lo-03-wohnen/u3_p-dach.mp3\" data-audio-label=\"Play: Dach\"></span></td></tr><tr><td>acht</td><td>rough ch</td><td><span data-audio=\"audio/lo-03-wohnen/u3_p-acht.mp3\" data-audio-label=\"Play: acht\"></span></td></tr></tbody></table>"
+        ]
+      },
+      {
+        "label": "sch, sp and st",
+        "instructions": "sch is like English \"sh\". At the start of a word, sp is pronounced \"shp\" and st is pronounced \"sht\".",
+        "text": [
+          "<table><caption>sch, sp and st</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>Schrank</td><td>sch = sh</td><td><span data-audio=\"audio/lo-03-wohnen/u3_p-schrank.mp3\" data-audio-label=\"Play: Schrank\"></span></td></tr><tr><td>Schlafzimmer</td><td>sch = sh</td><td><span data-audio=\"audio/lo-03-wohnen/u3_p-schlafzimmer.mp3\" data-audio-label=\"Play: Schlafzimmer\"></span></td></tr><tr><td>Stuhl</td><td>st = sht</td><td><span data-audio=\"audio/lo-03-wohnen/u3_p-stuhl.mp3\" data-audio-label=\"Play: Stuhl\"></span></td></tr><tr><td>Stadt</td><td>st = sht</td><td><span data-audio=\"audio/lo-03-wohnen/u3_p-stadt.mp3\" data-audio-label=\"Play: Stadt\"></span></td></tr><tr><td>Spiegel</td><td>sp = shp</td><td><span data-audio=\"audio/lo-03-wohnen/u3_p-spiegel.mp3\" data-audio-label=\"Play: Spiegel\"></span></td></tr><tr><td>Stock</td><td>st = sht</td><td><span data-audio=\"audio/lo-03-wohnen/u3_p-stock.mp3\" data-audio-label=\"Play: Stock\"></span></td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}

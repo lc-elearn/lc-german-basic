@@ -1,0 +1,12 @@
+{
+  "type": "prose",
+  "title": "Holidays and leave",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "text": [
+      "In Germany, employees by law have at least 20 days of paid leave a year for a five-day week, and many have 25 to 30 days under their contract. Austria and Switzerland have similar or longer holidays. Taking holiday is expected, and colleagues do not usually phone you while you are away.",
+      "School holidays differ from state to state, so popular times are spread out. Prices for hotels and ferries rise in the <em>Hauptsaison</em> and fall in the <em>Nebensaison</em>."
+    ]
+  }
+}

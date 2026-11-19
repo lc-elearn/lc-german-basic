@@ -1,0 +1,72 @@
+{
+  "type": "tabs",
+  "title": "Bezahlen – Paying and prices",
+  "presentation": "card",
+  "content": {
+    "label": "Bezahlen – Paying and prices",
+    "tabs": [
+      {
+        "label": "Die Rechnung",
+        "instructions": "Two diners ask for the bill. They use \"Sie\". How does each of them pay?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-05-cafe-restaurant/u5_c1-die-rechnung.mp3",
+            "label": "Listen to the dialogue: Die Rechnung"
+          },
+          "transcript": [
+            "<strong>Peter Lange:</strong> Entschuldigung, die Rechnung, bitte. <em>Excuse me, the bill, please.</em>",
+            "<strong>Herr Braun:</strong> Zusammen oder getrennt? <em>Together or separately?</em>",
+            "<strong>Frau Schneider:</strong> Getrennt, bitte. Ich zahle die Suppe und das Wasser. <em>Separately, please. I will pay for the soup and the water.</em>",
+            "<strong>Herr Braun:</strong> Das macht acht Euro vierzig. <em>That is €8.40.</em>",
+            "<strong>Frau Schneider:</strong> Neun Euro, stimmt so. <em>Nine euros, keep the change.</em>",
+            "<strong>Peter Lange:</strong> Ich zahle mit Karte, bitte. <em>I will pay by card, please.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Zusammen oder getrennt?</strong> – Together or separately?</li><li><strong>Stimmt so.</strong> – Keep the change.</li><li><strong>mit Karte / bar</strong> – by card / in cash</li></ul>"
+        ]
+      },
+      {
+        "label": "In der Mensa",
+        "instructions": "Two students choose lunch in the canteen. They use \"du\". What does the salad cost?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-05-cafe-restaurant/u5_c2-in-der-mensa.mp3",
+            "label": "Listen to the dialogue: In der Mensa"
+          },
+          "transcript": [
+            "<strong>Sophie:</strong> Was gibt es heute? <em>What is there today?</em>",
+            "<strong>Daniel:</strong> Es gibt Nudeln mit Tomatensoße oder Fisch mit Reis. <em>There is pasta with tomato sauce or fish with rice.</em>",
+            "<strong>Sophie:</strong> Ich nehme die Nudeln. Was kosten sie? <em>I will have the pasta. What does it cost?</em>",
+            "<strong>Daniel:</strong> Drei Euro fünfzig. Und der Salat kostet einen Euro. <em>Three euros fifty. And the salad costs one euro.</em>",
+            "<strong>Sophie:</strong> Hast du eine Mensakarte? <em>Do you have a canteen card?</em>",
+            "<strong>Daniel:</strong> Ja, hier. <em>Yes, here.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Was gibt es heute?</strong> – What is on today?</li><li><strong>die Mensa</strong> – university canteen</li><li><strong>Was kostet das?</strong> – What does that cost?</li></ul>"
+        ]
+      },
+      {
+        "label": "Eine Gabel, bitte",
+        "instructions": "A guest asks for something that is missing. They use \"Sie\". Which water does he want?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-05-cafe-restaurant/u5_c3-am-nebentisch.mp3",
+            "label": "Listen to the dialogue: Eine Gabel, bitte"
+          },
+          "transcript": [
+            "<strong>Daniel:</strong> Entschuldigung, ich habe keine Gabel. <em>Excuse me, I do not have a fork.</em>",
+            "<strong>Frau Weber:</strong> Oh, Entschuldigung. Hier, bitte. <em>Oh, sorry. Here you are.</em>",
+            "<strong>Daniel:</strong> Danke. Ich hätte gern noch ein Wasser. <em>Thank you. I would like another water.</em>",
+            "<strong>Frau Weber:</strong> Natürlich. Mit oder ohne Kohlensäure? <em>Of course. Sparkling or still?</em>",
+            "<strong>Daniel:</strong> Ohne, bitte. <em>Still, please.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Entschuldigung</strong> – excuse me, sorry</li><li><strong>mit / ohne Kohlensäure</strong> – sparkling / still (with / without carbonation)</li><li><strong>noch ein Wasser</strong> – another water</li></ul>"
+        ]
+      }
+    ]
+  }
+}

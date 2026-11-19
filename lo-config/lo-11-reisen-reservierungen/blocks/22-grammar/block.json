@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Polite requests and complaints",
+  "presentation": "card",
+  "content": {
+    "instructions": "A polite request often uses “Könnten Sie …?” or “Würden Sie …?” with “bitte”. To complain, say first what is wrong, then apologise for the trouble, then ask for help: “Entschuldigung, die Dusche funktioniert nicht. Könnten Sie mir helfen?” A calm tone works better than a sharp one.",
+    "text": [
+      "<table><caption>Polite phrases</caption><thead><tr><th>Purpose</th><th>Listen</th><th>Phrase</th></tr></thead><tbody><tr><th>request</th><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-hoeflich-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Könnten Sie mir bitte helfen?</td></tr><tr><th>request</th><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-hoeflich-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Würden Sie bitte den Koffer tragen?</td></tr><tr><th>problem</th><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-hoeflich-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Entschuldigung, die Dusche funktioniert nicht.</td></tr><tr><th>reaction</th><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-hoeflich-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Das tut mir leid. Ich kümmere mich darum.</td></tr></tbody></table>"
+    ]
+  }
+}

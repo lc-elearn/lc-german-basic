@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Quantities and prices",
+  "presentation": "card",
+  "content": {
+    "instructions": "After a quantity word there is no article, and the measure word stays singular (“zwei Kilo”). A countable noun after it is plural: “ein Kilo Äpfel, 500 Gramm Käse, ein Liter Milch, eine Packung Nudeln”. Ask “Was kostet das Kilo?” For \"how many\" with countable things use “Wie viele?”: “Wie viele Eier?”",
+    "text": [
+      "<table><caption>Quantities</caption><thead><tr><th>Listen</th><th>Quantity</th><th>Example</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-mengen-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>ein Kilo</td><td>ein Kilo Äpfel</td></tr><tr><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-mengen-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>500 Gramm</td><td>fünfhundert Gramm Tomaten</td></tr><tr><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-mengen-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>ein Liter</td><td>ein Liter Milch</td></tr><tr><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-mengen-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>eine Packung</td><td>eine Packung Nudeln</td></tr><tr><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-mengen-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>eine Dose</td><td>eine Dose Tomaten</td></tr></tbody></table>"
+    ]
+  }
+}

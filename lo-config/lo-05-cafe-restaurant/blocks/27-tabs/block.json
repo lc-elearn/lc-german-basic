@@ -1,0 +1,24 @@
+{
+  "type": "tabs",
+  "title": "Reading a menu",
+  "presentation": "card",
+  "content": {
+    "label": "Reading a menu",
+    "tabs": [
+      {
+        "label": "Die Speisekarte",
+        "instructions": "A menu is usually divided into the same parts. Look for these headings.",
+        "text": [
+          "<ul><li><strong>Vorspeisen</strong> – starters</li><li><strong>Hauptgerichte</strong> – main courses</li><li><strong>Beilagen</strong> – side dishes</li><li><strong>Nachtisch / Dessert</strong> – dessert</li><li><strong>Getränke</strong> – drinks</li><li><strong>Tagesgericht</strong> – dish of the day</li></ul>"
+        ]
+      },
+      {
+        "label": "Wichtige Wörter",
+        "instructions": "These words matter when you cannot eat something.",
+        "text": [
+          "<ul><li><strong>vegetarisch</strong> – without meat or fish</li><li><strong>vegan</strong> – without any animal products</li><li><strong>glutenfrei</strong> – gluten-free</li><li><strong>Ich bin allergisch gegen …</strong> – I am allergic to …</li><li><strong>mit / ohne …</strong> – with / without …</li></ul>"
+        ]
+      }
+    ]
+  }
+}

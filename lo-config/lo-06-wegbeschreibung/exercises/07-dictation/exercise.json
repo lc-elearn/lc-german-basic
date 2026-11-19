@@ -1,0 +1,38 @@
+{
+  "type": "dictation",
+  "title": "Dictation: sentences",
+  "content": {
+    "instructions": "Listen and type the sentence. Punctuation is not marked, but umlauts are.",
+    "columns": {
+      "prompt": "Sentence",
+      "answer": "What you hear"
+    },
+    "rows": [
+      {
+        "prompt": "Sentence 1",
+        "answer": "Wo ist die Bibliothek?",
+        "audio": "audio/lo-06-wegbeschreibung/u6_x-dikt-01.mp3"
+      },
+      {
+        "prompt": "Sentence 2",
+        "answer": "Gehen Sie geradeaus und dann links.",
+        "audio": "audio/lo-06-wegbeschreibung/u6_x-dikt-02.mp3"
+      },
+      {
+        "prompt": "Sentence 3",
+        "answer": "Die Haltestelle ist gegenüber der Kirche.",
+        "audio": "audio/lo-06-wegbeschreibung/u6_x-dikt-03.mp3"
+      },
+      {
+        "prompt": "Sentence 4",
+        "answer": "Ich fahre mit der Straßenbahn.",
+        "audio": "audio/lo-06-wegbeschreibung/u6_x-dikt-04.mp3"
+      },
+      {
+        "prompt": "Sentence 5",
+        "answer": "Ich suche ein Geschenk für meine Mutter.",
+        "audio": "audio/lo-06-wegbeschreibung/u6_x-dikt-05.mp3"
+      }
+    ]
+  }
+}

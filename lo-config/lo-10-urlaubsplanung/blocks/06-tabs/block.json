@@ -1,0 +1,70 @@
+{
+  "type": "tabs",
+  "title": "Wünsche und Vorschläge – Wishes and suggestions",
+  "presentation": "card",
+  "content": {
+    "label": "Wünsche und Vorschläge – Wishes and suggestions",
+    "tabs": [
+      {
+        "label": "Wünsche",
+        "instructions": "Two friends dream about a trip. They use \"du\". Where could they go?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-10-urlaubsplanung/u10_d1-wuensche.mp3",
+            "label": "Listen to the dialogue: Wünsche"
+          },
+          "transcript": [
+            "<strong>Daniel:</strong> Was würdest du im Urlaub am liebsten machen? <em>What would you most like to do on holiday?</em>",
+            "<strong>Anna Becker:</strong> Ich würde gern eine Stadt besichtigen und viel essen. <em>I would like to see a city and eat a lot.</em>",
+            "<strong>Daniel:</strong> Wir könnten nach Prag fahren. <em>We could go to Prague.</em>",
+            "<strong>Anna Becker:</strong> Das wäre toll! Hättest du im Mai Zeit? <em>That would be great! Would you have time in May?</em>",
+            "<strong>Daniel:</strong> Ja, ich hätte vom 10. bis zum 17. Mai frei. <em>Yes, I would have the 10th to the 17th of May off.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Ich würde gern …</strong> – I would like to …</li><li><strong>Wir könnten …</strong> – We could …</li><li><strong>Das wäre toll!</strong> – That would be great!</li></ul>"
+        ]
+      },
+      {
+        "label": "Die Konferenzreise",
+        "instructions": "Two colleagues plan a work trip. They use \"Sie\". Why would they go on Friday?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-10-urlaubsplanung/u10_d2-konferenzreise.mp3",
+            "label": "Listen to the dialogue: Die Konferenzreise"
+          },
+          "transcript": [
+            "<strong>Frau Keller:</strong> Herr Vogel, wir könnten schon am Freitag fahren. <em>Mr Vogel, we could travel as early as Friday.</em>",
+            "<strong>Herr Vogel:</strong> Das wäre gut. Dann hätten wir am Samstag Zeit für die Stadt. <em>That would be good. Then we would have time for the city on Saturday.</em>",
+            "<strong>Frau Keller:</strong> Würden Sie lieber mit dem Zug oder mit dem Auto fahren? <em>Would you prefer to go by train or by car?</em>",
+            "<strong>Herr Vogel:</strong> Ich würde den Zug nehmen. Das ist entspannter. <em>I would take the train. It is more relaxing.</em>",
+            "<strong>Frau Keller:</strong> Gut, dann buche ich die Fahrkarten. <em>Good, then I will book the tickets.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Würden Sie lieber …?</strong> – Would you prefer to …? (polite)</li><li><strong>Dann hätten wir Zeit.</strong> – Then we would have time.</li><li><strong>entspannter</strong> – more relaxing</li></ul>"
+        ]
+      },
+      {
+        "label": "Nächster Sommer",
+        "instructions": "Two students talk about next summer. They use \"du\". Where will Elif spend a month?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-10-urlaubsplanung/u10_d3-naechster-sommer.mp3",
+            "label": "Listen to the dialogue: Nächster Sommer"
+          },
+          "transcript": [
+            "<strong>Sophie:</strong> Was machst du nächsten Sommer, Elif? <em>What are you doing next summer, Elif?</em>",
+            "<strong>Elif:</strong> Ich werde einen Monat in der Türkei bei meiner Familie verbringen. <em>I am going to spend a month in Turkey with my family.</em>",
+            "<strong>Sophie:</strong> Wie schön! Wirst du auch reisen? <em>How lovely! Will you travel too?</em>",
+            "<strong>Elif:</strong> Ja, wir werden ans Meer fahren und die Berge besuchen. <em>Yes, we are going to the seaside and will visit the mountains.</em>",
+            "<strong>Sophie:</strong> Das klingt wunderbar. Schick mir ein Foto! <em>That sounds wonderful. Send me a photo!</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>in der Türkei</strong> – in Turkey (wo? dative)</li><li><strong>Ich werde … verbringen.</strong> – I will spend …</li><li><strong>Schick mir ein Foto!</strong> – Send me a photo!</li></ul>"
+        ]
+      }
+    ]
+  }
+}

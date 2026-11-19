@@ -1,0 +1,31 @@
+{
+  "type": "inline-choice",
+  "title": "haben and sprechen: choose the form",
+  "content": {
+    "instructions": "Choose the correct form for each sentence.",
+    "items": [
+      {
+        "text": "Ich [*habe|hast|hat] einen Bruder."
+      },
+      {
+        "text": "Herr Vogel, [hast|*haben|habt] Sie Geschwister?"
+      },
+      {
+        "text": "Marco, [spreche|*sprichst|spricht] du Deutsch?"
+      },
+      {
+        "text": "Frau Keller, [*sprechen|sprichst|spricht] Sie Französisch?"
+      },
+      {
+        "text": "Sophie [spreche|sprichst|*spricht] Französisch."
+      },
+      {
+        "text": "Habt [*ihr|du|wir] Geschwister?"
+      },
+      {
+        "text": "Ich habe [ein|*einen|eine] Bruder."
+      }
+    ],
+    "footnote": "Remember: only the masculine changes in the accusative (ein → einen)."
+  }
+}

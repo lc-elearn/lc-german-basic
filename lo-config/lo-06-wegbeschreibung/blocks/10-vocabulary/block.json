@@ -1,0 +1,97 @@
+{
+  "type": "vocabulary",
+  "title": "Getting around",
+  "presentation": "card",
+  "options": {
+    "selfTest": true,
+    "letterHeadings": true
+  },
+  "content": {
+    "instructions": "Listen and repeat. With transport you use mit + dative: mit dem Bus.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "means of transport (<em>der Bus, die Straßenbahn, der Zug, das Fahrrad</em>);",
+        "verbs for travelling (<em>einsteigen, aussteigen, umsteigen</em>)."
+      ]
+    },
+    "topics": [
+      {
+        "id": "transport",
+        "heading": "Means of transport"
+      },
+      {
+        "id": "verbs",
+        "heading": "Verbs for travelling"
+      }
+    ],
+    "items": [
+      {
+        "term": "der Bus",
+        "gloss": "bus",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-verkehr-bus.mp3",
+        "topic": "transport"
+      },
+      {
+        "term": "die Straßenbahn",
+        "gloss": "tram",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-verkehr-strassenbahn.mp3",
+        "topic": "transport"
+      },
+      {
+        "term": "die U-Bahn",
+        "gloss": "underground",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-verkehr-ubahn.mp3",
+        "topic": "transport"
+      },
+      {
+        "term": "der Zug",
+        "gloss": "train",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-verkehr-zug.mp3",
+        "topic": "transport"
+      },
+      {
+        "term": "das Fahrrad",
+        "gloss": "bicycle",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-verkehr-fahrrad.mp3",
+        "topic": "transport"
+      },
+      {
+        "term": "die Haltestelle",
+        "gloss": "stop",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-verkehr-haltestelle.mp3",
+        "topic": "transport"
+      },
+      {
+        "term": "die Linie",
+        "gloss": "line",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-verkehr-linie.mp3",
+        "topic": "transport"
+      },
+      {
+        "term": "einsteigen",
+        "gloss": "to get on",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-verkehr-einsteigen.mp3",
+        "topic": "verbs"
+      },
+      {
+        "term": "aussteigen",
+        "gloss": "to get off",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-verkehr-aussteigen.mp3",
+        "topic": "verbs"
+      },
+      {
+        "term": "umsteigen",
+        "gloss": "to change",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-verkehr-umsteigen.mp3",
+        "topic": "verbs"
+      },
+      {
+        "term": "zu Fuß",
+        "gloss": "on foot",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-verkehr-zu-fuss.mp3",
+        "topic": "transport"
+      }
+    ]
+  }
+}

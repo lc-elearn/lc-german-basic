@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "title": "gefallen and mögen",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "“gefallen” literally means \"to please\": the thing you like is the subject and you are in the dative: “Die Stadt gefällt mir.” “Die Bilder gefallen mir.” The verb agrees with the thing, not with you. “mögen” is simpler: you are the subject and the thing is the object: “Ich mag moderne Kunst.”",
+    "text": [
+      "<table><caption>gefallen and mögen</caption><thead><tr><th>Verb</th><th>Listen</th><th>Example</th></tr></thead><tbody><tr><th>gefallen (singular)</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-gefallen-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Die Stadt gefällt mir. Wie gefällt dir Wien?</td></tr><tr><th>gefallen (plural)</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-gefallen-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Die Bilder gefallen mir. Wie gefallen Ihnen die Bilder?</td></tr><tr><th>mögen</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-gefallen-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Ich mag moderne Kunst. Magst du Jazz?</td></tr></tbody></table>",
+      "ich mag, du magst, er mag, wir mögen, ihr mögt, sie mögen"
+    ]
+  }
+}

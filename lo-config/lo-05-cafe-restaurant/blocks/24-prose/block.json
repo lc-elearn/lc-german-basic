@@ -1,0 +1,12 @@
+{
+  "type": "prose",
+  "title": "Paying and the tip",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "text": [
+      "In Germany, Austria and Switzerland you usually pay at the table. When the waiter brings the bill, you say the total you want to pay including the tip: if the bill is 8,40 € you say <em>Neun Euro</em> or <em>Stimmt so</em> (\"keep the change\"). Do not leave the tip on the table. A tip of about five to ten percent is common, and nobody expects more.",
+      "Groups are often asked <em>Zusammen oder getrennt?</em>. Splitting the bill by item is normal, and the waiter will do it at the table."
+    ]
+  }
+}

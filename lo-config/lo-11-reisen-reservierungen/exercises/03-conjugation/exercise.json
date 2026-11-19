@@ -1,0 +1,36 @@
+{
+  "type": "conjugation",
+  "title": "Conjugation: wissen",
+  "content": {
+    "instructions": "Write the correct form of wissen.",
+    "verb": "wissen",
+    "tense": "Präsens",
+    "answerMode": "typed",
+    "rows": [
+      {
+        "person": "ich",
+        "answer": "weiß"
+      },
+      {
+        "person": "du",
+        "answer": "weißt"
+      },
+      {
+        "person": "er / sie / es",
+        "answer": "weiß"
+      },
+      {
+        "person": "wir",
+        "answer": "wissen"
+      },
+      {
+        "person": "ihr",
+        "answer": "wisst"
+      },
+      {
+        "person": "sie / Sie",
+        "answer": "wissen"
+      }
+    ]
+  }
+}

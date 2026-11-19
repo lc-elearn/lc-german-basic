@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "Learn each word and say it aloud. Many time words go with a preposition, so learn the phrase: <em>um acht Uhr</em>, <em>am Montag</em>, <em>von zehn bis zwölf</em>."
+    ],
+    "image": {
+      "src": "images/lo-07-tagesablauf-arbeit-studium/sections/vocabulary.webp",
+      "alt": ""
+    }
+  }
+}

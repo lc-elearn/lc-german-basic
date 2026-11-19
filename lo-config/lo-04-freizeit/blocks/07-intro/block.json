@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "Learn the verbs together with what goes with them: <em>Fußball spielen</em>, <em>ins Kino gehen</em>, <em>Musik hören</em>. Listen to the list, then say each phrase aloud."
+    ],
+    "image": {
+      "src": "images/lo-04-freizeit/sections/vocabulary.webp",
+      "alt": ""
+    }
+  }
+}

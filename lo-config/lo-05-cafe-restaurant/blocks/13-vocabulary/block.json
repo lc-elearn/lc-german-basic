@@ -1,0 +1,68 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Describing food and polite phrases",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. These phrases are what you actually say at the table.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "describing food (<em>lecker, heiß, kalt, frisch, vegetarisch</em>);",
+        "polite phrases (<em>Ich hätte gern …, Guten Appetit!, Zum Wohl!</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "lecker",
+        "gloss": "tasty",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-wort-lecker.mp3"
+      },
+      {
+        "term": "heiß",
+        "gloss": "hot",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-wort-heiss.mp3"
+      },
+      {
+        "term": "kalt",
+        "gloss": "cold",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-wort-kalt.mp3"
+      },
+      {
+        "term": "frisch",
+        "gloss": "fresh",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-wort-frisch.mp3"
+      },
+      {
+        "term": "süß",
+        "gloss": "sweet",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-wort-suess.mp3"
+      },
+      {
+        "term": "scharf",
+        "gloss": "spicy",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-wort-scharf.mp3"
+      },
+      {
+        "term": "vegetarisch",
+        "gloss": "vegetarian",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-wort-vegetarisch.mp3"
+      },
+      {
+        "term": "Ich hätte gern …",
+        "gloss": "I would like …",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-wort-haette-gern.mp3"
+      },
+      {
+        "term": "Guten Appetit!",
+        "gloss": "Enjoy your meal!",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-wort-appetit.mp3"
+      },
+      {
+        "term": "Zum Wohl! / Prost!",
+        "gloss": "Cheers!",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-wort-prost.mp3"
+      }
+    ]
+  }
+}

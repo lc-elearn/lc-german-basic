@@ -1,0 +1,60 @@
+{
+  "type": "tabs",
+  "title": "Beruf – Occupation",
+  "presentation": "card",
+  "content": {
+    "label": "Beruf – Occupation",
+    "tabs": [
+      {
+        "label": "Im Gemeinschaftsraum",
+        "instructions": "Two students talk in the department common room. They use \"du\". Which verb do they use for what they study?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-02-familie-sprachen-herkunft/u2_b2-im-gemeinschaftsraum.mp3",
+            "label": "Listen to the dialogue: Im Gemeinschaftsraum"
+          },
+          "transcript": [
+            "<strong>Lukas:</strong> Hallo, Elif! Bist du auch Studentin? <em>Hi, Elif! Are you a student too?</em>",
+            "<strong>Elif:</strong> Ja, ich studiere Medizin. Und du? <em>Yes, I study medicine. And you?</em>",
+            "<strong>Lukas:</strong> Ich bin Student. Ich studiere Informatik. <em>I am a student. I study computer science.</em>",
+            "<strong>Elif:</strong> Informatik! Das ist interessant. <em>Computer science! That is interesting.</em>",
+            "<strong>Lukas:</strong> Medizin auch! <em>So is medicine!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-02-familie-sprachen-herkunft/dialogues/05-im-gemeinschaftsraum.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Ich bin Student / Studentin.</strong> – I am a student (m / f).</li><li><strong>Ich studiere …</strong> – I study …</li></ul>"
+        ]
+      },
+      {
+        "label": "In der Kaffeeküche",
+        "instructions": "Two colleagues chat in the staff kitchen. How long have you been doing something? Listen for \"seit\" and the length of time.",
+        "media": {
+          "audio": {
+            "src": "audio/lo-02-familie-sprachen-herkunft/u2_b3-in-der-kaffeekueche.mp3",
+            "label": "Listen to the dialogue: In der Kaffeeküche"
+          },
+          "transcript": [
+            "<strong>Frau Keller:</strong> Seit wann arbeiten Sie als Lehrerin, Frau Huber? <em>How long have you been working as a teacher, Mrs Huber?</em>",
+            "<strong>Katrin Huber:</strong> Seit zehn Jahren. <em>For ten years.</em>",
+            "<strong>Frau Keller:</strong> Und gefällt Ihnen der Beruf? <em>And do you like the job?</em>",
+            "<strong>Katrin Huber:</strong> Ja, sehr! Und Sie? Seit wann arbeiten Sie hier? <em>Yes, very much! And you? How long have you been working here?</em>",
+            "<strong>Frau Keller:</strong> Seit drei Jahren. <em>For three years.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-02-familie-sprachen-herkunft/dialogues/06-in-der-kaffeekueche.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Seit wann …?</strong> – Since when / how long …?</li><li><strong>Seit zehn Jahren.</strong> – For ten years.</li><li><strong>als Lehrerin arbeiten</strong> – to work as a teacher</li></ul>"
+        ]
+      }
+    ]
+  }
+}

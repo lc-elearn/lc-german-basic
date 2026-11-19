@@ -1,0 +1,59 @@
+{
+  "type": "flashcards",
+  "title": "Flashcards: food and drink",
+  "content": {
+    "instructions": "Flip each card, listen and say the word aloud. Mark the ones you know.",
+    "cards": [
+      {
+        "target": "der Kaffee",
+        "native": "coffee",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-drink-kaffee.mp3"
+      },
+      {
+        "target": "der Tee",
+        "native": "tea",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-drink-tee.mp3"
+      },
+      {
+        "target": "das Wasser",
+        "native": "water",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-drink-wasser.mp3"
+      },
+      {
+        "target": "das Bier",
+        "native": "beer",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-drink-bier.mp3"
+      },
+      {
+        "target": "das Brot",
+        "native": "bread",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-brot.mp3"
+      },
+      {
+        "target": "der Kuchen",
+        "native": "cake",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-kuchen.mp3"
+      },
+      {
+        "target": "die Suppe",
+        "native": "soup",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-suppe.mp3"
+      },
+      {
+        "target": "der Salat",
+        "native": "salad",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-food-salat.mp3"
+      },
+      {
+        "target": "die Rechnung",
+        "native": "bill",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-rest-rechnung.mp3"
+      },
+      {
+        "target": "das Trinkgeld",
+        "native": "tip",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-rest-trinkgeld.mp3"
+      }
+    ]
+  }
+}

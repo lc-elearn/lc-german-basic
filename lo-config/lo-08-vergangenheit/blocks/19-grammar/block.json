@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Separable, inseparable and -ieren verbs",
+  "presentation": "card",
+  "content": {
+    "instructions": "A separable verb puts “ge-” between the prefix and the stem: “aufgestanden”. Verbs with an unstressed prefix (“be-, ver-, ent-, er-”) and verbs in “-ieren” have no “ge-”: “besucht, verstanden, studiert”.",
+    "text": [
+      "<table><caption>Special participles</caption><thead><tr><th>Type</th><th>Listen</th><th>Infinitive</th><th>Participle</th></tr></thead><tbody><tr><th>separable</th><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-sonder-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>aufstehen<br />einkaufen<br />ankommen</td><td>aufgestanden<br />eingekauft<br />angekommen</td></tr><tr><th>inseparable</th><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-sonder-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>besuchen<br />verstehen<br />bestellen</td><td>besucht<br />verstanden<br />bestellt</td></tr><tr><th>-ieren</th><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-sonder-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>studieren<br />fotografieren<br />telefonieren</td><td>studiert<br />fotografiert<br />telefoniert</td></tr></tbody></table>"
+    ]
+  }
+}
