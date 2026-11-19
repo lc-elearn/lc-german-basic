@@ -2,7 +2,7 @@
   "type": "reading",
   "title": "Reading: three self-introductions",
   "content": {
-    "instructions": "Read the three introductions and answer the questions.",
+    "instructions": "Read the three introductions and answer the questions. “Grüezi” is a greeting used in German-speaking Switzerland.",
     "passage": "Hallo! Ich heiße Nora Bauer. Ich bin 20 Jahre alt und komme aus Hamburg. Ich wohne in Berlin. Ich bin Deutsche.\nGuten Tag! Mein Name ist Paul Gruber. Ich bin 47 Jahre alt. Ich komme aus Wien. Ich bin Österreicher.\nGrüezi! Ich bin Sara Meier. Ich bin 31 und komme aus Zürich. Ich bin Schweizerin.",
     "trueLabel": "Richtig",
     "falseLabel": "Falsch",
