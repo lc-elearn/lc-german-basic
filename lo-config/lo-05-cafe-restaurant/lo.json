@@ -11,7 +11,7 @@
       "id": "dialogues",
       "label": "German in Use: Dialogues",
       "navLabel": "Dialogues",
-      "blocks": ["02-intro", "03-tabs", "04-tabs", "05-tabs", "06-tabs"]
+      "blocks": ["02-intro", "03-tabs", "04-tabs", "05-tabs"]
     },
     {
       "id": "vocabulary",
@@ -23,7 +23,8 @@
         "10-vocabulary",
         "11-vocabulary",
         "12-vocabulary",
-        "13-vocabulary"
+        "13-vocabulary",
+        "27-tabs"
       ]
     },
     {
@@ -34,21 +35,7 @@
     {
       "id": "grammar",
       "label": "Grammar",
-      "blocks": [
-        "16-intro",
-        "17-grammar",
-        "18-grammar",
-        "19-grammar",
-        "20-grammar",
-        "21-grammar",
-        "22-grammar"
-      ]
-    },
-    {
-      "id": "culture",
-      "label": "Cultural Notes",
-      "navLabel": "Culture",
-      "blocks": ["23-intro", "24-prose", "25-prose", "26-prose", "27-tabs"]
+      "blocks": ["16-intro", "17-grammar", "18-grammar", "19-grammar", "20-grammar", "21-grammar"]
     },
     {
       "id": "exercises",
@@ -57,13 +44,11 @@
       "exercises": [
         "01-flashcards",
         "02-inline-choice",
-        "03-conjugation",
         "04-inline-gap",
         "05-word-order",
         "06-phrase-reorder",
         "07-dictation",
-        "08-reading",
-        "09-inline-choice"
+        "08-reading"
       ]
     }
   ],
