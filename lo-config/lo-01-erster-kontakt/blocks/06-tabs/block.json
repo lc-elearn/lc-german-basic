@@ -32,31 +32,6 @@
         ]
       },
       {
-        "label": "Willkommensabend",
-        "instructions": "Three students at a welcome evening. Lukas asks two people at once: which pronoun does he use, and why?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-01-erster-kontakt/u1_d4-s2-willkommensabend.mp3",
-            "label": "Listen to the dialogue: Willkommensabend"
-          },
-          "transcript": [
-            "<strong>Lukas:</strong> Hallo, ich bin Lukas. Woher kommt ihr? <em>Hi, I am Lukas. Where are you from?</em>",
-            "<strong>Daniel:</strong> Ich komme aus Manchester. Ich bin Engländer. <em>I come from Manchester. I am English.</em>",
-            "<strong>Sophie:</strong> Ich bin Sophie. Ich komme aus Lyon. Ich bin Französin. <em>I am Sophie. I come from Lyon. I am French.</em>",
-            "<strong>Lukas:</strong> Toll! Ich komme aus Leipzig. Ich bin Deutscher. <em>Great! I come from Leipzig. I am German.</em>",
-            "<strong>Daniel:</strong> Freut mich, Lukas! <em>Nice to meet you, Lukas!</em>"
-          ],
-          "image": {
-            "kind": "portrait",
-            "src": "images/lo-01-erster-kontakt/dialogues/10-willkommensabend.webp",
-            "alt": ""
-          }
-        },
-        "text": [
-          "<ul><li><strong>Woher kommt ihr?</strong> – Where are you from? (to two or more people you call du)</li><li><strong>Ich komme aus … Ich bin …</strong> – I come from … I am …</li><li><strong>Toll!</strong> – Great!</li></ul>"
-        ]
-      },
-      {
         "label": "Stammtisch im Pub",
         "instructions": "A German conversation evening in a pub, for students and members of the public. Frau Schneider says \"Sie\" to Herr Vogel but \"du\" to Elif. Why?",
         "media": {
