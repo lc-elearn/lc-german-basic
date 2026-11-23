@@ -1,0 +1,33 @@
+{
+  "type": "inline-choice",
+  "title": "sein, du or Sie: choose the form",
+  "content": {
+    "instructions": "Choose the correct form for each sentence.",
+    "items": [
+      {
+        "text": "Ich [*bin|bist|ist] Studentin."
+      },
+      {
+        "text": "Daniel, [bin|*bist|ist] du aus Manchester?"
+      },
+      {
+        "text": "Herr Vogel [bin|bist|*ist] Österreicher."
+      },
+      {
+        "text": "Wir [*sind|seid|ist] Kollegen."
+      },
+      {
+        "text": "Ihr [sind|*seid|ist] neu hier, oder?"
+      },
+      {
+        "text": "Frau Keller, [bin|bist|*sind] Sie aus Leipzig?"
+      },
+      {
+        "text": "Entschuldigung, Herr Vogel. Woher [kommst du|*kommen Sie]?"
+      },
+      {
+        "text": "Hallo, Anna! Woher [*kommst du|kommen Sie]?"
+      }
+    ]
+  }
+}
