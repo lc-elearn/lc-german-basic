@@ -11,18 +11,13 @@
     "summary": {
       "lead": "You will learn:",
       "items": [
-        "polite questions (<em>Entschuldigung, wo ist …?</em>);",
-        "common answers (<em>Gern geschehen, Das ist nicht weit</em>)."
+        "polite questions and shop phrases (<em>Entschuldigung, wo ist …?</em>, <em>Was darf es sein?</em>)."
       ]
     },
     "topics": [
       {
         "id": "questions",
-        "heading": "Polite questions"
-      },
-      {
-        "id": "answers",
-        "heading": "Common answers"
+        "heading": "Polite questions and shop phrases"
       }
     ],
     "items": [
@@ -49,24 +44,6 @@
         "gloss": "I am looking for …",
         "audio": "audio/lo-06-wegbeschreibung/u6_v-satz-suche.mp3",
         "topic": "questions"
-      },
-      {
-        "term": "Wie weit ist es?",
-        "gloss": "How far is it?",
-        "audio": "audio/lo-06-wegbeschreibung/u6_v-satz-weit.mp3",
-        "topic": "questions"
-      },
-      {
-        "term": "Das ist nicht weit.",
-        "gloss": "That is not far.",
-        "audio": "audio/lo-06-wegbeschreibung/u6_v-satz-nicht-weit.mp3",
-        "topic": "answers"
-      },
-      {
-        "term": "Gern geschehen.",
-        "gloss": "You are welcome.",
-        "audio": "audio/lo-06-wegbeschreibung/u6_v-satz-geschehen.mp3",
-        "topic": "answers"
       },
       {
         "term": "Was darf es sein?",

@@ -61,24 +61,6 @@
         "gloss": "deposit",
         "audio": "audio/lo-06-wegbeschreibung/u6_v-markt-pfand.mp3",
         "topic": "market"
-      },
-      {
-        "term": "der Adventskalender",
-        "gloss": "advent calendar",
-        "audio": "audio/lo-06-wegbeschreibung/u6_v-markt-adventskalender.mp3",
-        "topic": "market"
-      },
-      {
-        "term": "der Weihnachtsbaum",
-        "gloss": "Christmas tree",
-        "audio": "audio/lo-06-wegbeschreibung/u6_v-markt-weihnachtsbaum.mp3",
-        "topic": "market"
-      },
-      {
-        "term": "die Lichter",
-        "gloss": "lights",
-        "audio": "audio/lo-06-wegbeschreibung/u6_v-markt-lichter.mp3",
-        "topic": "market"
       }
     ]
   }

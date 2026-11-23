@@ -45,12 +45,6 @@
         "topic": "directions"
       },
       {
-        "term": "die Kreuzung",
-        "gloss": "crossing",
-        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-kreuzung.mp3",
-        "topic": "directions"
-      },
-      {
         "term": "die Ecke",
         "gloss": "corner",
         "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-ecke.mp3",
@@ -90,12 +84,6 @@
         "term": "die Straße",
         "gloss": "street",
         "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-strasse.mp3",
-        "topic": "directions"
-      },
-      {
-        "term": "weit / nah",
-        "gloss": "far / near",
-        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-weit-nah.mp3",
         "topic": "directions"
       }
     ]

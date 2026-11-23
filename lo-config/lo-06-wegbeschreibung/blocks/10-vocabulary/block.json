@@ -11,8 +11,8 @@
     "summary": {
       "lead": "You will learn:",
       "items": [
-        "means of transport (<em>der Bus, die Straßenbahn, der Zug, das Fahrrad</em>);",
-        "verbs for travelling (<em>einsteigen, aussteigen, umsteigen</em>)."
+        "means of transport (<em>der Bus, die Straßenbahn, der Zug</em>);",
+        "verbs for travelling (<em>einsteigen, aussteigen</em>)."
       ]
     },
     "topics": [
@@ -51,12 +51,6 @@
         "topic": "transport"
       },
       {
-        "term": "das Fahrrad",
-        "gloss": "bicycle",
-        "audio": "audio/lo-06-wegbeschreibung/u6_v-verkehr-fahrrad.mp3",
-        "topic": "transport"
-      },
-      {
         "term": "die Haltestelle",
         "gloss": "stop",
         "audio": "audio/lo-06-wegbeschreibung/u6_v-verkehr-haltestelle.mp3",
@@ -78,12 +72,6 @@
         "term": "aussteigen",
         "gloss": "to get off",
         "audio": "audio/lo-06-wegbeschreibung/u6_v-verkehr-aussteigen.mp3",
-        "topic": "verbs"
-      },
-      {
-        "term": "umsteigen",
-        "gloss": "to change",
-        "audio": "audio/lo-06-wegbeschreibung/u6_v-verkehr-umsteigen.mp3",
         "topic": "verbs"
       },
       {
