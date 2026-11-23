@@ -1,0 +1,24 @@
+{
+  "type": "drag-fill-gaps",
+  "title": "ein, mein, kein: drag the word",
+  "content": {
+    "instructions": "Drag each word into the right gap.",
+    "items": [
+      {
+        "text": "Ich habe [einen] Bruder und [eine] Schwester."
+      },
+      {
+        "text": "Das ist [meine] Mutter und das ist [mein] Vater."
+      },
+      {
+        "text": "Wir haben [keine] Kinder."
+      },
+      {
+        "text": "Sie hat [keinen] Bruder."
+      }
+    ]
+  },
+  "options": {
+    "shuffle": true
+  }
+}

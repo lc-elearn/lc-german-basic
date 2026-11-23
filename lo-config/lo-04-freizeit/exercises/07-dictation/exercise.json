@@ -22,6 +22,11 @@
         "prompt": "Sentence 3",
         "answer": "Gehen wir am Sonntag ins Kino?",
         "audio": "audio/lo-04-freizeit/u4_x-dikt-03.mp3"
+      },
+      {
+        "prompt": "Sentence 4",
+        "answer": "Er fährt jeden Tag Fahrrad.",
+        "audio": "audio/lo-04-freizeit/u4_x-dikt-04.mp3"
       }
     ]
   }
