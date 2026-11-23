@@ -47,11 +47,9 @@
       "exercises": [
         "01-flashcards",
         "02-memory-match",
-        "03-inline-choice",
         "04-drag-fill-gaps",
         "05-inline-gap",
         "06-word-order",
-        "07-phrase-reorder",
         "08-dictation",
         "09-reading"
       ]
