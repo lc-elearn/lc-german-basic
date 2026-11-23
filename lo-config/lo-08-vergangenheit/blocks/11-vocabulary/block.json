@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Holidays and travel",
   "presentation": "card",
   "content": {
@@ -8,7 +10,7 @@
     "summary": {
       "lead": "You will learn:",
       "items": [
-        "holiday words (<em>der Urlaub, die Reise, der Koffer</em>);",
+        "holiday words (<em>der Urlaub, die Reise, die Verspätung</em>);",
         "verbs of travel (<em>reisen, fliegen, ankommen, übernachten</em>)."
       ]
     },
@@ -52,16 +54,6 @@
         "term": "die Verspätung",
         "gloss": "delay",
         "audio": "audio/lo-08-vergangenheit/u8_v-reise-verspaetung.mp3"
-      },
-      {
-        "term": "der Koffer",
-        "gloss": "suitcase",
-        "audio": "audio/lo-08-vergangenheit/u8_v-reise-koffer.mp3"
-      },
-      {
-        "term": "das Hotel",
-        "gloss": "hotel",
-        "audio": "audio/lo-08-vergangenheit/u8_v-reise-hotel.mp3"
       }
     ]
   }
