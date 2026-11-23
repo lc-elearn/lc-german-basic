@@ -1,0 +1,8 @@
+{
+  "type": "word-order",
+  "title": "Word order: a separable verb",
+  "content": {
+    "instructions": "Put the words in the right order to make a sentence. The verb is second and the prefix goes last.",
+    "words": ["Am Samstag", "kaufen", "wir", "auf dem Markt", "ein."]
+  }
+}

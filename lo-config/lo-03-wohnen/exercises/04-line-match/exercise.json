@@ -1,0 +1,44 @@
+{
+  "type": "line-match",
+  "title": "Match the furniture",
+  "content": {
+    "instructions": "Draw a line from each picture to its word, with the right article.",
+    "items": [
+      {
+        "label": "das Bett",
+        "image": "images/lo-03-wohnen/figures/rooms-bed.webp",
+        "alt": "A bed"
+      },
+      {
+        "label": "das Regal",
+        "image": "images/lo-03-wohnen/figures/rooms-bookshelf.webp",
+        "alt": "A bookshelf"
+      },
+      {
+        "label": "der Stuhl",
+        "image": "images/lo-03-wohnen/figures/rooms-chair.webp",
+        "alt": "A chair"
+      },
+      {
+        "label": "die Lampe",
+        "image": "images/lo-03-wohnen/figures/rooms-lamp.webp",
+        "alt": "A lamp"
+      },
+      {
+        "label": "das Sofa",
+        "image": "images/lo-03-wohnen/figures/rooms-sofa.webp",
+        "alt": "A sofa"
+      },
+      {
+        "label": "der Tisch",
+        "image": "images/lo-03-wohnen/figures/rooms-table.webp",
+        "alt": "A table"
+      },
+      {
+        "label": "der Schrank",
+        "image": "images/lo-03-wohnen/figures/rooms-wardrobe.webp",
+        "alt": "A wardrobe"
+      }
+    ]
+  }
+}
