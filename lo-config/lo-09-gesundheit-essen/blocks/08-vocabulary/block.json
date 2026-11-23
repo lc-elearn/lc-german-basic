@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "The body",
   "presentation": "card",
   "defaultOpen": true,
@@ -10,7 +12,7 @@
       "lead": "You will learn:",
       "items": [
         "parts of the body (<em>der Kopf, der Rücken, das Bein, die Hand</em>);",
-        "organs and senses (<em>der Magen, das Auge, das Ohr</em>)."
+        "organs and senses (<em>der Kopf, das Auge, das Ohr</em>)."
       ]
     },
     "items": [
@@ -68,11 +70,6 @@
         "term": "der Zahn",
         "gloss": "tooth",
         "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-zahn.mp3"
-      },
-      {
-        "term": "der Magen",
-        "gloss": "stomach",
-        "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-magen.mp3"
       }
     ]
   }

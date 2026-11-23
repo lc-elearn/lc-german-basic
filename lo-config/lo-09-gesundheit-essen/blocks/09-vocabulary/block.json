@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Illness",
   "presentation": "card",
   "content": {
@@ -8,7 +10,7 @@
     "summary": {
       "lead": "You will learn:",
       "items": [
-        "illnesses (<em>die Erkältung, die Grippe, das Fieber, der Husten</em>);",
+        "illnesses (<em>die Erkältung, das Fieber, der Husten</em>);",
         "how you feel (<em>müde, krank, gesund</em>)."
       ]
     },
@@ -34,19 +36,9 @@
         "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-husten.mp3"
       },
       {
-        "term": "der Schnupfen",
-        "gloss": "cold (runny nose)",
-        "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-schnupfen.mp3"
-      },
-      {
         "term": "die Erkältung",
         "gloss": "cold",
         "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-erkaeltung.mp3"
-      },
-      {
-        "term": "die Grippe",
-        "gloss": "flu",
-        "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-grippe.mp3"
       },
       {
         "term": "müde",

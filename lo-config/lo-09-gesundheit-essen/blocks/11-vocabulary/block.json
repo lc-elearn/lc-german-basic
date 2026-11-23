@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Quantities and shopping",
   "presentation": "card",
   "content": {
@@ -9,7 +11,7 @@
       "lead": "You will learn:",
       "items": [
         "quantities (<em>das Kilo, das Gramm, der Liter, die Packung</em>);",
-        "shopping (<em>der Markt, die Kasse, die Tüte, frisch</em>)."
+        "shopping (<em>der Markt, die Kasse, frisch</em>)."
       ]
     },
     "items": [
@@ -52,16 +54,6 @@
         "term": "die Kasse",
         "gloss": "checkout",
         "audio": "audio/lo-09-gesundheit-essen/u9_v-menge-kasse.mp3"
-      },
-      {
-        "term": "die Tüte",
-        "gloss": "bag",
-        "audio": "audio/lo-09-gesundheit-essen/u9_v-menge-tuete.mp3"
-      },
-      {
-        "term": "das Angebot",
-        "gloss": "special offer",
-        "audio": "audio/lo-09-gesundheit-essen/u9_v-menge-angebot.mp3"
       },
       {
         "term": "frisch",

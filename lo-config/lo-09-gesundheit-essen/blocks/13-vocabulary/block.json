@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Healthy living",
   "presentation": "card",
   "content": {
@@ -27,16 +29,6 @@
         "term": "sich ausruhen",
         "gloss": "to rest",
         "audio": "audio/lo-09-gesundheit-essen/u9_v-leben-ausruhen.mp3"
-      },
-      {
-        "term": "der Stress",
-        "gloss": "stress",
-        "audio": "audio/lo-09-gesundheit-essen/u9_v-leben-stress.mp3"
-      },
-      {
-        "term": "die Ernährung",
-        "gloss": "diet, nutrition",
-        "audio": "audio/lo-09-gesundheit-essen/u9_v-leben-ernaehrung.mp3"
       },
       {
         "term": "versuchen",

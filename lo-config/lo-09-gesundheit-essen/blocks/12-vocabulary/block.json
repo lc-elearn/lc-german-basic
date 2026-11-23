@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Groceries",
   "presentation": "card",
   "content": {
@@ -8,7 +10,7 @@
     "summary": {
       "lead": "You will learn:",
       "items": [
-        "fruit and vegetables (<em>der Apfel, die Tomate, die Kartoffel, die Zwiebel</em>);",
+        "fruit and vegetables (<em>der Apfel, die Tomate, die Zwiebel</em>);",
         "dairy and basics (<em>die Butter, der Joghurt, die Eier</em>)."
       ]
     },
@@ -29,24 +31,9 @@
         "audio": "audio/lo-09-gesundheit-essen/u9_v-essen-tomate.mp3"
       },
       {
-        "term": "die Kartoffel",
-        "gloss": "potato",
-        "audio": "audio/lo-09-gesundheit-essen/u9_v-essen-kartoffel.mp3"
-      },
-      {
         "term": "die Zwiebel",
         "gloss": "onion",
         "audio": "audio/lo-09-gesundheit-essen/u9_v-essen-zwiebel.mp3"
-      },
-      {
-        "term": "die Karotte",
-        "gloss": "carrot",
-        "audio": "audio/lo-09-gesundheit-essen/u9_v-essen-karotte.mp3"
-      },
-      {
-        "term": "die Gurke",
-        "gloss": "cucumber",
-        "audio": "audio/lo-09-gesundheit-essen/u9_v-essen-gurke.mp3"
       },
       {
         "term": "die Eier",
