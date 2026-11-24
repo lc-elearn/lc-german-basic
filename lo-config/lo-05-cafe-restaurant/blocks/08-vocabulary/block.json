@@ -5,9 +5,8 @@
   "presentation": "card",
   "defaultOpen": true,
   "content": {
-    "instructions": "Listen and repeat. Learn the article with each drink.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen and repeat. Learn the article with each drink. You will learn:",
       "items": [
         "hot and cold drinks (<em>der Kaffee, der Tee, das Wasser, der Saft</em>);",
         "alcoholic drinks (<em>das Bier, der Wein</em>)."
