@@ -4,9 +4,8 @@
   "title": "Opinions",
   "presentation": "card",
   "content": {
-    "instructions": "Listen and repeat. Notice which verbs take the dative: gefallen.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen and repeat. Notice which verbs take the dative: gefallen. You will learn:",
       "items": [
         "liking (<em>gefallen, mögen, finden</em>);",
         "adjectives for opinions (<em>interessant, langweilig, toll, wichtig</em>)."
@@ -52,16 +51,6 @@
         "term": "wichtig",
         "gloss": "important",
         "audio": "audio/lo-12-laender-feste-praesentation/u12_v-meinung-wichtig.mp3"
-      },
-      {
-        "term": "typisch",
-        "gloss": "typical",
-        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-meinung-typisch.mp3"
-      },
-      {
-        "term": "besonders",
-        "gloss": "particularly",
-        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-meinung-besonders.mp3"
       }
     ]
   }

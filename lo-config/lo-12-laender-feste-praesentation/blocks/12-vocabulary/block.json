@@ -4,9 +4,8 @@
   "title": "Presentation",
   "presentation": "card",
   "content": {
-    "instructions": "Listen and repeat. These words and phrases carry you through a short talk.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen and repeat. These words and phrases carry you through a short talk. You will learn:",
       "items": [
         "parts of a presentation (<em>die Einleitung, der Hauptteil, der Schluss</em>);",
         "phrases for a talk (<em>Ich möchte über … sprechen, Vielen Dank für Ihre Aufmerksamkeit</em>)."
@@ -42,11 +41,6 @@
         "term": "der Schluss",
         "gloss": "conclusion",
         "audio": "audio/lo-12-laender-feste-praesentation/u12_v-praes-schluss.mp3"
-      },
-      {
-        "term": "zusammenfassen",
-        "gloss": "to sum up",
-        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-praes-zusammenfassen.mp3"
       },
       {
         "term": "Ich möchte über … sprechen.",
