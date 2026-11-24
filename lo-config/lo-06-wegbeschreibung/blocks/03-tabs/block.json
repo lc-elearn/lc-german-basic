@@ -71,7 +71,12 @@
             "<strong>Peter Lange:</strong> Und dann? <em>And then?</em>",
             "<strong>Frau Schneider:</strong> Gehen Sie rechts. Das Sprachenzentrum ist gegenüber der Bibliothek. <em>Go right. The Language Centre is opposite the library.</em>",
             "<strong>Peter Lange:</strong> Danke, bis gleich! <em>Thank you, see you soon!</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-06-wegbeschreibung/dialogues/03-am-telefon.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Wie komme ich zu Ihnen?</strong> – How do I get to you?</li><li><strong>aussteigen → steigen Sie aus</strong> – to get off</li><li><strong>gegenüber der Bibliothek</strong> – opposite the library</li></ul>"
