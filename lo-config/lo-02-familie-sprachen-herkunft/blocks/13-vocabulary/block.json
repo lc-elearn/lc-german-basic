@@ -4,9 +4,8 @@
   "title": "Months and days",
   "presentation": "card",
   "content": {
-    "instructions": "The week starts on Monday. Months and days are always capitalised.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "The week starts on Monday. Months and days are always capitalised. You will learn:",
       "items": [
         "the months (<em>Januar … Dezember</em>);",
         "the days of the week (<em>Montag … Sonntag</em>)."
