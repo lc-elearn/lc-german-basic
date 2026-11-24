@@ -20,7 +20,12 @@
             "<strong>Herr Braun:</strong> Das macht acht Euro vierzig. <em>That is €8.40.</em>",
             "<strong>Frau Schneider:</strong> Neun Euro, stimmt so. <em>Nine euros, keep the change.</em>",
             "<strong>Peter Lange:</strong> Ich zahle mit Karte, bitte. <em>I will pay by card, please.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-05-cafe-restaurant/dialogues/07-die-rechnung.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Zusammen oder getrennt?</strong> – Together or separately?</li><li><strong>Stimmt so.</strong> – Keep the change.</li><li><strong>mit Karte / bar</strong> – by card / in cash</li></ul>"
@@ -41,7 +46,12 @@
             "<strong>Daniel:</strong> Drei Euro fünfzig. Und der Salat kostet einen Euro. <em>Three euros fifty. And the salad costs one euro.</em>",
             "<strong>Sophie:</strong> Hast du eine Mensakarte? <em>Do you have a canteen card?</em>",
             "<strong>Daniel:</strong> Ja, hier. <em>Yes, here.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-05-cafe-restaurant/dialogues/08-in-der-mensa.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Was gibt es heute?</strong> – What is on today?</li><li><strong>die Mensa</strong> – university canteen</li><li><strong>Was kostet das?</strong> – What does that cost?</li></ul>"
@@ -61,7 +71,12 @@
             "<strong>Daniel:</strong> Danke. Ich hätte gern noch ein Wasser. <em>Thank you. I would like another water.</em>",
             "<strong>Frau Weber:</strong> Natürlich. Mit oder ohne Kohlensäure? <em>Of course. Sparkling or still?</em>",
             "<strong>Daniel:</strong> Ohne, bitte. <em>Still, please.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-05-cafe-restaurant/dialogues/09-eine-gabel-bitte.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Entschuldigung</strong> – excuse me, sorry</li><li><strong>mit / ohne Kohlensäure</strong> – sparkling / still (with / without carbonation)</li><li><strong>noch ein Wasser</strong> – another water</li></ul>"

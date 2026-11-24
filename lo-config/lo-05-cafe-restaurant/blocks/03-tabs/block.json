@@ -21,7 +21,12 @@
             "<strong>Herr Vogel:</strong> Mit Milch, ohne Zucker. Und ein Stück Apfelkuchen. <em>With milk, without sugar. And a piece of apple cake.</em>",
             "<strong>Frau Weber:</strong> Gern. Das macht vier Euro fünfzig. <em>Certainly. That comes to four euros fifty.</em>",
             "<strong>Herr Vogel:</strong> Bitte schön. <em>Here you are.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-05-cafe-restaurant/dialogues/01-am-tresen.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Ich hätte gern …</strong> – I would like … (polite)</li><li><strong>mit / ohne</strong> – with / without</li><li><strong>Das macht vier Euro fünfzig.</strong> – That is €4.50.</li></ul>"
@@ -42,7 +47,12 @@
             "<strong>Alex:</strong> Bestellen wir zusammen? <em>Shall we order together?</em>",
             "<strong>Lena:</strong> Ja, gern. Ich zahle, du zahlst das nächste Mal. <em>Yes, gladly. I will pay, you pay next time.</em>",
             "<strong>Alex:</strong> Abgemacht! <em>Deal!</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-05-cafe-restaurant/dialogues/02-mit-freunden.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Was nimmst du?</strong> – What are you having? (informal)</li><li><strong>ein Käsebrötchen</strong> – a cheese roll</li><li><strong>das nächste Mal</strong> – next time</li></ul>"
@@ -63,7 +73,12 @@
             "<strong>Marco:</strong> Dann bitte einen grünen Tee. <em>Then a green tea, please.</em>",
             "<strong>Frau Keller:</strong> Und ich nehme einen Kaffee. <em>And I will have a coffee.</em>",
             "<strong>Frau Weber:</strong> Kommt sofort. <em>Coming right up.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-05-cafe-restaurant/dialogues/03-im-cafe-des-sprachenzentrums.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>etwas trinken</strong> – something to drink</li><li><strong>Haben Sie Tee?</strong> – Do you have tea?</li><li><strong>Kommt sofort.</strong> – Right away.</li></ul>"
