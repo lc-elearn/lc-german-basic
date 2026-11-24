@@ -6,9 +6,8 @@
   "title": "Weather",
   "presentation": "card",
   "content": {
-    "instructions": "Listen and repeat. Weather sentences start with “es”: es regnet, es schneit.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen and repeat. Weather sentences start with “es”: es regnet, es schneit. You will learn:",
       "items": [
         "weather nouns (<em>die Sonne, der Regen, der Wind</em>);",
         "weather adjectives (<em>sonnig, warm, kalt, heiß, windig</em>)."

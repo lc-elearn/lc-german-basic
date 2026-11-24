@@ -7,9 +7,8 @@
   "presentation": "card",
   "defaultOpen": true,
   "content": {
-    "instructions": "Listen and repeat. Notice which countries have an article.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen and repeat. Notice which countries have an article. You will learn:",
       "items": [
         "kinds of destination (<em>das Meer, der Strand, die Berge, die Stadt</em>);",
         "countries (<em>Italien, Spanien, Österreich, die Schweiz, die Türkei</em>)."
