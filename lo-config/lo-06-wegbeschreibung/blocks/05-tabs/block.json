@@ -21,7 +21,12 @@
             "<strong>Frau Keller:</strong> Das nehme ich. Was kostet es? <em>I will take that. What does it cost?</em>",
             "<strong>Frau Weber:</strong> Achtzehn Euro neunzig. Möchten Sie es als Geschenk einpacken lassen? <em>Eighteen euros ninety. Would you like it gift-wrapped?</em>",
             "<strong>Frau Keller:</strong> Ja, gern. <em>Yes, please.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-06-wegbeschreibung/dialogues/07-in-der-buchhandlung.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>ein Geschenk für eine Kollegin</strong> – a present for a colleague</li><li><strong>Das nehme ich.</strong> – I will take that.</li><li><strong>als Geschenk einpacken</strong> – to gift-wrap</li></ul>"
@@ -42,7 +47,12 @@
             "<strong>Elif:</strong> Wie viel kostet er? <em>How much does it cost?</em>",
             "<strong>Daniel:</strong> Fünfunddreißig Euro. Der blaue kostet zwanzig. <em>Thirty-five euros. The blue one costs twenty.</em>",
             "<strong>Elif:</strong> Dann nimm den blauen! <em>Then take the blue one!</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-06-wegbeschreibung/dialogues/08-im-kleidungsgeschaeft.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Wie findest du den Schal?</strong> – What do you think of the scarf?</li><li><strong>Ich finde ihn schön.</strong> – I think it is lovely. (ihn = der Schal)</li><li><strong>teuer</strong> – expensive</li></ul>"
