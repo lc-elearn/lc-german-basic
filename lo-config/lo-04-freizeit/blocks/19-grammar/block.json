@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Verb position: statements and questions",
+  "presentation": "card",
+  "content": {
+    "instructions": "The verb is always in second position in a statement. If you start with a time word, the subject moves behind the verb: “Am Samstag gehe ich ins Kino”. In a yes/no question the verb comes first. In a question with a question word, the verb is second.",
+    "text": [
+      "<table><caption>Verb position</caption><thead><tr><th>Type</th><th>Listen</th><th>Position 1</th><th>Verb</th><th>Rest</th></tr></thead><tbody><tr><th>statement</th><td><span data-audio=\"audio/lo-04-freizeit/u4_g-position-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Ich</td><td>gehe</td><td>am Samstag ins Kino.</td></tr><tr><th>time first</th><td><span data-audio=\"audio/lo-04-freizeit/u4_g-position-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Am Samstag</td><td>gehe</td><td>ich ins Kino.</td></tr><tr><th>yes/no question</th><td><span data-audio=\"audio/lo-04-freizeit/u4_g-position-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td></td><td>Gehen</td><td>wir am Samstag ins Kino?</td></tr><tr><th>question word</th><td><span data-audio=\"audio/lo-04-freizeit/u4_g-position-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Was</td><td>machen</td><td>Sie am Wochenende?</td></tr></tbody></table>"
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "type": "tabs",
+  "title": "Wie spät ist es? – Telling the time",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Wie spät ist es? – Telling the time",
+    "tabs": [
+      {
+        "label": "Im Büro",
+        "instructions": "A visitor asks the time before a meeting. They use \"Sie\". When does the meeting begin?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-07-tagesablauf-arbeit-studium/u7_a1-im-buero.mp3",
+            "label": "Listen to the dialogue: Im Büro"
+          },
+          "transcript": [
+            "<strong>Herr Vogel:</strong> Entschuldigung, wie spät ist es? <em>Excuse me, what time is it?</em>",
+            "<strong>Frau Schneider:</strong> Es ist halb zehn. <em>It is half past nine.</em>",
+            "<strong>Herr Vogel:</strong> Dann habe ich noch Zeit. Die Besprechung beginnt um Viertel nach zehn. <em>Then I still have time. The meeting begins at quarter past ten.</em>",
+            "<strong>Frau Schneider:</strong> Ja, im Konferenzraum. Möchten Sie noch einen Kaffee? <em>Yes, in the conference room. Would you like another coffee?</em>",
+            "<strong>Herr Vogel:</strong> Gern, danke. <em>Yes, please, thank you.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Wie spät ist es?</strong> – What time is it?</li><li><strong>halb zehn</strong> – half past nine (literally: half to ten)</li><li><strong>Viertel nach zehn</strong> – quarter past ten</li></ul>"
+        ]
+      },
+      {
+        "label": "Vor der Vorlesung",
+        "instructions": "Two students check their timetable. They use \"du\". When do they go to lunch?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-07-tagesablauf-arbeit-studium/u7_a2-vor-der-vorlesung.mp3",
+            "label": "Listen to the dialogue: Vor der Vorlesung"
+          },
+          "transcript": [
+            "<strong>Lukas:</strong> Wann beginnt die Vorlesung heute? <em>When does the lecture begin today?</em>",
+            "<strong>Anna Becker:</strong> Um Viertel vor neun. <em>At quarter to nine.</em>",
+            "<strong>Lukas:</strong> Und wann ist sie zu Ende? <em>And when does it finish?</em>",
+            "<strong>Anna Becker:</strong> Um zehn. Danach habe ich ein Seminar bis zwölf. <em>At ten. After that I have a seminar until twelve.</em>",
+            "<strong>Lukas:</strong> Dann gehen wir um zwölf zusammen essen. <em>Then we will go for lunch together at twelve.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Um wie viel Uhr?</strong> – At what time?</li><li><strong>Viertel vor neun</strong> – quarter to nine</li><li><strong>zu Ende sein</strong> – to be over</li></ul>"
+        ]
+      },
+      {
+        "label": "Die Sprechstunde",
+        "instructions": "A student phones for an office-hour appointment. They use \"Sie\". At what time does he come?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-07-tagesablauf-arbeit-studium/u7_a3-sprechstunde.mp3",
+            "label": "Listen to the dialogue: Die Sprechstunde"
+          },
+          "transcript": [
+            "<strong>Marco:</strong> Guten Tag, Frau Keller, hier ist Marco Rossi. Wann haben Sie Sprechstunde? <em>Hello, Mrs Keller, this is Marco Rossi. When is your office hour?</em>",
+            "<strong>Frau Keller:</strong> Am Dienstag von zehn bis zwölf Uhr. <em>On Tuesday from ten to twelve.</em>",
+            "<strong>Marco:</strong> Kann ich um halb elf kommen? <em>Can I come at half past ten?</em>",
+            "<strong>Frau Keller:</strong> Ja, das passt. Bis Dienstag! <em>Yes, that suits me. See you on Tuesday!</em>",
+            "<strong>Marco:</strong> Danke, bis Dienstag! <em>Thank you, see you on Tuesday!</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>die Sprechstunde</strong> – office hour</li><li><strong>von zehn bis zwölf Uhr</strong> – from ten until twelve o'clock</li><li><strong>Das passt.</strong> – That suits me.</li></ul>"
+        ]
+      }
+    ]
+  }
+}

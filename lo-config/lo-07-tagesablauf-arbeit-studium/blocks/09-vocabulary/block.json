@@ -1,0 +1,78 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "My day",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Several of these verbs are separable.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "daily routine (<em>aufstehen, frühstücken, arbeiten, nach Hause kommen</em>);",
+        "times of the day (<em>morgens, mittags, abends</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "aufstehen",
+        "gloss": "to get up",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-tag-aufstehen.mp3"
+      },
+      {
+        "term": "frühstücken",
+        "gloss": "to have breakfast",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-tag-fruehstuecken.mp3"
+      },
+      {
+        "term": "arbeiten",
+        "gloss": "to work",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-tag-arbeiten.mp3"
+      },
+      {
+        "term": "anfangen",
+        "gloss": "to begin",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-tag-anfangen.mp3"
+      },
+      {
+        "term": "aufhören",
+        "gloss": "to stop",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-tag-aufhoeren.mp3"
+      },
+      {
+        "term": "zu Mittag essen",
+        "gloss": "to have lunch",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-tag-mittagessen.mp3"
+      },
+      {
+        "term": "Pause machen",
+        "gloss": "to take a break",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-tag-pause.mp3"
+      },
+      {
+        "term": "nach Hause kommen",
+        "gloss": "to come home",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-tag-nach-hause.mp3"
+      },
+      {
+        "term": "schlafen gehen",
+        "gloss": "to go to bed",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-tag-schlafen.mp3"
+      },
+      {
+        "term": "morgens",
+        "gloss": "in the morning",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-tag-morgens.mp3"
+      },
+      {
+        "term": "mittags",
+        "gloss": "at midday",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-tag-mittags.mp3"
+      },
+      {
+        "term": "abends",
+        "gloss": "in the evening",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-tag-abends.mp3"
+      }
+    ]
+  }
+}

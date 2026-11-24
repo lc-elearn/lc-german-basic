@@ -1,0 +1,36 @@
+{
+  "type": "reading",
+  "title": "Reading: a weekend",
+  "content": {
+    "instructions": "Read the text and answer the questions.",
+    "passage": "Nora ist 24 und studiert in Bonn. Am Samstag steht sie spät auf. Dann kauft sie ein und kocht für ihre Mitbewohner. Am Nachmittag geht sie schwimmen. Am Abend gehen sie ins Kino oder in eine Kneipe.\nAm Sonntag fährt Nora mit dem Rad zu ihren Eltern. Sie essen zusammen und sie bleibt über Nacht.",
+    "trueLabel": "Richtig",
+    "falseLabel": "Falsch",
+    "questions": [
+      {
+        "type": "radio",
+        "prompt": "Was macht Nora am Samstagnachmittag?",
+        "options": ["Sie kocht.", "Sie geht schwimmen.", "Sie fährt Rad."],
+        "answer": "Sie geht schwimmen."
+      },
+      {
+        "type": "true-false",
+        "prompt": "Nora steht am Samstag früh auf.",
+        "answer": false,
+        "explanation": "Am Samstag steht sie spät auf."
+      },
+      {
+        "type": "radio",
+        "prompt": "Wie fährt Nora am Sonntag zu ihren Eltern?",
+        "options": ["mit dem Zug", "mit dem Rad", "mit dem Auto"],
+        "answer": "mit dem Rad"
+      },
+      {
+        "type": "true-false",
+        "prompt": "Nora isst am Sonntag allein.",
+        "answer": false,
+        "explanation": "Sie isst mit ihren Eltern."
+      }
+    ]
+  }
+}

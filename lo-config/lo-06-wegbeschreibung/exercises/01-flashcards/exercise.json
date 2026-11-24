@@ -1,0 +1,59 @@
+{
+  "type": "flashcards",
+  "title": "Flashcards: places and directions",
+  "content": {
+    "instructions": "Flip each card, listen and say the word aloud. Mark the ones you know.",
+    "cards": [
+      {
+        "target": "die Post",
+        "native": "post office",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-post.mp3"
+      },
+      {
+        "target": "die Bibliothek",
+        "native": "library",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-bibliothek.mp3"
+      },
+      {
+        "target": "das Rathaus",
+        "native": "town hall",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-rathaus.mp3"
+      },
+      {
+        "target": "die Bäckerei",
+        "native": "bakery",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-baeckerei.mp3"
+      },
+      {
+        "target": "links",
+        "native": "left",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-links.mp3"
+      },
+      {
+        "target": "rechts",
+        "native": "right",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-rechts.mp3"
+      },
+      {
+        "target": "geradeaus",
+        "native": "straight ahead",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-geradeaus.mp3"
+      },
+      {
+        "target": "gegenüber",
+        "native": "opposite",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-gegenueber.mp3"
+      },
+      {
+        "target": "die Haltestelle",
+        "native": "stop",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-verkehr-haltestelle.mp3"
+      },
+      {
+        "target": "das Geschenk",
+        "native": "present",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-kauf-geschenk.mp3"
+      }
+    ]
+  }
+}

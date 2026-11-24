@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "Practise what you have learned. You can repeat any exercise; <em>Check</em> marks your answers and <em>Show answers</em> reveals them after a failed try."
+    ],
+    "image": {
+      "src": "images/lo-12-laender-feste-praesentation/sections/exercises.webp",
+      "alt": ""
+    }
+  }
+}

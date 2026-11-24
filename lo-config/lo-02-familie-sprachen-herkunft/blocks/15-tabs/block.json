@@ -1,0 +1,25 @@
+{
+  "type": "tabs",
+  "title": "Sounds",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Sounds in this unit",
+    "tabs": [
+      {
+        "label": "Umlauts in plurals",
+        "instructions": "The vowel changes in the plural: a → ä, o → ö, u → ü. Listen to the difference and repeat.",
+        "text": [
+          "<table><caption>Singular and plural</caption><thead><tr><th>Word pair</th><th>Listen</th></tr></thead><tbody><tr><td>der Bruder – die Brüder</td><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_p-plural-bruder.mp3\" data-audio-label=\"Play: der Bruder – die Brüder\"></span></td></tr><tr><td>der Vater – die Väter</td><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_p-plural-vater.mp3\" data-audio-label=\"Play: der Vater – die Väter\"></span></td></tr><tr><td>die Mutter – die Mütter</td><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_p-plural-mutter.mp3\" data-audio-label=\"Play: die Mutter – die Mütter\"></span></td></tr><tr><td>die Tochter – die Töchter</td><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_p-plural-tochter.mp3\" data-audio-label=\"Play: die Tochter – die Töchter\"></span></td></tr><tr><td>der Sohn – die Söhne</td><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_p-plural-sohn.mp3\" data-audio-label=\"Play: der Sohn – die Söhne\"></span></td></tr></tbody></table>"
+        ]
+      },
+      {
+        "label": "-er and -r",
+        "instructions": "At the end of a word, -er is pronounced like a short, open “a” (not like English “er”).",
+        "text": [
+          "<table><caption>Words ending in -er</caption><thead><tr><th>Word</th><th>Listen</th></tr></thead><tbody><tr><td>der Lehrer</td><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_p-er-lehrer.mp3\" data-audio-label=\"Play: der Lehrer\"></span></td></tr><tr><td>der Bruder</td><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_p-er-bruder.mp3\" data-audio-label=\"Play: der Bruder\"></span></td></tr><tr><td>die Schwester</td><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_p-er-schwester.mp3\" data-audio-label=\"Play: die Schwester\"></span></td></tr><tr><td>die Mutter</td><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_p-er-mutter.mp3\" data-audio-label=\"Play: die Mutter\"></span></td></tr><tr><td>die Kinder</td><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_p-er-kinder.mp3\" data-audio-label=\"Play: die Kinder\"></span></td></tr><tr><td>die Eltern</td><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_p-er-eltern.mp3\" data-audio-label=\"Play: die Eltern\"></span></td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}

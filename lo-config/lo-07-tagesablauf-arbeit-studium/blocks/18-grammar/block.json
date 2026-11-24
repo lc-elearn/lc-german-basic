@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "title": "müssen",
+  "presentation": "card",
+  "content": {
+    "instructions": "“müssen” says what you have to do. It is a modal verb: the second verb goes to the end in the infinitive. “Ich muss um sechs aufstehen.” “müssen” changes its vowel in the singular, like “können”. “nicht müssen” means \"do not have to\", not \"must not\".",
+    "text": [
+      "<table><caption>müssen</caption><thead><tr><th></th><th>müssen</th></tr></thead><tbody><tr><th>ich</th><td>muss</td></tr><tr><th>du</th><td>musst</td></tr><tr><th>er / sie / es</th><td>muss</td></tr><tr><th>wir</th><td>müssen</td></tr><tr><th>ihr</th><td>müsst</td></tr><tr><th>sie / Sie</th><td>müssen</td></tr></tbody></table>",
+      "<span data-audio-player=\"audio/lo-07-tagesablauf-arbeit-studium/u7_g-muessen.mp3\" data-audio-label=\"Listen to müssen\"></span>",
+      "Ich muss um sechs aufstehen. Wir müssen heute im Labor sein."
+    ]
+  }
+}

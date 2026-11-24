@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "Learn each noun with its article: <em>der</em>, <em>die</em> or <em>das</em>. Say each word aloud. Body parts are singular in the dictionary but often plural in sentences: <em>die Augen, die Ohren</em>."
+    ],
+    "image": {
+      "src": "images/lo-09-gesundheit-essen/sections/vocabulary.webp",
+      "alt": ""
+    }
+  }
+}

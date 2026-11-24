@@ -1,0 +1,33 @@
+{
+  "type": "inline-choice",
+  "title": "Grammar check: units 1 to 5",
+  "content": {
+    "instructions": "A mixed check of units 1 to 5. Choose the correct form.",
+    "items": [
+      {
+        "text": "Ich [*bin|bist|ist] Studentin."
+      },
+      {
+        "text": "[*Haben|Hast|Hat] Sie Geschwister?"
+      },
+      {
+        "text": "Wo [*wohnst|wohne|wohnt] du?"
+      },
+      {
+        "text": "Ich wohne in [*einer|einem|ein] Wohnung."
+      },
+      {
+        "text": "Am Samstag [*gehe ich|ich gehe] ins Kino."
+      },
+      {
+        "text": "Ich hätte gern [*einen|einem|ein] Tee."
+      },
+      {
+        "text": "Wir haben [*keine|kein|nicht] Zeit."
+      },
+      {
+        "text": "Er [*liest|lest|lesen] gern Krimis."
+      }
+    ]
+  }
+}

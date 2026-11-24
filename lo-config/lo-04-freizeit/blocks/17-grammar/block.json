@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "title": "gern, lieber, am liebsten",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "“gern” after the verb says you like doing something. “nicht gern” says you do not. For a preference use “lieber”, and for the thing you like most use “am liebsten”. “gern”, “nicht gern” and “lieber” come after the verb. “am liebsten” usually does too, but it can also start the sentence, with the verb straight after it: “Am liebsten gehe ich wandern.”",
+    "text": [
+      "<table><caption>Likes and preferences</caption><thead><tr><th>Meaning</th><th>Listen</th><th>German</th></tr></thead><tbody><tr><th>I like it</th><td><span data-audio=\"audio/lo-04-freizeit/u4_g-gern-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Ich schwimme <strong>gern</strong>.</td></tr><tr><th>I do not like it</th><td><span data-audio=\"audio/lo-04-freizeit/u4_g-gern-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Ich spiele <strong>nicht gern</strong> Fußball.</td></tr><tr><th>I prefer it</th><td><span data-audio=\"audio/lo-04-freizeit/u4_g-gern-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Ich lese <strong>lieber</strong>.</td></tr><tr><th>I like it best</th><td><span data-audio=\"audio/lo-04-freizeit/u4_g-gern-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Ich tanze <strong>am liebsten</strong>.</td></tr></tbody></table>",
+      "Ich koche gern. Ich lese lieber. Am liebsten gehe ich wandern."
+    ]
+  }
+}

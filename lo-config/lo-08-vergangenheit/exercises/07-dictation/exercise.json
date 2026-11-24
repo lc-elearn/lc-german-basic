@@ -1,0 +1,38 @@
+{
+  "type": "dictation",
+  "title": "Dictation: sentences",
+  "content": {
+    "instructions": "Listen and type the sentence. Punctuation is not marked, but umlauts are.",
+    "columns": {
+      "prompt": "Sentence",
+      "answer": "What you hear"
+    },
+    "rows": [
+      {
+        "prompt": "Sentence 1",
+        "answer": "Gestern bin ich nach Hause gefahren.",
+        "audio": "audio/lo-08-vergangenheit/u8_x-dikt-01.mp3"
+      },
+      {
+        "prompt": "Sentence 2",
+        "answer": "Ich habe einen Kaffee getrunken.",
+        "audio": "audio/lo-08-vergangenheit/u8_x-dikt-02.mp3"
+      },
+      {
+        "prompt": "Sentence 3",
+        "answer": "Wir waren letzte Woche in Wien.",
+        "audio": "audio/lo-08-vergangenheit/u8_x-dikt-03.mp3"
+      },
+      {
+        "prompt": "Sentence 4",
+        "answer": "Ich habe gestern einen Brief geschrieben.",
+        "audio": "audio/lo-08-vergangenheit/u8_x-dikt-04.mp3"
+      },
+      {
+        "prompt": "Sentence 5",
+        "answer": "Als ich ein Kind war, habe ich in Graz gewohnt.",
+        "audio": "audio/lo-08-vergangenheit/u8_x-dikt-05.mp3"
+      }
+    ]
+  }
+}

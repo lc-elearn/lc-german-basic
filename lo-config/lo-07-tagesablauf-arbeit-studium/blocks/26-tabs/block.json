@@ -1,0 +1,24 @@
+{
+  "type": "tabs",
+  "title": "The clock in German",
+  "presentation": "card",
+  "content": {
+    "label": "The clock in German",
+    "tabs": [
+      {
+        "label": "Everyday",
+        "instructions": "Use the 12-hour form and say the part of the day when needed.",
+        "text": [
+          "<ul><li><strong>Es ist halb acht.</strong> – It is half past seven.</li><li><strong>Um Viertel vor zehn.</strong> – At quarter to ten.</li><li><strong>acht Uhr morgens / abends</strong> – 8 a.m. / 8 p.m.</li></ul>"
+        ]
+      },
+      {
+        "label": "Official",
+        "instructions": "Use the 24-hour form in timetables, on tickets, in announcements and when you give a formal appointment.",
+        "text": [
+          "<ul><li><strong>Der Zug fährt um 18:45 Uhr.</strong> – The train leaves at 18:45. (achtzehn Uhr fünfundvierzig)</li><li><strong>Die Sprechstunde ist von 10 bis 12 Uhr.</strong> – Office hours are from 10 to 12.</li><li><strong>Das Gespräch ist um 14 Uhr.</strong> – The interview is at 2 p.m.</li></ul>"
+        ]
+      }
+    ]
+  }
+}

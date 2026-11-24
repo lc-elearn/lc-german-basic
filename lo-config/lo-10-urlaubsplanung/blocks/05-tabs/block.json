@@ -1,0 +1,71 @@
+{
+  "type": "tabs",
+  "title": "Buchen – Booking",
+  "presentation": "card",
+  "content": {
+    "label": "Buchen – Booking",
+    "tabs": [
+      {
+        "label": "Hotelbuchung",
+        "instructions": "A guest books a hotel room by phone. They use \"Sie\". What does the room cost?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-10-urlaubsplanung/u10_c1-hotelbuchung.mp3",
+            "label": "Listen to the dialogue: Hotelbuchung"
+          },
+          "transcript": [
+            "<strong>Herr Braun:</strong> Hotel Seeblick, guten Tag. <em>Hotel Seeblick, good afternoon.</em>",
+            "<strong>Frau Schneider:</strong> Guten Tag. Ich möchte ein Doppelzimmer vom 5. bis zum 12. August reservieren. <em>Hello. I would like to reserve a double room from 5 to 12 August.</em>",
+            "<strong>Herr Braun:</strong> Mit oder ohne Frühstück? <em>With or without breakfast?</em>",
+            "<strong>Frau Schneider:</strong> Mit Frühstück, bitte. Was kostet das? <em>With breakfast, please. What does that cost?</em>",
+            "<strong>Herr Braun:</strong> Neunzig Euro pro Nacht, mit Frühstück. <em>Ninety euros a night, with breakfast.</em>",
+            "<strong>Frau Schneider:</strong> Gut. Dann reservieren Sie bitte auf den Namen Schneider. <em>Good. Then please reserve it in the name of Schneider.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>das Doppelzimmer</strong> – double room</li><li><strong>pro Nacht</strong> – per night</li><li><strong>mit / ohne Frühstück</strong> – with / without breakfast</li></ul>"
+        ]
+      },
+      {
+        "label": "Online vergleichen",
+        "instructions": "Two friends compare accommodation online. They use \"du\". What do they decide on?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-10-urlaubsplanung/u10_c2-online.mp3",
+            "label": "Listen to the dialogue: Online vergleichen"
+          },
+          "transcript": [
+            "<strong>Lukas:</strong> Das Hotel ist teurer als die Pension. <em>The hotel is more expensive than the guesthouse.</em>",
+            "<strong>Daniel:</strong> Aber es ist näher am Strand. <em>But it is closer to the beach.</em>",
+            "<strong>Lukas:</strong> Ich würde lieber ein Apartment nehmen. <em>I would rather take an apartment.</em>",
+            "<strong>Daniel:</strong> Mit Küche? Dann können wir selbst kochen. <em>With a kitchen? Then we can cook ourselves.</em>",
+            "<strong>Lukas:</strong> Genau. Das ist billiger und besser. <em>Exactly. That is cheaper and better.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>teurer als / billiger</strong> – more expensive than / cheaper</li><li><strong>näher am Strand</strong> – closer to the beach</li><li><strong>selbst kochen</strong> – to cook for oneself</li></ul>"
+        ]
+      },
+      {
+        "label": "Zug oder Flug?",
+        "instructions": "Two colleagues compare train and plane. They use \"Sie\". How long is the train journey?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-10-urlaubsplanung/u10_c3-zug-oder-flug.mp3",
+            "label": "Listen to the dialogue: Zug oder Flug?"
+          },
+          "transcript": [
+            "<strong>Peter Lange:</strong> Fahren Sie mit dem Zug oder fliegen Sie, Frau Keller? <em>Are you taking the train or flying, Mrs Keller?</em>",
+            "<strong>Frau Keller:</strong> Ich nehme den Zug. Er ist langsamer als das Flugzeug, aber bequemer. <em>I am taking the train. It is slower than the plane, but more comfortable.</em>",
+            "<strong>Peter Lange:</strong> Wie lange dauert die Fahrt? <em>How long does the journey take?</em>",
+            "<strong>Frau Keller:</strong> Acht Stunden. Mit dem Flugzeug nur zwei. <em>Eight hours. By plane only two.</em>",
+            "<strong>Peter Lange:</strong> Dann haben Sie Zeit zum Lesen. <em>Then you have time to read.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>langsamer als / bequemer</strong> – slower than / more comfortable</li><li><strong>Wie lange dauert …?</strong> – How long does … take?</li><li><strong>Zeit zum Lesen</strong> – time for reading</li></ul>"
+        ]
+      }
+    ]
+  }
+}

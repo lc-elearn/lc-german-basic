@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "Verbs that change their vowel",
+  "presentation": "card",
+  "content": {
+    "instructions": "A few common verbs change their vowel in the “du” and “er/sie/es” forms. The change is a → ä (“fahren, schlafen”), au → äu (“laufen”), e → i or ie (“essen, lesen, sehen”). The other forms are regular.",
+    "text": [
+      "<table><caption>fahren, lesen, sehen</caption><thead><tr><th></th><th>fahren</th><th>lesen</th><th>sehen</th></tr></thead><tbody><tr><th>ich</th><td>fahre</td><td>lese</td><td>sehe</td></tr><tr><th>du</th><td>f<strong>ä</strong>hrst</td><td>l<strong>ie</strong>st</td><td>s<strong>ie</strong>hst</td></tr><tr><th>er / sie / es</th><td>f<strong>ä</strong>hrt</td><td>l<strong>ie</strong>st</td><td>s<strong>ie</strong>ht</td></tr><tr><th>wir</th><td>fahren</td><td>lesen</td><td>sehen</td></tr><tr><th>ihr</th><td>fahrt</td><td>lest</td><td>seht</td></tr><tr><th>sie / Sie</th><td>fahren</td><td>lesen</td><td>sehen</td></tr></tbody></table>",
+      "<span data-audio-player=\"audio/lo-04-freizeit/u4_g-vokalwechsel.mp3\" data-audio-label=\"Listen to fahren, lesen, sehen\"></span>"
+    ]
+  }
+}

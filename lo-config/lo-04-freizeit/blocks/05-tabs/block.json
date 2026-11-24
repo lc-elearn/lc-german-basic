@@ -1,0 +1,62 @@
+{
+  "type": "tabs",
+  "title": "Verabredungen – Invitations",
+  "presentation": "card",
+  "content": {
+    "label": "Verabredungen – Invitations",
+    "tabs": [
+      {
+        "label": "Ins Kino",
+        "instructions": "Two friends try to find a day for the cinema. They use \"du\". Which day works?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-04-freizeit/u4_c1-im-kino.mp3",
+            "label": "Listen to the dialogue: Ins Kino"
+          },
+          "transcript": [
+            "<strong>Sophie:</strong> Gehen wir am Samstag ins Kino? <em>Shall we go to the cinema on Saturday?</em>",
+            "<strong>Marco:</strong> Tut mir leid, ich habe keine Zeit. <em>I am sorry, I do not have time.</em>",
+            "<strong>Sophie:</strong> Und am Sonntag? <em>And on Sunday?</em>",
+            "<strong>Marco:</strong> Am Sonntag gern. Was läuft denn? <em>Sunday would be good. What is on?</em>",
+            "<strong>Sophie:</strong> Eine Komödie. Sie fängt am Abend an. <em>A comedy. It starts in the evening.</em>",
+            "<strong>Marco:</strong> Perfekt! <em>Perfect!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-04-freizeit/dialogues/07-ins-kino.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Gehen wir ins Kino?</strong> – Shall we go to the cinema? (verb first = question)</li><li><strong>Tut mir leid.</strong> – I am sorry.</li><li><strong>Was läuft?</strong> – What is on? (film)</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Sportzentrum",
+        "instructions": "A student joins sports courses. They use \"Sie\". Which sport does he not like?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-04-freizeit/u4_c3-im-sportzentrum.mp3",
+            "label": "Listen to the dialogue: Im Sportzentrum"
+          },
+          "transcript": [
+            "<strong>Frau Schneider:</strong> Guten Tag! Machen Sie gern Sport? <em>Hello! Do you like doing sport?</em>",
+            "<strong>Daniel:</strong> Ja, ich schwimme gern und ich spiele Tennis. Aber ich spiele nicht gern Fußball. <em>Yes, I like swimming and I play tennis. But I do not like playing football.</em>",
+            "<strong>Frau Schneider:</strong> Dann passt unser Programm: Schwimmen am Montag, Tennis am Mittwoch. <em>Then our programme suits you: swimming on Monday, tennis on Wednesday.</em>",
+            "<strong>Daniel:</strong> Was kostet das? <em>What does that cost?</em>",
+            "<strong>Frau Schneider:</strong> Zehn Euro im Monat für jeden Kurs. <em>Ten euros a month for each course.</em>",
+            "<strong>Daniel:</strong> Das ist günstig. Ich nehme beide Kurse. <em>That is cheap. I will take both courses.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-04-freizeit/dialogues/09-im-sportzentrum.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Sport machen</strong> – to do sport</li><li><strong>der Kurs</strong> – the course</li><li><strong>Zehn Euro im Monat</strong> – ten euros a month</li></ul>"
+        ]
+      }
+    ]
+  }
+}

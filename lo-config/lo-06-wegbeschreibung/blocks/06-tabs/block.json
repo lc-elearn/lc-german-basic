@@ -1,0 +1,72 @@
+{
+  "type": "tabs",
+  "title": "Auf dem Weihnachtsmarkt – At the Christmas market",
+  "presentation": "card",
+  "content": {
+    "label": "Auf dem Weihnachtsmarkt – At the Christmas market",
+    "tabs": [
+      {
+        "label": "Am Eingang",
+        "instructions": "Two friends plan a visit to the market. They use \"du\". Where is the Christmas market?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-06-wegbeschreibung/u6_d1-am-eingang.mp3",
+            "label": "Listen to the dialogue: Am Eingang"
+          },
+          "transcript": [
+            "<strong>Anna Becker:</strong> Gehen wir am Samstag auf den Weihnachtsmarkt? <em>Shall we go to the Christmas market on Saturday?</em>",
+            "<strong>Lukas:</strong> Gern! Ich möchte einen Glühwein trinken. <em>Gladly! I would like to drink a mulled wine.</em>",
+            "<strong>Anna Becker:</strong> Und ich möchte Geschenke kaufen. <em>And I would like to buy presents.</em>",
+            "<strong>Lukas:</strong> Wo ist der Weihnachtsmarkt? <em>Where is the Christmas market?</em>",
+            "<strong>Anna Becker:</strong> Auf dem Marktplatz, vor dem Rathaus. <em>On the market square, in front of the town hall.</em>",
+            "<strong>Lukas:</strong> Dann gehen wir zusammen vom Bahnhof. <em>Then we will go together from the station.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>auf den Weihnachtsmarkt</strong> – to the Christmas market (wohin? accusative)</li><li><strong>auf dem Marktplatz</strong> – on the market square (wo? dative)</li><li><strong>der Glühwein</strong> – mulled wine</li></ul>"
+        ]
+      },
+      {
+        "label": "Am Stand",
+        "instructions": "A visitor orders at a stall. They use \"Sie\". What is the deposit for?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-06-wegbeschreibung/u6_d2-am-stand.mp3",
+            "label": "Listen to the dialogue: Am Stand"
+          },
+          "transcript": [
+            "<strong>Herr Vogel:</strong> Einen Glühwein, bitte. <em>A mulled wine, please.</em>",
+            "<strong>Frau Weber:</strong> Gern. Das macht sechs Euro, mit zwei Euro Pfand für die Tasse. <em>Certainly. That is six euros, with a two-euro deposit for the cup.</em>",
+            "<strong>Herr Vogel:</strong> Und was kostet die Bratwurst? <em>And what does the bratwurst cost?</em>",
+            "<strong>Frau Weber:</strong> Drei Euro fünfzig. <em>Three euros fifty.</em>",
+            "<strong>Herr Vogel:</strong> Dann nehme ich auch eine Bratwurst. <em>Then I will have a bratwurst as well.</em>",
+            "<strong>Frau Weber:</strong> Das macht zusammen neun Euro fünfzig, mit Pfand. <em>That is nine euros fifty together, with the deposit.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>das Pfand</strong> – deposit (on a cup or bottle)</li><li><strong>die Bratwurst</strong> – grilled sausage</li><li><strong>zusammen</strong> – altogether</li></ul>"
+        ]
+      },
+      {
+        "label": "Geschenke",
+        "instructions": "Two colleagues talk about presents. They use \"Sie\". What does Herr Vogel buy for his mother?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-06-wegbeschreibung/u6_d3-geschenke.mp3",
+            "label": "Listen to the dialogue: Geschenke"
+          },
+          "transcript": [
+            "<strong>Frau Schneider:</strong> Was kaufen Sie für Ihre Familie, Herr Vogel? <em>What are you buying for your family, Mr Vogel?</em>",
+            "<strong>Herr Vogel:</strong> Ich kaufe eine Kerze für meine Mutter und Lebkuchen für meine Kinder. <em>I am buying a candle for my mother and gingerbread for my children.</em>",
+            "<strong>Frau Schneider:</strong> Das sind schöne Geschenke. <em>Those are lovely presents.</em>",
+            "<strong>Herr Vogel:</strong> Und Sie, Frau Schneider? <em>And you, Mrs Schneider?</em>",
+            "<strong>Frau Schneider:</strong> Ich kaufe einen Adventskalender für meine Nichte. <em>I am buying an advent calendar for my niece.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>für meine Mutter</strong> – for my mother (für + accusative)</li><li><strong>der Lebkuchen</strong> – gingerbread</li><li><strong>der Adventskalender</strong> – advent calendar</li></ul>"
+        ]
+      }
+    ]
+  }
+}

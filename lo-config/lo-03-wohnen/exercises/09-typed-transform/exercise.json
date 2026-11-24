@@ -1,0 +1,38 @@
+{
+  "type": "typed-transform",
+  "title": "Compound nouns",
+  "content": {
+    "instructions": "Join the parts into one compound noun (without the article).",
+    "columns": {
+      "prompt": "Parts",
+      "answer": "Compound noun"
+    },
+    "rows": [
+      {
+        "prompt": "wohnen + das Zimmer",
+        "answer": "Wohnzimmer"
+      },
+      {
+        "prompt": "schlafen + das Zimmer",
+        "answer": "Schlafzimmer"
+      },
+      {
+        "prompt": "schreiben + der Tisch",
+        "answer": "Schreibtisch"
+      },
+      {
+        "prompt": "das Haus + die Tür",
+        "answer": "Haustür"
+      },
+      {
+        "prompt": "die Wohnung + s + die Tür",
+        "answer": "Wohnungstür"
+      },
+      {
+        "prompt": "die Küche + n + der Tisch",
+        "answer": "Küchentisch"
+      }
+    ],
+    "footnote": "The last part decides the article: der Schreibtisch, die Haustür."
+  }
+}

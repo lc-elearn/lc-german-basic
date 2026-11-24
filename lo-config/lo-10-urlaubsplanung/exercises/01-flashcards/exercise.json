@@ -1,0 +1,59 @@
+{
+  "type": "flashcards",
+  "title": "Flashcards: travel and weather",
+  "content": {
+    "instructions": "Flip each card, listen and say the word aloud. Mark the ones you know.",
+    "cards": [
+      {
+        "target": "das Meer",
+        "native": "sea",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-ziel-meer.mp3"
+      },
+      {
+        "target": "die Berge",
+        "native": "mountains",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-ziel-berge.mp3"
+      },
+      {
+        "target": "buchen",
+        "native": "to book",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-plan-buchen.mp3"
+      },
+      {
+        "target": "das Doppelzimmer",
+        "native": "double room",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-doppelzimmer.mp3"
+      },
+      {
+        "target": "das Frühstück",
+        "native": "breakfast",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-fruehstueck.mp3"
+      },
+      {
+        "target": "das Wetter",
+        "native": "weather",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-wetter.mp3"
+      },
+      {
+        "target": "sonnig",
+        "native": "sunny",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-sonnig.mp3"
+      },
+      {
+        "target": "der Regen",
+        "native": "rain",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-regen.mp3"
+      },
+      {
+        "target": "billiger",
+        "native": "cheaper",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wort-billiger.mp3"
+      },
+      {
+        "target": "Das wäre schön.",
+        "native": "That would be nice.",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-wort-waere-schoen.mp3"
+      }
+    ]
+  }
+}

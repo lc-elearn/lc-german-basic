@@ -1,0 +1,73 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Accommodation",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Notice the pattern: ein Einzelzimmer, ein Doppelzimmer.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "types of accommodation (<em>das Hotel, die Pension, die Jugendherberge, das Ferienhaus</em>);",
+        "rooms (<em>das Einzelzimmer, das Doppelzimmer</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "das Hotel",
+        "gloss": "hotel",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-hotel.mp3"
+      },
+      {
+        "term": "die Pension",
+        "gloss": "guesthouse",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-pension.mp3"
+      },
+      {
+        "term": "die Jugendherberge",
+        "gloss": "youth hostel",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-jugendherberge.mp3"
+      },
+      {
+        "term": "das Ferienhaus",
+        "gloss": "holiday home",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-ferienhaus.mp3"
+      },
+      {
+        "term": "das Apartment",
+        "gloss": "apartment",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-apartment.mp3"
+      },
+      {
+        "term": "das Einzelzimmer",
+        "gloss": "single room",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-einzelzimmer.mp3"
+      },
+      {
+        "term": "das Doppelzimmer",
+        "gloss": "double room",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-doppelzimmer.mp3"
+      },
+      {
+        "term": "das Frühstück",
+        "gloss": "breakfast",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-fruehstueck.mp3"
+      },
+      {
+        "term": "inklusive",
+        "gloss": "included",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-inklusive.mp3"
+      },
+      {
+        "term": "die Nacht",
+        "gloss": "night",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-nacht.mp3"
+      },
+      {
+        "term": "pro Nacht",
+        "gloss": "per night",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-pro-nacht.mp3"
+      }
+    ]
+  }
+}

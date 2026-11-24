@@ -1,0 +1,62 @@
+{
+  "type": "tabs",
+  "title": "Wo wohnen Sie? – Saying where you live",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Wo wohnen Sie? – Saying where you live",
+    "tabs": [
+      {
+        "label": "Im Sprachenzentrum",
+        "instructions": "A learner gives the Language Centre his address details. They use \"Sie\". Listen for \"im Zentrum\" and \"am Stadtrand\".",
+        "media": {
+          "audio": {
+            "src": "audio/lo-03-wohnen/u3_a1-im-sprachenzentrum.mp3",
+            "label": "Listen to the dialogue: Im Sprachenzentrum"
+          },
+          "transcript": [
+            "<strong>Frau Schneider:</strong> Guten Tag, Herr Rossi. Wo wohnen Sie? <em>Hello, Mr Rossi. Where do you live?</em>",
+            "<strong>Marco:</strong> Ich wohne in Berlin. <em>I live in Berlin.</em>",
+            "<strong>Frau Schneider:</strong> Im Zentrum oder am Stadtrand? <em>In the centre or on the outskirts?</em>",
+            "<strong>Marco:</strong> Am Stadtrand, nicht weit vom Bahnhof. <em>On the outskirts, not far from the station.</em>",
+            "<strong>Frau Schneider:</strong> Danke schön, Herr Rossi. <em>Thank you very much, Mr Rossi.</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-03-wohnen/dialogues/01-im-sprachenzentrum.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Wo wohnen Sie?</strong> – Where do you live? (formal)</li><li><strong>im Zentrum / am Stadtrand</strong> – in the centre / on the outskirts</li><li><strong>nicht weit vom Bahnhof</strong> – not far from the station</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Studentenwohnheim",
+        "instructions": "Two students in Berlin compare where they live. They use \"du\". Which words show where each person lives?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-03-wohnen/u3_a2-im-studentenwohnheim.mp3",
+            "label": "Listen to the dialogue: Im Studentenwohnheim"
+          },
+          "transcript": [
+            "<strong>Lukas:</strong> Wo wohnst du, Anna? <em>Where do you live, Anna?</em>",
+            "<strong>Anna Becker:</strong> Ich wohne im Studentenwohnheim, am Stadtrand. <em>I live in the hall of residence, on the outskirts.</em>",
+            "<strong>Lukas:</strong> Ist das weit von der Uni? <em>Is that far from the university?</em>",
+            "<strong>Anna Becker:</strong> Nein, mit dem Fahrrad zehn Minuten. <em>No, ten minutes by bike.</em>",
+            "<strong>Lukas:</strong> Ich wohne im Zentrum, in der Nähe vom Markt. <em>I live in the centre, near the market.</em>",
+            "<strong>Anna Becker:</strong> Praktisch! <em>Practical!</em>"
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-03-wohnen/dialogues/02-im-studentenwohnheim.webp",
+            "alt": ""
+          }
+        },
+        "text": [
+          "<ul><li><strong>Wo wohnst du?</strong> – Where do you live? (informal)</li><li><strong>weit von der Uni</strong> – far from the university</li><li><strong>in der Nähe vom Markt</strong> – near the market</li></ul>"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "title": "Familie, Sprachen und Herkunft",
+  "description": "Talk about the languages you speak, your work or studies, dates and birthdays, and your family, in places from a conference poster session to a faculty garden party.",
+  "image": "images/lo-02-familie-sprachen-herkunft/card.webp",
+  "hero": {
+    "src": "images/lo-02-familie-sprachen-herkunft/hero.webp"
+  },
+  "sections": [
+    {
+      "id": "introduction",
+      "label": "Introduction",
+      "blocks": ["00-intro", "01-outcomes"]
+    },
+    {
+      "id": "dialogues",
+      "label": "German in Use: Dialogues",
+      "navLabel": "Dialogues",
+      "blocks": ["02-intro", "03-tabs", "04-tabs", "05-tabs", "06-tabs"]
+    },
+    {
+      "id": "vocabulary",
+      "label": "Vocabulary",
+      "blocks": [
+        "07-intro",
+        "08-vocabulary",
+        "09-vocabulary",
+        "10-intro",
+        "11-vocabulary",
+        "12-intro",
+        "13-vocabulary"
+      ]
+    },
+    {
+      "id": "pronunciation",
+      "label": "Pronunciation",
+      "blocks": ["14-intro", "15-tabs"]
+    },
+    {
+      "id": "grammar",
+      "label": "Grammar",
+      "blocks": [
+        "16-intro",
+        "17-grammar",
+        "18-grammar",
+        "19-grammar",
+        "20-grammar",
+        "21-grammar",
+        "22-grammar",
+        "23-grammar",
+        "26-grammar"
+      ]
+    },
+    {
+      "id": "exercises",
+      "label": "Exercises",
+      "blocks": ["34-intro"],
+      "exercises": [
+        "01-flashcards",
+        "02-memory-match",
+        "03-inline-choice",
+        "05-inline-gap",
+        "07-phrase-reorder",
+        "08-dictation",
+        "09-reading"
+      ]
+    }
+  ],
+  "modals": ["credits"],
+  "hovers": [],
+  "credits": "credits"
+}

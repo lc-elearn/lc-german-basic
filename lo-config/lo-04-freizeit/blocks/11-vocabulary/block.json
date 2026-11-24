@@ -1,0 +1,65 @@
+{
+  "type": "vocabulary",
+  "options": {
+    "selfTest": true
+  },
+  "title": "Times of day and the weekend",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. The days of the week are in unit 2.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "parts of the day (<em>der Morgen, der Abend</em>);",
+        "the weekend and time words (<em>heute, morgen, jeden Tag</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "das Wochenende",
+        "gloss": "weekend",
+        "audio": "audio/lo-04-freizeit/u4_v-zeit-wochenende.mp3"
+      },
+      {
+        "term": "der Morgen",
+        "gloss": "morning",
+        "audio": "audio/lo-04-freizeit/u4_v-zeit-morgen.mp3"
+      },
+      {
+        "term": "der Mittag",
+        "gloss": "midday",
+        "audio": "audio/lo-04-freizeit/u4_v-zeit-mittag.mp3"
+      },
+      {
+        "term": "der Nachmittag",
+        "gloss": "afternoon",
+        "audio": "audio/lo-04-freizeit/u4_v-zeit-nachmittag.mp3"
+      },
+      {
+        "term": "der Abend",
+        "gloss": "evening",
+        "audio": "audio/lo-04-freizeit/u4_v-zeit-abend.mp3"
+      },
+      {
+        "term": "die Nacht",
+        "gloss": "night",
+        "audio": "audio/lo-04-freizeit/u4_v-zeit-nacht.mp3"
+      },
+      {
+        "term": "heute",
+        "gloss": "today",
+        "audio": "audio/lo-04-freizeit/u4_v-zeit-heute.mp3"
+      },
+      {
+        "term": "morgen",
+        "gloss": "tomorrow",
+        "audio": "audio/lo-04-freizeit/u4_v-zeit-morgen2.mp3"
+      },
+      {
+        "term": "jeden Tag",
+        "gloss": "every day",
+        "audio": "audio/lo-04-freizeit/u4_v-zeit-jeden-tag.mp3"
+      }
+    ]
+  }
+}

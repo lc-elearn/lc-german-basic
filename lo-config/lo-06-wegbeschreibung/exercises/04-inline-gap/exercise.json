@@ -1,0 +1,27 @@
+{
+  "type": "inline-gap",
+  "title": "The imperative",
+  "content": {
+    "instructions": "Type the imperative. The infinitive is shown as a hint.",
+    "items": [
+      {
+        "text": "[Gehen::gehen] Sie hier rechts."
+      },
+      {
+        "text": "[Nehmen::nehmen] Sie die U-Bahn."
+      },
+      {
+        "text": "[Geh|Gehe::gehen] bitte geradeaus, Lukas."
+      },
+      {
+        "text": "[Fahr|Fahre::fahren] nicht zu schnell!"
+      },
+      {
+        "text": "[Nimm::nehmen] die Straßenbahn!"
+      },
+      {
+        "text": "[Steigen::aussteigen] Sie an der Haltestelle [aus::]."
+      }
+    ]
+  }
+}

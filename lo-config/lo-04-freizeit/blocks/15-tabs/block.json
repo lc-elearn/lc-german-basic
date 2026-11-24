@@ -1,0 +1,25 @@
+{
+  "type": "tabs",
+  "title": "Sounds",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Sounds in this unit",
+    "tabs": [
+      {
+        "label": "ei and ie",
+        "instructions": "ei sounds like English \"eye\". ie sounds like a long \"ee\". The second letter gives the sound: ei = [ai], ie = [ee].",
+        "text": [
+          "<table><caption>ei and ie</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>Freizeit</td><td>ei = \"eye\"</td><td><span data-audio=\"audio/lo-04-freizeit/u4_p-freizeit.mp3\" data-audio-label=\"Play: Freizeit\"></span></td></tr><tr><td>Verein</td><td>ei = \"eye\"</td><td><span data-audio=\"audio/lo-04-freizeit/u4_p-verein.mp3\" data-audio-label=\"Play: Verein\"></span></td></tr><tr><td>einkaufen</td><td>ei = \"eye\"</td><td><span data-audio=\"audio/lo-04-freizeit/u4_p-einkaufen.mp3\" data-audio-label=\"Play: einkaufen\"></span></td></tr><tr><td>Spiel</td><td>ie = long \"ee\"</td><td><span data-audio=\"audio/lo-04-freizeit/u4_p-spiel.mp3\" data-audio-label=\"Play: Spiel\"></span></td></tr><tr><td>lieber</td><td>ie = long \"ee\"</td><td><span data-audio=\"audio/lo-04-freizeit/u4_p-lieber.mp3\" data-audio-label=\"Play: lieber\"></span></td></tr><tr><td>Dienstag</td><td>ie = long \"ee\"</td><td><span data-audio=\"audio/lo-04-freizeit/u4_p-dienstag.mp3\" data-audio-label=\"Play: Dienstag\"></span></td></tr></tbody></table>"
+        ]
+      },
+      {
+        "label": "Stress on the prefix",
+        "instructions": "In a separable verb the stress is on the prefix: AUF-stehen, EIN-kaufen. This is how you can hear that the prefix will move to the end of the sentence.",
+        "text": [
+          "<table><caption>Stress in separable verbs</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>aufstehen</td><td>stress on AUF</td><td><span data-audio=\"audio/lo-04-freizeit/u4_p-s-aufstehen.mp3\" data-audio-label=\"Play: aufstehen\"></span></td></tr><tr><td>einkaufen</td><td>stress on EIN</td><td><span data-audio=\"audio/lo-04-freizeit/u4_p-s-einkaufen.mp3\" data-audio-label=\"Play: einkaufen\"></span></td></tr><tr><td>anrufen</td><td>stress on AN</td><td><span data-audio=\"audio/lo-04-freizeit/u4_p-s-anrufen.mp3\" data-audio-label=\"Play: anrufen\"></span></td></tr><tr><td>mitkommen</td><td>stress on MIT</td><td><span data-audio=\"audio/lo-04-freizeit/u4_p-s-mitkommen.mp3\" data-audio-label=\"Play: mitkommen\"></span></td></tr><tr><td>fernsehen</td><td>stress on FERN</td><td><span data-audio=\"audio/lo-04-freizeit/u4_p-s-fernsehen.mp3\" data-audio-label=\"Play: fernsehen\"></span></td></tr><tr><td>ausgehen</td><td>stress on AUS</td><td><span data-audio=\"audio/lo-04-freizeit/u4_p-s-ausgehen.mp3\" data-audio-label=\"Play: ausgehen\"></span></td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}

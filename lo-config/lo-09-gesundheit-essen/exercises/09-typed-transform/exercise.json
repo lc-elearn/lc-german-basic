@@ -1,0 +1,38 @@
+{
+  "type": "typed-transform",
+  "title": "Compound nouns: health",
+  "content": {
+    "instructions": "Join the parts into one compound noun (without the article).",
+    "columns": {
+      "prompt": "Parts",
+      "answer": "Compound noun"
+    },
+    "rows": [
+      {
+        "prompt": "der Kopf + die Schmerzen",
+        "answer": "Kopfschmerzen"
+      },
+      {
+        "prompt": "der Hals + die Schmerzen",
+        "answer": "Halsschmerzen"
+      },
+      {
+        "prompt": "der Rücken + die Schmerzen",
+        "answer": "Rückenschmerzen"
+      },
+      {
+        "prompt": "der Bauch + die Schmerzen",
+        "answer": "Bauchschmerzen"
+      },
+      {
+        "prompt": "der Zahn + der Arzt",
+        "answer": "Zahnarzt"
+      },
+      {
+        "prompt": "das Haus + der Arzt",
+        "answer": "Hausarzt"
+      }
+    ],
+    "footnote": "The last part decides the article: der Zahnarzt, die Kopfschmerzen (plural)."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "inline-gap",
+  "title": "Participles",
+  "content": {
+    "instructions": "Type the participle. The infinitive is shown as a hint.",
+    "items": [
+      {
+        "text": "Ich habe Pizza [gegessen::essen]."
+      },
+      {
+        "text": "Wir haben Musik [gehört::hören]."
+      },
+      {
+        "text": "Sie ist nach Wien [gefahren::fahren]."
+      },
+      {
+        "text": "Er hat Freunde [besucht::besuchen]."
+      },
+      {
+        "text": "Ich bin um sieben [aufgestanden::aufstehen]."
+      },
+      {
+        "text": "Sie hat in Bologna [studiert::studieren]."
+      }
+    ]
+  }
+}

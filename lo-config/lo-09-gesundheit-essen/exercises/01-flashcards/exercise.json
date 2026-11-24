@@ -1,0 +1,59 @@
+{
+  "type": "flashcards",
+  "title": "Flashcards: the body and illness",
+  "content": {
+    "instructions": "Flip each card, listen and say the word aloud. Mark the ones you know.",
+    "cards": [
+      {
+        "target": "der Kopf",
+        "native": "head",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-kopf.mp3"
+      },
+      {
+        "target": "der Rücken",
+        "native": "back",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-ruecken.mp3"
+      },
+      {
+        "target": "der Hals",
+        "native": "throat, neck",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-hals.mp3"
+      },
+      {
+        "target": "der Fuß",
+        "native": "foot",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-koerper-fuss.mp3"
+      },
+      {
+        "target": "das Fieber",
+        "native": "fever",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-fieber.mp3"
+      },
+      {
+        "target": "der Husten",
+        "native": "cough",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-husten.mp3"
+      },
+      {
+        "target": "die Erkältung",
+        "native": "cold",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-krank-erkaeltung.mp3"
+      },
+      {
+        "target": "der Termin",
+        "native": "appointment",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-arzt-termin.mp3"
+      },
+      {
+        "target": "das Rezept",
+        "native": "prescription",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-arzt-rezept.mp3"
+      },
+      {
+        "target": "die Apotheke",
+        "native": "pharmacy",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-arzt-apotheke.mp3"
+      }
+    ]
+  }
+}

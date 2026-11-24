@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Word order in the Perfekt",
+  "presentation": "card",
+  "content": {
+    "instructions": "The helping verb is in second position and the participle goes to the very end. If you start with a time word, the subject moves behind the helping verb. In a question the helping verb comes first.",
+    "text": [
+      "<table><caption>The Perfekt bracket</caption><thead><tr><th>Type</th><th>Listen</th><th>Example</th></tr></thead><tbody><tr><th>statement</th><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-klammer-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Ich <strong>habe</strong> am Samstag Freunde <strong>besucht</strong>.</td></tr><tr><th>time first</th><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-klammer-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Am Samstag <strong>habe</strong> ich Freunde <strong>besucht</strong>.</td></tr><tr><th>yes/no question</th><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-klammer-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td><strong>Haben</strong> Sie Pizza <strong>gegessen</strong>?</td></tr><tr><th>question word</th><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-klammer-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Was <strong>haben</strong> Sie am Wochenende <strong>gemacht</strong>?</td></tr></tbody></table>"
+    ]
+  }
+}

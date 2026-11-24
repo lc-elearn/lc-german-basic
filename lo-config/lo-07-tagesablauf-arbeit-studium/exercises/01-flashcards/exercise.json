@@ -1,0 +1,49 @@
+{
+  "type": "flashcards",
+  "title": "Flashcards: time, work and study",
+  "content": {
+    "instructions": "Flip each card, listen and say the word aloud. Mark the ones you know.",
+    "cards": [
+      {
+        "target": "die Uhr",
+        "native": "clock, o'clock",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-zeit-uhr.mp3"
+      },
+      {
+        "target": "pünktlich",
+        "native": "on time",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-zeit-puenktlich.mp3"
+      },
+      {
+        "target": "der Termin",
+        "native": "appointment",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-zeit-termin.mp3"
+      },
+      {
+        "target": "aufstehen",
+        "native": "to get up",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-tag-aufstehen.mp3"
+      },
+      {
+        "target": "der Feierabend",
+        "native": "end of the working day",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-arbeit-feierabend.mp3"
+      },
+      {
+        "target": "die Besprechung",
+        "native": "meeting",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-arbeit-besprechung.mp3"
+      },
+      {
+        "target": "die Vorlesung",
+        "native": "lecture",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-studium-vorlesung.mp3"
+      },
+      {
+        "target": "die Prüfung",
+        "native": "exam",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-studium-pruefung.mp3"
+      }
+    ]
+  }
+}

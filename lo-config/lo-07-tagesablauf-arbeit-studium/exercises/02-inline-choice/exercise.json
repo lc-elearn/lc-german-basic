@@ -1,0 +1,34 @@
+{
+  "type": "inline-choice",
+  "title": "Time, müssen and word order",
+  "content": {
+    "instructions": "Choose the correct form for each sentence.",
+    "items": [
+      {
+        "text": "Die Vorlesung beginnt [*um|am|im] neun Uhr."
+      },
+      {
+        "text": "Ich habe [*am|um|im] Dienstag eine Prüfung."
+      },
+      {
+        "text": "Ich arbeite [*von|seit|um] acht bis siebzehn Uhr."
+      },
+      {
+        "text": "Ich [*muss|musst|müssen] um sechs aufstehen."
+      },
+      {
+        "text": "Ich [*arbeite|arbeitet|arbeiten] von Montag bis Freitag."
+      },
+      {
+        "text": "Wir [*müssen|muss|musst] früh aufstehen."
+      },
+      {
+        "text": "Heute Abend [*gehe ich|ich gehe] schwimmen."
+      },
+      {
+        "text": "Der Zug fährt [*um|am|im] halb neun ab."
+      }
+    ],
+    "footnote": "In a statement the conjugated verb is in second place."
+  }
+}

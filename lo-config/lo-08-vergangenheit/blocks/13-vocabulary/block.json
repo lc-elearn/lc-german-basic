@@ -1,0 +1,48 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "History",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Check the article of each noun.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "history words (<em>die Geschichte, die Grenze</em>);",
+        "memories (<em>die Erinnerung, der Zeitzeuge</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "die Geschichte",
+        "gloss": "history, story",
+        "audio": "audio/lo-08-vergangenheit/u8_v-gesch-geschichte.mp3"
+      },
+      {
+        "term": "die Grenze",
+        "gloss": "border",
+        "audio": "audio/lo-08-vergangenheit/u8_v-gesch-grenze.mp3"
+      },
+      {
+        "term": "das Museum",
+        "gloss": "museum",
+        "audio": "audio/lo-08-vergangenheit/u8_v-gesch-museum.mp3"
+      },
+      {
+        "term": "das Fernsehen",
+        "gloss": "television",
+        "audio": "audio/lo-08-vergangenheit/u8_v-gesch-fernsehen.mp3"
+      },
+      {
+        "term": "die Erinnerung",
+        "gloss": "memory",
+        "audio": "audio/lo-08-vergangenheit/u8_v-gesch-erinnerung.mp3"
+      },
+      {
+        "term": "der Zeitzeuge",
+        "gloss": "eyewitness",
+        "audio": "audio/lo-08-vergangenheit/u8_v-gesch-zeitzeuge.mp3"
+      }
+    ]
+  }
+}

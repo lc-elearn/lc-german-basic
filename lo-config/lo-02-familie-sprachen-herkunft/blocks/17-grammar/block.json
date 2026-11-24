@@ -1,0 +1,14 @@
+{
+  "type": "grammar",
+  "title": "haben – to have",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "The verb haben (to have) is irregular. You use it to say what you have, for example brothers and sisters or a birthday.",
+    "text": [
+      "<table><caption>haben – to have</caption><thead><tr><th>Pronoun</th><th>Form</th><th>Example</th></tr></thead><tbody><tr><td>ich</td><td>habe</td><td>Ich habe einen Bruder.</td></tr><tr><td>du</td><td>hast</td><td>Du hast Geschwister.</td></tr><tr><td>er / sie / es</td><td>hat</td><td>Sie hat eine Schwester.</td></tr><tr><td>wir</td><td>haben</td><td>Wir haben ein Kind.</td></tr><tr><td>ihr</td><td>habt</td><td>Habt ihr Geschwister?</td></tr><tr><td>sie / Sie</td><td>haben</td><td>Haben Sie Kinder?</td></tr></tbody></table>",
+      "<span data-audio-player=\"audio/lo-02-familie-sprachen-herkunft/u2_g-haben.mp3\" data-audio-label=\"Listen to all the forms of haben\"></span>",
+      "Ich habe am zwölften Mai Geburtstag."
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "type": "tabs",
+  "title": "Das Wetter – The weather",
+  "presentation": "card",
+  "content": {
+    "label": "Das Wetter – The weather",
+    "tabs": [
+      {
+        "label": "Bei der Planung",
+        "instructions": "Alex and Lena plan a city trip. They use \"du\". Which month does Alex choose?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-10-urlaubsplanung/u10_b1-bei-der-planung.mp3",
+            "label": "Listen to the dialogue: Bei der Planung"
+          },
+          "transcript": [
+            "<strong>Alex:</strong> Wie ist das Wetter in München im Mai? <em>What is the weather like in Munich in May?</em>",
+            "<strong>Lena:</strong> Meistens sonnig und warm, aber manchmal regnet es. <em>Mostly sunny and warm, but sometimes it rains.</em>",
+            "<strong>Alex:</strong> Und im Juli? <em>And in July?</em>",
+            "<strong>Lena:</strong> Im Juli ist es heißer, oft über dreißig Grad. <em>In July it is hotter, often over thirty degrees.</em>",
+            "<strong>Alex:</strong> Dann fahre ich lieber im Mai. <em>Then I would rather go in May.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Wie ist das Wetter?</strong> – What is the weather like?</li><li><strong>Es regnet.</strong> – It is raining.</li><li><strong>über dreißig Grad</strong> – over thirty degrees</li></ul>"
+        ]
+      },
+      {
+        "label": "Am Telefon",
+        "instructions": "A visitor phones the tourist office about the weather. They use \"Sie\". On which day does he hike?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-10-urlaubsplanung/u10_b2-am-telefon.mp3",
+            "label": "Listen to the dialogue: Am Telefon"
+          },
+          "transcript": [
+            "<strong>Herr Vogel:</strong> Guten Tag. Wie wird das Wetter am Wochenende? <em>Hello. What will the weather be like at the weekend?</em>",
+            "<strong>Frau Weber:</strong> Am Samstag wird es sonnig, am Sonntag regnet es. <em>On Saturday it will be sunny, on Sunday it will rain.</em>",
+            "<strong>Herr Vogel:</strong> Und die Temperatur? <em>And the temperature?</em>",
+            "<strong>Frau Weber:</strong> Am Samstag sind es zwanzig Grad, am Sonntag nur fünfzehn. <em>On Saturday it is twenty degrees, on Sunday only fifteen.</em>",
+            "<strong>Herr Vogel:</strong> Dann wandere ich am Samstag. Danke! <em>Then I will hike on Saturday. Thank you!</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Wie wird das Wetter?</strong> – What will the weather be like?</li><li><strong>Es wird sonnig.</strong> – It will be sunny.</li><li><strong>Grad</strong> – degrees (Celsius)</li></ul>"
+        ]
+      },
+      {
+        "label": "Auf der Karte",
+        "instructions": "Two friends compare regions on a map. They use \"du\". What does Daniel find most beautiful?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-10-urlaubsplanung/u10_b3-auf-der-karte.mp3",
+            "label": "Listen to the dialogue: Auf der Karte"
+          },
+          "transcript": [
+            "<strong>Lukas:</strong> Schau mal, im Süden ist es wärmer als im Norden. <em>Look, in the south it is warmer than in the north.</em>",
+            "<strong>Daniel:</strong> Ja, aber der Süden ist auch teurer. <em>Yes, but the south is also more expensive.</em>",
+            "<strong>Lukas:</strong> Stimmt. Und die Berge sind kälter. <em>True. And the mountains are colder.</em>",
+            "<strong>Daniel:</strong> Am schönsten finde ich das Meer. <em>I find the sea the most beautiful.</em>",
+            "<strong>Lukas:</strong> Dann fahren wir ans Meer. <em>Then we will go to the sea.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>wärmer als</strong> – warmer than</li><li><strong>teurer</strong> – more expensive</li><li><strong>am schönsten</strong> – the most beautiful</li></ul>"
+        ]
+      }
+    ]
+  }
+}

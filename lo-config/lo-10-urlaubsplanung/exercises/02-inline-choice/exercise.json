@@ -1,0 +1,34 @@
+{
+  "type": "inline-choice",
+  "title": "Destinations and comparison",
+  "content": {
+    "instructions": "Choose the correct form for each sentence.",
+    "items": [
+      {
+        "text": "Wir fahren [*nach|in|zu] Italien."
+      },
+      {
+        "text": "Ich fahre [*in die|nach|in der] Schweiz."
+      },
+      {
+        "text": "Wir fahren [*ans|am|im] Meer."
+      },
+      {
+        "text": "Der Süden ist [*wärmer|warmer|am wärmsten] als der Norden."
+      },
+      {
+        "text": "Das Hotel ist [*teurer|teuerer|teuer] als die Pension."
+      },
+      {
+        "text": "Am [*schönsten|schöner|schön] finde ich das Meer."
+      },
+      {
+        "text": "Ich [*möchte|möchten|möchtest] ans Meer fahren."
+      },
+      {
+        "text": "Wir [*fahren|fährt|fahrt] im Sommer nach Portugal."
+      }
+    ],
+    "footnote": "Countries without an article take nach; those with an article take in die."
+  }
+}

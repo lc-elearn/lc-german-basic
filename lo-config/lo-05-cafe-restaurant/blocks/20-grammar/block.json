@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "kein or nicht?",
+  "presentation": "card",
+  "content": {
+    "instructions": "“kein” negates a noun that would have “ein” or no article: “Ich esse kein Fleisch.” “nicht” negates a verb, an adjective or a whole sentence: “Ich trinke nicht gern Bier.” “Das ist nicht lecker.” “kein” takes the same endings as “ein”.",
+    "text": [
+      "<table><caption>kein and nicht</caption><thead><tr><th>Use</th><th>Example</th></tr></thead><tbody><tr><th>kein (noun)</th><td>Ich esse kein Fleisch. Wir haben keine Zeit. Er trinkt keinen Kaffee.</td></tr><tr><th>nicht (verb, adjective)</th><td>Ich trinke nicht gern Bier. Der Kaffee ist nicht heiß.</td></tr></tbody></table>",
+      "<span data-audio-player=\"audio/lo-05-cafe-restaurant/u5_g-kein.mp3\" data-audio-label=\"Listen to kein and nicht\"></span>"
+    ]
+  }
+}

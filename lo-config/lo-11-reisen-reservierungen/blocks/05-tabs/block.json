@@ -1,0 +1,72 @@
+{
+  "type": "tabs",
+  "title": "Unterkunft – Staying overnight",
+  "presentation": "card",
+  "content": {
+    "label": "Unterkunft – Staying overnight",
+    "tabs": [
+      {
+        "label": "Im Hotel",
+        "instructions": "A guest checks in. They use \"Sie\". On which floor is her room?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-11-reisen-reservierungen/u11_c1-im-hotel.mp3",
+            "label": "Listen to the dialogue: Im Hotel"
+          },
+          "transcript": [
+            "<strong>Frau Schneider:</strong> Guten Abend. Ich habe ein Zimmer reserviert. <em>Good evening. I have reserved a room.</em>",
+            "<strong>Herr Braun:</strong> Auf welchen Namen, bitte? <em>In what name, please?</em>",
+            "<strong>Frau Schneider:</strong> Auf den Namen Schneider. <em>In the name of Schneider.</em>",
+            "<strong>Herr Braun:</strong> Ja, Zimmer 214 im zweiten Stock. Hier ist Ihr Schlüssel. <em>Yes, room 214 on the second floor. Here is your key.</em>",
+            "<strong>Frau Schneider:</strong> Wann gibt es Frühstück? <em>When is breakfast?</em>",
+            "<strong>Herr Braun:</strong> Von sieben bis zehn Uhr im Erdgeschoss. <em>From seven to ten on the ground floor.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Auf welchen Namen?</strong> – In what name?</li><li><strong>der Schlüssel</strong> – key</li><li><strong>im Erdgeschoss</strong> – on the ground floor</li></ul>"
+        ]
+      },
+      {
+        "label": "Auf dem Campingplatz",
+        "instructions": "A camper asks for a pitch. They use \"Sie\". Where is the shower?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-11-reisen-reservierungen/u11_c2-auf-dem-campingplatz.mp3",
+            "label": "Listen to the dialogue: Auf dem Campingplatz"
+          },
+          "transcript": [
+            "<strong>Peter Lange:</strong> Guten Tag. Haben Sie noch einen Platz für ein Zelt? <em>Hello. Do you still have a pitch for a tent?</em>",
+            "<strong>Frau Weber:</strong> Für wie viele Nächte? <em>For how many nights?</em>",
+            "<strong>Peter Lange:</strong> Für drei Nächte, für zwei Personen. <em>For three nights, for two people.</em>",
+            "<strong>Frau Weber:</strong> Ja, wir haben noch Plätze am See. Das kostet zehn Euro pro Person und Nacht. <em>Yes, we still have pitches by the lake. That costs ten euros per person and night.</em>",
+            "<strong>Peter Lange:</strong> Gibt es Duschen? <em>Are there showers?</em>",
+            "<strong>Frau Weber:</strong> Ja, neben dem Eingang. Die Dusche ist im Preis inklusive. <em>Yes, next to the entrance. The shower is included in the price.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>das Zelt</strong> – tent</li><li><strong>der Campingplatz</strong> – campsite</li><li><strong>im Preis inklusive</strong> – included in the price</li></ul>"
+        ]
+      },
+      {
+        "label": "In der Jugendherberge",
+        "instructions": "Two friends settle into a hostel. They use \"du\". When must they leave tomorrow?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-11-reisen-reservierungen/u11_c3-in-der-jugendherberge.mp3",
+            "label": "Listen to the dialogue: In der Jugendherberge"
+          },
+          "transcript": [
+            "<strong>Daniel:</strong> Wir haben ein Bett im Mehrbettzimmer, Zimmer sechs. <em>We have a bed in the dormitory, room six.</em>",
+            "<strong>Elif:</strong> Wo ist die Küche? <em>Where is the kitchen?</em>",
+            "<strong>Daniel:</strong> Im Erdgeschoss, neben dem Aufenthaltsraum. <em>On the ground floor, next to the common room.</em>",
+            "<strong>Elif:</strong> Und wann müssen wir morgen abreisen? <em>And when do we have to leave tomorrow?</em>",
+            "<strong>Daniel:</strong> Bis zehn Uhr. Dann geben wir den Schlüssel an der Rezeption ab. <em>By ten. Then we hand in the key at reception.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>das Mehrbettzimmer</strong> – dormitory</li><li><strong>der Aufenthaltsraum</strong> – common room</li><li><strong>abreisen → wir reisen ab</strong> – to leave (on a trip)</li></ul>"
+        ]
+      }
+    ]
+  }
+}

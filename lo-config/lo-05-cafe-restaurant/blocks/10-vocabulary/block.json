@@ -1,0 +1,78 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "In the restaurant",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Notice the verbs: bestellen, bezahlen, reservieren.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "the menu and the people (<em>die Speisekarte, das Gericht, die Bedienung</em>);",
+        "verbs for eating out (<em>bestellen, bezahlen, reservieren</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "die Speisekarte",
+        "gloss": "menu",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-rest-speisekarte.mp3"
+      },
+      {
+        "term": "das Gericht",
+        "gloss": "dish",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-rest-gericht.mp3"
+      },
+      {
+        "term": "das Tagesgericht",
+        "gloss": "dish of the day",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-rest-tagesgericht.mp3"
+      },
+      {
+        "term": "die Vorspeise",
+        "gloss": "starter",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-rest-vorspeise.mp3"
+      },
+      {
+        "term": "der Nachtisch",
+        "gloss": "dessert",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-rest-nachtisch.mp3"
+      },
+      {
+        "term": "die Bedienung",
+        "gloss": "waiter, waitress",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-rest-bedienung.mp3"
+      },
+      {
+        "term": "der Tisch",
+        "gloss": "table",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-rest-tisch.mp3"
+      },
+      {
+        "term": "reservieren",
+        "gloss": "to reserve",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-rest-reservieren.mp3"
+      },
+      {
+        "term": "bestellen",
+        "gloss": "to order",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-rest-bestellen.mp3"
+      },
+      {
+        "term": "bezahlen",
+        "gloss": "to pay",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-rest-bezahlen.mp3"
+      },
+      {
+        "term": "die Rechnung",
+        "gloss": "bill",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-rest-rechnung.mp3"
+      },
+      {
+        "term": "das Trinkgeld",
+        "gloss": "tip",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-rest-trinkgeld.mp3"
+      }
+    ]
+  }
+}

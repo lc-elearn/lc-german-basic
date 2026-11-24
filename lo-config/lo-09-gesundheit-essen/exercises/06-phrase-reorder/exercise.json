@@ -1,0 +1,29 @@
+{
+  "type": "phrase-reorder",
+  "title": "Put the conversation in order",
+  "content": {
+    "instructions": "A patient phones a surgery. Drag the lines into the right order.",
+    "rows": [
+      {
+        "prompt": "Frau Schneider",
+        "phrase": "Praxis Dr. Krause, guten Tag."
+      },
+      {
+        "prompt": "Marco",
+        "phrase": "Guten Tag, hier ist Marco Rossi. Ich möchte einen Termin, bitte."
+      },
+      {
+        "prompt": "Frau Schneider",
+        "phrase": "Was ist das Problem?"
+      },
+      {
+        "prompt": "Marco",
+        "phrase": "Ich habe seit drei Tagen Fieber und Husten."
+      },
+      {
+        "prompt": "Frau Schneider",
+        "phrase": "Können Sie morgen um zehn Uhr kommen?"
+      }
+    ]
+  }
+}

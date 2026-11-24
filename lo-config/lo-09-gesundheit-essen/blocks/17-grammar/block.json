@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "What hurts?",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "Say what is wrong with “Ich habe” + noun: “Ich habe Kopfschmerzen / Fieber / Husten”. To say that a part of the body hurts, use “tun weh” (separable): “Mein Kopf tut weh. Meine Füße tun weh.” The verb agrees with what hurts, singular or plural.",
+    "text": [
+      "<table><caption>Saying what hurts</caption><thead><tr><th>Structure</th><th>Listen</th><th>Example</th></tr></thead><tbody><tr><th>Ich habe + noun</th><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-schmerz-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Ich habe Kopfschmerzen. Ich habe Fieber.</td></tr><tr><th>Mein … tut weh</th><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-schmerz-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Mein Rücken tut weh.</td></tr><tr><th>Meine … tun weh</th><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-schmerz-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Meine Füße tun weh.</td></tr><tr><th>question</th><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-schmerz-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Was fehlt Ihnen? Wo tut es weh?</td></tr></tbody></table>"
+    ]
+  }
+}

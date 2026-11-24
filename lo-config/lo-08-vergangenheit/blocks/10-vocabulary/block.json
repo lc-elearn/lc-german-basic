@@ -1,0 +1,73 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Participles with sein",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Verbs of movement and change use sein.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "participles with <em>sein</em> (<em>gefahren, gegangen, gekommen, geblieben</em>);",
+        "separable and prefixed verbs (<em>aufgestanden, angekommen, umgezogen</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "gefahren",
+        "gloss": "gone (by vehicle)",
+        "audio": "audio/lo-08-vergangenheit/u8_v-psein-gefahren.mp3"
+      },
+      {
+        "term": "gegangen",
+        "gloss": "gone (on foot)",
+        "audio": "audio/lo-08-vergangenheit/u8_v-psein-gegangen.mp3"
+      },
+      {
+        "term": "gekommen",
+        "gloss": "come",
+        "audio": "audio/lo-08-vergangenheit/u8_v-psein-gekommen.mp3"
+      },
+      {
+        "term": "geblieben",
+        "gloss": "stayed",
+        "audio": "audio/lo-08-vergangenheit/u8_v-psein-geblieben.mp3"
+      },
+      {
+        "term": "geflogen",
+        "gloss": "flown",
+        "audio": "audio/lo-08-vergangenheit/u8_v-psein-geflogen.mp3"
+      },
+      {
+        "term": "gewesen",
+        "gloss": "been",
+        "audio": "audio/lo-08-vergangenheit/u8_v-psein-gewesen.mp3"
+      },
+      {
+        "term": "aufgestanden",
+        "gloss": "got up",
+        "audio": "audio/lo-08-vergangenheit/u8_v-psein-aufgestanden.mp3"
+      },
+      {
+        "term": "angekommen",
+        "gloss": "arrived",
+        "audio": "audio/lo-08-vergangenheit/u8_v-psein-angekommen.mp3"
+      },
+      {
+        "term": "umgezogen",
+        "gloss": "moved house",
+        "audio": "audio/lo-08-vergangenheit/u8_v-psein-umgezogen.mp3"
+      },
+      {
+        "term": "aufgewachsen",
+        "gloss": "grew up",
+        "audio": "audio/lo-08-vergangenheit/u8_v-psein-aufgewachsen.mp3"
+      },
+      {
+        "term": "geboren",
+        "gloss": "born",
+        "audio": "audio/lo-08-vergangenheit/u8_v-psein-geboren.mp3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "tabs",
+  "title": "At the hotel",
+  "presentation": "card",
+  "content": {
+    "label": "At the hotel",
+    "tabs": [
+      {
+        "label": "Reservieren",
+        "instructions": "Useful sentences for booking a room.",
+        "text": [
+          "<ul><li><strong>Ich möchte ein Zimmer reservieren.</strong> – I would like to reserve a room.</li><li><strong>Vom 5. bis zum 12. August, für zwei Personen.</strong> – From 5 to 12 August, for two people.</li><li><strong>Was kostet das Zimmer pro Nacht?</strong> – What does the room cost per night?</li><li><strong>Ist das Frühstück inklusive?</strong> – Is breakfast included?</li></ul>"
+        ]
+      },
+      {
+        "label": "Ankommen",
+        "instructions": "Useful sentences on arrival.",
+        "text": [
+          "<ul><li><strong>Ich habe ein Zimmer auf den Namen Schneider reserviert.</strong> – I have a room booked in the name of Schneider.</li><li><strong>Wann gibt es Frühstück?</strong> – When is breakfast?</li><li><strong>Können wir das Gepäck hier lassen?</strong> – Can we leave the luggage here?</li><li><strong>Wann ist die Abreise?</strong> – When is check-out?</li></ul>"
+        ]
+      }
+    ]
+  }
+}

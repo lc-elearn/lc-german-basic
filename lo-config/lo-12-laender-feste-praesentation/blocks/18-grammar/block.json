@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Opinions and dass",
+  "presentation": "card",
+  "content": {
+    "instructions": "To give an opinion say “Ich finde …”, “Ich denke, dass …” or “Meiner Meinung nach …”. After “dass” the verb goes to the end. To agree say “Da stimme ich dir zu”, “Das stimmt” or “Da haben Sie recht”; to disagree politely say “Das sehe ich anders” or “Ich bin nicht sicher”.",
+    "text": [
+      "<table><caption>Opinions</caption><thead><tr><th>Function</th><th>Listen</th><th>Phrase</th></tr></thead><tbody><tr><th>give an opinion</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-meinung-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Ich finde das sehr gut. Ich denke, dass es wichtig ist.</td></tr><tr><th>agree</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-meinung-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Da stimme ich dir zu. Das stimmt. Da haben Sie recht.</td></tr><tr><th>disagree</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-meinung-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Das sehe ich anders. Ich bin nicht sicher.</td></tr><tr><th>ask</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-meinung-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Was denkst du? Wie finden Sie das?</td></tr></tbody></table>"
+    ]
+  }
+}

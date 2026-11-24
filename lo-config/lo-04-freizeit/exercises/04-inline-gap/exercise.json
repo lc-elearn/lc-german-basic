@@ -1,0 +1,27 @@
+{
+  "type": "inline-gap",
+  "title": "Separable verbs",
+  "content": {
+    "instructions": "Type the verb form and the prefix. The infinitive is shown as a hint.",
+    "items": [
+      {
+        "text": "Ich [stehe::aufstehen] am Sonntag spät [auf::]."
+      },
+      {
+        "text": "Wir [kaufen::einkaufen] am Samstag [ein::]."
+      },
+      {
+        "text": "Er [ruft::anrufen] seine Familie [an::]."
+      },
+      {
+        "text": "Kommst du heute Abend [mit::]?"
+      },
+      {
+        "text": "Das Konzert [fängt::anfangen] am Abend [an::]."
+      },
+      {
+        "text": "Wann [fährst::abfahren] du [ab::]?"
+      }
+    ]
+  }
+}

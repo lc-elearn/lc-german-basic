@@ -1,0 +1,38 @@
+{
+  "type": "dictation",
+  "title": "Dictation: sentences",
+  "content": {
+    "instructions": "Listen and type the sentence. Punctuation is not marked, but umlauts are.",
+    "columns": {
+      "prompt": "Sentence",
+      "answer": "What you hear"
+    },
+    "rows": [
+      {
+        "prompt": "Sentence 1",
+        "answer": "Ich hätte gern einen Kaffee.",
+        "audio": "audio/lo-05-cafe-restaurant/u5_x-dikt-01.mp3"
+      },
+      {
+        "prompt": "Sentence 2",
+        "answer": "Die Rechnung, bitte.",
+        "audio": "audio/lo-05-cafe-restaurant/u5_x-dikt-02.mp3"
+      },
+      {
+        "prompt": "Sentence 3",
+        "answer": "Das macht sieben Euro fünfzig.",
+        "audio": "audio/lo-05-cafe-restaurant/u5_x-dikt-03.mp3"
+      },
+      {
+        "prompt": "Sentence 4",
+        "answer": "Haben Sie einen Tisch für zwei Personen?",
+        "audio": "audio/lo-05-cafe-restaurant/u5_x-dikt-04.mp3"
+      },
+      {
+        "prompt": "Sentence 5",
+        "answer": "Ich esse kein Fleisch.",
+        "audio": "audio/lo-05-cafe-restaurant/u5_x-dikt-05.mp3"
+      }
+    ]
+  }
+}

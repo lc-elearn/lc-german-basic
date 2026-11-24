@@ -1,0 +1,12 @@
+{
+  "type": "prose",
+  "title": "Health insurance and the family doctor",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "text": [
+      "In Germany, Austria and Switzerland almost everyone has health insurance. In Germany most people are insured with a public insurer (<em>Krankenkasse</em>) and show an insurance card at the surgery. Visitors from the UK should check cover before they travel.",
+      "You usually start with a family doctor (<em>Hausarzt</em>), who refers you to a specialist (<em>Facharzt</em>) if needed. You normally need an appointment, and waiting rooms can be full. In an emergency, call 112. For an on-call doctor outside surgery hours in Germany, call 116 117."
+    ]
+  }
+}

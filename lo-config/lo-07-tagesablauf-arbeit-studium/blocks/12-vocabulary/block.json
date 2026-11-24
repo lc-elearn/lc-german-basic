@@ -1,0 +1,53 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Sequence words and plans",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. These words put events in order and talk about plans.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "order of events (<em>zuerst, dann, danach, später</em>);",
+        "time for plans (<em>nächste Woche, nächstes Jahr</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "zuerst",
+        "gloss": "first",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-wort-zuerst.mp3"
+      },
+      {
+        "term": "dann",
+        "gloss": "then",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-wort-dann.mp3"
+      },
+      {
+        "term": "danach",
+        "gloss": "afterwards",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-wort-danach.mp3"
+      },
+      {
+        "term": "später",
+        "gloss": "later",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-wort-spaeter.mp3"
+      },
+      {
+        "term": "vorher",
+        "gloss": "beforehand",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-wort-vorher.mp3"
+      },
+      {
+        "term": "nächste Woche",
+        "gloss": "next week",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-wort-naechste-woche.mp3"
+      },
+      {
+        "term": "nächstes Jahr",
+        "gloss": "next year",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-wort-naechstes-jahr.mp3"
+      }
+    ]
+  }
+}

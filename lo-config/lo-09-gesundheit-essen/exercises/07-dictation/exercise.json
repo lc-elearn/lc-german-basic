@@ -1,0 +1,38 @@
+{
+  "type": "dictation",
+  "title": "Dictation: sentences",
+  "content": {
+    "instructions": "Listen and type the sentence. Punctuation is not marked, but umlauts are.",
+    "columns": {
+      "prompt": "Sentence",
+      "answer": "What you hear"
+    },
+    "rows": [
+      {
+        "prompt": "Sentence 1",
+        "answer": "Ich habe Kopfschmerzen.",
+        "audio": "audio/lo-09-gesundheit-essen/u9_x-dikt-01.mp3"
+      },
+      {
+        "prompt": "Sentence 2",
+        "answer": "Mein Rücken tut weh.",
+        "audio": "audio/lo-09-gesundheit-essen/u9_x-dikt-02.mp3"
+      },
+      {
+        "prompt": "Sentence 3",
+        "answer": "Ich habe seit drei Tagen Fieber.",
+        "audio": "audio/lo-09-gesundheit-essen/u9_x-dikt-03.mp3"
+      },
+      {
+        "prompt": "Sentence 4",
+        "answer": "Ich möchte ein Kilo Äpfel.",
+        "audio": "audio/lo-09-gesundheit-essen/u9_x-dikt-04.mp3"
+      },
+      {
+        "prompt": "Sentence 5",
+        "answer": "Du musst viel trinken.",
+        "audio": "audio/lo-09-gesundheit-essen/u9_x-dikt-05.mp3"
+      }
+    ]
+  }
+}

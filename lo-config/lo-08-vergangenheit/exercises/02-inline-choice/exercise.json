@@ -1,0 +1,34 @@
+{
+  "type": "inline-choice",
+  "title": "haben or sein, als or wenn",
+  "content": {
+    "instructions": "Choose the correct form for each sentence.",
+    "items": [
+      {
+        "text": "Ich [*habe|bin] Freunde besucht."
+      },
+      {
+        "text": "Er [*ist|hat] nach Wien gefahren."
+      },
+      {
+        "text": "Wir [*sind|haben] zu Hause geblieben."
+      },
+      {
+        "text": "Sie [*hat|ist] Pizza gegessen."
+      },
+      {
+        "text": "Gestern [*war|bist|waren] ich in der Bibliothek."
+      },
+      {
+        "text": "[*Als|Wenn|Wann] ich ein Kind war, habe ich in Manchester gewohnt."
+      },
+      {
+        "text": "Ich habe gestern meine Familie [*angerufen|geanrufen|gerufen an]."
+      },
+      {
+        "text": "Wir haben die Stadt [*besichtigt|gebesichtigt|besichtigen]."
+      }
+    ],
+    "footnote": "Movement and change take sein; most other verbs take haben."
+  }
+}

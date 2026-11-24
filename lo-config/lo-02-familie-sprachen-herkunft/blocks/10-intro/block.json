@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "The family tree shows three generations: grandparents, parents and their children. The highlighted child is “you”. Learn the words below with their articles."
+    ],
+    "image": {
+      "src": "images/lo-02-familie-sprachen-herkunft/figures/family-tree.webp",
+      "alt": "Family tree: two grandparents, three adults and three children, with the middle child highlighted."
+    }
+  }
+}

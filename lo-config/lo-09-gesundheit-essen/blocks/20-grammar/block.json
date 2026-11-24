@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "zu + infinitive",
+  "presentation": "card",
+  "content": {
+    "instructions": "Many expressions take a second verb in the infinitive with “zu” at the end, separated by a comma: “Es ist wichtig, genug zu schlafen.” “Ich versuche, jeden Tag zu laufen.” With a separable verb, “zu” goes between prefix and stem: “aufzustehen, mitzukommen”. After a modal verb there is no “zu”.",
+    "text": [
+      "<table><caption>zu + infinitive</caption><thead><tr><th>Expression</th><th>Listen</th><th>Example</th></tr></thead><tbody><tr><th>Es ist wichtig, …</th><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-zu-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Es ist wichtig, viel zu trinken.</td></tr><tr><th>Ich versuche, …</th><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-zu-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Ich versuche, jeden Tag zu laufen.</td></tr><tr><th>Ich habe vor, …</th><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-zu-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Ich habe vor, im Park zu laufen.</td></tr><tr><th>Hast du Lust, …?</th><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-zu-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Hast du Lust, mitzukommen?</td></tr><tr><th>modal verb</th><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-zu-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>Ich muss früh aufstehen. (no zu)</td></tr></tbody></table>"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "How do you travel? mit + dative",
+  "presentation": "card",
+  "content": {
+    "instructions": "Say how you travel with “mit” and the dative: “mit dem Bus, mit der U-Bahn, mit dem Zug”. On foot is “zu Fuß”, with no article. Ask with “Wie?”: “Wie fahren Sie zur Arbeit?”",
+    "text": [
+      "<table><caption>Means of transport</caption><thead><tr><th>Means</th><th>Listen</th><th>Example</th></tr></thead><tbody><tr><th>der Bus</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-mit-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Ich fahre mit dem Bus.</td></tr><tr><th>die Straßenbahn</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-mit-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Wir fahren mit der Straßenbahn.</td></tr><tr><th>das Fahrrad</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-mit-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Er kommt mit dem Fahrrad.</td></tr><tr><th>zu Fuß</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-mit-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Ich gehe zu Fuß.</td></tr></tbody></table>"
+    ]
+  }
+}

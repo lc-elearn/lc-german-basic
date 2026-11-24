@@ -1,0 +1,75 @@
+{
+  "type": "vocabulary",
+  "options": {
+    "selfTest": true
+  },
+  "title": "Homes and rooms",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Notice the compound nouns: das Wohnzimmer is wohnen + das Zimmer.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "types of home (<em>das Haus, die Wohnung, die WG</em>);",
+        "the rooms (<em>die Küche, das Bad, das Wohnzimmer</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "das Haus",
+        "gloss": "house",
+        "audio": "audio/lo-03-wohnen/u3_v-wohnung-haus.mp3"
+      },
+      {
+        "term": "die Wohnung",
+        "gloss": "flat, apartment",
+        "audio": "audio/lo-03-wohnen/u3_v-wohnung-wohnung.mp3"
+      },
+      {
+        "term": "das Studentenwohnheim",
+        "gloss": "hall of residence",
+        "audio": "audio/lo-03-wohnen/u3_v-wohnung-wohnheim.mp3"
+      },
+      {
+        "term": "die WG (Wohngemeinschaft)",
+        "gloss": "flat share",
+        "audio": "audio/lo-03-wohnen/u3_v-wohnung-wg.mp3"
+      },
+      {
+        "term": "das Zimmer",
+        "gloss": "room",
+        "audio": "audio/lo-03-wohnen/u3_v-wohnung-zimmer.mp3"
+      },
+      {
+        "term": "das Wohnzimmer",
+        "gloss": "living room",
+        "audio": "audio/lo-03-wohnen/u3_v-wohnung-wohnzimmer.mp3"
+      },
+      {
+        "term": "das Schlafzimmer",
+        "gloss": "bedroom",
+        "audio": "audio/lo-03-wohnen/u3_v-wohnung-schlafzimmer.mp3"
+      },
+      {
+        "term": "die Küche",
+        "gloss": "kitchen",
+        "audio": "audio/lo-03-wohnen/u3_v-wohnung-kueche.mp3"
+      },
+      {
+        "term": "das Bad",
+        "gloss": "bathroom",
+        "audio": "audio/lo-03-wohnen/u3_v-wohnung-bad.mp3"
+      },
+      {
+        "term": "der Balkon",
+        "gloss": "balcony",
+        "audio": "audio/lo-03-wohnen/u3_v-wohnung-balkon.mp3"
+      },
+      {
+        "term": "der Garten",
+        "gloss": "garden",
+        "audio": "audio/lo-03-wohnen/u3_v-wohnung-garten.mp3"
+      }
+    ]
+  }
+}

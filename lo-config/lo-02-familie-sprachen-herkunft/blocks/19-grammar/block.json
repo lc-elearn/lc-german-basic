@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "title": "ein, mein, kein: nominative and accusative",
+  "presentation": "card",
+  "content": {
+    "instructions": "The indefinite article (a, an) and the possessive words (my, your …) take the same endings. In the accusative only the masculine changes: ein → einen, mein → meinen. There is no plural of ein, but mein/meine and kein/keine do have one.",
+    "text": [
+      "<table><caption>Nominative and accusative</caption><thead><tr><th>Listen</th><th>Gender</th><th>Nominative</th><th>Accusative</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-ein-mein-kein-nominative-and-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>masculine</td><td>ein Bruder, mein Bruder</td><td>einen Bruder, meinen Bruder</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-ein-mein-kein-nominative-and-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>feminine</td><td>eine Schwester, meine Schwester</td><td>eine Schwester, meine Schwester</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-ein-mein-kein-nominative-and-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>neuter</td><td>ein Kind, mein Kind</td><td>ein Kind, mein Kind</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-ein-mein-kein-nominative-and-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>plural</td><td>– Geschwister, meine Geschwister</td><td>– Geschwister, meine Geschwister</td></tr></tbody></table>",
+      "<table><caption>Possessive words</caption><thead><tr><th>Person</th><th>Word</th><th>Example</th></tr></thead><tbody><tr><td>ich</td><td>mein</td><td>mein Vater</td></tr><tr><td>du</td><td>dein</td><td>dein Bruder</td></tr><tr><td>er</td><td>sein</td><td>sein Sohn</td></tr><tr><td>sie</td><td>ihr</td><td>ihre Tochter</td></tr><tr><td>wir</td><td>unser</td><td>unsere Eltern</td></tr><tr><td>ihr</td><td>euer</td><td>eure Kinder</td></tr><tr><td>sie (they)</td><td>ihr</td><td>ihre Familie</td></tr><tr><td>Sie</td><td>Ihr</td><td>Ihre Familie</td></tr></tbody></table>",
+      "Das ist mein Bruder. Ich habe einen Bruder. Wie alt ist deine Schwester?"
+    ]
+  }
+}

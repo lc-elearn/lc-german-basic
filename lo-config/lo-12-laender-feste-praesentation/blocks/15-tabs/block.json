@@ -1,0 +1,25 @@
+{
+  "type": "tabs",
+  "title": "Sounds",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Sounds in this unit",
+    "tabs": [
+      {
+        "label": "Sounds in city names",
+        "instructions": "ü and ö need rounded lips: Zürich, Köln, München. -ig at the end sounds like -ich: Leipzig. ch after i is soft.",
+        "text": [
+          "<table><caption>Sounds in city names</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>Zürich</td><td>ü; ch = soft</td><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_p-zuerich.mp3\" data-audio-label=\"Play: Zürich\"></span></td></tr><tr><td>Köln</td><td>ö</td><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_p-koeln.mp3\" data-audio-label=\"Play: Köln\"></span></td></tr><tr><td>München</td><td>ü; ch = soft</td><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_p-muenchen.mp3\" data-audio-label=\"Play: München\"></span></td></tr><tr><td>Düsseldorf</td><td>ü</td><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_p-duesseldorf.mp3\" data-audio-label=\"Play: Düsseldorf\"></span></td></tr><tr><td>Leipzig</td><td>-ig = \"ich\"</td><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_p-leipzig.mp3\" data-audio-label=\"Play: Leipzig\"></span></td></tr><tr><td>Dresden</td><td>long e</td><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_p-dresden.mp3\" data-audio-label=\"Play: Dresden\"></span></td></tr></tbody></table>"
+        ]
+      },
+      {
+        "label": "Pauses in a presentation",
+        "instructions": "In a talk, pause after each short thought and stress the key word. Do not rush. Here the pause is marked with a slash.",
+        "text": [
+          "<table><caption>Sentences for a talk</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>Guten Tag, / mein Name ist Marco Rossi.</td><td>pause after the greeting</td><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_p-satz-name.mp3\" data-audio-label=\"Play: Guten Tag, / mein Name ist Marco Rossi.\"></span></td></tr><tr><td>Zuerst erzähle ich etwas über die Stadt, / dann über das Essen.</td><td>pause before dann</td><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_p-satz-zuerst.mp3\" data-audio-label=\"Play: Zuerst erzähle ich etwas über die Stadt, / dann über das Essen.\"></span></td></tr><tr><td>Das war meine Präsentation. / Vielen Dank.</td><td>pause after the sentence</td><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_p-satz-danke.mp3\" data-audio-label=\"Play: Das war meine Präsentation. / Vielen Dank.\"></span></td></tr><tr><td>Gibt es Fragen?</td><td>rising melody</td><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_p-satz-fragen.mp3\" data-audio-label=\"Play: Gibt es Fragen?\"></span></td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Credits",
+  "content": [
+    "<strong>German Basic</strong> was developed by the Language Centre, University of Cambridge.",
+    "<h3>AI-generated material</h3>",
+    "<strong>Images:</strong> created with an AI image generator (OpenAI ChatGPT) from prompts written and selected by the course team.",
+    "<strong>Voices:</strong> the audio is synthetic speech from Microsoft Azure AI Speech neural voices. It is planned to be replaced by recordings of human speakers.",
+    "<strong>Text:</strong> the lessons were written and checked by the course team. A large language model (LLM) was used to help draft and check some of the material.",
+    "<h3>Licence</h3>",
+    "Content © The Language Centre, University of Cambridge. It is free to use for non-commercial purposes under the Creative Commons Attribution-NonCommercial 4.0 International Licence (CC BY-NC 4.0). The AI-generated images and synthetic voices are covered by the same licence to the extent that copyright exists in them.",
+    "The website code is open source under the MIT licence."
+  ]
+}
