@@ -44,26 +44,6 @@
         "text": [
           "<ul><li><strong>Wie wird das Wetter?</strong> – What will the weather be like?</li><li><strong>Es wird sonnig.</strong> – It will be sunny.</li><li><strong>Grad</strong> – degrees (Celsius)</li></ul>"
         ]
-      },
-      {
-        "label": "Auf der Karte",
-        "instructions": "Two friends compare regions on a map. They use \"du\". What does Daniel find most beautiful?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-10-urlaubsplanung/u10_b3-auf-der-karte.mp3",
-            "label": "Listen to the dialogue: Auf der Karte"
-          },
-          "transcript": [
-            "<strong>Lukas:</strong> Schau mal, im Süden ist es wärmer als im Norden. <em>Look, in the south it is warmer than in the north.</em>",
-            "<strong>Daniel:</strong> Ja, aber der Süden ist auch teurer. <em>Yes, but the south is also more expensive.</em>",
-            "<strong>Lukas:</strong> Stimmt. Und die Berge sind kälter. <em>True. And the mountains are colder.</em>",
-            "<strong>Daniel:</strong> Am schönsten finde ich das Meer. <em>I find the sea the most beautiful.</em>",
-            "<strong>Lukas:</strong> Dann fahren wir ans Meer. <em>Then we will go to the sea.</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>wärmer als</strong> – warmer than</li><li><strong>teurer</strong> – more expensive</li><li><strong>am schönsten</strong> – the most beautiful</li></ul>"
-        ]
       }
     ]
   }

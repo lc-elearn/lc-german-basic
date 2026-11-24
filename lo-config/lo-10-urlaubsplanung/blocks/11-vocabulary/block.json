@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Weather",
   "presentation": "card",
   "content": {
@@ -8,7 +10,7 @@
     "summary": {
       "lead": "You will learn:",
       "items": [
-        "weather nouns (<em>die Sonne, der Regen, der Schnee, der Wind</em>);",
+        "weather nouns (<em>die Sonne, der Regen, der Wind</em>);",
         "weather adjectives (<em>sonnig, warm, kalt, heiß, windig</em>)."
       ]
     },
@@ -29,19 +31,9 @@
         "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-regen.mp3"
       },
       {
-        "term": "der Schnee",
-        "gloss": "snow",
-        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-schnee.mp3"
-      },
-      {
         "term": "der Wind",
         "gloss": "wind",
         "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-wind.mp3"
-      },
-      {
-        "term": "die Wolke",
-        "gloss": "cloud",
-        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-wolke.mp3"
       },
       {
         "term": "sonnig",
@@ -67,11 +59,6 @@
         "term": "windig",
         "gloss": "windy",
         "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-windig.mp3"
-      },
-      {
-        "term": "das Grad",
-        "gloss": "degree",
-        "audio": "audio/lo-10-urlaubsplanung/u10_v-wetter-grad.mp3"
       }
     ]
   }

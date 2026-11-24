@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Dates and durations",
   "presentation": "card",
   "content": {
@@ -27,11 +29,6 @@
         "term": "zwei Wochen",
         "gloss": "two weeks",
         "audio": "audio/lo-10-urlaubsplanung/u10_v-zeit-zwei-wochen.mp3"
-      },
-      {
-        "term": "die Ferien",
-        "gloss": "holidays (school, university)",
-        "audio": "audio/lo-10-urlaubsplanung/u10_v-zeit-ferien.mp3"
       },
       {
         "term": "Anfang August",

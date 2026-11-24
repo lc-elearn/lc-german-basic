@@ -1,15 +1,17 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Accommodation",
   "presentation": "card",
   "content": {
-    "instructions": "Listen and repeat. Notice the pattern: ein Einzelzimmer, ein Doppelzimmer.",
+    "instructions": "Listen and repeat. Notice the pattern: ein Hotel, ein Doppelzimmer.",
     "summary": {
       "lead": "You will learn:",
       "items": [
-        "types of accommodation (<em>das Hotel, die Pension, die Jugendherberge, das Ferienhaus</em>);",
-        "rooms (<em>das Einzelzimmer, das Doppelzimmer</em>)."
+        "types of accommodation (<em>das Hotel, die Pension, das Apartment</em>);",
+        "rooms (<em>das Doppelzimmer</em>)."
       ]
     },
     "items": [
@@ -24,24 +26,9 @@
         "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-pension.mp3"
       },
       {
-        "term": "die Jugendherberge",
-        "gloss": "youth hostel",
-        "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-jugendherberge.mp3"
-      },
-      {
-        "term": "das Ferienhaus",
-        "gloss": "holiday home",
-        "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-ferienhaus.mp3"
-      },
-      {
         "term": "das Apartment",
         "gloss": "apartment",
         "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-apartment.mp3"
-      },
-      {
-        "term": "das Einzelzimmer",
-        "gloss": "single room",
-        "audio": "audio/lo-10-urlaubsplanung/u10_v-hotel-einzelzimmer.mp3"
       },
       {
         "term": "das Doppelzimmer",
