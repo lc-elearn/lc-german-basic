@@ -1,0 +1,79 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Destinations",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "Listen and repeat. Notice which countries have an article.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "kinds of destination (<em>das Meer, der Strand, die Berge, die Insel</em>);",
+        "countries (<em>Italien, Spanien, Österreich, die Schweiz, die Türkei</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "das Meer",
+        "gloss": "sea",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-ziel-meer.mp3"
+      },
+      {
+        "term": "der Strand",
+        "gloss": "beach",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-ziel-strand.mp3"
+      },
+      {
+        "term": "die Berge",
+        "gloss": "mountains (plural)",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-ziel-berge.mp3"
+      },
+      {
+        "term": "die Insel",
+        "gloss": "island",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-ziel-insel.mp3"
+      },
+      {
+        "term": "die Stadt",
+        "gloss": "city",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-ziel-stadt.mp3"
+      },
+      {
+        "term": "das Land",
+        "gloss": "country, countryside",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-ziel-land.mp3"
+      },
+      {
+        "term": "das Ausland",
+        "gloss": "abroad",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-ziel-ausland.mp3"
+      },
+      {
+        "term": "Italien",
+        "gloss": "Italy",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-ziel-italien.mp3"
+      },
+      {
+        "term": "Spanien",
+        "gloss": "Spain",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-ziel-spanien.mp3"
+      },
+      {
+        "term": "Österreich",
+        "gloss": "Austria",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-ziel-oesterreich.mp3"
+      },
+      {
+        "term": "die Schweiz",
+        "gloss": "Switzerland",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-ziel-schweiz.mp3"
+      },
+      {
+        "term": "die Türkei",
+        "gloss": "Turkey",
+        "audio": "audio/lo-10-urlaubsplanung/u10_v-ziel-tuerkei.mp3"
+      }
+    ]
+  }
+}

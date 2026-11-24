@@ -1,0 +1,72 @@
+{
+  "type": "tabs",
+  "title": "Präsentation – Giving a short presentation",
+  "presentation": "card",
+  "content": {
+    "label": "Präsentation – Giving a short presentation",
+    "tabs": [
+      {
+        "label": "Die Vorbereitung",
+        "instructions": "A student asks how to prepare a presentation. They use \"Sie\". How long is it?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-12-laender-feste-praesentation/u12_d1-vorbereitung.mp3",
+            "label": "Listen to the dialogue: Die Vorbereitung"
+          },
+          "transcript": [
+            "<strong>Marco:</strong> Frau Keller, wie lange dauert die Präsentation? <em>Mrs Keller, how long does the presentation last?</em>",
+            "<strong>Frau Keller:</strong> Fünf Minuten. Beginnen Sie mit einer kurzen Einleitung. <em>Five minutes. Begin with a short introduction.</em>",
+            "<strong>Marco:</strong> Und dann? <em>And then?</em>",
+            "<strong>Frau Keller:</strong> Dann kommt der Hauptteil. Am Ende fassen Sie alles zusammen. <em>Then comes the main part. At the end you sum everything up.</em>",
+            "<strong>Marco:</strong> Darf ich Folien benutzen? <em>May I use slides?</em>",
+            "<strong>Frau Keller:</strong> Ja, aber nicht zu viel Text. Sprechen Sie langsam und deutlich. <em>Yes, but not too much text. Speak slowly and clearly.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>die Einleitung / der Hauptteil / der Schluss</strong> – introduction / main part / conclusion</li><li><strong>zusammenfassen → Sie fassen zusammen</strong> – to sum up</li><li><strong>langsam und deutlich</strong> – slowly and clearly</li></ul>"
+        ]
+      },
+      {
+        "label": "Die Präsentation",
+        "instructions": "A student presents his home town. Listen for the three parts. What does he talk about first?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-12-laender-feste-praesentation/u12_d2-die-praesentation.mp3",
+            "label": "Listen to the dialogue: Die Präsentation"
+          },
+          "transcript": [
+            "<strong>Marco:</strong> Guten Tag, mein Name ist Marco Rossi. Ich möchte heute über meine Heimatstadt Bologna sprechen. <em>Hello, my name is Marco Rossi. Today I would like to talk about my home town, Bologna.</em>",
+            "<strong>Marco:</strong> Zuerst erzähle ich etwas über die Stadt, dann über das Essen und zum Schluss über die Universität. <em>First I will tell you something about the city, then about the food and finally about the university.</em>",
+            "<strong>Marco:</strong> Bologna hat eine der ältesten Universitäten Europas. Sie ist über neunhundert Jahre alt. <em>Bologna has one of the oldest universities in Europe. It is over nine hundred years old.</em>",
+            "<strong>Marco:</strong> Das war meine Präsentation. Vielen Dank für Ihre Aufmerksamkeit. <em>That was my presentation. Thank you for your attention.</em>",
+            "<strong>Frau Keller:</strong> Vielen Dank, Herr Rossi. Gibt es Fragen? <em>Thank you very much, Mr Rossi. Are there any questions?</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Ich möchte über … sprechen.</strong> – I would like to talk about …</li><li><strong>zuerst, dann, zum Schluss</strong> – first, then, finally</li><li><strong>Vielen Dank für Ihre Aufmerksamkeit.</strong> – Thank you for your attention.</li></ul>"
+        ]
+      },
+      {
+        "label": "Feedback",
+        "instructions": "Two friends give each other feedback. They use \"du\". What will Anna do next time?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-12-laender-feste-praesentation/u12_d3-feedback.mp3",
+            "label": "Listen to the dialogue: Feedback"
+          },
+          "transcript": [
+            "<strong>Anna Becker:</strong> Wie hat dir meine Präsentation gefallen? <em>How did you like my presentation?</em>",
+            "<strong>Marco:</strong> Sehr gut! Die Einleitung war klar und die Folien waren schön. <em>Very much! The introduction was clear and the slides were nice.</em>",
+            "<strong>Anna Becker:</strong> Habe ich zu schnell gesprochen? <em>Did I speak too fast?</em>",
+            "<strong>Marco:</strong> Ein bisschen. Aber du hast deutlich gesprochen. <em>A little. But you spoke clearly.</em>",
+            "<strong>Anna Becker:</strong> Danke! Nächstes Mal spreche ich langsamer. <em>Thanks! Next time I will speak more slowly.</em>",
+            "<strong>Marco:</strong> Das war schon sehr gut. <em>That was already very good.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>zu schnell</strong> – too fast</li><li><strong>deutlich</strong> – clearly</li><li><strong>Nächstes Mal …</strong> – Next time …</li></ul>"
+        ]
+      }
+    ]
+  }
+}

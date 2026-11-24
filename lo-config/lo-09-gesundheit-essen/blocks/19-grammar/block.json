@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "seit + dative",
+  "presentation": "card",
+  "content": {
+    "instructions": "“seit” says how long something has been true, and it is followed by the dative. German uses the “present tense” for something that began in the past and is still true: “Ich habe seit drei Tagen Fieber” (\"I have had a fever for three days\"). Ask with “Seit wann?” or “Wie lange schon?”",
+    "text": [
+      "<table><caption>seit</caption><thead><tr><th>Listen</th><th>Question</th><th>Answer</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-seit-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Seit wann haben Sie das?</td><td>Seit drei Tagen.</td></tr><tr><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-seit-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Seit wann isst du kein Fleisch?</td><td>Seit einem Jahr.</td></tr><tr><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-seit-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Seit wann laufen Sie?</td><td>Seit zwei Monaten.</td></tr><tr><td><span data-audio=\"audio/lo-09-gesundheit-essen/u9_g-seit-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Seit wann tut der Rücken weh?</td><td>Seit dem Training am Montag.</td></tr></tbody></table>"
+    ]
+  }
+}

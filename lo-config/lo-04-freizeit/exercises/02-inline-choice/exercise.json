@@ -1,0 +1,34 @@
+{
+  "type": "inline-choice",
+  "title": "Choose the right form",
+  "content": {
+    "instructions": "Choose the correct form for each sentence.",
+    "items": [
+      {
+        "text": "Ich spiele nicht [*gern|lieber|am liebsten] Fußball."
+      },
+      {
+        "text": "Am Samstag [*gehe ich|ich gehe] ins Kino."
+      },
+      {
+        "text": "Du [*fährst|fahrst|fährt] gern Fahrrad."
+      },
+      {
+        "text": "Frau Schneider [*liest|lesen|lest] gern Krimis."
+      },
+      {
+        "text": "Ich [*stehe|steht|stehen] am Sonntag spät auf."
+      },
+      {
+        "text": "Kommst du [*mit|zu|an]?"
+      },
+      {
+        "text": "Wir wandern [*am|im|um] Wochenende."
+      },
+      {
+        "text": "Ich [*spiele|spielt|spielen] gern Tennis."
+      }
+    ],
+    "footnote": "A statement has the verb second; a yes/no question starts with the verb."
+  }
+}

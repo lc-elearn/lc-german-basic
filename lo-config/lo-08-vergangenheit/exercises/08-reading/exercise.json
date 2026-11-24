@@ -1,0 +1,40 @@
+{
+  "type": "reading",
+  "title": "Reading: a short life story",
+  "content": {
+    "instructions": "Read the text and answer the questions.",
+    "passage": "Anna Weiß ist 1998 in Leipzig geboren. Sie hat dort die Schule besucht. 2016 ist sie nach Berlin gezogen und hat Geschichte studiert. Danach hat sie ein Jahr in Hamburg gearbeitet. Seit September ist sie wieder in Berlin: Sie hat eine neue Stelle im Sprachenzentrum.",
+    "trueLabel": "Richtig",
+    "falseLabel": "Falsch",
+    "questions": [
+      {
+        "type": "radio",
+        "prompt": "Wo ist Anna geboren?",
+        "options": ["in Hamburg", "in Leipzig", "in Berlin"],
+        "answer": "in Leipzig"
+      },
+      {
+        "type": "true-false",
+        "prompt": "Anna hat in Berlin Geschichte studiert.",
+        "answer": true,
+        "explanation": "Sie ist nach Berlin gezogen und hat Geschichte studiert."
+      },
+      {
+        "type": "radio",
+        "prompt": "Was hat Anna nach dem Studium gemacht?",
+        "options": [
+          "Sie hat ein Jahr in Hamburg gearbeitet.",
+          "Sie ist nach Leipzig gezogen.",
+          "Sie hat Urlaub gemacht."
+        ],
+        "answer": "Sie hat ein Jahr in Hamburg gearbeitet."
+      },
+      {
+        "type": "true-false",
+        "prompt": "Anna arbeitet jetzt in Hamburg.",
+        "answer": false,
+        "explanation": "Seit September ist sie wieder in Berlin."
+      }
+    ]
+  }
+}

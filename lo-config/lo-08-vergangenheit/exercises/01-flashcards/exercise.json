@@ -1,0 +1,59 @@
+{
+  "type": "flashcards",
+  "title": "Flashcards: participles",
+  "content": {
+    "instructions": "Flip each card, listen and say the participle aloud. Mark the ones you know.",
+    "cards": [
+      {
+        "target": "gemacht",
+        "native": "made, done (machen)",
+        "audio": "audio/lo-08-vergangenheit/u8_v-pp-gemacht.mp3"
+      },
+      {
+        "target": "gearbeitet",
+        "native": "worked (arbeiten)",
+        "audio": "audio/lo-08-vergangenheit/u8_v-pp-gearbeitet.mp3"
+      },
+      {
+        "target": "gegessen",
+        "native": "eaten (essen)",
+        "audio": "audio/lo-08-vergangenheit/u8_v-pp-gegessen.mp3"
+      },
+      {
+        "target": "gesehen",
+        "native": "seen (sehen)",
+        "audio": "audio/lo-08-vergangenheit/u8_v-pp-gesehen.mp3"
+      },
+      {
+        "target": "besucht",
+        "native": "visited (besuchen)",
+        "audio": "audio/lo-08-vergangenheit/u8_v-pp-besucht.mp3"
+      },
+      {
+        "target": "gefahren",
+        "native": "gone (fahren)",
+        "audio": "audio/lo-08-vergangenheit/u8_v-psein-gefahren.mp3"
+      },
+      {
+        "target": "gegangen",
+        "native": "gone (gehen)",
+        "audio": "audio/lo-08-vergangenheit/u8_v-psein-gegangen.mp3"
+      },
+      {
+        "target": "geblieben",
+        "native": "stayed (bleiben)",
+        "audio": "audio/lo-08-vergangenheit/u8_v-psein-geblieben.mp3"
+      },
+      {
+        "target": "aufgestanden",
+        "native": "got up (aufstehen)",
+        "audio": "audio/lo-08-vergangenheit/u8_v-psein-aufgestanden.mp3"
+      },
+      {
+        "target": "gewesen",
+        "native": "been (sein)",
+        "audio": "audio/lo-08-vergangenheit/u8_v-psein-gewesen.mp3"
+      }
+    ]
+  }
+}

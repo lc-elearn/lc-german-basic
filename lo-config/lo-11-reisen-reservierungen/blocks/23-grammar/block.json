@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Grammar check 2: units 6 to 11",
+  "presentation": "card",
+  "content": {
+    "instructions": "A short summary of what you have learned in units 6 to 11, with one example each. Use it to check what you are unsure about, then try the last exercise.",
+    "text": [
+      "<table><caption>Units 6 to 11 at a glance</caption><thead><tr><th>Topic</th><th>Listen</th><th>Rule</th><th>Example</th></tr></thead><tbody><tr><th>imperative</th><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-check2-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Sie: infinitive + Sie. du: stem</td><td>Gehen Sie links. Nimm die Bahn.</td></tr><tr><th>modal verbs</th><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-check2-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>second verb at the end</td><td>Ich muss um sechs aufstehen.</td></tr><tr><th>Perfekt</th><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-check2-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>haben / sein + participle at the end</td><td>Ich bin nach Wien gefahren.</td></tr><tr><th>als</th><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-check2-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>a single event in the past; verb at the end</td><td>Als ich ein Kind war, wohnte ich in Graz.</td></tr><tr><th>seit + dative</th><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-check2-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>how long</td><td>Seit drei Tagen habe ich Fieber.</td></tr><tr><th>comparison</th><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-check2-06.mp3\" data-audio-label=\"Play row 6\"></span></td><td>-er + als; am -sten</td><td>Der Zug ist langsamer als das Flugzeug.</td></tr><tr><th>prepositions</th><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-check2-08.mp3\" data-audio-label=\"Play row 7\"></span></td><td>accusative, dative or both</td><td>mit dem Zug, für meinen Bruder, in den Zug</td></tr></tbody></table>"
+    ]
+  }
+}

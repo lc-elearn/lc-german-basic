@@ -1,0 +1,38 @@
+{
+  "type": "dictation",
+  "title": "Dictation: sentences",
+  "content": {
+    "instructions": "Listen and type the sentence. Punctuation is not marked, but umlauts are.",
+    "columns": {
+      "prompt": "Sentence",
+      "answer": "What you hear"
+    },
+    "rows": [
+      {
+        "prompt": "Sentence 1",
+        "answer": "Wir fahren nach Italien.",
+        "audio": "audio/lo-10-urlaubsplanung/u10_x-dikt-01.mp3"
+      },
+      {
+        "prompt": "Sentence 2",
+        "answer": "Wie wird das Wetter am Wochenende?",
+        "audio": "audio/lo-10-urlaubsplanung/u10_x-dikt-02.mp3"
+      },
+      {
+        "prompt": "Sentence 3",
+        "answer": "Das Hotel ist teurer als die Pension.",
+        "audio": "audio/lo-10-urlaubsplanung/u10_x-dikt-03.mp3"
+      },
+      {
+        "prompt": "Sentence 4",
+        "answer": "Wir fahren im Sommer ans Meer.",
+        "audio": "audio/lo-10-urlaubsplanung/u10_x-dikt-04.mp3"
+      },
+      {
+        "prompt": "Sentence 5",
+        "answer": "Ich möchte ein Doppelzimmer reservieren.",
+        "audio": "audio/lo-10-urlaubsplanung/u10_x-dikt-05.mp3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "man: one, people",
+  "presentation": "card",
+  "content": {
+    "instructions": "“man” is an impersonal subject, like English \"one\" or \"you\" or \"people\". It always takes the “er/sie/es” form of the verb: “In Österreich sagt man Semmel.” “Hier muss man Mülltrennung machen.” Do not confuse it with “Mann” (a man).",
+    "text": [
+      "<table><caption>man</caption><thead><tr><th>Listen</th><th>Example</th><th>Meaning</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-man-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>In Österreich sagt man Semmel.</td><td>In Austria they say Semmel.</td></tr><tr><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-man-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Hier trennt man den Müll.</td><td>Here you sort your rubbish.</td></tr><tr><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-man-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Wie sagt man das auf Deutsch?</td><td>How do you say that in German?</td></tr><tr><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-man-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Man lernt nie aus.</td><td>You never stop learning.</td></tr></tbody></table>"
+    ]
+  }
+}

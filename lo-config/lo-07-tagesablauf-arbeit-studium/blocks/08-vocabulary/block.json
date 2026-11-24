@@ -1,0 +1,74 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Time",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "Listen and repeat. Notice that “halb” counts towards the next hour: halb neun = 8:30.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "telling the time (<em>die Uhr, die Stunde, die Minute, halb, Viertel</em>);",
+        "words about timing (<em>früh, spät, pünktlich, der Termin</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "die Uhr",
+        "gloss": "clock, o'clock",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-zeit-uhr.mp3"
+      },
+      {
+        "term": "die Stunde",
+        "gloss": "hour",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-zeit-stunde.mp3"
+      },
+      {
+        "term": "die Minute",
+        "gloss": "minute",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-zeit-minute.mp3"
+      },
+      {
+        "term": "halb",
+        "gloss": "half",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-zeit-halb.mp3"
+      },
+      {
+        "term": "das Viertel",
+        "gloss": "quarter",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-zeit-viertel.mp3"
+      },
+      {
+        "term": "früh",
+        "gloss": "early",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-zeit-frueh.mp3"
+      },
+      {
+        "term": "spät",
+        "gloss": "late",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-zeit-spaet.mp3"
+      },
+      {
+        "term": "pünktlich",
+        "gloss": "on time",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-zeit-puenktlich.mp3"
+      },
+      {
+        "term": "der Termin",
+        "gloss": "appointment, deadline",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-zeit-termin.mp3"
+      },
+      {
+        "term": "Wie spät ist es?",
+        "gloss": "What time is it?",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-zeit-wie-spaet.mp3"
+      },
+      {
+        "term": "Um wie viel Uhr?",
+        "gloss": "At what time?",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-zeit-um-wie-viel.mp3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Where to? zu, nach, in, auf",
+  "presentation": "card",
+  "content": {
+    "instructions": "Use “zu” (+ dative) for people and places: “zum Bahnhof, zur Post”. Use “nach” for towns, countries and “nach Hause”. Use “in” and “auf” with the accusative for movement into a place: “in die Stadt, auf den Markt”. “zu dem” → “zum”, “zu der” → “zur”.",
+    "text": [
+      "<table><caption>Direction words</caption><thead><tr><th>Word</th><th>Listen</th><th>Use</th><th>Example</th></tr></thead><tbody><tr><th>zu</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-richtung-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>to a person, a building</td><td>Wie komme ich zum Bahnhof? Ich gehe zur Post.</td></tr><tr><th>nach</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-richtung-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>cities, countries, home</td><td>Ich fahre nach Berlin. Wir gehen nach Hause.</td></tr><tr><th>in + acc.</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-richtung-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>into a place</td><td>Ich gehe in die Stadt.</td></tr><tr><th>auf + acc.</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-richtung-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>onto a square, a market</td><td>Wir gehen auf den Weihnachtsmarkt.</td></tr></tbody></table>"
+    ]
+  }
+}

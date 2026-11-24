@@ -1,0 +1,113 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Months and days",
+  "presentation": "card",
+  "content": {
+    "instructions": "The week starts on Monday. Months and days are always capitalised.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "the months (<em>Januar … Dezember</em>);",
+        "the days of the week (<em>Montag … Sonntag</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "Januar",
+        "gloss": "January",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-monat-01-januar.mp3"
+      },
+      {
+        "term": "Februar",
+        "gloss": "February",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-monat-02-februar.mp3"
+      },
+      {
+        "term": "März",
+        "gloss": "March",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-monat-03-maerz.mp3"
+      },
+      {
+        "term": "April",
+        "gloss": "April",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-monat-04-april.mp3"
+      },
+      {
+        "term": "Mai",
+        "gloss": "May",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-monat-05-mai.mp3"
+      },
+      {
+        "term": "Juni",
+        "gloss": "June",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-monat-06-juni.mp3"
+      },
+      {
+        "term": "Juli",
+        "gloss": "July",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-monat-07-juli.mp3"
+      },
+      {
+        "term": "August",
+        "gloss": "August",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-monat-08-august.mp3"
+      },
+      {
+        "term": "September",
+        "gloss": "September",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-monat-09-september.mp3"
+      },
+      {
+        "term": "Oktober",
+        "gloss": "October",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-monat-10-oktober.mp3"
+      },
+      {
+        "term": "November",
+        "gloss": "November",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-monat-11-november.mp3"
+      },
+      {
+        "term": "Dezember",
+        "gloss": "December",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-monat-12-dezember.mp3"
+      },
+      {
+        "term": "Montag",
+        "gloss": "Monday",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-tag-1-montag.mp3"
+      },
+      {
+        "term": "Dienstag",
+        "gloss": "Tuesday",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-tag-2-dienstag.mp3"
+      },
+      {
+        "term": "Mittwoch",
+        "gloss": "Wednesday",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-tag-3-mittwoch.mp3"
+      },
+      {
+        "term": "Donnerstag",
+        "gloss": "Thursday",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-tag-4-donnerstag.mp3"
+      },
+      {
+        "term": "Freitag",
+        "gloss": "Friday",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-tag-5-freitag.mp3"
+      },
+      {
+        "term": "Samstag",
+        "gloss": "Saturday",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-tag-6-samstag.mp3"
+      },
+      {
+        "term": "Sonntag",
+        "gloss": "Sunday",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-kalender-tag-7-sonntag.mp3"
+      }
+    ]
+  }
+}

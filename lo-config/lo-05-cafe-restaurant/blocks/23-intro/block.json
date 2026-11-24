@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "Eating out in German-speaking countries has its own habits: how you pay, how much to tip and what a menu looks like. This section explains them."
+    ],
+    "image": {
+      "src": "images/lo-05-cafe-restaurant/sections/culture.webp",
+      "alt": ""
+    }
+  }
+}

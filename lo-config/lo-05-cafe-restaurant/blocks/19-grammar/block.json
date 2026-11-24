@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "es gibt",
+  "presentation": "card",
+  "content": {
+    "instructions": "“Es gibt” means \"there is\" or \"there are\". It is always followed by the accusative: “Es gibt einen Salat, eine Suppe, ein Eis”. Use it in questions as well: “Gibt es noch Karten?” The verb never changes.",
+    "text": [
+      "<table><caption>es gibt + accusative</caption><thead><tr><th>Listen</th><th>Question</th><th>Answer</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-es-gibt-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Was gibt es heute?</td><td>Es gibt einen Salat und eine Suppe.</td></tr><tr><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-es-gibt-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Gibt es Nüsse im Kuchen?</td><td>Ja, es gibt Nüsse im Schokoladenkuchen.</td></tr><tr><td><span data-audio=\"audio/lo-05-cafe-restaurant/u5_g-es-gibt-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Gibt es einen Tisch?</td><td>Nein, es gibt keinen Tisch mehr.</td></tr></tbody></table>"
+    ]
+  }
+}

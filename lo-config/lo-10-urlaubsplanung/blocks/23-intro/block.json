@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "Holidays, places to stay and travelling by train all work a little differently in German-speaking countries. This section explains the basics."
+    ],
+    "image": {
+      "src": "images/lo-10-urlaubsplanung/sections/culture.webp",
+      "alt": ""
+    }
+  }
+}

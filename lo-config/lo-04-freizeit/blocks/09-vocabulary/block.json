@@ -1,0 +1,70 @@
+{
+  "type": "vocabulary",
+  "options": {
+    "selfTest": true
+  },
+  "title": "Sport and clubs",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Notice which verb goes with which sport: spielen, machen or gehen.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "sport and clubs (<em>der Sport, der Verein, der Kurs</em>);",
+        "verbs for sport (<em>spielen, machen, gehen</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "der Sport",
+        "gloss": "sport",
+        "audio": "audio/lo-04-freizeit/u4_v-sport-sport.mp3"
+      },
+      {
+        "term": "der Verein",
+        "gloss": "club, society",
+        "audio": "audio/lo-04-freizeit/u4_v-sport-verein.mp3"
+      },
+      {
+        "term": "der Kurs",
+        "gloss": "course",
+        "audio": "audio/lo-04-freizeit/u4_v-sport-kurs.mp3"
+      },
+      {
+        "term": "Fußball spielen",
+        "gloss": "to play football",
+        "audio": "audio/lo-04-freizeit/u4_v-sport-fussball.mp3"
+      },
+      {
+        "term": "Tennis spielen",
+        "gloss": "to play tennis",
+        "audio": "audio/lo-04-freizeit/u4_v-sport-tennis.mp3"
+      },
+      {
+        "term": "schwimmen",
+        "gloss": "to swim",
+        "audio": "audio/lo-04-freizeit/u4_v-sport-schwimmen.mp3"
+      },
+      {
+        "term": "laufen",
+        "gloss": "to run",
+        "audio": "audio/lo-04-freizeit/u4_v-sport-laufen.mp3"
+      },
+      {
+        "term": "Fahrrad fahren",
+        "gloss": "to cycle",
+        "audio": "audio/lo-04-freizeit/u4_v-sport-fahrrad.mp3"
+      },
+      {
+        "term": "klettern",
+        "gloss": "to climb",
+        "audio": "audio/lo-04-freizeit/u4_v-sport-klettern.mp3"
+      },
+      {
+        "term": "Yoga machen",
+        "gloss": "to do yoga",
+        "audio": "audio/lo-04-freizeit/u4_v-sport-yoga.mp3"
+      }
+    ]
+  }
+}

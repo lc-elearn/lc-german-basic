@@ -1,0 +1,74 @@
+{
+  "type": "tabs",
+  "title": "Einkaufen – Shopping and presents",
+  "presentation": "card",
+  "content": {
+    "label": "Einkaufen – Shopping and presents",
+    "tabs": [
+      {
+        "label": "In der Buchhandlung",
+        "instructions": "A tutor buys a present in a bookshop. They use \"Sie\". What kind of books does her colleague like?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-06-wegbeschreibung/u6_c1-in-der-buchhandlung.mp3",
+            "label": "Listen to the dialogue: In der Buchhandlung"
+          },
+          "transcript": [
+            "<strong>Frau Keller:</strong> Guten Tag. Ich suche ein Geschenk für eine Kollegin. <em>Hello. I am looking for a present for a colleague.</em>",
+            "<strong>Frau Weber:</strong> Liest sie gern Krimis oder lieber Romane? <em>Does she like crime novels or prefer novels?</em>",
+            "<strong>Frau Keller:</strong> Sie liest gern Krimis. <em>She likes crime novels.</em>",
+            "<strong>Frau Weber:</strong> Dann ist dieses Buch gut. Es ist neu. <em>Then this book is good. It is new.</em>",
+            "<strong>Frau Keller:</strong> Das nehme ich. Was kostet es? <em>I will take that. What does it cost?</em>",
+            "<strong>Frau Weber:</strong> Achtzehn Euro neunzig. Möchten Sie es als Geschenk einpacken lassen? <em>Eighteen euros ninety. Would you like it gift-wrapped?</em>",
+            "<strong>Frau Keller:</strong> Ja, gern. <em>Yes, please.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>ein Geschenk für eine Kollegin</strong> – a present for a colleague</li><li><strong>Das nehme ich.</strong> – I will take that.</li><li><strong>als Geschenk einpacken</strong> – to gift-wrap</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Kleidungsgeschäft",
+        "instructions": "Two friends choose a scarf. They use \"du\". Which colour is cheaper?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-06-wegbeschreibung/u6_c2-im-kleidungsgeschaeft.mp3",
+            "label": "Listen to the dialogue: Im Kleidungsgeschäft"
+          },
+          "transcript": [
+            "<strong>Daniel:</strong> Ich suche einen Schal für meine Mutter. Wie findest du den blauen? <em>I am looking for a scarf for my mother. What do you think of the blue one?</em>",
+            "<strong>Elif:</strong> Ich finde ihn schön. Und den roten? <em>I think it is lovely. And the red one?</em>",
+            "<strong>Daniel:</strong> Den roten finde ich auch schön, aber er ist teuer. <em>I think the red one is lovely too, but it is expensive.</em>",
+            "<strong>Elif:</strong> Wie viel kostet er? <em>How much does it cost?</em>",
+            "<strong>Daniel:</strong> Fünfunddreißig Euro. Der blaue kostet zwanzig. <em>Thirty-five euros. The blue one costs twenty.</em>",
+            "<strong>Elif:</strong> Dann nimm den blauen! <em>Then take the blue one!</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Wie findest du den Schal?</strong> – What do you think of the scarf?</li><li><strong>Ich finde ihn schön.</strong> – I think it is lovely. (ihn = der Schal)</li><li><strong>teuer</strong> – expensive</li></ul>"
+        ]
+      },
+      {
+        "label": "Beim Bäcker",
+        "instructions": "A customer buys bread. They use \"Sie\". What does she buy besides bread?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-06-wegbeschreibung/u6_c3-beim-baecker.mp3",
+            "label": "Listen to the dialogue: Beim Bäcker"
+          },
+          "transcript": [
+            "<strong>Frau Weber:</strong> Guten Morgen! Was darf es sein? <em>Good morning! What can I get you?</em>",
+            "<strong>Frau Schneider:</strong> Ich möchte drei Brötchen und ein Brot, bitte. <em>I would like three bread rolls and a loaf of bread, please.</em>",
+            "<strong>Frau Weber:</strong> Gern. Sonst noch etwas? <em>Certainly. Anything else?</em>",
+            "<strong>Frau Schneider:</strong> Ja, noch ein Stück Käsekuchen. <em>Yes, a piece of cheesecake.</em>",
+            "<strong>Frau Weber:</strong> Das macht sechs Euro zwanzig. <em>That comes to €6.20.</em>",
+            "<strong>Frau Schneider:</strong> Bitte schön. Einen schönen Tag noch! <em>Here you are. Have a nice day!</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Was darf es sein?</strong> – What can I get you?</li><li><strong>Sonst noch etwas?</strong> – Anything else?</li><li><strong>der Käsekuchen</strong> – cheesecake</li></ul>"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "When? Time expressions",
+  "presentation": "card",
+  "content": {
+    "instructions": "Use “am” with days and parts of the day (“am Montag, am Abend, am Wochenende”), “im” with seasons and months (“im Sommer, im Mai”), and “jeden” for \"every\" (“jeden Tag, jeden Sonntag”). Frequency words sit after the verb: “Ich gehe oft ins Kino.”",
+    "text": [
+      "<table><caption>Time expressions</caption><thead><tr><th>Listen</th><th>Word</th><th>Use</th><th>Example</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-04-freizeit/u4_g-zeit-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>am</td><td>day, part of day</td><td>am Samstag, am Abend, am Wochenende</td></tr><tr><td><span data-audio=\"audio/lo-04-freizeit/u4_g-zeit-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>im</td><td>season, month</td><td>im Winter, im Mai</td></tr><tr><td><span data-audio=\"audio/lo-04-freizeit/u4_g-zeit-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>jeden</td><td>every</td><td>jeden Tag, jeden Sonntag</td></tr><tr><td><span data-audio=\"audio/lo-04-freizeit/u4_g-zeit-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>immer, oft, manchmal, selten, nie</td><td>how often</td><td>Ich gehe manchmal ins Theater.</td></tr></tbody></table>"
+    ]
+  }
+}

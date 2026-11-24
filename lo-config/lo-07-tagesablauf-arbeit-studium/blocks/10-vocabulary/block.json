@@ -1,0 +1,73 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Work",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Check the article of each noun.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "workplace words (<em>das Büro, die Stelle, der Kollege, der Chef</em>);",
+        "working time (<em>Vollzeit, Teilzeit, der Feierabend</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "die Arbeit",
+        "gloss": "work",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-arbeit-arbeit.mp3"
+      },
+      {
+        "term": "der Beruf",
+        "gloss": "profession",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-arbeit-beruf.mp3"
+      },
+      {
+        "term": "das Büro",
+        "gloss": "office",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-arbeit-buero.mp3"
+      },
+      {
+        "term": "die Stelle",
+        "gloss": "job, position",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-arbeit-stelle.mp3"
+      },
+      {
+        "term": "der Kollege / die Kollegin",
+        "gloss": "colleague",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-arbeit-kollege.mp3"
+      },
+      {
+        "term": "der Chef / die Chefin",
+        "gloss": "boss",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-arbeit-chef.mp3"
+      },
+      {
+        "term": "die Besprechung",
+        "gloss": "meeting",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-arbeit-besprechung.mp3"
+      },
+      {
+        "term": "der Feierabend",
+        "gloss": "end of the working day",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-arbeit-feierabend.mp3"
+      },
+      {
+        "term": "Vollzeit / Teilzeit",
+        "gloss": "full time / part time",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-arbeit-vollzeit.mp3"
+      },
+      {
+        "term": "die Mittagspause",
+        "gloss": "lunch break",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-arbeit-mittagspause.mp3"
+      },
+      {
+        "term": "der Arbeitstag",
+        "gloss": "working day",
+        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_v-arbeit-arbeitstag.mp3"
+      }
+    ]
+  }
+}

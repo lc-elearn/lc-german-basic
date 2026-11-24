@@ -1,0 +1,97 @@
+{
+  "type": "vocabulary",
+  "title": "Shopping and presents",
+  "presentation": "card",
+  "options": {
+    "selfTest": true,
+    "letterHeadings": true
+  },
+  "content": {
+    "instructions": "Listen and repeat. Check the article of each noun.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "presents and things to buy (<em>das Geschenk, der Schal, das Buch, die Kerze</em>);",
+        "shopping verbs (<em>suchen, finden, kaufen, schenken</em>)."
+      ]
+    },
+    "topics": [
+      {
+        "id": "presents",
+        "heading": "Presents and things to buy"
+      },
+      {
+        "id": "verbs",
+        "heading": "Shopping verbs"
+      }
+    ],
+    "items": [
+      {
+        "term": "das Geschenk",
+        "gloss": "present",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-kauf-geschenk.mp3",
+        "topic": "presents"
+      },
+      {
+        "term": "der Schal",
+        "gloss": "scarf",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-kauf-schal.mp3",
+        "topic": "presents"
+      },
+      {
+        "term": "das Buch",
+        "gloss": "book",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-kauf-buch.mp3",
+        "topic": "presents"
+      },
+      {
+        "term": "die Kerze",
+        "gloss": "candle",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-kauf-kerze.mp3",
+        "topic": "presents"
+      },
+      {
+        "term": "die Tasche",
+        "gloss": "bag",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-kauf-tasche.mp3",
+        "topic": "presents"
+      },
+      {
+        "term": "die Schokolade",
+        "gloss": "chocolate",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-kauf-schokolade.mp3",
+        "topic": "presents"
+      },
+      {
+        "term": "suchen",
+        "gloss": "to look for",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-kauf-suchen.mp3",
+        "topic": "verbs"
+      },
+      {
+        "term": "finden",
+        "gloss": "to find, to think of",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-kauf-finden.mp3",
+        "topic": "verbs"
+      },
+      {
+        "term": "kaufen",
+        "gloss": "to buy",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-kauf-kaufen.mp3",
+        "topic": "verbs"
+      },
+      {
+        "term": "schenken",
+        "gloss": "to give (as a present)",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-kauf-schenken.mp3",
+        "topic": "verbs"
+      },
+      {
+        "term": "teuer / billig",
+        "gloss": "expensive / cheap",
+        "audio": "audio/lo-06-wegbeschreibung/u6_v-kauf-teuer-billig.mp3",
+        "topic": "presents"
+      }
+    ]
+  }
+}

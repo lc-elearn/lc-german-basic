@@ -1,0 +1,38 @@
+{
+  "type": "typed-transform",
+  "title": "From the infinitive to the participle",
+  "content": {
+    "instructions": "Write the participle of each verb (without the helping verb).",
+    "columns": {
+      "prompt": "Infinitive",
+      "answer": "Participle"
+    },
+    "rows": [
+      {
+        "prompt": "machen",
+        "answer": "gemacht"
+      },
+      {
+        "prompt": "essen",
+        "answer": "gegessen"
+      },
+      {
+        "prompt": "aufstehen",
+        "answer": "aufgestanden"
+      },
+      {
+        "prompt": "besuchen",
+        "answer": "besucht"
+      },
+      {
+        "prompt": "studieren",
+        "answer": "studiert"
+      },
+      {
+        "prompt": "fahren",
+        "answer": "gefahren"
+      }
+    ],
+    "footnote": "Separable verbs put ge- in the middle; besuchen and studieren have no ge-."
+  }
+}

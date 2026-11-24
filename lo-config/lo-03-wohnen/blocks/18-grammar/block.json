@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "Who with? mit + dative",
+  "presentation": "card",
+  "content": {
+    "instructions": "Ask Mit wem wohnen Sie? and answer with mit and the dative. The possessive words mein-, dein-, kein- take the same endings as ein-: masculine and neuter -em, feminine -er, plural -en. In the dative plural the noun adds -n.",
+    "text": [
+      "<table><caption>mit + dative</caption><thead><tr><th>Gender</th><th>Listen</th><th>Example</th></tr></thead><tbody><tr><th>masculine</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-mit-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>mit meinem Mann</td></tr><tr><th>feminine</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-mit-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>mit meiner Frau</td></tr><tr><th>neuter</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-mit-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>mit meinem Kind</td></tr><tr><th>plural</th><td><span data-audio=\"audio/lo-03-wohnen/u3_g-mit-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>mit meinen Freunden, mit zwei Kindern</td></tr></tbody></table>",
+      "Mit wem wohnen Sie? – Ich wohne mit meiner Familie."
+    ]
+  }
+}

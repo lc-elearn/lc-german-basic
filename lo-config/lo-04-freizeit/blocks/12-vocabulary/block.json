@@ -1,0 +1,67 @@
+{
+  "type": "vocabulary",
+  "options": {
+    "selfTest": true
+  },
+  "title": "Separable verbs",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. In the infinitive the prefix is attached; in a sentence it goes to the end.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": ["separable verbs (<em>aufstehen, einkaufen, anrufen, mitkommen</em>)."]
+    },
+    "items": [
+      {
+        "term": "aufstehen",
+        "gloss": "to get up",
+        "audio": "audio/lo-04-freizeit/u4_v-tv-aufstehen.mp3"
+      },
+      {
+        "term": "einkaufen",
+        "gloss": "to shop",
+        "audio": "audio/lo-04-freizeit/u4_v-tv-einkaufen.mp3"
+      },
+      {
+        "term": "anrufen",
+        "gloss": "to phone",
+        "audio": "audio/lo-04-freizeit/u4_v-tv-anrufen.mp3"
+      },
+      {
+        "term": "mitkommen",
+        "gloss": "to come along",
+        "audio": "audio/lo-04-freizeit/u4_v-tv-mitkommen.mp3"
+      },
+      {
+        "term": "fernsehen",
+        "gloss": "to watch TV",
+        "audio": "audio/lo-04-freizeit/u4_v-tv-fernsehen.mp3"
+      },
+      {
+        "term": "ausgehen",
+        "gloss": "to go out",
+        "audio": "audio/lo-04-freizeit/u4_v-tv-ausgehen.mp3"
+      },
+      {
+        "term": "anfangen",
+        "gloss": "to begin",
+        "audio": "audio/lo-04-freizeit/u4_v-tv-anfangen.mp3"
+      },
+      {
+        "term": "aufräumen",
+        "gloss": "to tidy up",
+        "audio": "audio/lo-04-freizeit/u4_v-tv-aufraeumen.mp3"
+      },
+      {
+        "term": "abfahren",
+        "gloss": "to set off, to depart",
+        "audio": "audio/lo-04-freizeit/u4_v-tv-abfahren.mp3"
+      },
+      {
+        "term": "einladen",
+        "gloss": "to invite",
+        "audio": "audio/lo-04-freizeit/u4_v-tv-einladen.mp3"
+      }
+    ]
+  }
+}

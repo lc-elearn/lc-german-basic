@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "This unit needs a few patterns: the verbs <em>haben</em> and <em>sprechen</em>, <em>ein, mein, kein</em>, plural nouns, and ordinal numbers for dates."
+    ],
+    "image": {
+      "src": "images/lo-02-familie-sprachen-herkunft/sections/grammar.webp",
+      "alt": ""
+    }
+  }
+}

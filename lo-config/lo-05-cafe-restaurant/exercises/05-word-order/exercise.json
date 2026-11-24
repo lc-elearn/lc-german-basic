@@ -1,0 +1,9 @@
+{
+  "type": "word-order",
+  "title": "Word order: an order",
+  "content": {
+    "instructions": "Put the words in the right order to make a polite order.",
+    "words": ["Ich", "hätte", "gern", "einen", "Kaffee", "und", "ein", "Stück", "Kuchen."],
+    "audio": "audio/lo-05-cafe-restaurant/u5_x-wo-kaffee.mp3"
+  }
+}

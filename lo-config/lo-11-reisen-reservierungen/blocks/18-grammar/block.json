@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Both cases: an, auf, hinter, in, neben, über, unter, vor, zwischen",
+  "presentation": "card",
+  "content": {
+    "instructions": "Nine prepositions take the dative when they answer “Wo?” (position) and the accusative when they answer “Wohin?” (movement). “Ich sitze im Zug” (wo?), “Ich steige in den Zug” (wohin?).",
+    "text": [
+      "<table><caption>Wo? and wohin?</caption><thead><tr><th>Preposition</th><th>Listen</th><th>Wo? (dative)</th><th>Wohin? (accusative)</th></tr></thead><tbody><tr><th>in</th><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-wechsel-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Ich sitze im Zug.</td><td>Ich steige in den Zug.</td></tr><tr><th>auf</th><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-wechsel-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Die Tasche liegt auf dem Sitz.</td><td>Ich lege die Tasche auf den Sitz.</td></tr><tr><th>an</th><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-wechsel-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Wir warten am Gleis.</td><td>Wir gehen ans Gleis.</td></tr><tr><th>vor</th><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-wechsel-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Er steht vor dem Hotel.</td><td>Er geht vor das Hotel.</td></tr><tr><th>unter</th><td><span data-audio=\"audio/lo-11-reisen-reservierungen/u11_g-wechsel-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>Der Koffer ist unter dem Sitz.</td><td>Ich stelle den Koffer unter den Sitz.</td></tr></tbody></table>"
+    ]
+  }
+}

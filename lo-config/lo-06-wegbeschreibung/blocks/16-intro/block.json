@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "This unit needs a few patterns: the imperative for giving directions, <em>können</em>, prepositions of place and direction, the pronouns <em>ihn, sie, es</em> and <em>mit</em> for transport."
+    ],
+    "image": {
+      "src": "images/lo-06-wegbeschreibung/sections/grammar.webp",
+      "alt": ""
+    }
+  }
+}

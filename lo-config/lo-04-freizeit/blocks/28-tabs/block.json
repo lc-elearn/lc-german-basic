@@ -1,0 +1,31 @@
+{
+  "type": "tabs",
+  "title": "Einladen, zusagen, absagen",
+  "presentation": "card",
+  "content": {
+    "label": "Einladen, zusagen, absagen",
+    "tabs": [
+      {
+        "label": "Einladen",
+        "instructions": "These phrases invite someone. The first group is formal, the second informal.",
+        "text": [
+          "<ul><li><strong>Gehen Sie am Freitag mit ins Theater?</strong> – Are you coming to the theatre on Friday? (formal)</li><li><strong>Gehen wir am Samstag ins Kino?</strong> – Shall we go to the cinema on Saturday? (informal)</li><li><strong>Kommst du mit?</strong> – Are you coming? (informal)</li></ul>"
+        ]
+      },
+      {
+        "label": "Zusagen",
+        "instructions": "To say yes, keep it short and warm.",
+        "text": [
+          "<ul><li><strong>Ja, gern!</strong> – Yes, gladly!</li><li><strong>Das ist eine gute Idee.</strong> – That is a good idea.</li><li><strong>Prima, bis Samstag!</strong> – Great, see you on Saturday!</li></ul>"
+        ]
+      },
+      {
+        "label": "Absagen",
+        "instructions": "To say no politely, give a short reason and offer another day. Say “leider” or “tut mir leid” first.",
+        "text": [
+          "<ul><li><strong>Leider nicht, ich arbeite am Freitag.</strong> – Unfortunately not, I am working on Friday.</li><li><strong>Tut mir leid, ich habe keine Zeit.</strong> – I am sorry, I do not have time.</li><li><strong>Und am Sonntag?</strong> – And on Sunday?</li></ul>"
+        ]
+      }
+    ]
+  }
+}

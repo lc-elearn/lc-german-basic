@@ -1,0 +1,13 @@
+{
+  "type": "intro",
+  "presentation": "plain",
+  "content": {
+    "text": [
+      "Learn the words for languages, jobs, family, months and days. Listen to each list, then say the words aloud: the family tree and the calendar will help you remember them."
+    ],
+    "image": {
+      "src": "images/lo-02-familie-sprachen-herkunft/sections/vocabulary.webp",
+      "alt": ""
+    }
+  }
+}

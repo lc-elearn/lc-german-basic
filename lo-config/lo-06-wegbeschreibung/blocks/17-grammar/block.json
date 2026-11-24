@@ -1,0 +1,12 @@
+{
+  "type": "grammar",
+  "title": "The imperative: asking and telling",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "For “Sie” the imperative is the infinitive plus “Sie”, with the verb first: “Gehen Sie!” For “du” you drop “-st”: “Geh!” Verbs with e → i keep the change: “Nimm!” “Lies!” For “ihr” it is the “ihr” form without “ihr”: “Geht!” A separable prefix goes to the end: “Steigen Sie aus!”",
+    "text": [
+      "<table><caption>Imperative</caption><thead><tr><th>Infinitive</th><th>Listen</th><th>Sie</th><th>du</th><th>ihr</th></tr></thead><tbody><tr><th>gehen</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-imperativ-gehen.mp3\" data-audio-label=\"Play: gehen\"></span></td><td>Gehen Sie!</td><td>Geh!</td><td>Geht!</td></tr><tr><th>nehmen</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-imperativ-nehmen.mp3\" data-audio-label=\"Play: nehmen\"></span></td><td>Nehmen Sie!</td><td>Nimm!</td><td>Nehmt!</td></tr><tr><th>fahren</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-imperativ-fahren.mp3\" data-audio-label=\"Play: fahren\"></span></td><td>Fahren Sie!</td><td>Fahr!</td><td>Fahrt!</td></tr><tr><th>aussteigen</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-imperativ-aussteigen.mp3\" data-audio-label=\"Play: aussteigen\"></span></td><td>Steigen Sie aus!</td><td>Steig aus!</td><td>Steigt aus!</td></tr></tbody></table>"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Presenting: structure and phrases",
+  "presentation": "card",
+  "content": {
+    "instructions": "A short talk has three parts: an “Einleitung” (greet, give your name and topic, say what you will cover), a “Hauptteil” (two or three points joined by “zuerst, dann, außerdem”) and a “Schluss” (sum up, thank your listeners, invite questions). Speak slowly and clearly, and keep each slide short.",
+    "text": [
+      "<table><caption>A short talk</caption><thead><tr><th>Part</th><th>Listen</th><th>Phrases</th></tr></thead><tbody><tr><th>Einleitung</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-praesentation-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Guten Tag, mein Name ist … Ich möchte heute über … sprechen.</td></tr><tr><th>Hauptteil</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-praesentation-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Zuerst … Dann … Außerdem … Zum Beispiel …</td></tr><tr><th>Schluss</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-praesentation-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Das war meine Präsentation. Vielen Dank für Ihre Aufmerksamkeit.</td></tr><tr><th>Fragen</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-praesentation-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Gibt es Fragen? Haben Sie noch Fragen?</td></tr></tbody></table>"
+    ]
+  }
+}

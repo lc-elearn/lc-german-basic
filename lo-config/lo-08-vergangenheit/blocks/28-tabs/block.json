@@ -1,0 +1,24 @@
+{
+  "type": "tabs",
+  "title": "Der Lebenslauf",
+  "presentation": "card",
+  "content": {
+    "label": "Der Lebenslauf",
+    "tabs": [
+      {
+        "label": "Der Lebenslauf",
+        "instructions": "A German CV is a table with dates on the left and what you did on the right. It is arranged in time order, usually with the most recent entry first.",
+        "text": [
+          "<ul><li><strong>seit 2023</strong> – Mitarbeiterin im Sprachenzentrum, Berlin</li><li><strong>2020 bis 2023</strong> – Studium der Germanistik, Universität Leipzig</li><li><strong>2012 bis 2020</strong> – Schulbesuch in Leipzig</li><li><strong>geboren am 14. April 2001 in Leipzig</strong></li></ul>"
+        ]
+      },
+      {
+        "label": "Tipps",
+        "instructions": "A few conventions are different from British CVs.",
+        "text": [
+          "<ul><li>A photo was traditional, but is no longer required, and many employers prefer none.</li><li>Gaps in the history should be explained briefly.</li><li>The CV usually comes with a cover letter (<em>Anschreiben</em>) and copies of your certificates (<em>Zeugnisse</em>).</li></ul>"
+        ]
+      }
+    ]
+  }
+}

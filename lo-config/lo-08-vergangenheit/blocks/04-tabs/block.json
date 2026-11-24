@@ -1,0 +1,70 @@
+{
+  "type": "tabs",
+  "title": "Im Urlaub – On holiday",
+  "presentation": "card",
+  "content": {
+    "label": "Im Urlaub – On holiday",
+    "tabs": [
+      {
+        "label": "Nach dem Urlaub",
+        "instructions": "Alex tells Lena about a weekend trip to Hamburg. They use \"du\". Who stayed at home?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-08-vergangenheit/u8_b1-nach-dem-urlaub.mp3",
+            "label": "Listen to the dialogue: Nach dem Urlaub"
+          },
+          "transcript": [
+            "<strong>Lena:</strong> Wo bist du am Wochenende gewesen, Alex? <em>Where were you at the weekend, Alex?</em>",
+            "<strong>Alex:</strong> In Hamburg. Ich war zwei Tage dort. <em>In Hamburg. I was there for two days.</em>",
+            "<strong>Lena:</strong> Und was hast du gemacht? <em>And what did you do?</em>",
+            "<strong>Alex:</strong> Ich habe viel fotografiert und gut gegessen. Und du? <em>I took lots of photos and ate well. And you?</em>",
+            "<strong>Lena:</strong> Ich bin zu Hause geblieben und habe gelesen. <em>I stayed at home and read.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Wo bist du gewesen?</strong> – Where have you been?</li><li><strong>Ich war zwei Tage dort.</strong> – I was there for two days.</li><li><strong>zu Hause bleiben</strong> – to stay at home</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Zug",
+        "instructions": "Two colleagues talk about a late train. They use \"Sie\". How late was the train?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-08-vergangenheit/u8_b2-im-zug.mp3",
+            "label": "Listen to the dialogue: Im Zug"
+          },
+          "transcript": [
+            "<strong>Herr Vogel:</strong> Wann sind Sie gestern angekommen, Frau Keller? <em>When did you arrive yesterday, Mrs Keller?</em>",
+            "<strong>Frau Keller:</strong> Erst um dreiundzwanzig Uhr. Der Zug hatte eine Stunde Verspätung. <em>Only at 11 p.m. The train was an hour late.</em>",
+            "<strong>Herr Vogel:</strong> Oh, das tut mir leid. Haben Sie noch etwas gegessen? <em>Oh, I am sorry. Did you still eat something?</em>",
+            "<strong>Frau Keller:</strong> Ja, ich habe im Zug ein Sandwich gekauft. <em>Yes, I bought a sandwich on the train.</em>",
+            "<strong>Herr Vogel:</strong> Haben Sie wenigstens gut geschlafen? <em>Did you at least sleep well?</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>ankommen → ist angekommen</strong> – to arrive</li><li><strong>Der Zug hatte Verspätung.</strong> – The train was late.</li><li><strong>wenigstens</strong> – at least</li></ul>"
+        ]
+      },
+      {
+        "label": "Am Telefon",
+        "instructions": "Two friends talk on the phone after a trip. They use \"du\". What did they do today?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-08-vergangenheit/u8_b3-am-telefon.mp3",
+            "label": "Listen to the dialogue: Am Telefon"
+          },
+          "transcript": [
+            "<strong>Anna Becker:</strong> Hallo Lukas! Wir sind gut angekommen. <em>Hello Lukas! We arrived safely.</em>",
+            "<strong>Lukas:</strong> Wie war die Reise? <em>How was the journey?</em>",
+            "<strong>Anna Becker:</strong> Lang, aber schön. Wir haben im Zug geschlafen und gelesen. <em>Long, but nice. We slept and read on the train.</em>",
+            "<strong>Lukas:</strong> Habt ihr schon etwas gesehen? <em>Have you seen anything yet?</em>",
+            "<strong>Anna Becker:</strong> Ja, heute haben wir die Stadt besichtigt. <em>Yes, today we looked around the city.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Wir sind angekommen.</strong> – We have arrived.</li><li><strong>die Stadt besichtigen</strong> – to look around a town</li><li><strong>Habt ihr …?</strong> – Did you (plural) …?</li></ul>"
+        ]
+      }
+    ]
+  }
+}

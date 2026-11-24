@@ -1,0 +1,25 @@
+{
+  "type": "tabs",
+  "title": "Sounds",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Sounds in this unit",
+    "tabs": [
+      {
+        "label": "Stress in country names",
+        "instructions": "The stress in country names falls on different syllables, so listen for it: i-TA-li-en, SPA-ni-en, ÖS-ter-reich, FRANK-reich, die SCHWEIZ, die Tür-KEI.",
+        "text": [
+          "<table><caption>Country names</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>Italien</td><td>stress on TA</td><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_p-italien.mp3\" data-audio-label=\"Play: Italien\"></span></td></tr><tr><td>Spanien</td><td>stress on SPA</td><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_p-spanien.mp3\" data-audio-label=\"Play: Spanien\"></span></td></tr><tr><td>Österreich</td><td>stress on ÖS</td><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_p-oesterreich.mp3\" data-audio-label=\"Play: Österreich\"></span></td></tr><tr><td>die Schweiz</td><td>stress on SCHWEIZ</td><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_p-schweiz.mp3\" data-audio-label=\"Play: die Schweiz\"></span></td></tr><tr><td>die Türkei</td><td>stress on KEI</td><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_p-tuerkei.mp3\" data-audio-label=\"Play: die Türkei\"></span></td></tr><tr><td>Frankreich</td><td>stress on FRANK</td><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_p-frankreich.mp3\" data-audio-label=\"Play: Frankreich\"></span></td></tr></tbody></table>"
+        ]
+      },
+      {
+        "label": "The umlaut in comparatives",
+        "instructions": "Many one-syllable adjectives take an umlaut in the comparative: warm becomes wärmer, kalt becomes kälter. Round your lips for ö and ü.",
+        "text": [
+          "<table><caption>Umlaut in comparatives</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>warm – wärmer</td><td>a → ä</td><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_p-warm-waermer.mp3\" data-audio-label=\"Play: warm – wärmer\"></span></td></tr><tr><td>kalt – kälter</td><td>a → ä</td><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_p-kalt-kaelter.mp3\" data-audio-label=\"Play: kalt – kälter\"></span></td></tr><tr><td>lang – länger</td><td>a → ä</td><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_p-lang-laenger.mp3\" data-audio-label=\"Play: lang – länger\"></span></td></tr><tr><td>groß – größer</td><td>o → ö</td><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_p-gross-groesser.mp3\" data-audio-label=\"Play: groß – größer\"></span></td></tr><tr><td>jung – jünger</td><td>u → ü</td><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_p-jung-juenger.mp3\" data-audio-label=\"Play: jung – jünger\"></span></td></tr><tr><td>gut – besser</td><td>irregular</td><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_p-gut-besser.mp3\" data-audio-label=\"Play: gut – besser\"></span></td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}

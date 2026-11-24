@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Negation: kein and nicht",
+  "presentation": "card",
+  "content": {
+    "instructions": "To negate a noun with ein or no article, use kein. It takes the same endings as ein. Use nicht for verbs, adjectives and for nouns with a definite article.",
+    "text": [
+      "<table><caption>kein</caption><thead><tr><th>Word</th><th>Example</th></tr></thead><tbody><tr><td>kein / keine</td><td>Ich habe keinen Bruder. Ich habe keine Schwester. Ich habe kein Kind. Ich habe keine Geschwister. Ich spreche kein Italienisch.</td></tr><tr><td>nicht</td><td>Ich bin nicht verheiratet. Ich wohne nicht in Berlin.</td></tr></tbody></table>"
+    ]
+  }
+}

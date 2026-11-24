@@ -1,0 +1,68 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Doctor and pharmacy",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Check the article of each noun.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "the doctor and the surgery (<em>der Arzt, die Praxis, der Termin</em>);",
+        "medicine (<em>die Tablette, das Rezept, die Apotheke</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "der Arzt / die Ärztin",
+        "gloss": "doctor",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-arzt-arzt.mp3"
+      },
+      {
+        "term": "die Praxis",
+        "gloss": "surgery",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-arzt-praxis.mp3"
+      },
+      {
+        "term": "der Termin",
+        "gloss": "appointment",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-arzt-termin.mp3"
+      },
+      {
+        "term": "das Wartezimmer",
+        "gloss": "waiting room",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-arzt-wartezimmer.mp3"
+      },
+      {
+        "term": "das Rezept",
+        "gloss": "prescription",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-arzt-rezept.mp3"
+      },
+      {
+        "term": "die Tablette",
+        "gloss": "tablet",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-arzt-tablette.mp3"
+      },
+      {
+        "term": "das Medikament",
+        "gloss": "medicine",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-arzt-medikament.mp3"
+      },
+      {
+        "term": "die Apotheke",
+        "gloss": "pharmacy",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-arzt-apotheke.mp3"
+      },
+      {
+        "term": "die Krankenkasse",
+        "gloss": "health insurance",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-arzt-krankenkasse.mp3"
+      },
+      {
+        "term": "krankschreiben",
+        "gloss": "to sign off sick",
+        "audio": "audio/lo-09-gesundheit-essen/u9_v-arzt-krankschreiben.mp3"
+      }
+    ]
+  }
+}

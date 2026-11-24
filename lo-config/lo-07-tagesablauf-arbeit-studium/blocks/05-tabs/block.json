@@ -1,0 +1,71 @@
+{
+  "type": "tabs",
+  "title": "Arbeit und Studium – Work and study",
+  "presentation": "card",
+  "content": {
+    "label": "Arbeit und Studium – Work and study",
+    "tabs": [
+      {
+        "label": "Arbeitszeiten",
+        "instructions": "Two colleagues talk about working hours. They use \"Sie\". What does Mrs Schneider do at lunchtime?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-07-tagesablauf-arbeit-studium/u7_c1-arbeitszeiten.mp3",
+            "label": "Listen to the dialogue: Arbeitszeiten"
+          },
+          "transcript": [
+            "<strong>Herr Vogel:</strong> Arbeiten Sie Vollzeit, Frau Schneider? <em>Do you work full time, Mrs Schneider?</em>",
+            "<strong>Frau Schneider:</strong> Ja, von Montag bis Freitag, von acht bis sechzehn Uhr. <em>Yes, Monday to Friday, from eight to four.</em>",
+            "<strong>Herr Vogel:</strong> Und was machen Sie in der Mittagspause? <em>And what do you do in your lunch break?</em>",
+            "<strong>Frau Schneider:</strong> Ich gehe kurz in den Park oder esse in der Mensa. <em>I go to the park for a short walk or eat in the canteen.</em>",
+            "<strong>Herr Vogel:</strong> Das klingt gut. <em>That sounds good.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Vollzeit / Teilzeit</strong> – full time / part time</li><li><strong>von Montag bis Freitag</strong> – from Monday to Friday</li><li><strong>kurz</strong> – briefly</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Studium",
+        "instructions": "Two students talk about their courses. They use \"du\". When is Marco's exam?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-07-tagesablauf-arbeit-studium/u7_c2-im-studium.mp3",
+            "label": "Listen to the dialogue: Im Studium"
+          },
+          "transcript": [
+            "<strong>Sophie:</strong> Was studierst du, Marco? <em>What do you study, Marco?</em>",
+            "<strong>Marco:</strong> Chemie. Ich muss jeden Tag im Labor sein. <em>Chemistry. I have to be in the lab every day.</em>",
+            "<strong>Sophie:</strong> Hast du auch Vorlesungen? <em>Do you have lectures as well?</em>",
+            "<strong>Marco:</strong> Ja, drei pro Woche. Am Mittwoch habe ich eine Prüfung. <em>Yes, three a week. On Wednesday I have an exam.</em>",
+            "<strong>Sophie:</strong> Viel Erfolg! <em>Good luck!</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Ich muss im Labor sein.</strong> – I have to be in the lab.</li><li><strong>die Vorlesung</strong> – lecture</li><li><strong>Viel Erfolg!</strong> – Good luck!</li></ul>"
+        ]
+      },
+      {
+        "label": "Eine Einladung zum Gespräch",
+        "instructions": "An office phones a student about a job interview. They use \"Sie\". Where is the interview?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-07-tagesablauf-arbeit-studium/u7_c3-gespraech.mp3",
+            "label": "Listen to the dialogue: Eine Einladung zum Gespräch"
+          },
+          "transcript": [
+            "<strong>Frau Schneider:</strong> Guten Tag, Herr Rossi, hier ist das Sprachenzentrum. Wir möchten Sie zu einem Gespräch einladen. <em>Hello, Mr Rossi, this is the Language Centre. We would like to invite you for an interview.</em>",
+            "<strong>Marco:</strong> Wirklich? Wann denn? <em>Really? When?</em>",
+            "<strong>Frau Schneider:</strong> Können Sie am Donnerstag um vierzehn Uhr kommen? <em>Can you come on Thursday at two p.m.?</em>",
+            "<strong>Marco:</strong> Ja, das passt. Wo ist das? <em>Yes, that suits me. Where is it?</em>",
+            "<strong>Frau Schneider:</strong> Im Büro im ersten Stock, Zimmer zwölf. <em>In the office on the first floor, room twelve.</em>",
+            "<strong>Marco:</strong> Danke, bis Donnerstag! <em>Thank you, see you on Thursday!</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>zu einem Gespräch einladen</strong> – to invite for an interview</li><li><strong>um vierzehn Uhr</strong> – at 2 p.m. (24-hour)</li><li><strong>im ersten Stock</strong> – on the first floor</li></ul>"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "type": "tabs",
+  "title": "Feste und Glückwünsche – Festivals and congratulations",
+  "presentation": "card",
+  "content": {
+    "label": "Feste und Glückwünsche – Festivals and congratulations",
+    "tabs": [
+      {
+        "label": "Weihnachten",
+        "instructions": "A tutor asks a student about his favourite festival. They use \"Sie\". What do they eat in Bologna?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-12-laender-feste-praesentation/u12_c1-weihnachten.mp3",
+            "label": "Listen to the dialogue: Weihnachten"
+          },
+          "transcript": [
+            "<strong>Frau Keller:</strong> Welches Fest gefällt Ihnen am besten, Herr Rossi? <em>Which festival do you like best, Mr Rossi?</em>",
+            "<strong>Marco:</strong> Weihnachten. Dann treffe ich meine ganze Familie in Bologna. <em>Christmas. Then I meet my whole family in Bologna.</em>",
+            "<strong>Frau Keller:</strong> Und was essen Sie dort? <em>And what do you eat there?</em>",
+            "<strong>Marco:</strong> Es gibt immer Tortellini in Brühe. Das gehört zu Weihnachten. <em>There are always tortellini in broth. That is part of Christmas.</em>",
+            "<strong>Frau Keller:</strong> Das klingt sehr schön. Bei uns gibt es am Heiligabend oft Kartoffelsalat und Würstchen. <em>That sounds lovely. With us it is often potato salad and sausages on Christmas Eve.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>am besten</strong> – best of all</li><li><strong>der Heiligabend</strong> – Christmas Eve</li><li><strong>Das gehört dazu.</strong> – That is part of it.</li></ul>"
+        ]
+      },
+      {
+        "label": "Zum Geburtstag",
+        "instructions": "A guest arrives at a birthday party. They use \"du\". What is the present?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-12-laender-feste-praesentation/u12_c2-geburtstag.mp3",
+            "label": "Listen to the dialogue: Zum Geburtstag"
+          },
+          "transcript": [
+            "<strong>Lukas:</strong> Alles Gute zum Geburtstag, Anna! <em>Happy birthday, Anna!</em>",
+            "<strong>Anna Becker:</strong> Danke, Lukas! Komm rein! <em>Thank you, Lukas! Come in!</em>",
+            "<strong>Lukas:</strong> Das ist für dich. Ich hoffe, es gefällt dir. <em>This is for you. I hope you like it.</em>",
+            "<strong>Anna Becker:</strong> Oh, ein Buch! Vielen Dank, das ist aber nett. <em>Oh, a book! Thank you very much, that is really kind.</em>",
+            "<strong>Lukas:</strong> Gern geschehen. Wie alt bist du jetzt? <em>You are welcome. How old are you now?</em>",
+            "<strong>Anna Becker:</strong> Fünfundzwanzig. Und du? <em>Twenty-five. And you?</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Alles Gute zum Geburtstag!</strong> – Happy birthday!</li><li><strong>Das ist für dich.</strong> – This is for you.</li><li><strong>Es gefällt dir.</strong> – You like it.</li></ul>"
+        ]
+      },
+      {
+        "label": "Nach der Abschlussfeier",
+        "instructions": "Alex talks to Lena after the graduation celebration. They use \"du\". What will Alex do now?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-12-laender-feste-praesentation/u12_c3-abschlussfeier.mp3",
+            "label": "Listen to the dialogue: Nach der Abschlussfeier"
+          },
+          "transcript": [
+            "<strong>Lena:</strong> Herzlichen Glückwunsch zum Abschluss, Alex! <em>Congratulations on your degree, Alex!</em>",
+            "<strong>Alex:</strong> Vielen Dank, Lena! Danke auch für deine Hilfe. <em>Thank you very much, Lena! Thank you for your help too.</em>",
+            "<strong>Lena:</strong> Gern geschehen. Was machst du jetzt? <em>You are welcome. What are you doing now?</em>",
+            "<strong>Alex:</strong> Ich fahre zurück nach Cambridge. Ich habe dort eine neue Stelle bekommen. <em>I am going back to Cambridge. I have got a new job there.</em>",
+            "<strong>Lena:</strong> Das ist eine tolle Nachricht! Viel Erfolg! <em>That is great news! Good luck!</em>",
+            "<strong>Alex:</strong> Danke, das ist sehr lieb von dir. <em>Thank you, that is very kind of you.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Herzlichen Glückwunsch!</strong> – Congratulations!</li><li><strong>der Abschluss</strong> – degree</li><li><strong>Viel Erfolg!</strong> – Good luck!</li></ul>"
+        ]
+      }
+    ]
+  }
+}

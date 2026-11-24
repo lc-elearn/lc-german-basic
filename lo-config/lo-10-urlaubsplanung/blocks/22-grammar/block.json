@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Making suggestions",
+  "presentation": "card",
+  "content": {
+    "instructions": "There are several friendly ways to suggest something. “Wir könnten …” (we could), “Wie wäre es mit …?” (how about), “Wollen wir …?” (shall we) and the verb-first “Fahren wir nach Wien!” (let us go). Answer with “Gern”, “Das wäre schön” or “Das ist eine gute Idee”.",
+    "text": [
+      "<table><caption>Suggesting and answering</caption><thead><tr><th>Listen</th><th>Suggestion</th><th>Answer</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-vorschlag-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Wir könnten nach Prag fahren.</td><td>Das wäre toll!</td></tr><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-vorschlag-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Wie wäre es mit Portugal?</td><td>Das klingt gut.</td></tr><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-vorschlag-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Wollen wir ans Meer fahren?</td><td>Ja, gern.</td></tr><tr><td><span data-audio=\"audio/lo-10-urlaubsplanung/u10_g-vorschlag-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Fahren wir mit dem Zug!</td><td>Das ist eine gute Idee.</td></tr></tbody></table>"
+    ]
+  }
+}

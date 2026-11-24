@@ -1,0 +1,36 @@
+{
+  "type": "reading",
+  "title": "Reading: a departure board",
+  "content": {
+    "instructions": "Read the departure board and answer the questions.",
+    "passage": "Abfahrt Hauptbahnhof, Freitag\n14:05 RE 5 nach Köln, Gleis 7, +10 Minuten\n14:20 ICE 71 nach München, Gleis 3, pünktlich\n14:35 S 1 zum Flughafen, Gleis 12, pünktlich\n14:50 IC 2 nach Hamburg, Gleis 5, fällt aus",
+    "trueLabel": "Richtig",
+    "falseLabel": "Falsch",
+    "questions": [
+      {
+        "type": "radio",
+        "prompt": "Von welchem Gleis fährt der Zug nach Köln?",
+        "options": ["Gleis 3", "Gleis 5", "Gleis 7"],
+        "answer": "Gleis 7"
+      },
+      {
+        "type": "true-false",
+        "prompt": "Der Zug nach Hamburg fährt pünktlich.",
+        "answer": false,
+        "explanation": "Der Zug nach Hamburg fällt aus."
+      },
+      {
+        "type": "radio",
+        "prompt": "Welcher Zug fährt zum Flughafen?",
+        "options": ["RE 5", "ICE 71", "S 1"],
+        "answer": "S 1"
+      },
+      {
+        "type": "true-false",
+        "prompt": "Der Zug nach München hat Verspätung.",
+        "answer": false,
+        "explanation": "Der ICE 71 ist pünktlich."
+      }
+    ]
+  }
+}

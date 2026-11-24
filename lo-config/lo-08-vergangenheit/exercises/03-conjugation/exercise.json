@@ -1,0 +1,36 @@
+{
+  "type": "conjugation",
+  "title": "Conjugation: sein in the simple past",
+  "content": {
+    "instructions": "Write the correct form of sein in the simple past (war, …).",
+    "verb": "sein",
+    "tense": "Präteritum",
+    "answerMode": "typed",
+    "rows": [
+      {
+        "person": "ich",
+        "answer": "war"
+      },
+      {
+        "person": "du",
+        "answer": "warst"
+      },
+      {
+        "person": "er / sie / es",
+        "answer": "war"
+      },
+      {
+        "person": "wir",
+        "answer": "waren"
+      },
+      {
+        "person": "ihr",
+        "answer": "wart"
+      },
+      {
+        "person": "sie / Sie",
+        "answer": "waren"
+      }
+    ]
+  }
+}

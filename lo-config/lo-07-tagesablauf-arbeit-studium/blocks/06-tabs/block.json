@@ -1,0 +1,70 @@
+{
+  "type": "tabs",
+  "title": "Pläne",
+  "presentation": "card",
+  "content": {
+    "label": "Pläne",
+    "tabs": [
+      {
+        "label": "Im Café",
+        "instructions": "Two friends talk about the evening. They use \"du\". What does Anna do if it rains?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-07-tagesablauf-arbeit-studium/u7_d1-im-cafe.mp3",
+            "label": "Listen to the dialogue: Im Café"
+          },
+          "transcript": [
+            "<strong>Anna Becker:</strong> Was machst du am Abend? <em>What are you doing this evening?</em>",
+            "<strong>Elif:</strong> Wenn ich Zeit habe, gehe ich schwimmen. Und du? <em>If I have time, I go swimming. And you?</em>",
+            "<strong>Anna Becker:</strong> Wenn das Wetter gut ist, laufe ich im Park. <em>If the weather is good, I run in the park.</em>",
+            "<strong>Elif:</strong> Heute regnet es doch. <em>But it is raining today.</em>",
+            "<strong>Anna Becker:</strong> Dann bleibe ich zu Hause und lese. <em>Then I stay at home and read.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Wenn ich Zeit habe, …</strong> – If / when I have time, …</li><li><strong>Dann bleibe ich zu Hause.</strong> – Then I stay at home.</li><li><strong>es regnet</strong> – it is raining</li></ul>"
+        ]
+      },
+      {
+        "label": "Am Stammtisch",
+        "instructions": "Two regulars talk about training. They use \"Sie\". Why is Mrs Schneider going despite being tired?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-07-tagesablauf-arbeit-studium/u7_d2-am-stammtisch.mp3",
+            "label": "Listen to the dialogue: Am Stammtisch"
+          },
+          "transcript": [
+            "<strong>Peter Lange:</strong> Gehen Sie heute noch zum Training? <em>Are you still going to training today?</em>",
+            "<strong>Frau Schneider:</strong> Ja, obwohl ich müde bin. <em>Yes, although I am tired.</em>",
+            "<strong>Peter Lange:</strong> Obwohl es schon spät ist? <em>Although it is already late?</em>",
+            "<strong>Frau Schneider:</strong> Ja, das Training beginnt erst um neunzehn Uhr. <em>Yes, the training only begins at seven p.m.</em>",
+            "<strong>Peter Lange:</strong> Dann viel Spaß! <em>Then have fun!</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>obwohl ich müde bin</strong> – although I am tired</li><li><strong>erst um neunzehn Uhr</strong> – only at 7 p.m.</li><li><strong>Viel Spaß!</strong> – Have fun!</li></ul>"
+        ]
+      },
+      {
+        "label": "Nächstes Jahr",
+        "instructions": "Two friends talk about next year. They use \"du\". In which city will Lukas study?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-07-tagesablauf-arbeit-studium/u7_d3-naechstes-jahr.mp3",
+            "label": "Listen to the dialogue: Nächstes Jahr"
+          },
+          "transcript": [
+            "<strong>Daniel:</strong> Was machst du nächstes Jahr? <em>What are you doing next year?</em>",
+            "<strong>Lukas:</strong> Ich werde ein Semester in Wien studieren. <em>I am going to study a semester in Vienna.</em>",
+            "<strong>Daniel:</strong> Toll! Wirst du dort arbeiten? <em>Great! Will you work there?</em>",
+            "<strong>Lukas:</strong> Ja, ich werde auch in einem Café jobben. <em>Yes, I will also work in a café.</em>",
+            "<strong>Daniel:</strong> Dann besuche ich dich im Sommer. <em>Then I will visit you in the summer.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Ich werde … studieren.</strong> – I will study …</li><li><strong>nächstes Jahr</strong> – next year</li><li><strong>jobben</strong> – to work (casually, as a student)</li></ul>"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "tabs",
+  "title": "Sounds",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Sounds in this unit",
+    "tabs": [
+      {
+        "label": "w, v and pf",
+        "instructions": "w sounds like English v: Weg. v is usually like English f: Vogel, Verkehr. pf is a quick p plus f, said together: Pfand.",
+        "text": [
+          "<table><caption>w, v and pf</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>Weg</td><td>w = \"v\"</td><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_p-weg.mp3\" data-audio-label=\"Play: Weg\"></span></td></tr><tr><td>Weihnachten</td><td>w = \"v\"</td><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_p-weihnachten.mp3\" data-audio-label=\"Play: Weihnachten\"></span></td></tr><tr><td>Vogel</td><td>v = \"f\"</td><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_p-vogel.mp3\" data-audio-label=\"Play: Vogel\"></span></td></tr><tr><td>Verkehr</td><td>v = \"f\"</td><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_p-verkehr.mp3\" data-audio-label=\"Play: Verkehr\"></span></td></tr><tr><td>Pfand</td><td>pf = p + f</td><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_p-pfand.mp3\" data-audio-label=\"Play: Pfand\"></span></td></tr><tr><td>Apfel</td><td>pf = p + f</td><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_p-apfel.mp3\" data-audio-label=\"Play: Apfel\"></span></td></tr></tbody></table>"
+        ]
+      },
+      {
+        "label": "Question melody",
+        "instructions": "A question with a question word falls at the end: Wo ist die Post? A yes/no question rises at the end: Ist das weit?",
+        "text": [
+          "<table><caption>Melody of questions</caption><thead><tr><th>Example</th><th>How to say it</th><th>Listen</th></tr></thead><tbody><tr><td>Wo ist die Post?</td><td>falling</td><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_p-wo-ist-die-post.mp3\" data-audio-label=\"Play: Wo ist die Post?\"></span></td></tr><tr><td>Wie komme ich zum Bahnhof?</td><td>falling</td><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_p-wie-komme-ich.mp3\" data-audio-label=\"Play: Wie komme ich zum Bahnhof?\"></span></td></tr><tr><td>Wie weit ist es?</td><td>falling</td><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_p-wie-weit.mp3\" data-audio-label=\"Play: Wie weit ist es?\"></span></td></tr><tr><td>Ist das weit?</td><td>rising</td><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_p-ist-das-weit.mp3\" data-audio-label=\"Play: Ist das weit?\"></span></td></tr><tr><td>Können Sie mir helfen?</td><td>rising</td><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_p-koennen-sie.mp3\" data-audio-label=\"Play: Können Sie mir helfen?\"></span></td></tr><tr><td>Gehen wir zu Fuß?</td><td>rising</td><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_p-gehen-wir.mp3\" data-audio-label=\"Play: Gehen wir zu Fuß?\"></span></td></tr></tbody></table>"
+        ]
+      }
+    ]
+  }
+}

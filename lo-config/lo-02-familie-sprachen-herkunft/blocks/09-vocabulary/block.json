@@ -1,0 +1,75 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Occupations",
+  "presentation": "card",
+  "content": {
+    "instructions": "Most occupations have a male and a female form: add -in for a woman (Lehrer → Lehrerin). Some also take an umlaut (Arzt → Ärztin).",
+    "summary": {
+      "lead": "You will learn:",
+      "items": ["twelve common occupations, male and female (<em>Lehrer / Lehrerin</em>)."]
+    },
+    "items": [
+      {
+        "term": "Student / Studentin",
+        "gloss": "student (m / f)",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-student.mp3"
+      },
+      {
+        "term": "Lehrer / Lehrerin",
+        "gloss": "teacher",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-lehrer.mp3"
+      },
+      {
+        "term": "Arzt / Ärztin",
+        "gloss": "doctor",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-arzt.mp3"
+      },
+      {
+        "term": "Ingenieur / Ingenieurin",
+        "gloss": "engineer",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-ingenieur.mp3"
+      },
+      {
+        "term": "Krankenpfleger / Krankenpflegerin",
+        "gloss": "nurse",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-krankenpfleger.mp3"
+      },
+      {
+        "term": "Verkäufer / Verkäuferin",
+        "gloss": "shop assistant",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-verkaeufer.mp3"
+      },
+      {
+        "term": "Kellner / Kellnerin",
+        "gloss": "waiter / waitress",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-kellner.mp3"
+      },
+      {
+        "term": "Informatiker / Informatikerin",
+        "gloss": "computer scientist",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-informatiker.mp3"
+      },
+      {
+        "term": "Journalist / Journalistin",
+        "gloss": "journalist",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-journalist.mp3"
+      },
+      {
+        "term": "Koch / Köchin",
+        "gloss": "cook / chef",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-koch.mp3"
+      },
+      {
+        "term": "Rechtsanwalt / Rechtsanwältin",
+        "gloss": "lawyer",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-rechtsanwalt.mp3"
+      },
+      {
+        "term": "Rentner / Rentnerin",
+        "gloss": "pensioner",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-rentner.mp3"
+      }
+    ]
+  }
+}

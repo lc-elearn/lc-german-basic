@@ -1,0 +1,29 @@
+{
+  "type": "phrase-reorder",
+  "title": "Put the conversation in order",
+  "content": {
+    "instructions": "Alex is lost and asks Max for the post office. Drag the lines into the right order.",
+    "rows": [
+      {
+        "prompt": "Alex",
+        "phrase": "Entschuldigung, wo ist die Post, bitte?"
+      },
+      {
+        "prompt": "Max",
+        "phrase": "Die Post? Geh hier geradeaus und dann die zweite Straße links."
+      },
+      {
+        "prompt": "Alex",
+        "phrase": "Ist das weit?"
+      },
+      {
+        "prompt": "Max",
+        "phrase": "Nein, nur fünf Minuten zu Fuß."
+      },
+      {
+        "prompt": "Alex",
+        "phrase": "Vielen Dank!"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "reading",
+  "title": "Reading: a trip through Germany",
+  "content": {
+    "instructions": "Read the blog post and answer the questions.",
+    "passage": "Wir sind zwei Wochen durch Deutschland gereist. In Berlin haben wir viele Museen besucht. Die Stadt ist groß, aber sehr grün. In Leipzig haben wir ein Konzert gehört, und in München sind wir auf einen Berg gestiegen. Am besten hat uns München gefallen. Die Stadt liegt so nah an den Bergen. Mit dem Zug war die Reise einfach und bequem.",
+    "trueLabel": "Richtig",
+    "falseLabel": "Falsch",
+    "questions": [
+      {
+        "type": "radio",
+        "prompt": "Wie lange waren sie unterwegs?",
+        "options": ["eine Woche", "zwei Wochen", "drei Wochen"],
+        "answer": "zwei Wochen"
+      },
+      {
+        "type": "true-false",
+        "prompt": "In Leipzig haben sie ein Museum besucht.",
+        "answer": false,
+        "explanation": "In Leipzig haben sie ein Konzert gehört."
+      },
+      {
+        "type": "radio",
+        "prompt": "Welche Stadt hat ihnen am besten gefallen?",
+        "options": ["Berlin", "Leipzig", "München"],
+        "answer": "München"
+      },
+      {
+        "type": "true-false",
+        "prompt": "Sie sind mit dem Auto gefahren.",
+        "answer": false,
+        "explanation": "Sie sind mit dem Zug gefahren."
+      }
+    ]
+  }
+}

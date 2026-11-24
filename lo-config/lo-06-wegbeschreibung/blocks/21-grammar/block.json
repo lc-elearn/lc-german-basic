@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "The accusative pronouns: ihn, sie, es",
+  "presentation": "card",
+  "content": {
+    "instructions": "Instead of repeating a noun you can use a pronoun. In the accusative, “er” becomes “ihn”; “sie” and “es” stay the same. The pronoun has the gender of the noun it replaces.",
+    "text": [
+      "<table><caption>Pronouns for things</caption><thead><tr><th>Noun</th><th>Listen</th><th>Question</th><th>Answer</th></tr></thead><tbody><tr><th>der Schal</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-pronomen-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Wie findest du den Schal?</td><td>Ich finde <strong>ihn</strong> schön.</td></tr><tr><th>die Kerze</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-pronomen-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Wie findest du die Kerze?</td><td>Ich finde <strong>sie</strong> schön.</td></tr><tr><th>das Buch</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-pronomen-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Wie findest du das Buch?</td><td>Ich finde <strong>es</strong> gut.</td></tr><tr><th>die Schuhe</th><td><span data-audio=\"audio/lo-06-wegbeschreibung/u6_g-pronomen-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Wie findest du die Schuhe?</td><td>Ich finde <strong>sie</strong> teuer.</td></tr></tbody></table>"
+    ]
+  }
+}

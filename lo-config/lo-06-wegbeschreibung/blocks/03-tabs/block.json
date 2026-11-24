@@ -1,0 +1,72 @@
+{
+  "type": "tabs",
+  "title": "Wo ist …? – Asking the way",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Wo ist …? – Asking the way",
+    "tabs": [
+      {
+        "label": "Am Bahnhof",
+        "instructions": "Alex is lost near the station and asks Max, who knows the way, for the post office. They use \"du\". How far is it?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-06-wegbeschreibung/u6_a1-am-bahnhof.mp3",
+            "label": "Listen to the dialogue: Am Bahnhof"
+          },
+          "transcript": [
+            "<strong>Alex:</strong> Sag mal, wo ist hier die Post? <em>Tell me, where is the post office around here?</em>",
+            "<strong>Max:</strong> Die Post? Geh hier geradeaus und dann die zweite Straße links. <em>The post office? Go straight ahead here and then take the second street on the left.</em>",
+            "<strong>Alex:</strong> Ist das weit? <em>Is that far?</em>",
+            "<strong>Max:</strong> Nein, nur fünf Minuten zu Fuß. <em>No, only five minutes on foot.</em>",
+            "<strong>Alex:</strong> Vielen Dank! <em>Thank you very much!</em>",
+            "<strong>Max:</strong> Gern geschehen. <em>You are welcome.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Wo ist die Post?</strong> – Where is the post office?</li><li><strong>geradeaus / links / rechts</strong> – straight on / left / right</li><li><strong>zu Fuß</strong> – on foot</li></ul>"
+        ]
+      },
+      {
+        "label": "Auf dem Campus",
+        "instructions": "A new student asks a friend for the library. They use \"du\". What is it next to?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-06-wegbeschreibung/u6_a2-auf-dem-campus.mp3",
+            "label": "Listen to the dialogue: Auf dem Campus"
+          },
+          "transcript": [
+            "<strong>Lukas:</strong> Entschuldigung, wo ist die Bibliothek? <em>Excuse me, where is the library?</em>",
+            "<strong>Anna Becker:</strong> Geh hier rechts, dann siehst du sie schon. Sie ist neben der Mensa. <em>Go right here, then you will see it. It is next to the canteen.</em>",
+            "<strong>Lukas:</strong> Neben der Mensa? Danke! <em>Next to the canteen? Thanks!</em>",
+            "<strong>Anna Becker:</strong> Ich gehe auch dorthin. Komm mit! <em>I am going there too. Come along!</em>",
+            "<strong>Lukas:</strong> Super, danke! <em>Great, thanks!</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Geh hier rechts!</strong> – Go right here! (informal imperative)</li><li><strong>neben der Mensa</strong> – next to the canteen</li><li><strong>Komm mit!</strong> – Come along!</li></ul>"
+        ]
+      },
+      {
+        "label": "Am Telefon",
+        "instructions": "A guest phones to ask how to get to the Language Centre. They use \"Sie\". Which tram line does he take?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-06-wegbeschreibung/u6_a3-am-telefon.mp3",
+            "label": "Listen to the dialogue: Am Telefon"
+          },
+          "transcript": [
+            "<strong>Peter Lange:</strong> Guten Tag, hier ist Peter Lange. Wie komme ich zu Ihnen? <em>Hello, this is Peter Lange. How do I get to you?</em>",
+            "<strong>Frau Schneider:</strong> Nehmen Sie am Bahnhof die Linie 5 und steigen Sie an der Haltestelle Universität aus. <em>At the station take line 5 and get off at the University stop.</em>",
+            "<strong>Peter Lange:</strong> Und dann? <em>And then?</em>",
+            "<strong>Frau Schneider:</strong> Gehen Sie rechts. Das Sprachenzentrum ist gegenüber der Bibliothek. <em>Go right. The Language Centre is opposite the library.</em>",
+            "<strong>Peter Lange:</strong> Danke, bis gleich! <em>Thank you, see you soon!</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Wie komme ich zu Ihnen?</strong> – How do I get to you?</li><li><strong>aussteigen → steigen Sie aus</strong> – to get off</li><li><strong>gegenüber der Bibliothek</strong> – opposite the library</li></ul>"
+        ]
+      }
+    ]
+  }
+}

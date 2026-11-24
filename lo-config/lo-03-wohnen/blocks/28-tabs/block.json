@@ -1,0 +1,24 @@
+{
+  "type": "tabs",
+  "title": "Reading a flat advert",
+  "presentation": "card",
+  "content": {
+    "label": "Reading a flat advert",
+    "tabs": [
+      {
+        "label": "Die Anzeige",
+        "instructions": "A typical advert for a flat in Leipzig. Read it, then look at the abbreviations.",
+        "text": [
+          "<strong>Leipzig-Zentrum:</strong> helle 2-Zimmer-Wohnung, 55 m², 3. Stock, mit Balkon und Einbauküche. Kaltmiete 620 €, Nebenkosten 140 €. Frei ab 1. März. Haustiere nach Absprache."
+        ]
+      },
+      {
+        "label": "Abkürzungen",
+        "instructions": "Adverts use short forms. These are the common ones.",
+        "text": [
+          "<ul><li><strong>Zi.</strong> – Zimmer – room</li><li><strong>Whg.</strong> – Wohnung – flat</li><li><strong>EBK</strong> – Einbauküche – fitted kitchen</li><li><strong>KM</strong> – Kaltmiete – rent without extra charges</li><li><strong>NK</strong> – Nebenkosten – service charges</li><li><strong>m²</strong> – Quadratmeter – square metres</li></ul>"
+        ]
+      }
+    ]
+  }
+}

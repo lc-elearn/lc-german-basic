@@ -1,0 +1,28 @@
+{
+  "type": "inline-choice",
+  "title": "Prepositions and articles: choose the form",
+  "content": {
+    "instructions": "Choose the correct form for each sentence.",
+    "items": [
+      {
+        "text": "Ich wohne [*in der|im|in dem] Stadt."
+      },
+      {
+        "text": "Er wohnt nicht weit [*vom|von der|von den] Bahnhof."
+      },
+      {
+        "text": "Ich wohne [*mit meinem|mit meiner|mit mein] Mann in einer Wohnung."
+      },
+      {
+        "text": "Ich wohne bei [*meiner|meinem|meine] Schwester."
+      },
+      {
+        "text": "Die Lampe steht auf [*dem|den] Tisch."
+      },
+      {
+        "text": "Das Sofa steht [*an der|an die] Wand."
+      }
+    ],
+    "footnote": "Remember: wo? takes the dative."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Problems and help",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. These are the words you need when something goes wrong.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "problems (<em>kaputt, verloren, vergessen, die Verspätung</em>);",
+        "complaints and apologies (<em>Das tut mir leid, die Beschwerde</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "kaputt",
+        "gloss": "broken",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-problem-kaputt.mp3"
+      },
+      {
+        "term": "funktionieren",
+        "gloss": "to work (a machine)",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-problem-funktionieren.mp3"
+      },
+      {
+        "term": "verloren",
+        "gloss": "lost",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-problem-verloren.mp3"
+      },
+      {
+        "term": "vergessen",
+        "gloss": "to forget, to leave behind",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-problem-vergessen.mp3"
+      },
+      {
+        "term": "das Fundbüro",
+        "gloss": "lost property office",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-problem-fundbuero.mp3"
+      },
+      {
+        "term": "die Beschwerde",
+        "gloss": "complaint",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-problem-beschwerde.mp3"
+      },
+      {
+        "term": "Das tut mir leid.",
+        "gloss": "I am sorry.",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-problem-leid.mp3"
+      },
+      {
+        "term": "Können Sie mir helfen?",
+        "gloss": "Can you help me?",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-problem-helfen.mp3"
+      },
+      {
+        "term": "Ich brauche Hilfe.",
+        "gloss": "I need help.",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_v-problem-hilfe.mp3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "tabs",
+  "title": "Ein Wort, drei Länder",
+  "presentation": "card",
+  "content": {
+    "label": "Ein Wort, drei Länder",
+    "tabs": [
+      {
+        "label": "Alltag",
+        "instructions": "The same thing is often called something different.",
+        "text": [
+          "<ul><li><strong>das Brötchen (D) / die Semmel (A) / das Brötli (CH)</strong> – bread roll</li><li><strong>die Tomate (D) / der Paradeiser (A)</strong> – tomato</li><li><strong>das Fahrrad (D) / das Velo (CH)</strong> – bicycle</li><li><strong>der Januar (D) / der Jänner (A)</strong> – January</li></ul>"
+        ]
+      },
+      {
+        "label": "Grüße",
+        "instructions": "Greetings can tell you where someone is from.",
+        "text": [
+          "<ul><li><strong>Moin</strong> – north Germany, all day</li><li><strong>Servus</strong> – Austria and Bavaria, hello and goodbye</li><li><strong>Grüezi</strong> – Switzerland, hello (formal)</li><li><strong>Grüß Gott</strong> – south Germany and Austria, hello</li></ul>"
+        ]
+      }
+    ]
+  }
+}

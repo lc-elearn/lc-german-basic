@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Order of information in a sentence",
+  "presentation": "card",
+  "content": {
+    "instructions": "After the verb, German usually follows a fixed order: “wann?” (time), “wie?” (manner), “wohin?” or “wo?” (place). Time comes before place: “Ich fahre um acht mit dem Zug nach Berlin.” You can also move the time to the front: “Um acht fahre ich mit dem Zug nach Berlin.” Two patterns in the dialogues come before you study them: after “weil”, “obwohl” and “wenn” the verb goes to the end (“…, weil ich im Labor früh anfange”; “Wenn ich Zeit habe, gehe ich schwimmen”), and “werden” + infinitive talks about the future (“Ich werde ein Semester in Wien studieren”).",
+    "text": [
+      "<table><caption>Time, manner, place</caption><thead><tr><th>Listen</th><th>Subject + verb</th><th>Time</th><th>Manner</th><th>Place</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_g-reihenfolge-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Ich fahre</td><td>um acht</td><td>mit dem Zug</td><td>nach Berlin.</td></tr><tr><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_g-reihenfolge-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Wir gehen</td><td>am Samstag</td><td>zusammen</td><td>ins Kino.</td></tr><tr><td><span data-audio=\"audio/lo-07-tagesablauf-arbeit-studium/u7_g-reihenfolge-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Sie arbeitet</td><td>von acht bis vier</td><td>–</td><td>im Büro.</td></tr></tbody></table>"
+    ]
+  }
+}

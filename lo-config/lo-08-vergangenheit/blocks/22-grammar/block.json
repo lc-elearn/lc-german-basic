@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "als, wenn and wann",
+  "presentation": "card",
+  "content": {
+    "instructions": "“als” introduces a single event or a period in the past: “Als ich ein Kind war, …” “wenn” is for repeated events and for the present and future: “Wenn ich Zeit habe, …” “wann” is only a question word: “Wann bist du gekommen?” After “als” and “wenn” the verb goes to the end of the clause.",
+    "text": [
+      "<table><caption>als, wenn, wann</caption><thead><tr><th>Word</th><th>Listen</th><th>Use</th><th>Example</th></tr></thead><tbody><tr><th>als</th><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-als-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>one time in the past</td><td>Als ich achtzehn war, bin ich nach Berlin gekommen.</td></tr><tr><th>wenn</th><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-als-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>repeated; present, future</td><td>Wenn ich Zeit habe, gehe ich schwimmen.</td></tr><tr><th>wann</th><td><span data-audio=\"audio/lo-08-vergangenheit/u8_g-als-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>question word</td><td>Wann bist du angekommen?</td></tr></tbody></table>"
+    ]
+  }
+}

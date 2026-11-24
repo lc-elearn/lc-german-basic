@@ -1,0 +1,38 @@
+{
+  "type": "dictation",
+  "title": "Dictation: sentences",
+  "content": {
+    "instructions": "Listen and type the sentence. Punctuation is not marked, but umlauts are.",
+    "columns": {
+      "prompt": "Sentence",
+      "answer": "What you hear"
+    },
+    "rows": [
+      {
+        "prompt": "Sentence 1",
+        "answer": "Eine Fahrkarte nach Hamburg, bitte.",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_x-dikt-01.mp3"
+      },
+      {
+        "prompt": "Sentence 2",
+        "answer": "Der Zug hat zehn Minuten Verspätung.",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_x-dikt-02.mp3"
+      },
+      {
+        "prompt": "Sentence 3",
+        "answer": "Ich habe ein Zimmer reserviert.",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_x-dikt-03.mp3"
+      },
+      {
+        "prompt": "Sentence 4",
+        "answer": "Wissen Sie, wann der Zug fährt?",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_x-dikt-04.mp3"
+      },
+      {
+        "prompt": "Sentence 5",
+        "answer": "Die Dusche funktioniert nicht.",
+        "audio": "audio/lo-11-reisen-reservierungen/u11_x-dikt-05.mp3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "type": "flashcards",
+  "title": "Flashcards: jobs and family",
+  "content": {
+    "instructions": "Flip each card, listen and say the word aloud.",
+    "cards": [
+      {
+        "target": "Student / Studentin",
+        "native": "student (m / f)",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-student.mp3",
+        "image": "images/lo-02-familie-sprachen-herkunft/figures/beruf-student.webp"
+      },
+      {
+        "target": "Lehrer / Lehrerin",
+        "native": "teacher",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-lehrer.mp3",
+        "image": "images/lo-02-familie-sprachen-herkunft/figures/beruf-lehrer.webp"
+      },
+      {
+        "target": "Arzt / Ärztin",
+        "native": "doctor",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-arzt.mp3",
+        "image": "images/lo-02-familie-sprachen-herkunft/figures/beruf-arzt.webp"
+      },
+      {
+        "target": "Ingenieur / Ingenieurin",
+        "native": "engineer",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-ingenieur.mp3",
+        "image": "images/lo-02-familie-sprachen-herkunft/figures/beruf-ingenieur.webp"
+      },
+      {
+        "target": "Verkäufer / Verkäuferin",
+        "native": "shop assistant",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-verkaeufer.mp3",
+        "image": "images/lo-02-familie-sprachen-herkunft/figures/beruf-verkaeufer.webp"
+      },
+      {
+        "target": "Kellner / Kellnerin",
+        "native": "waiter / waitress",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-kellner.mp3",
+        "image": "images/lo-02-familie-sprachen-herkunft/figures/beruf-kellner.webp"
+      },
+      {
+        "target": "die Mutter",
+        "native": "mother",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-familie-mutter.mp3",
+        "image": "images/lo-02-familie-sprachen-herkunft/figures/familie-mutter.webp"
+      },
+      {
+        "target": "der Vater",
+        "native": "father",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-familie-vater.mp3",
+        "image": "images/lo-02-familie-sprachen-herkunft/figures/familie-vater.webp"
+      },
+      {
+        "target": "der Bruder",
+        "native": "brother",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-familie-bruder.mp3",
+        "image": "images/lo-02-familie-sprachen-herkunft/figures/familie-bruder.webp"
+      },
+      {
+        "target": "die Schwester",
+        "native": "sister",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-familie-schwester.mp3",
+        "image": "images/lo-02-familie-sprachen-herkunft/figures/familie-schwester.webp"
+      },
+      {
+        "target": "der Sohn",
+        "native": "son",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-familie-sohn.mp3",
+        "image": "images/lo-02-familie-sprachen-herkunft/figures/familie-sohn.webp"
+      },
+      {
+        "target": "die Tochter",
+        "native": "daughter",
+        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-familie-tochter.mp3",
+        "image": "images/lo-02-familie-sprachen-herkunft/figures/familie-tochter.webp"
+      }
+    ]
+  }
+}

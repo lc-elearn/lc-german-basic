@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "More question words",
+  "presentation": "card",
+  "content": {
+    "instructions": "More question words. The verb stays in second position.",
+    "text": [
+      "<table><caption>Question words</caption><thead><tr><th>Listen</th><th>Question</th><th>Answer</th></tr></thead><tbody><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-more-question-words-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Welche Sprachen sprechen Sie?</td><td>Ich spreche Deutsch und Englisch.</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-more-question-words-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Was sind Sie von Beruf?</td><td>Ich bin Lehrerin.</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-more-question-words-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Wie viele Geschwister haben Sie?</td><td>Ich habe zwei Brüder.</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-more-question-words-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Wann haben Sie Geburtstag?</td><td>Am zwölften Mai.</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-more-question-words-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>Wo sind Sie geboren?</td><td>In Graz.</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-more-question-words-06.mp3\" data-audio-label=\"Play row 6\"></span></td><td>Wer ist das?</td><td>Das ist mein Bruder.</td></tr><tr><td><span data-audio=\"audio/lo-02-familie-sprachen-herkunft/u2_g-more-question-words-07.mp3\" data-audio-label=\"Play row 7\"></span></td><td>Seit wann arbeiten Sie hier?</td><td>Seit zehn Jahren.</td></tr></tbody></table>"
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Festivals and wishes",
+  "presentation": "card",
+  "content": {
+    "instructions": "Listen and repeat. Learn the wishes as whole phrases.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "festivals and celebrations (<em>Weihnachten, Silvester, der Karneval, der Geburtstag</em>);",
+        "wishes (<em>Herzlichen Glückwunsch, Alles Gute, Guten Rutsch</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "das Fest",
+        "gloss": "festival, party",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-fest.mp3"
+      },
+      {
+        "term": "die Feier",
+        "gloss": "celebration",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-feier.mp3"
+      },
+      {
+        "term": "Weihnachten",
+        "gloss": "Christmas",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-weihnachten.mp3"
+      },
+      {
+        "term": "Silvester",
+        "gloss": "New Year's Eve",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-silvester.mp3"
+      },
+      {
+        "term": "der Karneval",
+        "gloss": "carnival",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-karneval.mp3"
+      },
+      {
+        "term": "der Geburtstag",
+        "gloss": "birthday",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-geburtstag.mp3"
+      },
+      {
+        "term": "die Abschlussfeier",
+        "gloss": "graduation ceremony",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-abschlussfeier.mp3"
+      },
+      {
+        "term": "Herzlichen Glückwunsch!",
+        "gloss": "Congratulations!",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-glueckwunsch.mp3"
+      },
+      {
+        "term": "Alles Gute!",
+        "gloss": "All the best!",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-allesgute.mp3"
+      },
+      {
+        "term": "Frohe Weihnachten!",
+        "gloss": "Merry Christmas!",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-frohe-weihnachten.mp3"
+      },
+      {
+        "term": "Guten Rutsch!",
+        "gloss": "Happy New Year!",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-rutsch.mp3"
+      },
+      {
+        "term": "Viel Erfolg!",
+        "gloss": "Good luck!",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-erfolg.mp3"
+      },
+      {
+        "term": "Zum Wohl! / Prost!",
+        "gloss": "Cheers!",
+        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-prost.mp3"
+      }
+    ]
+  }
+}

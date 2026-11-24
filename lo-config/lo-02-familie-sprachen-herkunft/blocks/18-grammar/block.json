@@ -1,0 +1,13 @@
+{
+  "type": "grammar",
+  "title": "sprechen – to speak",
+  "presentation": "card",
+  "content": {
+    "instructions": "Sprechen takes the regular endings but changes its stem vowel: in the du and er/sie/es forms e becomes i. Other verbs do the same (essen: du isst, er isst; lesen: du liest).",
+    "text": [
+      "<table><caption>sprechen – to speak</caption><thead><tr><th>Pronoun</th><th>Form</th></tr></thead><tbody><tr><td>ich</td><td>spreche</td></tr><tr><td>du</td><td>sprichst</td></tr><tr><td>er / sie / es</td><td>spricht</td></tr><tr><td>wir</td><td>sprechen</td></tr><tr><td>ihr</td><td>sprecht</td></tr><tr><td>sie / Sie</td><td>sprechen</td></tr></tbody></table>",
+      "<span data-audio-player=\"audio/lo-02-familie-sprachen-herkunft/u2_g-sprechen.mp3\" data-audio-label=\"Listen to all the forms of sprechen\"></span>",
+      "Ich spreche Deutsch und Englisch. Sprichst du Spanisch? Sophie spricht Französisch."
+    ]
+  }
+}

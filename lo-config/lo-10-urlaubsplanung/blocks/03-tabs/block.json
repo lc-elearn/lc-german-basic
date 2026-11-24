@@ -1,0 +1,72 @@
+{
+  "type": "tabs",
+  "title": "Wohin im Urlaub? – Where to?",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "label": "Wohin im Urlaub? – Where to?",
+    "tabs": [
+      {
+        "label": "Im Reisebüro",
+        "instructions": "A customer asks a travel agent for a destination. They use \"Sie\". What does she not want?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-10-urlaubsplanung/u10_a1-im-reisebuero.mp3",
+            "label": "Listen to the dialogue: Im Reisebüro"
+          },
+          "transcript": [
+            "<strong>Frau Keller:</strong> Guten Tag. Ich suche ein Reiseziel für zwei Wochen im Sommer. <em>Hello. I am looking for a destination for two weeks in the summer.</em>",
+            "<strong>Frau Weber:</strong> Möchten Sie ans Meer oder lieber in die Berge? <em>Would you like to go to the sea or rather to the mountains?</em>",
+            "<strong>Frau Keller:</strong> Am liebsten ans Meer, aber es soll nicht zu heiß sein. <em>Preferably to the sea, but it should not be too hot.</em>",
+            "<strong>Frau Weber:</strong> Wie wäre es mit Portugal? Dort ist es im Juli warm, aber nicht zu heiß. <em>How about Portugal? It is warm there in July, but not too hot.</em>",
+            "<strong>Frau Keller:</strong> Das klingt gut. Was kostet ein Flug? <em>That sounds good. What does a flight cost?</em>",
+            "<strong>Frau Weber:</strong> Ab dreihundert Euro. Ich schaue gleich nach. <em>From three hundred euros. I will look it up straight away.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>das Reiseziel</strong> – destination</li><li><strong>ans Meer / in die Berge</strong> – to the sea / to the mountains</li><li><strong>Wie wäre es mit …?</strong> – How about …?</li></ul>"
+        ]
+      },
+      {
+        "label": "In der Teeküche",
+        "instructions": "Two colleagues talk about their holidays. They use \"Sie\". Where is Katrin going, and for how long?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-10-urlaubsplanung/u10_a2-in-der-teekueche.mp3",
+            "label": "Listen to the dialogue: In der Teeküche"
+          },
+          "transcript": [
+            "<strong>Katrin Huber:</strong> Herr Lange, wohin fahren Sie im Urlaub? <em>Mr Lange, where are you going on holiday?</em>",
+            "<strong>Peter Lange:</strong> Wir fahren nach Italien, ans Meer. Und Sie? <em>We are going to Italy, to the seaside. And you?</em>",
+            "<strong>Katrin Huber:</strong> Ich fahre in die Schweiz. Ich wandere gern in den Bergen. <em>I am going to Switzerland. I like hiking in the mountains.</em>",
+            "<strong>Peter Lange:</strong> Wie lange bleiben Sie? <em>How long are you staying?</em>",
+            "<strong>Katrin Huber:</strong> Zwei Wochen, vom 5. bis zum 19. August. <em>Two weeks, from 5 to 19 August.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>nach Italien</strong> – to Italy (no article)</li><li><strong>in die Schweiz</strong> – to Switzerland (feminine country: in die)</li><li><strong>vom 5. bis zum 19. August</strong> – from the 5th to the 19th of August</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Studentenclub",
+        "instructions": "Two students talk about summer plans. They use \"du\". Where does Marco's family live?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-10-urlaubsplanung/u10_a3-im-studentenclub.mp3",
+            "label": "Listen to the dialogue: Im Studentenclub"
+          },
+          "transcript": [
+            "<strong>Anna Becker:</strong> Wohin möchtest du im Sommer fahren, Marco? <em>Where would you like to go in the summer, Marco?</em>",
+            "<strong>Marco:</strong> Ich würde gern nach Bologna fahren. Meine Familie wohnt dort. <em>I would like to go to Bologna. My family lives there.</em>",
+            "<strong>Anna Becker:</strong> Schön! Ich möchte in die Berge, vielleicht nach Österreich. <em>Lovely! I want to go to the mountains, maybe to Austria.</em>",
+            "<strong>Marco:</strong> Das wäre auch schön. Fährst du allein? <em>That would be nice too. Are you going alone?</em>",
+            "<strong>Anna Becker:</strong> Nein, mit zwei Freundinnen. <em>No, with two friends.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Ich würde gern fahren.</strong> – I would like to go.</li><li><strong>Das wäre schön.</strong> – That would be nice.</li><li><strong>vielleicht</strong> – perhaps</li></ul>"
+        ]
+      }
+    ]
+  }
+}

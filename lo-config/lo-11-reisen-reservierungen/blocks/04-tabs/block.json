@@ -1,0 +1,72 @@
+{
+  "type": "tabs",
+  "title": "Unterwegs – On the way",
+  "presentation": "card",
+  "content": {
+    "label": "Unterwegs – On the way",
+    "tabs": [
+      {
+        "label": "Im Zug",
+        "instructions": "Two passengers share a table. They use \"du\". Where does Sophie get off?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-11-reisen-reservierungen/u11_b1-im-zug.mp3",
+            "label": "Listen to the dialogue: Im Zug"
+          },
+          "transcript": [
+            "<strong>Marco:</strong> Entschuldigung, ist hier noch frei? <em>Excuse me, is this seat free?</em>",
+            "<strong>Sophie:</strong> Ja, bitte. Ich habe nur meine Tasche hier. <em>Yes, please. I only have my bag here.</em>",
+            "<strong>Marco:</strong> Danke. Fährst du auch bis München? <em>Thanks. Are you also going as far as Munich?</em>",
+            "<strong>Sophie:</strong> Nein, ich steige in Nürnberg aus. <em>No, I get off in Nuremberg.</em>",
+            "<strong>Marco:</strong> Dann haben wir noch eine Stunde. <em>Then we still have an hour.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>Ist hier noch frei?</strong> – Is this seat free?</li><li><strong>bis München</strong> – as far as Munich</li><li><strong>aussteigen → ich steige aus</strong> – to get off</li></ul>"
+        ]
+      },
+      {
+        "label": "Am Flughafen",
+        "instructions": "A passenger checks in at the airport. They use \"Sie\". Where does she want to sit?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-11-reisen-reservierungen/u11_b2-am-flughafen.mp3",
+            "label": "Listen to the dialogue: Am Flughafen"
+          },
+          "transcript": [
+            "<strong>Frau Weber:</strong> Guten Tag. Ihren Reisepass, bitte. Haben Sie Gepäck? <em>Hello. Your passport, please. Do you have luggage?</em>",
+            "<strong>Frau Keller:</strong> Einen Koffer und eine kleine Tasche. <em>One suitcase and a small bag.</em>",
+            "<strong>Frau Weber:</strong> Möchten Sie am Fenster oder am Gang sitzen? <em>Would you like to sit by the window or on the aisle?</em>",
+            "<strong>Frau Keller:</strong> Am Gang, bitte. <em>On the aisle, please.</em>",
+            "<strong>Frau Weber:</strong> Hier ist Ihre Bordkarte. Der Flug geht von Gate B12, Boarding ist um zehn Uhr fünfzehn. <em>Here is your boarding pass. The flight leaves from gate B12, boarding is at 10:15.</em>",
+            "<strong>Frau Keller:</strong> Vielen Dank. <em>Thank you very much.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>die Bordkarte</strong> – boarding pass</li><li><strong>am Gang sitzen</strong> – to sit on the aisle</li><li><strong>das Gepäck</strong> – luggage</li></ul>"
+        ]
+      },
+      {
+        "label": "Im Fundbüro",
+        "instructions": "A traveller reports a lost bag. They use \"Sie\". What colour is the bag?",
+        "media": {
+          "audio": {
+            "src": "audio/lo-11-reisen-reservierungen/u11_b3-im-fundbuero.mp3",
+            "label": "Listen to the dialogue: Im Fundbüro"
+          },
+          "transcript": [
+            "<strong>Herr Vogel:</strong> Guten Tag. Ich habe meine Tasche im Zug vergessen. <em>Hello. I left my bag on the train.</em>",
+            "<strong>Herr Braun:</strong> Wann war das? <em>When was that?</em>",
+            "<strong>Herr Vogel:</strong> Gestern Abend, im Zug von Hamburg nach Berlin. <em>Yesterday evening, on the train from Hamburg to Berlin.</em>",
+            "<strong>Herr Braun:</strong> Wie sieht die Tasche aus? <em>What does the bag look like?</em>",
+            "<strong>Herr Vogel:</strong> Sie ist schwarz, und ein blauer Schal ist darin. <em>It is black, and there is a blue scarf in it.</em>",
+            "<strong>Herr Braun:</strong> Wir rufen Sie an, wenn wir sie finden. <em>We will phone you if we find it.</em>"
+          ]
+        },
+        "text": [
+          "<ul><li><strong>das Fundbüro</strong> – lost property office</li><li><strong>vergessen</strong> – to forget, to leave behind</li><li><strong>Wie sieht sie aus?</strong> – What does it look like?</li></ul>"
+        ]
+      }
+    ]
+  }
+}

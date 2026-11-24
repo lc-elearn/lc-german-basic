@@ -1,0 +1,69 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Time in the past",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "Listen and repeat. These words tell you that a sentence is about the past.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "past time words (<em>gestern, letzte Woche, vor zwei Jahren, damals</em>);",
+        "experience (<em>schon einmal, noch nie, zum ersten Mal</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "gestern",
+        "gloss": "yesterday",
+        "audio": "audio/lo-08-vergangenheit/u8_v-zeit-gestern.mp3"
+      },
+      {
+        "term": "vorgestern",
+        "gloss": "the day before yesterday",
+        "audio": "audio/lo-08-vergangenheit/u8_v-zeit-vorgestern.mp3"
+      },
+      {
+        "term": "letzte Woche",
+        "gloss": "last week",
+        "audio": "audio/lo-08-vergangenheit/u8_v-zeit-letzte-woche.mp3"
+      },
+      {
+        "term": "letztes Jahr",
+        "gloss": "last year",
+        "audio": "audio/lo-08-vergangenheit/u8_v-zeit-letztes-jahr.mp3"
+      },
+      {
+        "term": "vor zwei Jahren",
+        "gloss": "two years ago",
+        "audio": "audio/lo-08-vergangenheit/u8_v-zeit-vor-jahren.mp3"
+      },
+      {
+        "term": "damals",
+        "gloss": "at that time",
+        "audio": "audio/lo-08-vergangenheit/u8_v-zeit-damals.mp3"
+      },
+      {
+        "term": "früher",
+        "gloss": "formerly, in the past",
+        "audio": "audio/lo-08-vergangenheit/u8_v-zeit-frueher.mp3"
+      },
+      {
+        "term": "schon einmal",
+        "gloss": "once before, ever",
+        "audio": "audio/lo-08-vergangenheit/u8_v-zeit-schon-einmal.mp3"
+      },
+      {
+        "term": "noch nie",
+        "gloss": "never (yet)",
+        "audio": "audio/lo-08-vergangenheit/u8_v-zeit-noch-nie.mp3"
+      },
+      {
+        "term": "zum ersten Mal",
+        "gloss": "for the first time",
+        "audio": "audio/lo-08-vergangenheit/u8_v-zeit-erstes-mal.mp3"
+      }
+    ]
+  }
+}

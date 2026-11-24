@@ -1,0 +1,69 @@
+{
+  "type": "vocabulary",
+  "options": { "selfTest": true },
+  "title": "Drinks",
+  "presentation": "card",
+  "defaultOpen": true,
+  "content": {
+    "instructions": "Listen and repeat. Learn the article with each drink.",
+    "summary": {
+      "lead": "You will learn:",
+      "items": [
+        "hot and cold drinks (<em>der Kaffee, der Tee, das Wasser, der Saft</em>);",
+        "alcoholic drinks (<em>das Bier, der Wein</em>)."
+      ]
+    },
+    "items": [
+      {
+        "term": "der Kaffee",
+        "gloss": "coffee",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-drink-kaffee.mp3"
+      },
+      {
+        "term": "der Tee",
+        "gloss": "tea",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-drink-tee.mp3"
+      },
+      {
+        "term": "das Wasser",
+        "gloss": "water",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-drink-wasser.mp3"
+      },
+      {
+        "term": "der Saft",
+        "gloss": "juice",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-drink-saft.mp3"
+      },
+      {
+        "term": "die Milch",
+        "gloss": "milk",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-drink-milch.mp3"
+      },
+      {
+        "term": "das Bier",
+        "gloss": "beer",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-drink-bier.mp3"
+      },
+      {
+        "term": "der Wein",
+        "gloss": "wine",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-drink-wein.mp3"
+      },
+      {
+        "term": "die Cola",
+        "gloss": "cola",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-drink-cola.mp3"
+      },
+      {
+        "term": "die Schorle",
+        "gloss": "spritzer (juice and sparkling water)",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-drink-schorle.mp3"
+      },
+      {
+        "term": "die Kohlensäure",
+        "gloss": "carbonation (mit / ohne = sparkling / still)",
+        "audio": "audio/lo-05-cafe-restaurant/u5_v-drink-kohlensaeure.mp3"
+      }
+    ]
+  }
+}

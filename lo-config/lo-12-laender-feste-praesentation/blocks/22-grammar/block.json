@@ -1,0 +1,11 @@
+{
+  "type": "grammar",
+  "title": "Wishes for every occasion",
+  "presentation": "card",
+  "content": {
+    "instructions": "A few fixed phrases cover most occasions. Say “zum” with a masculine or neuter noun and “zur” with a feminine noun: “Alles Gute zum Geburtstag, Herzlichen Glückwunsch zur Hochzeit”. Reply with “Danke” or “Danke, gleichfalls”.",
+    "text": [
+      "<table><caption>Wishes</caption><thead><tr><th>Occasion</th><th>Listen</th><th>Wish</th></tr></thead><tbody><tr><th>birthday</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-wuensche-01.mp3\" data-audio-label=\"Play row 1\"></span></td><td>Alles Gute zum Geburtstag! Herzlichen Glückwunsch!</td></tr><tr><th>Christmas, Easter</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-wuensche-02.mp3\" data-audio-label=\"Play row 2\"></span></td><td>Frohe Weihnachten! Frohe Ostern!</td></tr><tr><th>New Year</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-wuensche-03.mp3\" data-audio-label=\"Play row 3\"></span></td><td>Guten Rutsch! Ein gutes neues Jahr!</td></tr><tr><th>exam, new job</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-wuensche-04.mp3\" data-audio-label=\"Play row 4\"></span></td><td>Viel Erfolg! Herzlichen Glückwunsch zur neuen Stelle!</td></tr><tr><th>journey</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-wuensche-05.mp3\" data-audio-label=\"Play row 5\"></span></td><td>Gute Reise!</td></tr><tr><th>toast</th><td><span data-audio=\"audio/lo-12-laender-feste-praesentation/u12_g-wuensche-06.mp3\" data-audio-label=\"Play row 6\"></span></td><td>Zum Wohl! Prost!</td></tr></tbody></table>"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "type": "inline-choice",
+  "title": "Grammar check 3: the whole course",
+  "content": {
+    "instructions": "A mixed check of the whole course. Choose the correct form.",
+    "items": [
+      {
+        "text": "Wie [*heißen|heißt|heiße] Sie?"
+      },
+      {
+        "text": "Ich habe zwei [*Brüder|Bruder|Brüdern]."
+      },
+      {
+        "text": "Ich wohne in [*einer|einem|ein] Wohnung."
+      },
+      {
+        "text": "Am Samstag [*gehe ich|ich gehe] ins Kino."
+      },
+      {
+        "text": "Ich hätte gern [*einen|einem|ein] Tee."
+      },
+      {
+        "text": "[*Gehen|Geh|Geht] Sie geradeaus."
+      },
+      {
+        "text": "Gestern [*bin|habe] ich nach Hause gefahren."
+      },
+      {
+        "text": "[*Wenn|Als|Wann] ich Zeit habe, gehe ich schwimmen."
+      },
+      {
+        "text": "Das Hotel ist [*teurer|teuer|teuerer] als die Pension."
+      },
+      {
+        "text": "Die Stadt [*gefällt|gefallen|gefällst] mir."
+      }
+    ]
+  }
+}
