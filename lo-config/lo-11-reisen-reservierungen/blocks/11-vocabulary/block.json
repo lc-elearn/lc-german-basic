@@ -1,6 +1,8 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Problems and help",
   "presentation": "card",
   "content": {
@@ -8,7 +10,7 @@
     "summary": {
       "lead": "You will learn:",
       "items": [
-        "problems (<em>kaputt, verloren, vergessen, die Verspätung</em>);",
+        "problems (<em>kaputt, verloren, vergessen</em>);",
         "complaints and apologies (<em>Das tut mir leid, die Beschwerde</em>)."
       ]
     },
@@ -32,11 +34,6 @@
         "term": "vergessen",
         "gloss": "to forget, to leave behind",
         "audio": "audio/lo-11-reisen-reservierungen/u11_v-problem-vergessen.mp3"
-      },
-      {
-        "term": "das Fundbüro",
-        "gloss": "lost property office",
-        "audio": "audio/lo-11-reisen-reservierungen/u11_v-problem-fundbuero.mp3"
       },
       {
         "term": "die Beschwerde",

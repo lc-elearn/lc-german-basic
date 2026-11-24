@@ -47,26 +47,6 @@
         "text": [
           "<ul><li><strong>der Automat</strong> – ticket machine</li><li><strong>Wähle zuerst das Ziel.</strong> – Choose the destination first. (du imperative)</li><li><strong>das Gleis</strong> – platform, track</li></ul>"
         ]
-      },
-      {
-        "label": "Auf dem Bahnsteig",
-        "instructions": "A passenger asks which platform his train leaves from. They use \"Sie\". Where does he change trains?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-11-reisen-reservierungen/u11_a3-auf-dem-bahnsteig.mp3",
-            "label": "Listen to the dialogue: Auf dem Bahnsteig"
-          },
-          "transcript": [
-            "<strong>Peter Lange:</strong> Entschuldigung, fährt der Zug nach Köln von Gleis 5? <em>Excuse me, does the train to Cologne leave from platform 5?</em>",
-            "<strong>Frau Schneider:</strong> Nein, von Gleis 7. Er hat zehn Minuten Verspätung. <em>No, from platform 7. It is ten minutes late.</em>",
-            "<strong>Peter Lange:</strong> Muss ich umsteigen? <em>Do I have to change?</em>",
-            "<strong>Frau Schneider:</strong> Ja, in Frankfurt. Der Anschluss fährt um vierzehn Uhr zwanzig. <em>Yes, in Frankfurt. The connection leaves at 14:20.</em>",
-            "<strong>Peter Lange:</strong> Vielen Dank! <em>Thank you very much!</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>von Gleis 7</strong> – from platform 7</li><li><strong>der Anschluss</strong> – connection</li><li><strong>umsteigen</strong> – to change (trains)</li></ul>"
-        ]
       }
     ]
   }
