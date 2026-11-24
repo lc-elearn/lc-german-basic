@@ -73,7 +73,12 @@
             "<strong>Frau Schneider:</strong> Ja, noch ein Stück Käsekuchen. <em>Yes, a piece of cheesecake.</em>",
             "<strong>Frau Weber:</strong> Das macht sechs Euro zwanzig. <em>That comes to €6.20.</em>",
             "<strong>Frau Schneider:</strong> Bitte schön. Einen schönen Tag noch! <em>Here you are. Have a nice day!</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-06-wegbeschreibung/dialogues/09-beim-baecker.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Was darf es sein?</strong> – What can I get you?</li><li><strong>Sonst noch etwas?</strong> – Anything else?</li><li><strong>der Käsekuchen</strong> – cheesecake</li></ul>"
