@@ -57,13 +57,13 @@ function MediaImg({ image, className }: { image: MediaImage; className: string }
 function Transcript({ entries }: { entries: readonly RichTextEntry[] }) {
   return (
     // `media-transcript`: the open/close slide in media-panel.css.
-    <details className="media-transcript group">
+    <details className="media-transcript group/transcript">
       <summary className={SUMMARY_CLASSES}>
-        <span className="inline-flex items-center gap-2 group-open:hidden">
+        <span className="inline-flex items-center gap-2 group-open/transcript:hidden">
           <Eye aria-hidden="true" className="size-4" />
           {resolveLabel('showTranscript')}
         </span>
-        <span className="hidden items-center gap-2 group-open:inline-flex">
+        <span className="hidden items-center gap-2 group-open/transcript:inline-flex">
           <EyeOff aria-hidden="true" className="size-4" />
           {resolveLabel('hideTranscript')}
         </span>
