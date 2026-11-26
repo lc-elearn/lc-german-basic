@@ -5,16 +5,16 @@
     "instructions": "Drag each word into the right gap.",
     "items": [
       {
-        "text": "Ich habe [einen] Bruder und [eine] Schwester."
+        "text": "Sie ist Einzelkind. Sie hat [keinen] Bruder und [keine] Schwester."
       },
       {
-        "text": "Das ist [meine] Mutter und das ist [mein] Vater."
+        "text": "Ich habe [einen] Bruder, Jonas, und [eine] Schwester, Lena."
       },
       {
-        "text": "Wir haben [keine] Kinder."
+        "text": "Das ist Anna. Sie ist [meine] Mutter."
       },
       {
-        "text": "Sie hat [keinen] Bruder."
+        "text": "Und das ist Peter. Er ist [mein] Vater."
       }
     ]
   },
