@@ -25,11 +25,6 @@
       },
       {
         "prompt": "Sentence 4",
-        "answer": "Das Seminar endet um sechzehn Uhr.",
-        "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_x-dikt-04.mp3"
-      },
-      {
-        "prompt": "Sentence 5",
         "answer": "Ich muss um sechs aufstehen.",
         "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_x-dikt-05.mp3"
       }

@@ -20,7 +20,12 @@
             "<strong>Frau Keller:</strong> Für Freitagabend. <em>For Friday evening.</em>",
             "<strong>Herr Braun:</strong> Freitag ist leider alles besetzt. Am Samstag haben wir noch einen Tisch. <em>Friday is fully booked, unfortunately. On Saturday we still have a table.</em>",
             "<strong>Frau Keller:</strong> Samstag ist gut. Auf den Namen Keller. <em>Saturday is fine. Under the name Keller.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-05-cafe-restaurant/dialogues/04-tischreservierung.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>einen Tisch reservieren</strong> – to reserve a table</li><li><strong>alles besetzt</strong> – fully booked</li><li><strong>Auf den Namen Keller.</strong> – Under the name Keller.</li></ul>"
@@ -41,7 +46,12 @@
             "<strong>Herr Braun:</strong> Ja, es gibt eine Gemüsepfanne und Käsespätzle. <em>Yes, there is a vegetable stir-fry and cheese noodles.</em>",
             "<strong>Katrin Huber:</strong> Dann nehme ich die Gemüsepfanne. <em>Then I will have the vegetable stir-fry.</em>",
             "<strong>Peter Lange:</strong> Und ich nehme das Schnitzel mit Pommes. <em>And I will have the schnitzel with chips.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-05-cafe-restaurant/dialogues/05-am-tisch.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Was möchten Sie trinken?</strong> – What would you like to drink?</li><li><strong>Es gibt …</strong> – There is / there are …</li><li><strong>Für mich …</strong> – For me …</li></ul>"
@@ -61,7 +71,12 @@
             "<strong>Elif:</strong> Dann nehme ich die Pizza ohne Fleisch, mit Gemüse. <em>Then I will have the pizza without meat, with vegetables.</em>",
             "<strong>Marco:</strong> Möchtest du auch einen Salat? <em>Would you like a salad too?</em>",
             "<strong>Elif:</strong> Nein, danke. Aber ich trinke gern eine Cola. <em>No, thank you. But I would like a cola.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-05-cafe-restaurant/dialogues/06-beim-bestellen.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Ich esse kein Fleisch.</strong> – I do not eat meat.</li><li><strong>mit Schinken</strong> – with ham</li><li><strong>Möchtest du …?</strong> – Would you like …? (informal)</li></ul>"

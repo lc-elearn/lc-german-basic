@@ -1,15 +1,16 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "History",
   "presentation": "card",
   "content": {
-    "instructions": "Listen and repeat. Check the article of each noun.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen and repeat. Check the article of each noun. You will learn:",
       "items": [
         "history words (<em>die Geschichte, die Grenze</em>);",
-        "memories (<em>die Erinnerung, der Zeitzeuge</em>)."
+        "more history words (<em>das Museum, das Fernsehen</em>)."
       ]
     },
     "items": [
@@ -32,16 +33,6 @@
         "term": "das Fernsehen",
         "gloss": "television",
         "audio": "audio/lo-08-vergangenheit/u8_v-gesch-fernsehen.mp3"
-      },
-      {
-        "term": "die Erinnerung",
-        "gloss": "memory",
-        "audio": "audio/lo-08-vergangenheit/u8_v-gesch-erinnerung.mp3"
-      },
-      {
-        "term": "der Zeitzeuge",
-        "gloss": "eyewitness",
-        "audio": "audio/lo-08-vergangenheit/u8_v-gesch-zeitzeuge.mp3"
       }
     ]
   }

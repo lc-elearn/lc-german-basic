@@ -19,7 +19,12 @@
             "<strong>Katrin Huber:</strong> Wie oft fährt sie? <em>How often does it run?</em>",
             "<strong>Frau Keller:</strong> Alle zehn Minuten. <em>Every ten minutes.</em>",
             "<strong>Katrin Huber:</strong> Danke, das ist sehr nett. <em>Thank you, that is very kind.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-06-wegbeschreibung/dialogues/04-an-der-haltestelle.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>die Straßenbahn</strong> – tram</li><li><strong>alle zehn Minuten</strong> – every ten minutes</li><li><strong>dort, gegenüber</strong> – over there, opposite</li></ul>"
@@ -39,7 +44,12 @@
             "<strong>Marco:</strong> Gehen wir zu Fuß? <em>Shall we walk?</em>",
             "<strong>Sophie:</strong> Ja, es sind nur zwei Minuten. <em>Yes, it is only two minutes.</em>",
             "<strong>Marco:</strong> Gut, du hast den Stadtplan, du gehst zuerst. <em>Good, you have the map, you go first.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-06-wegbeschreibung/dialogues/05-mit-dem-stadtplan.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>der Stadtplan</strong> – town map</li><li><strong>um die Ecke</strong> – around the corner</li><li><strong>Wo sind wir?</strong> – Where are we?</li></ul>"
@@ -59,7 +69,12 @@
             "<strong>Herr Vogel:</strong> Wie lange dauert das? <em>How long does that take?</em>",
             "<strong>Frau Weber:</strong> Zehn Minuten zu Fuß. Hier ist ein Stadtplan. <em>Ten minutes on foot. Here is a town map.</em>",
             "<strong>Herr Vogel:</strong> Danke, sehr freundlich. <em>Thank you, very kind.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-06-wegbeschreibung/dialogues/06-im-touristenbuero.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Ich suche das Rathaus.</strong> – I am looking for the town hall.</li><li><strong>bis zum Marktplatz</strong> – as far as the market square</li><li><strong>Wie lange dauert das?</strong> – How long does that take?</li></ul>"

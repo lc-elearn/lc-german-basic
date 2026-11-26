@@ -1,6 +1,6 @@
 {
   "title": "Tagesablauf, Arbeit und Studium",
-  "description": "Tell the time, describe your day, talk about work and study, make appointments and talk about plans, in places from an office and a lab to a train and a café.",
+  "description": "Tell the time, describe your day, talk about work and study and talk about plans, in places from an office and a lab to a lecture hall.",
   "sections": [
     {
       "id": "introduction",
@@ -39,7 +39,7 @@
       "id": "culture",
       "label": "Cultural Notes",
       "navLabel": "Culture",
-      "blocks": ["22-intro", "23-prose", "24-prose", "25-prose", "26-tabs"]
+      "blocks": ["22-intro", "23-prose", "25-prose"]
     },
     {
       "id": "exercises",
@@ -51,9 +51,7 @@
         "03-conjugation",
         "04-inline-gap",
         "05-word-order",
-        "06-phrase-reorder",
         "07-dictation",
-        "08-reading",
         "09-typed-transform"
       ]
     }
