@@ -45,6 +45,7 @@
         "02-inline-choice",
         "03-inline-gap",
         "04-line-match",
+        "05-word-order",
         "07-dictation",
         "09-typed-transform"
       ]

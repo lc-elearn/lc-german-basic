@@ -1,0 +1,8 @@
+{
+  "type": "word-order",
+  "title": "Word order: where I live",
+  "content": {
+    "instructions": "Put the words in the right order to make a sentence.",
+    "words": ["Ich", "wohne", "in", "einer", "kleinen", "Wohnung."]
+  }
+}

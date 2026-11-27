@@ -1,9 +1,0 @@
-{
-  "type": "word-order",
-  "title": "Word order: directions",
-  "content": {
-    "instructions": "Put the words in the right order to give directions.",
-    "words": ["Gehen", "Sie", "hier", "links", "und", "dann", "geradeaus."],
-    "audio": "audio/lo-06-wegbeschreibung/u6_x-wo-links.mp3"
-  }
-}

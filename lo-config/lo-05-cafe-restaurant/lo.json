@@ -45,8 +45,7 @@
         "01-flashcards",
         "02-inline-choice",
         "04-inline-gap",
-        "05-word-order",
-        "06-phrase-reorder",
+        "05-drag-fill-gaps",
         "07-dictation"
       ]
     }

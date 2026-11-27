@@ -1,0 +1,15 @@
+{
+  "type": "inline-choice",
+  "title": "Likes and word order",
+  "content": {
+    "instructions": "Choose the correct form for each sentence.",
+    "items": [
+      { "text": "Ich mag Tee, Kaffee und Saft. Tee trinke ich [gern|lieber|*am liebsten]." },
+      { "text": "Ich fahre [gern|*lieber|am liebsten] mit dem Fahrrad als mit dem Bus." },
+      { "text": "Im Sommer [*schwimme ich|ich schwimme|schwimmt ich] gern im See." },
+      { "text": "Wir kaufen am Samstag [*ein|um|bei]." },
+      { "text": "Ich [*räume|räumt|räumen] am Wochenende die Wohnung auf." }
+    ]
+  },
+  "options": { "shuffle": true }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "drag-fill-gaps",
+  "title": "At the café: drag the word",
+  "content": {
+    "instructions": "Drag each word into the right gap.",
+    "items": [
+      {
+        "text": "Ich hätte gern [einen] Kaffee und [ein] Stück Kuchen."
+      },
+      {
+        "text": "Haben Sie [eine] Speisekarte, bitte?"
+      },
+      {
+        "text": "Zusammen oder [getrennt]?"
+      },
+      {
+        "text": "Die [Rechnung], bitte."
+      }
+    ]
+  },
+  "options": {
+    "shuffle": true
+  }
+}

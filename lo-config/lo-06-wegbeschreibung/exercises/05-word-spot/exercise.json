@@ -1,0 +1,21 @@
+{
+  "type": "word-spot",
+  "title": "Spot the direction",
+  "content": {
+    "instructions": "Click the direction words in each sentence.",
+    "items": [
+      {
+        "text": "Gehen Sie hier [links] und dann [geradeaus]."
+      },
+      {
+        "text": "Nehmen Sie die zweite Straße [rechts]."
+      },
+      {
+        "text": "Geh hier [geradeaus] und dann [links]."
+      },
+      {
+        "text": "Die Post ist [rechts]."
+      }
+    ]
+  }
+}
