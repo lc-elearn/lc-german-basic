@@ -4,9 +4,8 @@
   "title": "Countries and nationalities",
   "presentation": "card",
   "content": {
-    "instructions": "Each line gives the country, then the male and female form of the nationality.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Each line gives the country, then the male and female form of the nationality. You will learn:",
       "items": [
         "the names of some countries (<em>Deutschland, Frankreich, die Schweiz, Großbritannien</em>);",
         "nationalities, male and female (<em>Italiener / Italienerin</em>)."
