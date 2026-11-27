@@ -1,0 +1,24 @@
+{
+  "type": "drag-fill-gaps",
+  "title": "Comparing: drag the word",
+  "content": {
+    "instructions": "Drag each comparative into the right gap. The numbers show which one fits.",
+    "items": [
+      {
+        "text": "Im Süden sind es 25 Grad, im Norden 15 Grad. Der Süden ist [wärmer]."
+      },
+      {
+        "text": "Das Hotel kostet 120 Euro, die Pension 80 Euro. Das Hotel ist [teurer]."
+      },
+      {
+        "text": "Der Zug braucht sechs Stunden, das Flugzeug eine. Der Zug ist [langsamer]."
+      },
+      {
+        "text": "Im Mai ist es mir zu kalt. Ich fahre [lieber] im Juli."
+      }
+    ]
+  },
+  "options": {
+    "shuffle": true
+  }
+}
