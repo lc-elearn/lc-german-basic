@@ -1,6 +1,6 @@
 {
   "title": "Erster Kontakt",
-  "description": "Greet people, introduce yourself, and say your name, age and where you come from, in places from the Language Centre desk to the library, the stairwell of a Berlin flat and the pub. Includes formal and informal German (du and Sie).",
+  "description": "Greet people, introduce yourself, and say your name, age and where you come from, in places from the Language Centre desk to the stairwell of a Berlin flat and the pub. Includes formal and informal German (du and Sie).",
   "image": "images/lo-01-erster-kontakt/card.webp",
   "hero": {
     "src": "images/lo-01-erster-kontakt/hero.webp"
@@ -36,16 +36,9 @@
         "15-grammar",
         "16-tabs",
         "17-grammar",
-        "18-grammar",
         "19-grammar",
         "20-grammar"
       ]
-    },
-    {
-      "id": "culture",
-      "label": "Cultural Notes",
-      "navLabel": "Culture",
-      "blocks": ["21-intro", "22-prose", "23-intro", "24-prose", "25-prose", "26-tabs"]
     },
     {
       "id": "exercises",
@@ -55,12 +48,9 @@
         "01-flashcards",
         "02-memory-match",
         "03-inline-choice",
-        "04-conjugation",
         "05-inline-gap",
         "06-word-order",
-        "07-phrase-reorder",
-        "08-dictation",
-        "09-reading"
+        "08-dictation"
       ]
     }
   ],

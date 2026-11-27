@@ -33,32 +33,6 @@
         ]
       },
       {
-        "label": "Auf dem Markt",
-        "instructions": "Alex buys bread at a stall on the market square. How many times do you hear \"bitte\", and does it mean the same each time?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-01-erster-kontakt/u1_d1-s2-auf-dem-markt.mp3",
-            "label": "Listen to the dialogue: Auf dem Markt"
-          },
-          "transcript": [
-            "<strong>Lukas:</strong> Guten Tag! <em>Hello!</em>",
-            "<strong>Alex:</strong> Guten Tag! Zwei Brötchen, bitte. <em>Hello! Two bread rolls, please.</em>",
-            "<strong>Lukas:</strong> Bitte schön. Zwei Euro, bitte. <em>Here you are. Two euros, please.</em>",
-            "<strong>Alex:</strong> Bitte schön. <em>Here you are.</em>",
-            "<strong>Lukas:</strong> Danke schön! Auf Wiedersehen! <em>Thank you! Goodbye!</em>",
-            "<strong>Alex:</strong> Auf Wiedersehen! <em>Goodbye!</em>"
-          ],
-          "image": {
-            "kind": "portrait",
-            "src": "images/lo-01-erster-kontakt/dialogues/02-auf-dem-markt.webp",
-            "alt": ""
-          }
-        },
-        "text": [
-          "<ul><li><strong>Zwei Brötchen, bitte.</strong> – Two bread rolls, please.</li><li><strong>Bitte schön.</strong> – Here you are. / You are welcome.</li><li><strong>Zwei Euro, bitte.</strong> – Two euros, please.</li></ul>"
-        ]
-      },
-      {
         "label": "Am Abend im Studentenclub",
         "instructions": "Two students meet in the student club in the evening. They use \"du\". Which words tell you so?",
         "media": {
