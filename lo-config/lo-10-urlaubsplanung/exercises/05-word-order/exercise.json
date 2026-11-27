@@ -1,9 +1,0 @@
-{
-  "type": "word-order",
-  "title": "Word order: the verb is second",
-  "content": {
-    "instructions": "Put the words in the right order to make a sentence.",
-    "words": ["Im", "Sommer", "fahren", "wir", "nach", "Portugal."],
-    "audio": "audio/lo-10-urlaubsplanung/u10_x-wo-portugal.mp3"
-  }
-}
