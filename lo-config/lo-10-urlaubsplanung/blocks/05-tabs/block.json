@@ -45,26 +45,6 @@
         "text": [
           "<ul><li><strong>teurer als / billiger</strong> – more expensive than / cheaper</li><li><strong>näher am Strand</strong> – closer to the beach</li><li><strong>selbst kochen</strong> – to cook for oneself</li></ul>"
         ]
-      },
-      {
-        "label": "Zug oder Flug?",
-        "instructions": "Two colleagues compare train and plane. They use \"Sie\". How long is the train journey?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-10-urlaubsplanung/u10_c3-zug-oder-flug.mp3",
-            "label": "Listen to the dialogue: Zug oder Flug?"
-          },
-          "transcript": [
-            "<strong>Peter Lange:</strong> Fahren Sie mit dem Zug oder fliegen Sie, Frau Keller? <em>Are you taking the train or flying, Mrs Keller?</em>",
-            "<strong>Frau Keller:</strong> Ich nehme den Zug. Er ist langsamer als das Flugzeug, aber bequemer. <em>I am taking the train. It is slower than the plane, but more comfortable.</em>",
-            "<strong>Peter Lange:</strong> Wie lange dauert die Fahrt? <em>How long does the journey take?</em>",
-            "<strong>Frau Keller:</strong> Acht Stunden. Mit dem Flugzeug nur zwei. <em>Eight hours. By plane only two.</em>",
-            "<strong>Peter Lange:</strong> Dann haben Sie Zeit zum Lesen. <em>Then you have time to read.</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>langsamer als / bequemer</strong> – slower than / more comfortable</li><li><strong>Wie lange dauert …?</strong> – How long does … take?</li><li><strong>Zeit zum Lesen</strong> – time for reading</li></ul>"
-        ]
       }
     ]
   }

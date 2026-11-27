@@ -26,27 +26,6 @@
         ]
       },
       {
-        "label": "Zum Geburtstag",
-        "instructions": "A guest arrives at a birthday party. They use \"du\". What is the present?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-12-laender-feste-praesentation/u12_c2-geburtstag.mp3",
-            "label": "Listen to the dialogue: Zum Geburtstag"
-          },
-          "transcript": [
-            "<strong>Lukas:</strong> Alles Gute zum Geburtstag, Anna! <em>Happy birthday, Anna!</em>",
-            "<strong>Anna Becker:</strong> Danke, Lukas! Komm rein! <em>Thank you, Lukas! Come in!</em>",
-            "<strong>Lukas:</strong> Das ist für dich. Ich hoffe, es gefällt dir. <em>This is for you. I hope you like it.</em>",
-            "<strong>Anna Becker:</strong> Oh, ein Buch! Vielen Dank, das ist aber nett. <em>Oh, a book! Thank you very much, that is really kind.</em>",
-            "<strong>Lukas:</strong> Gern geschehen. Wie alt bist du jetzt? <em>You are welcome. How old are you now?</em>",
-            "<strong>Anna Becker:</strong> Fünfundzwanzig. Und du? <em>Twenty-five. And you?</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>Alles Gute zum Geburtstag!</strong> – Happy birthday!</li><li><strong>Das ist für dich.</strong> – This is for you.</li><li><strong>Es gefällt dir.</strong> – You like it.</li></ul>"
-        ]
-      },
-      {
         "label": "Nach der Abschlussfeier",
         "instructions": "Alex talks to Lena after the graduation celebration. They use \"du\". What will Alex do now?",
         "media": {

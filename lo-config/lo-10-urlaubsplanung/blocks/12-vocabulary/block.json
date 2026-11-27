@@ -1,12 +1,13 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Dates and durations",
   "presentation": "card",
   "content": {
-    "instructions": "Listen and repeat. These phrases tell your host or agent when and for how long.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen and repeat. These phrases tell your host or agent when and for how long. You will learn:",
       "items": [
         "dates (<em>vom … bis zum …, Anfang, Mitte, Ende</em>);",
         "durations (<em>eine Woche, zwei Wochen, für drei Tage</em>)."
@@ -27,11 +28,6 @@
         "term": "zwei Wochen",
         "gloss": "two weeks",
         "audio": "audio/lo-10-urlaubsplanung/u10_v-zeit-zwei-wochen.mp3"
-      },
-      {
-        "term": "die Ferien",
-        "gloss": "holidays (school, university)",
-        "audio": "audio/lo-10-urlaubsplanung/u10_v-zeit-ferien.mp3"
       },
       {
         "term": "Anfang August",

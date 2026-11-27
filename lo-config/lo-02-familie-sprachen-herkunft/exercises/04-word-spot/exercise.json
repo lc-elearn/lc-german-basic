@@ -1,0 +1,13 @@
+{
+  "type": "word-spot",
+  "title": "Spot the verb",
+  "content": {
+    "instructions": "Click the verb in each sentence. Some sentences have two.",
+    "items": [
+      { "text": "Ich [spreche] Deutsch und [habe] einen Bruder." },
+      { "text": "Du [sprichst] gut Englisch und [hast] eine Schwester." },
+      { "text": "Sophie [ist] Ärztin und [spricht] Französisch." },
+      { "text": "Wir [haben] keine Kinder." }
+    ]
+  }
+}

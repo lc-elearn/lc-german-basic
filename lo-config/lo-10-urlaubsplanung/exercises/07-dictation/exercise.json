@@ -25,11 +25,6 @@
       },
       {
         "prompt": "Sentence 4",
-        "answer": "Wir fahren im Sommer ans Meer.",
-        "audio": "audio/lo-10-urlaubsplanung/u10_x-dikt-04.mp3"
-      },
-      {
-        "prompt": "Sentence 5",
         "answer": "Ich möchte ein Doppelzimmer reservieren.",
         "audio": "audio/lo-10-urlaubsplanung/u10_x-dikt-05.mp3"
       }

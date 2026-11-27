@@ -4,11 +4,10 @@
   "title": "Festivals and wishes",
   "presentation": "card",
   "content": {
-    "instructions": "Listen and repeat. Learn the wishes as whole phrases.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen and repeat. Learn the wishes as whole phrases. You will learn:",
       "items": [
-        "festivals and celebrations (<em>Weihnachten, Silvester, der Karneval, der Geburtstag</em>);",
+        "festivals and celebrations (<em>Weihnachten, der Geburtstag</em>);",
         "wishes (<em>Herzlichen Glückwunsch, Alles Gute, Guten Rutsch</em>)."
       ]
     },
@@ -27,16 +26,6 @@
         "term": "Weihnachten",
         "gloss": "Christmas",
         "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-weihnachten.mp3"
-      },
-      {
-        "term": "Silvester",
-        "gloss": "New Year's Eve",
-        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-silvester.mp3"
-      },
-      {
-        "term": "der Karneval",
-        "gloss": "carnival",
-        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-fest-karneval.mp3"
       },
       {
         "term": "der Geburtstag",

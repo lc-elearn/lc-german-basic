@@ -44,27 +44,6 @@
         "text": [
           "<ul><li><strong>Mein Zug hat Verspätung.</strong> – My train is late.</li><li><strong>abholen → sie holt uns ab</strong> – to pick up</li><li><strong>Soll ich …?</strong> – Shall I …?</li></ul>"
         ]
-      },
-      {
-        "label": "Ein Fahrrad mieten",
-        "instructions": "A visitor rents a bike. They use \"Sie\". How much is the deposit?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-11-reisen-reservierungen/u11_d3-fahrrad-mieten.mp3",
-            "label": "Listen to the dialogue: Ein Fahrrad mieten"
-          },
-          "transcript": [
-            "<strong>Katrin Huber:</strong> Guten Tag. Ich möchte ein Fahrrad mieten. <em>Hello. I would like to rent a bike.</em>",
-            "<strong>Herr Braun:</strong> Für wie lange? <em>For how long?</em>",
-            "<strong>Katrin Huber:</strong> Für einen Tag. Was kostet das? <em>For one day. What does that cost?</em>",
-            "<strong>Herr Braun:</strong> Zwölf Euro. Dazu kommt ein Pfand von fünfzig Euro. <em>Twelve euros. On top there is a deposit of fifty euros.</em>",
-            "<strong>Katrin Huber:</strong> Brauchen Sie einen Ausweis? <em>Do you need an ID?</em>",
-            "<strong>Herr Braun:</strong> Ja, bitte, und eine Unterschrift hier. <em>Yes, please, and a signature here.</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>mieten</strong> – to rent</li><li><strong>das Pfand</strong> – deposit</li><li><strong>die Unterschrift</strong> – signature</li></ul>"
-        ]
       }
     ]
   }

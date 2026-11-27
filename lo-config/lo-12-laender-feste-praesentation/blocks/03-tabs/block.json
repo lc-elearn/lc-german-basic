@@ -47,27 +47,6 @@
         "text": [
           "<ul><li><strong>man sagt</strong> – one says, people say</li><li><strong>die Semmel / das Brötli</strong> – bread roll (Austria / Switzerland)</li><li><strong>Man lernt nie aus.</strong> – You never stop learning.</li></ul>"
         ]
-      },
-      {
-        "label": "Im Reisebüro",
-        "instructions": "A customer plans a round trip. They use \"Sie\". Which cities does she want to see?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-12-laender-feste-praesentation/u12_a3-rundreise.mp3",
-            "label": "Listen to the dialogue: Im Reisebüro"
-          },
-          "transcript": [
-            "<strong>Frau Schneider:</strong> Ich möchte eine Rundreise durch Deutschland machen. <em>I would like to do a round trip through Germany.</em>",
-            "<strong>Frau Weber:</strong> Gern. Welche Städte möchten Sie sehen? <em>Certainly. Which cities would you like to see?</em>",
-            "<strong>Frau Schneider:</strong> Hamburg, Köln, Heidelberg und München. <em>Hamburg, Cologne, Heidelberg and Munich.</em>",
-            "<strong>Frau Weber:</strong> Das ist eine schöne Route. Wie lange möchten Sie unterwegs sein? <em>That is a lovely route. How long would you like to be away?</em>",
-            "<strong>Frau Schneider:</strong> Zwei Wochen. Und ich möchte mit dem Zug fahren. <em>Two weeks. And I would like to travel by train.</em>",
-            "<strong>Frau Weber:</strong> Dann buche ich die Fahrkarten und die Hotels. <em>Then I will book the tickets and the hotels.</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>die Rundreise</strong> – round trip</li><li><strong>unterwegs sein</strong> – to be on the road, away</li><li><strong>eine schöne Route</strong> – a lovely route</li></ul>"
-        ]
       }
     ]
   }

@@ -23,22 +23,10 @@
         "image": "images/lo-02-familie-sprachen-herkunft/figures/beruf-arzt.webp"
       },
       {
-        "target": "Ingenieur / Ingenieurin",
-        "native": "engineer",
-        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-ingenieur.mp3",
-        "image": "images/lo-02-familie-sprachen-herkunft/figures/beruf-ingenieur.webp"
-      },
-      {
         "target": "Verkäufer / Verkäuferin",
         "native": "shop assistant",
         "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-verkaeufer.mp3",
         "image": "images/lo-02-familie-sprachen-herkunft/figures/beruf-verkaeufer.webp"
-      },
-      {
-        "target": "Kellner / Kellnerin",
-        "native": "waiter / waitress",
-        "audio": "audio/lo-02-familie-sprachen-herkunft/u2_v-beruf-kellner.mp3",
-        "image": "images/lo-02-familie-sprachen-herkunft/figures/beruf-kellner.webp"
       },
       {
         "target": "die Mutter",

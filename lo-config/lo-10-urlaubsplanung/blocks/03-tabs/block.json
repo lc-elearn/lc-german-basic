@@ -28,26 +28,6 @@
         ]
       },
       {
-        "label": "In der Teeküche",
-        "instructions": "Two colleagues talk about their holidays. They use \"Sie\". Where is Katrin going, and for how long?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-10-urlaubsplanung/u10_a2-in-der-teekueche.mp3",
-            "label": "Listen to the dialogue: In der Teeküche"
-          },
-          "transcript": [
-            "<strong>Katrin Huber:</strong> Herr Lange, wohin fahren Sie im Urlaub? <em>Mr Lange, where are you going on holiday?</em>",
-            "<strong>Peter Lange:</strong> Wir fahren nach Italien, ans Meer. Und Sie? <em>We are going to Italy, to the seaside. And you?</em>",
-            "<strong>Katrin Huber:</strong> Ich fahre in die Schweiz. Ich wandere gern in den Bergen. <em>I am going to Switzerland. I like hiking in the mountains.</em>",
-            "<strong>Peter Lange:</strong> Wie lange bleiben Sie? <em>How long are you staying?</em>",
-            "<strong>Katrin Huber:</strong> Zwei Wochen, vom 5. bis zum 19. August. <em>Two weeks, from 5 to 19 August.</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>nach Italien</strong> – to Italy (no article)</li><li><strong>in die Schweiz</strong> – to Switzerland (feminine country: in die)</li><li><strong>vom 5. bis zum 19. August</strong> – from the 5th to the 19th of August</li></ul>"
-        ]
-      },
-      {
         "label": "Im Studentenclub",
         "instructions": "Two students talk about summer plans. They use \"du\". Where does Marco's family live?",
         "media": {

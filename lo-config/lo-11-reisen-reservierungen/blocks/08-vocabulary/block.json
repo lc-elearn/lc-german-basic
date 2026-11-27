@@ -5,9 +5,8 @@
   "presentation": "card",
   "defaultOpen": true,
   "content": {
-    "instructions": "Listen and repeat. Check the article of each noun.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen and repeat. Check the article of each noun. You will learn:",
       "items": [
         "the station (<em>das Gleis, der Bahnsteig, der Fahrkartenschalter, der Automat</em>);",
         "timetable words (<em>die Abfahrt, die Ankunft, der Anschluss</em>)."

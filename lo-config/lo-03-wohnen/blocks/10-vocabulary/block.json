@@ -6,9 +6,8 @@
   "title": "Furniture",
   "presentation": "card",
   "content": {
-    "instructions": "Listen and repeat. Most furniture words are masculine or neuter: check each article.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen and repeat. Most furniture words are masculine or neuter: check each article. You will learn:",
       "items": ["furniture and fittings (<em>der Tisch, das Bett, der Schrank</em>)."]
     },
     "items": [

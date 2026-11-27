@@ -6,27 +6,6 @@
     "label": "Präsentation – Giving a short presentation",
     "tabs": [
       {
-        "label": "Die Vorbereitung",
-        "instructions": "A student asks how to prepare a presentation. They use \"Sie\". How long is it?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-12-laender-feste-praesentation/u12_d1-vorbereitung.mp3",
-            "label": "Listen to the dialogue: Die Vorbereitung"
-          },
-          "transcript": [
-            "<strong>Marco:</strong> Frau Keller, wie lange dauert die Präsentation? <em>Mrs Keller, how long does the presentation last?</em>",
-            "<strong>Frau Keller:</strong> Fünf Minuten. Beginnen Sie mit einer kurzen Einleitung. <em>Five minutes. Begin with a short introduction.</em>",
-            "<strong>Marco:</strong> Und dann? <em>And then?</em>",
-            "<strong>Frau Keller:</strong> Dann kommt der Hauptteil. Am Ende fassen Sie alles zusammen. <em>Then comes the main part. At the end you sum everything up.</em>",
-            "<strong>Marco:</strong> Darf ich Folien benutzen? <em>May I use slides?</em>",
-            "<strong>Frau Keller:</strong> Ja, aber nicht zu viel Text. Sprechen Sie langsam und deutlich. <em>Yes, but not too much text. Speak slowly and clearly.</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>die Einleitung / der Hauptteil / der Schluss</strong> – introduction / main part / conclusion</li><li><strong>zusammenfassen → Sie fassen zusammen</strong> – to sum up</li><li><strong>langsam und deutlich</strong> – slowly and clearly</li></ul>"
-        ]
-      },
-      {
         "label": "Die Präsentation",
         "instructions": "A student presents his home town. Listen for the three parts. What does he talk about first?",
         "media": {

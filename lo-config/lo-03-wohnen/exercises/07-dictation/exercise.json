@@ -27,11 +27,6 @@
         "prompt": "Sentence 4",
         "answer": "Ich suche einen kleinen Tisch.",
         "audio": "audio/lo-03-wohnen/u3_x-dikt-04.mp3"
-      },
-      {
-        "prompt": "Sentence 5",
-        "answer": "Er wohnt mit seiner Familie in einem Haus.",
-        "audio": "audio/lo-03-wohnen/u3_x-dikt-05.mp3"
       }
     ]
   }

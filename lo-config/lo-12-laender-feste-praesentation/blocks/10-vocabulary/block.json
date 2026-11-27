@@ -4,12 +4,11 @@
   "title": "Culture and everyday life",
   "presentation": "card",
   "content": {
-    "instructions": "Listen and repeat. These words are part of cultural life and everyday habits in German-speaking countries.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen and repeat. These words are part of cultural life and everyday habits in German-speaking countries. You will learn:",
       "items": [
-        "culture and media (<em>die Kunst, die Musik, die Ausstellung, die Zeitung</em>);",
-        "everyday habits (<em>die Mülltrennung, der Radweg, umweltfreundlich</em>)."
+        "culture (<em>die Kunst, die Ausstellung</em>);",
+        "everyday habits (<em>der Müll, die Mülltrennung</em>)."
       ]
     },
     "items": [
@@ -19,29 +18,9 @@
         "audio": "audio/lo-12-laender-feste-praesentation/u12_v-kultur-kunst.mp3"
       },
       {
-        "term": "die Musik",
-        "gloss": "music",
-        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-kultur-musik.mp3"
-      },
-      {
         "term": "die Ausstellung",
         "gloss": "exhibition",
         "audio": "audio/lo-12-laender-feste-praesentation/u12_v-kultur-ausstellung.mp3"
-      },
-      {
-        "term": "die Zeitung",
-        "gloss": "newspaper",
-        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-kultur-zeitung.mp3"
-      },
-      {
-        "term": "empfehlen",
-        "gloss": "to recommend",
-        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-kultur-empfehlen.mp3"
-      },
-      {
-        "term": "die Umwelt",
-        "gloss": "environment",
-        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-kultur-umwelt.mp3"
       },
       {
         "term": "der Müll",
@@ -52,21 +31,6 @@
         "term": "die Mülltrennung",
         "gloss": "sorting rubbish",
         "audio": "audio/lo-12-laender-feste-praesentation/u12_v-kultur-muelltrennung.mp3"
-      },
-      {
-        "term": "der Radweg",
-        "gloss": "cycle path",
-        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-kultur-radweg.mp3"
-      },
-      {
-        "term": "umweltfreundlich",
-        "gloss": "environmentally friendly",
-        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-kultur-umweltfreundlich.mp3"
-      },
-      {
-        "term": "öffentlich",
-        "gloss": "public",
-        "audio": "audio/lo-12-laender-feste-praesentation/u12_v-kultur-oeffentlich.mp3"
       }
     ]
   }

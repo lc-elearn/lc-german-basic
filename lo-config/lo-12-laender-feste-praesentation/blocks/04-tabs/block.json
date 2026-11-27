@@ -45,26 +45,6 @@
         "text": [
           "<ul><li><strong>die Mülltrennung</strong> – sorting rubbish</li><li><strong>der gelbe Sack</strong> – yellow bag (packaging)</li><li><strong>die Pfandflasche</strong> – deposit bottle</li></ul>"
         ]
-      },
-      {
-        "label": "Meine Meinung",
-        "instructions": "Two students discuss public transport. They use \"du\". Do they agree?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-12-laender-feste-praesentation/u12_b3-meinung.mp3",
-            "label": "Listen to the dialogue: Meine Meinung"
-          },
-          "transcript": [
-            "<strong>Marco:</strong> Meiner Meinung nach sollten alle öffentlichen Verkehrsmittel billiger sein. <em>In my opinion all public transport should be cheaper.</em>",
-            "<strong>Sophie:</strong> Da stimme ich dir zu. Das wäre gut für die Umwelt. <em>I agree with you there. That would be good for the environment.</em>",
-            "<strong>Marco:</strong> Aber das kostet viel Geld. <em>But that costs a lot of money.</em>",
-            "<strong>Sophie:</strong> Das stimmt. Ich denke, dass es wichtig ist. <em>That is true. I think that it is important.</em>",
-            "<strong>Marco:</strong> Vielleicht hast du recht. <em>Maybe you are right.</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>Meiner Meinung nach …</strong> – In my opinion …</li><li><strong>Da stimme ich dir zu.</strong> – I agree with you.</li><li><strong>Ich denke, dass …</strong> – I think that … (verb at the end)</li></ul>"
-        ]
       }
     ]
   }
