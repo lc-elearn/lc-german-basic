@@ -7,9 +7,8 @@
   "presentation": "card",
   "defaultOpen": true,
   "content": {
-    "instructions": "Listen to each word and say it aloud. Learn every noun with its article.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen to each word and say it aloud. Learn every noun with its article. You will learn:",
       "items": [
         "places in a town (<em>die Stadt, das Dorf, der Bahnhof</em>);",
         "where in a town you live (<em>im Zentrum, am Stadtrand, in der Nähe von</em>)."

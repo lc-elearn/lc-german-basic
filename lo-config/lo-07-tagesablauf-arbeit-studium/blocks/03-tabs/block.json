@@ -45,26 +45,6 @@
         "text": [
           "<ul><li><strong>Um wie viel Uhr?</strong> – At what time?</li><li><strong>Viertel vor neun</strong> – quarter to nine</li><li><strong>zu Ende sein</strong> – to be over</li></ul>"
         ]
-      },
-      {
-        "label": "Die Sprechstunde",
-        "instructions": "A student phones for an office-hour appointment. They use \"Sie\". At what time does he come?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-07-tagesablauf-arbeit-studium/u7_a3-sprechstunde.mp3",
-            "label": "Listen to the dialogue: Die Sprechstunde"
-          },
-          "transcript": [
-            "<strong>Marco:</strong> Guten Tag, Frau Keller, hier ist Marco Rossi. Wann haben Sie Sprechstunde? <em>Hello, Mrs Keller, this is Marco Rossi. When is your office hour?</em>",
-            "<strong>Frau Keller:</strong> Am Dienstag von zehn bis zwölf Uhr. <em>On Tuesday from ten to twelve.</em>",
-            "<strong>Marco:</strong> Kann ich um halb elf kommen? <em>Can I come at half past ten?</em>",
-            "<strong>Frau Keller:</strong> Ja, das passt. Bis Dienstag! <em>Yes, that suits me. See you on Tuesday!</em>",
-            "<strong>Marco:</strong> Danke, bis Dienstag! <em>Thank you, see you on Tuesday!</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>die Sprechstunde</strong> – office hour</li><li><strong>von zehn bis zwölf Uhr</strong> – from ten until twelve o'clock</li><li><strong>Das passt.</strong> – That suits me.</li></ul>"
-        ]
       }
     ]
   }

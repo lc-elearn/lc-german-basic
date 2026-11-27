@@ -6,9 +6,8 @@
   "title": "Family",
   "presentation": "card",
   "content": {
-    "instructions": "Learn each noun with its article. Note that die Eltern and die Geschwister are only used in the plural.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Learn each noun with its article. Note that die Eltern and die Geschwister are only used in the plural. You will learn:",
       "items": [
         "family members (<em>die Mutter, der Bruder, die Kinder</em>);",
         "family status (<em>verheiratet</em>)."

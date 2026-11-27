@@ -5,9 +5,8 @@
   "presentation": "card",
   "defaultOpen": true,
   "content": {
-    "instructions": "Languages are written with a capital letter, and the language name is the same word as the adjective: Ich spreche Deutsch.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Languages are written with a capital letter, and the language name is the same word as the adjective: Ich spreche Deutsch. You will learn:",
       "items": [
         "the names of languages (<em>Deutsch, Englisch, Spanisch</em>);",
         "how well you speak them (<em>ein bisschen, ziemlich gut, fließend</em>)."

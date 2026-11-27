@@ -1,12 +1,13 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Life story",
   "presentation": "card",
   "content": {
-    "instructions": "Listen and repeat. These words are the core of a biography.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen and repeat. These words are the core of a biography. You will learn:",
       "items": [
         "stages of life (<em>die Kindheit, die Schule, das Studium</em>);",
         "life events (<em>geboren, aufwachsen, umziehen, heiraten</em>)."
@@ -52,16 +53,6 @@
         "term": "heiraten",
         "gloss": "to marry",
         "audio": "audio/lo-08-vergangenheit/u8_v-leben-heiraten.mp3"
-      },
-      {
-        "term": "das Jahr",
-        "gloss": "year",
-        "audio": "audio/lo-08-vergangenheit/u8_v-leben-jahr.mp3"
-      },
-      {
-        "term": "das Jahrhundert",
-        "gloss": "century",
-        "audio": "audio/lo-08-vergangenheit/u8_v-leben-jahrhundert.mp3"
       }
     ]
   }

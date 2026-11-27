@@ -5,9 +5,8 @@
   "presentation": "card",
   "defaultOpen": true,
   "content": {
-    "instructions": "Listen to each phrase, say it aloud, and notice which ones are formal and which informal.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen to each phrase, say it aloud, and notice which ones are formal and which informal. You will learn:",
       "items": [
         "greetings for different times of day (<em>Guten Morgen, Guten Tag, Guten Abend</em>);",
         "saying goodbye, formally and informally (<em>Auf Wiedersehen, Tschüs</em>);",

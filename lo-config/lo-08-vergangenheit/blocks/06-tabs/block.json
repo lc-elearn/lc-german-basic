@@ -26,27 +26,6 @@
         ]
       },
       {
-        "label": "Im Seminar",
-        "instructions": "Two students revise dates for a seminar. They use \"du\". When did the Wall fall?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-08-vergangenheit/u8_d2-im-seminar.mp3",
-            "label": "Listen to the dialogue: Im Seminar"
-          },
-          "transcript": [
-            "<strong>Marco:</strong> Wann haben sie die Berliner Mauer gebaut? <em>When did they build the Berlin Wall?</em>",
-            "<strong>Sophie:</strong> Im Jahr 1961. Und sie ist am 9. November 1989 gefallen. <em>In 1961. And it fell on 9 November 1989.</em>",
-            "<strong>Marco:</strong> Wie lange hat sie gestanden? <em>How long did it stand?</em>",
-            "<strong>Sophie:</strong> Mehr als achtundzwanzig Jahre. <em>More than twenty-eight years.</em>",
-            "<strong>Marco:</strong> Und wann ist Deutschland wieder ein Land geworden? <em>And when did Germany become one country again?</em>",
-            "<strong>Sophie:</strong> Am 3. Oktober 1990. <em>On 3 October 1990.</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>im Jahr 1961</strong> – in 1961</li><li><strong>am 9. November</strong> – on 9 November (am neunten November)</li><li><strong>wieder</strong> – again</li></ul>"
-        ]
-      },
-      {
         "label": "Als ich ein Kind war",
         "instructions": "Two students talk about their childhood. They use \"du\". When did Daniel come to Berlin?",
         "media": {

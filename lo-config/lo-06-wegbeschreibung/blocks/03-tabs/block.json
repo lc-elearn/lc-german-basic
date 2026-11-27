@@ -21,7 +21,12 @@
             "<strong>Max:</strong> Nein, nur fünf Minuten zu Fuß. <em>No, only five minutes on foot.</em>",
             "<strong>Alex:</strong> Vielen Dank! <em>Thank you very much!</em>",
             "<strong>Max:</strong> Gern geschehen. <em>You are welcome.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-06-wegbeschreibung/dialogues/01-am-bahnhof.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Wo ist die Post?</strong> – Where is the post office?</li><li><strong>geradeaus / links / rechts</strong> – straight on / left / right</li><li><strong>zu Fuß</strong> – on foot</li></ul>"
@@ -41,7 +46,12 @@
             "<strong>Lukas:</strong> Neben der Mensa? Danke! <em>Next to the canteen? Thanks!</em>",
             "<strong>Anna Becker:</strong> Ich gehe auch dorthin. Komm mit! <em>I am going there too. Come along!</em>",
             "<strong>Lukas:</strong> Super, danke! <em>Great, thanks!</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-06-wegbeschreibung/dialogues/02-auf-dem-campus.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Geh hier rechts!</strong> – Go right here! (informal imperative)</li><li><strong>neben der Mensa</strong> – next to the canteen</li><li><strong>Komm mit!</strong> – Come along!</li></ul>"
@@ -61,7 +71,12 @@
             "<strong>Peter Lange:</strong> Und dann? <em>And then?</em>",
             "<strong>Frau Schneider:</strong> Gehen Sie rechts. Das Sprachenzentrum ist gegenüber der Bibliothek. <em>Go right. The Language Centre is opposite the library.</em>",
             "<strong>Peter Lange:</strong> Danke, bis gleich! <em>Thank you, see you soon!</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-06-wegbeschreibung/dialogues/03-am-telefon.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Wie komme ich zu Ihnen?</strong> – How do I get to you?</li><li><strong>aussteigen → steigen Sie aus</strong> – to get off</li><li><strong>gegenüber der Bibliothek</strong> – opposite the library</li></ul>"

@@ -25,11 +25,6 @@
       },
       {
         "prompt": "Sentence 4",
-        "answer": "Ich habe gestern einen Brief geschrieben.",
-        "audio": "audio/lo-08-vergangenheit/u8_x-dikt-04.mp3"
-      },
-      {
-        "prompt": "Sentence 5",
         "answer": "Als ich ein Kind war, habe ich in Graz gewohnt.",
         "audio": "audio/lo-08-vergangenheit/u8_x-dikt-05.mp3"
       }

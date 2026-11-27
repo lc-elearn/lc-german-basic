@@ -49,7 +49,7 @@
       "id": "culture",
       "label": "Cultural Notes",
       "navLabel": "Culture",
-      "blocks": ["24-intro", "25-prose", "26-prose", "27-prose", "28-tabs"]
+      "blocks": ["24-intro", "25-prose", "26-prose"]
     },
     {
       "id": "exercises",
@@ -61,9 +61,7 @@
         "03-conjugation",
         "04-inline-gap",
         "05-word-order",
-        "06-phrase-reorder",
         "07-dictation",
-        "08-reading",
         "09-typed-transform"
       ]
     }

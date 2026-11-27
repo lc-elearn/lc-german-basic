@@ -7,9 +7,8 @@
     "letterHeadings": true
   },
   "content": {
-    "instructions": "Listen and repeat. Many Christmas-market words are compound nouns.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen and repeat. Many Christmas-market words are compound nouns. You will learn:",
       "items": [
         "market food and drink (<em>der Glühwein, die Bratwurst, der Lebkuchen</em>);",
         "market words (<em>der Stand, das Pfand, der Weihnachtsmarkt</em>)."
@@ -60,24 +59,6 @@
         "term": "das Pfand",
         "gloss": "deposit",
         "audio": "audio/lo-06-wegbeschreibung/u6_v-markt-pfand.mp3",
-        "topic": "market"
-      },
-      {
-        "term": "der Adventskalender",
-        "gloss": "advent calendar",
-        "audio": "audio/lo-06-wegbeschreibung/u6_v-markt-adventskalender.mp3",
-        "topic": "market"
-      },
-      {
-        "term": "der Weihnachtsbaum",
-        "gloss": "Christmas tree",
-        "audio": "audio/lo-06-wegbeschreibung/u6_v-markt-weihnachtsbaum.mp3",
-        "topic": "market"
-      },
-      {
-        "term": "die Lichter",
-        "gloss": "lights",
-        "audio": "audio/lo-06-wegbeschreibung/u6_v-markt-lichter.mp3",
         "topic": "market"
       }
     ]

@@ -46,9 +46,8 @@
         "02-inline-choice",
         "03-conjugation",
         "04-inline-gap",
-        "06-phrase-reorder",
-        "07-dictation",
-        "08-reading"
+        "05-radio-quiz",
+        "07-dictation"
       ]
     }
   ],

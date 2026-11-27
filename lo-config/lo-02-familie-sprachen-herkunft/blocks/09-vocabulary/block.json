@@ -4,9 +4,8 @@
   "title": "Occupations",
   "presentation": "card",
   "content": {
-    "instructions": "Most occupations have a male and a female form: add -in for a woman (Lehrer → Lehrerin). Some also take an umlaut (Arzt → Ärztin).",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Most occupations have a male and a female form: add -in for a woman (Lehrer → Lehrerin). Some also take an umlaut (Arzt → Ärztin). You will learn:",
       "items": ["twelve common occupations, male and female (<em>Lehrer / Lehrerin</em>)."]
     },
     "items": [

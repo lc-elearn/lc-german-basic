@@ -27,26 +27,6 @@
         ]
       },
       {
-        "label": "Im Büro",
-        "instructions": "Two colleagues talk about tiredness. They use \"Sie\". What does Katrin suggest?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-09-gesundheit-essen/u9_b2-im-buero.mp3",
-            "label": "Listen to the dialogue: Im Büro"
-          },
-          "transcript": [
-            "<strong>Katrin Huber:</strong> Frau Keller, Sie sehen müde aus. <em>Mrs Keller, you look tired.</em>",
-            "<strong>Frau Keller:</strong> Ja, ich habe schlecht geschlafen und Rückenschmerzen. <em>Yes, I slept badly and I have back pain.</em>",
-            "<strong>Katrin Huber:</strong> Gehen Sie doch zum Arzt. <em>Why not go to the doctor?</em>",
-            "<strong>Frau Keller:</strong> Der Arzt sagt, ich soll mehr Sport machen. <em>The doctor says I should do more sport.</em>",
-            "<strong>Katrin Huber:</strong> Dann machen Sie Yoga. Das hilft. <em>Then do yoga. That helps.</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>Sie sehen müde aus.</strong> – You look tired.</li><li><strong>Ich soll …</strong> – I am supposed to … / I should …</li><li><strong>Das hilft.</strong> – That helps.</li></ul>"
-        ]
-      },
-      {
         "label": "Im Fitnessstudio",
         "instructions": "Two friends talk about a sore back. They use \"du\". What should Daniel not do?",
         "media": {
