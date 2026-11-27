@@ -21,7 +21,12 @@
             "<strong>Frau Weber:</strong> Drei Euro. Die Tomaten kosten vier Euro das Kilo. <em>Three euros. The tomatoes cost four euros a kilo.</em>",
             "<strong>Frau Schneider:</strong> Dann zusammen fünf Euro? <em>So five euros together?</em>",
             "<strong>Frau Weber:</strong> Genau, fünf Euro. <em>Exactly, five euros.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-09-gesundheit-essen/dialogues/07-auf-dem-markt.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>ein Kilo Äpfel</strong> – a kilo of apples (no article; the measure word stays singular)</li><li><strong>fünfhundert Gramm</strong> – five hundred grams</li><li><strong>vier Euro das Kilo</strong> – four euros a kilo</li></ul>"
@@ -42,7 +47,12 @@
             "<strong>Alex:</strong> Wie viele Eier brauchen wir? <em>How many eggs do we need?</em>",
             "<strong>Max:</strong> Zehn. Und einen Liter Milch. <em>Ten. And a litre of milk.</em>",
             "<strong>Alex:</strong> Ich schreibe es auf. Hast du die Tasche? <em>I will write it down. Do you have the bag?</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-09-gesundheit-essen/dialogues/08-im-supermarkt.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Wir brauchen …</strong> – We need …</li><li><strong>Wie viele Eier?</strong> – How many eggs?</li><li><strong>einen Liter Milch</strong> – a litre of milk</li></ul>"

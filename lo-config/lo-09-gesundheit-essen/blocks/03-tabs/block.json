@@ -21,7 +21,12 @@
             "<strong>Marco:</strong> Ich habe seit drei Tagen Fieber und Husten. <em>I have had a fever and a cough for three days.</em>",
             "<strong>Frau Schneider:</strong> Können Sie morgen um zehn Uhr kommen? <em>Can you come tomorrow at ten o'clock?</em>",
             "<strong>Marco:</strong> Ja, das passt. Danke! <em>Yes, that suits me. Thank you!</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-09-gesundheit-essen/dialogues/01-ein-termin.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>einen Termin machen</strong> – to make an appointment</li><li><strong>seit drei Tagen</strong> – for three days (seit + dative)</li><li><strong>Fieber, Husten</strong> – fever, cough</li></ul>"
@@ -43,7 +48,12 @@
             "<strong>Frau Dr. Krause:</strong> Das ist eine Erkältung. Sie sollen viel trinken und im Bett bleiben. <em>It is a cold. You should drink a lot and stay in bed.</em>",
             "<strong>Marco:</strong> Darf ich arbeiten? <em>May I work?</em>",
             "<strong>Frau Dr. Krause:</strong> Nein, ich schreibe Sie eine Woche krank. <em>No, I will sign you off sick for a week.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-09-gesundheit-essen/dialogues/03-beim-arzt.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Was fehlt Ihnen?</strong> – What is wrong? (formal)</li><li><strong>Sie sollen …</strong> – You should … (the doctor's instruction)</li><li><strong>krankschreiben → ich schreibe Sie krank</strong> – to sign someone off sick</li></ul>"
