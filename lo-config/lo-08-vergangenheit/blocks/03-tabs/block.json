@@ -20,7 +20,12 @@
             "<strong>Frau Schneider:</strong> Und am Sonntag? <em>And on Sunday?</em>",
             "<strong>Herr Vogel:</strong> Am Sonntag bin ich spät aufgestanden und dann spazieren gegangen. <em>On Sunday I got up late and then went for a walk.</em>",
             "<strong>Frau Schneider:</strong> Das klingt schön. Ich habe leider nur gearbeitet. <em>That sounds lovely. Unfortunately I only worked.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-08-vergangenheit/dialogues/01-am-montag.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Was haben Sie gemacht?</strong> – What did you do?</li><li><strong>Ich habe Freunde besucht.</strong> – I visited friends. (haben + participle at the end)</li><li><strong>Ich bin aufgestanden.</strong> – I got up. (sein + participle)</li></ul>"
@@ -41,7 +46,12 @@
             "<strong>Daniel:</strong> Nach Potsdam. Wir sind mit dem Zug gefahren. <em>To Potsdam. We went by train.</em>",
             "<strong>Anna Becker:</strong> Und das Wetter? <em>And the weather?</em>",
             "<strong>Daniel:</strong> Das Wetter war perfekt. <em>The weather was perfect.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-08-vergangenheit/dialogues/02-in-der-mensa.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Wie war dein Wochenende?</strong> – How was your weekend?</li><li><strong>wir waren wandern</strong> – we went hiking (war = was / were)</li><li><strong>den ganzen Tag</strong> – all day</li></ul>"
