@@ -1,0 +1,24 @@
+{
+  "type": "drag-fill-gaps",
+  "title": "Indirect questions: drag the word",
+  "content": {
+    "instructions": "Drag each question word into the right gap. The answer after the dash shows which word fits.",
+    "items": [
+      {
+        "text": "Wissen Sie, [wann] der Zug kommt? – Um neun Uhr."
+      },
+      {
+        "text": "Wissen Sie, [wo] der Bahnsteig ist? – Gleis sieben."
+      },
+      {
+        "text": "Wissen Sie, [ob] der Zug Verspätung hat? – Ja, zehn Minuten."
+      },
+      {
+        "text": "Wissen Sie, [wie] ich zum Bahnhof komme? – Gehen Sie geradeaus."
+      }
+    ]
+  },
+  "options": {
+    "shuffle": true
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "word-spot",
+  "title": "Spot the comparative",
+  "content": {
+    "instructions": "Click the comparative in each sentence.",
+    "items": [
+      {
+        "text": "Der Süden ist [wärmer] als der Norden."
+      },
+      {
+        "text": "Das Hotel ist [teurer] als die Pension."
+      },
+      {
+        "text": "Das Apartment ist [billiger] und [besser]."
+      },
+      {
+        "text": "Ich fahre [lieber] im Mai."
+      }
+    ]
+  }
+}
