@@ -252,15 +252,12 @@ export default function LessonRail({ lessons }: LessonRailProps) {
 
             <nav aria-label="Lessons" className="overflow-y-auto px-2 py-3">
               <ol className="flex flex-col gap-0.5">
-                {lessons.map((lesson, index) => (
+                {lessons.map((lesson) => (
                   <li key={lesson.folder}>
                     <a
                       href={resolveAsset(`${lesson.slug}.html`)}
                       className={`flex items-baseline gap-3 rounded-md px-3 py-2 text-sm text-foreground/85 transition-colors hover:bg-muted hover:text-foreground ${FOCUS_OUTLINE}`}
                     >
-                      <span aria-hidden="true" className="font-mono text-xs text-muted-foreground">
-                        {String(index + 1).padStart(2, '0')}
-                      </span>
                       <span>{lesson.title}</span>
                     </a>
                   </li>
