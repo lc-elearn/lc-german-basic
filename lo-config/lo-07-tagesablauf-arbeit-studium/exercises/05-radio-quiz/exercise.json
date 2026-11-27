@@ -15,11 +15,7 @@
       },
       {
         "prompt": "Which time is “halb drei”?",
-        "options": [
-          "*2:30",
-          "3:30",
-          "2:45"
-        ],
+        "options": ["*2:30", "3:30", "2:45"],
         "explanation": "“halb” counts towards the next hour: halfway to three is 2:30."
       },
       {

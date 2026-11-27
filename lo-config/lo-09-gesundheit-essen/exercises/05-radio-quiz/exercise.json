@@ -15,11 +15,7 @@
       },
       {
         "prompt": "Which article goes with Zahnarzt?",
-        "options": [
-          "*der Zahnarzt",
-          "die Zahnarzt",
-          "das Zahnarzt"
-        ],
+        "options": ["*der Zahnarzt", "die Zahnarzt", "das Zahnarzt"],
         "explanation": "The last part of a compound noun decides the article: der Arzt, so der Zahnarzt."
       },
       {
