@@ -27,8 +27,24 @@
       },
       {
         "text": "Ich esse [*keine|kein|keinen] Nudeln."
+      },
+      {
+        "text": "Ich möchte [*einen|eine|ein] Tee, bitte."
+      },
+      {
+        "text": "Haben Sie [*eine|einen|ein] Speisekarte?"
+      },
+      {
+        "text": "Wir [*möchten|möchte|möchtet] zwei Kaffee, bitte."
+      },
+      {
+        "text": "Ich nehme [*ein|einen|eine] Stück Kuchen."
       }
     ],
     "footnote": "kein + noun; nicht + verb or adjective. The masculine accusative takes -en."
+  },
+  "options": {
+    "shuffle": true,
+    "sampleSize": 8
   }
 }

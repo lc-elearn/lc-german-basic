@@ -21,8 +21,30 @@
       },
       {
         "text": "Das Sofa steht [*an der|an die] Wand."
+      },
+      {
+        "text": "Wir wohnen [*in einem|in einer|in ein] Haus."
+      },
+      {
+        "text": "Die Katze liegt [*auf dem|auf den|auf der] Sofa."
+      },
+      {
+        "text": "Das Bild hängt [*über dem|über den|über der] Sofa."
+      },
+      {
+        "text": "Der Stuhl steht [*neben dem|neben den|neben der] Tisch."
+      },
+      {
+        "text": "Ich wohne [*bei|zu|mit] meinen Eltern."
+      },
+      {
+        "text": "Mein Zimmer ist [*neben der|neben dem|neben die] Küche."
       }
     ],
     "footnote": "Remember: wo? takes the dative."
+  },
+  "options": {
+    "shuffle": true,
+    "sampleSize": 8
   }
 }

@@ -33,7 +33,17 @@
       },
       {
         "text": "Die Stadt [*gefällt|gefallen|gefällst] mir."
+      },
+      {
+        "text": "Ich [*spreche|sprichst|spricht] ein bisschen Deutsch."
+      },
+      {
+        "text": "Wir fahren [*mit dem|mit der|mit den] Bus."
       }
     ]
+  },
+  "options": {
+    "shuffle": true,
+    "sampleSize": 8
   }
 }

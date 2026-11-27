@@ -27,7 +27,23 @@
       },
       {
         "text": "Hallo, Anna! Woher [*kommst du|kommen Sie]?"
+      },
+      {
+        "text": "Anna, [bin|*bist|ist] du müde?"
+      },
+      {
+        "text": "Wir [bin|*sind|seid] aus Deutschland."
+      },
+      {
+        "text": "Woher [*kommt|kommst|komme] Sophie?"
+      },
+      {
+        "text": "Ich [*komme|kommst|kommt] aus England."
       }
     ]
+  },
+  "options": {
+    "shuffle": true,
+    "sampleSize": 8
   }
 }

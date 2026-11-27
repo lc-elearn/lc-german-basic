@@ -27,8 +27,24 @@
       },
       {
         "text": "Ich lege die Tasche [*auf den|auf dem|auf der] Sitz."
+      },
+      {
+        "text": "Das Hotel liegt [*in der|in die|in den] Nähe vom Bahnhof."
+      },
+      {
+        "text": "Ich warte [*auf|für|an] den Zug."
+      },
+      {
+        "text": "Wir fliegen [*mit dem|mit der|mit den] Flugzeug."
+      },
+      {
+        "text": "Ich möchte [*ein|einen|eine] Zimmer für zwei Nächte."
       }
     ],
     "footnote": "Wo? takes the dative; wohin? takes the accusative."
+  },
+  "options": {
+    "shuffle": true,
+    "sampleSize": 8
   }
 }
