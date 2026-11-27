@@ -19,7 +19,12 @@
             "<strong>Peter Lange:</strong> Seit wann machen Sie das? <em>How long have you been doing that?</em>",
             "<strong>Frau Schneider:</strong> Seit zwei Monaten. Es ist wichtig, genug zu schlafen und viel zu trinken. <em>For two months. It is important to sleep enough and to drink a lot.</em>",
             "<strong>Peter Lange:</strong> Da haben Sie recht. <em>You are right there.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-09-gesundheit-essen/dialogues/11-am-stammtisch.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Ich versuche, zu laufen.</strong> – I try to run. (comma + zu + infinitive)</li><li><strong>seit zwei Monaten</strong> – for two months</li><li><strong>Es ist wichtig, zu schlafen.</strong> – It is important to sleep.</li></ul>"
@@ -39,7 +44,12 @@
             "<strong>Marco:</strong> Wir laufen erst am Nachmittag. <em>We will only run in the afternoon.</em>",
             "<strong>Lukas:</strong> Dann komme ich mit. <em>Then I will come along.</em>",
             "<strong>Marco:</strong> Prima, bis Samstag! <em>Great, see you on Saturday!</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-09-gesundheit-essen/dialogues/12-im-park.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Hast du Lust, mitzukommen?</strong> – Would you like to come along? (zu inside a separable verb)</li><li><strong>Ich habe vor, zu laufen.</strong> – I plan to run.</li><li><strong>früh aufzustehen</strong> – to get up early</li></ul>"

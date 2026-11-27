@@ -45,7 +45,12 @@
             "<strong>Daniel:</strong> Seit dem Training am Montag. <em>Since the workout on Monday.</em>",
             "<strong>Elif:</strong> Du darfst nicht schwer heben. Mach lieber Yoga! <em>You must not lift heavy things. Do yoga instead!</em>",
             "<strong>Daniel:</strong> Ja, das ist eine gute Idee. <em>Yes, that is a good idea.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-09-gesundheit-essen/dialogues/06-im-fitnessstudio.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Mein Rücken tut weh.</strong> – My back hurts.</li><li><strong>Du darfst nicht …</strong> – You must not … / you are not allowed to …</li><li><strong>schwer heben</strong> – to lift heavy things</li></ul>"
