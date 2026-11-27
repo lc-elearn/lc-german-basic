@@ -44,27 +44,6 @@
         "text": [
           "<ul><li><strong>Ich muss im Labor sein.</strong> – I have to be in the lab.</li><li><strong>die Vorlesung</strong> – lecture</li><li><strong>Viel Erfolg!</strong> – Good luck!</li></ul>"
         ]
-      },
-      {
-        "label": "Eine Einladung zum Gespräch",
-        "instructions": "An office phones a student about a job interview. They use \"Sie\". Where is the interview?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-07-tagesablauf-arbeit-studium/u7_c3-gespraech.mp3",
-            "label": "Listen to the dialogue: Eine Einladung zum Gespräch"
-          },
-          "transcript": [
-            "<strong>Frau Schneider:</strong> Guten Tag, Herr Rossi, hier ist das Sprachenzentrum. Wir möchten Sie zu einem Gespräch einladen. <em>Hello, Mr Rossi, this is the Language Centre. We would like to invite you for an interview.</em>",
-            "<strong>Marco:</strong> Wirklich? Wann denn? <em>Really? When?</em>",
-            "<strong>Frau Schneider:</strong> Können Sie am Donnerstag um vierzehn Uhr kommen? <em>Can you come on Thursday at two p.m.?</em>",
-            "<strong>Marco:</strong> Ja, das passt. Wo ist das? <em>Yes, that suits me. Where is it?</em>",
-            "<strong>Frau Schneider:</strong> Im Büro im ersten Stock, Zimmer zwölf. <em>In the office on the first floor, room twelve.</em>",
-            "<strong>Marco:</strong> Danke, bis Donnerstag! <em>Thank you, see you on Thursday!</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>zu einem Gespräch einladen</strong> – to invite for an interview</li><li><strong>um vierzehn Uhr</strong> – at 2 p.m. (24-hour)</li><li><strong>im ersten Stock</strong> – on the first floor</li></ul>"
-        ]
       }
     ]
   }

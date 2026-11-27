@@ -8,12 +8,11 @@
   },
   "defaultOpen": true,
   "content": {
-    "instructions": "Listen and repeat. Learn the article with each place.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen and repeat. Learn the article with each place. You will learn:",
       "items": [
         "places in a town (<em>die Post, die Bank, die Bibliothek, das Rathaus</em>);",
-        "shops (<em>die Bäckerei, die Buchhandlung, der Supermarkt</em>)."
+        "shops (<em>die Bäckerei, die Buchhandlung, das Touristenbüro</em>)."
       ]
     },
     "topics": [
@@ -79,18 +78,6 @@
         "term": "die Buchhandlung",
         "gloss": "bookshop",
         "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-buchhandlung.mp3",
-        "topic": "shops"
-      },
-      {
-        "term": "der Supermarkt",
-        "gloss": "supermarket",
-        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-supermarkt.mp3",
-        "topic": "shops"
-      },
-      {
-        "term": "die Apotheke",
-        "gloss": "pharmacy",
-        "audio": "audio/lo-06-wegbeschreibung/u6_v-ort-apotheke.mp3",
         "topic": "shops"
       },
       {
