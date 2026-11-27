@@ -1,9 +1,0 @@
-{
-  "type": "word-order",
-  "title": "Word order: the verb is second",
-  "content": {
-    "instructions": "Put the words in the right order to make a sentence.",
-    "words": ["Heute", "Abend", "gehe", "ich", "schwimmen."],
-    "audio": "audio/lo-07-tagesablauf-arbeit-studium/u7_x-wo-heute-abend.mp3"
-  }
-}

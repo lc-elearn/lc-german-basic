@@ -1,9 +1,0 @@
-{
-  "type": "word-order",
-  "title": "Word order: the Perfekt",
-  "content": {
-    "instructions": "Put the words in the right order to make a statement.",
-    "words": ["Ich", "habe", "am", "Samstag", "Freunde", "besucht."],
-    "audio": "audio/lo-08-vergangenheit/u8_x-wo-besucht.mp3"
-  }
-}

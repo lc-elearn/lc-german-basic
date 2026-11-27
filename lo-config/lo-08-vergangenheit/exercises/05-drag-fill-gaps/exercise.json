@@ -1,0 +1,24 @@
+{
+  "type": "drag-fill-gaps",
+  "title": "haben or sein: drag the word",
+  "content": {
+    "instructions": "Drag each helping verb into the right gap.",
+    "items": [
+      {
+        "text": "Ich [bin] gestern nach Berlin gefahren."
+      },
+      {
+        "text": "Anna [hat] Kaffee getrunken."
+      },
+      {
+        "text": "Wir [sind] am Samstag ins Kino gegangen."
+      },
+      {
+        "text": "Du [hast] ein Buch gelesen."
+      }
+    ]
+  },
+  "options": {
+    "shuffle": true
+  }
+}
