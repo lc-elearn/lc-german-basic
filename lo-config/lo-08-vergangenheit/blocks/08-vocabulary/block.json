@@ -5,9 +5,8 @@
   "presentation": "card",
   "defaultOpen": true,
   "content": {
-    "instructions": "Listen and repeat. These words tell you that a sentence is about the past.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen and repeat. These words tell you that a sentence is about the past. You will learn:",
       "items": [
         "past time words (<em>gestern, letzte Woche, vor zwei Jahren, damals</em>);",
         "experience (<em>schon einmal, noch nie, zum ersten Mal</em>)."

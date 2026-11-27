@@ -7,9 +7,8 @@
     "letterHeadings": true
   },
   "content": {
-    "instructions": "Listen and repeat. These are the words you listen for when someone gives you directions.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen and repeat. These are the words you listen for when someone gives you directions. You will learn:",
       "items": [
         "directions (<em>links, rechts, geradeaus</em>);",
         "positions (<em>neben, vor, hinter, zwischen, gegenüber</em>)."
@@ -42,12 +41,6 @@
         "term": "geradeaus",
         "gloss": "straight ahead",
         "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-geradeaus.mp3",
-        "topic": "directions"
-      },
-      {
-        "term": "die Kreuzung",
-        "gloss": "crossing",
-        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-kreuzung.mp3",
         "topic": "directions"
       },
       {
@@ -90,12 +83,6 @@
         "term": "die Straße",
         "gloss": "street",
         "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-strasse.mp3",
-        "topic": "directions"
-      },
-      {
-        "term": "weit / nah",
-        "gloss": "far / near",
-        "audio": "audio/lo-06-wegbeschreibung/u6_v-weg-weit-nah.mp3",
         "topic": "directions"
       }
     ]

@@ -44,26 +44,6 @@
         "text": [
           "<ul><li><strong>der Arbeitstag</strong> – working day</li><li><strong>die Mittagspause</strong> – lunch break</li><li><strong>Feierabend machen</strong> – to finish work for the day</li></ul>"
         ]
-      },
-      {
-        "label": "Im Zug",
-        "instructions": "Two colleagues talk about their commute. They use \"Sie\". When does Mrs Keller get home?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-07-tagesablauf-arbeit-studium/u7_b3-im-zug.mp3",
-            "label": "Listen to the dialogue: Im Zug"
-          },
-          "transcript": [
-            "<strong>Herr Vogel:</strong> Fahren Sie jeden Tag mit dem Zug, Frau Keller? <em>Do you take the train every day, Mrs Keller?</em>",
-            "<strong>Frau Keller:</strong> Ja, ich fahre um sieben ab und bin um acht im Büro. <em>Yes, I leave at seven and am in the office at eight.</em>",
-            "<strong>Herr Vogel:</strong> Und abends? <em>And in the evening?</em>",
-            "<strong>Frau Keller:</strong> Ich komme gegen halb sieben nach Hause. <em>I get home around half past six.</em>",
-            "<strong>Herr Vogel:</strong> Das ist ein langer Tag. <em>That is a long day.</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>gegen halb sieben</strong> – around half past six</li><li><strong>abfahren → ich fahre ab</strong> – to leave, to depart</li><li><strong>abends</strong> – in the evenings</li></ul>"
-        ]
       }
     ]
   }
