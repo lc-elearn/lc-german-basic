@@ -20,7 +20,12 @@
             "<strong>Frau Weber:</strong> Nein, den Saft gibt es ohne Rezept. <em>No, you can get the syrup without a prescription.</em>",
             "<strong>Herr Vogel:</strong> Gut, dann nehme ich ihn. Was kostet er? <em>Good, then I will take it. What does it cost?</em>",
             "<strong>Frau Weber:</strong> Sieben Euro neunzig. <em>Seven euros ninety.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-09-gesundheit-essen/dialogues/04-in-der-apotheke.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>etwas gegen Husten</strong> – something for a cough</li><li><strong>dreimal täglich</strong> – three times a day</li><li><strong>das Rezept</strong> – prescription</li></ul>"
