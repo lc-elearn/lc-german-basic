@@ -28,26 +28,6 @@
         ]
       },
       {
-        "label": "Im Wartezimmer",
-        "instructions": "Two friends talk in a waiting room. They use \"du\". What else hurts?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-09-gesundheit-essen/u9_a2-im-wartezimmer.mp3",
-            "label": "Listen to the dialogue: Im Wartezimmer"
-          },
-          "transcript": [
-            "<strong>Anna Becker:</strong> Wie geht es dir, Lukas? <em>How are you, Lukas?</em>",
-            "<strong>Lukas:</strong> Nicht so gut. Ich habe Kopfschmerzen und bin müde. <em>Not so well. I have a headache and I am tired.</em>",
-            "<strong>Anna Becker:</strong> Seit wann denn? <em>Since when?</em>",
-            "<strong>Lukas:</strong> Seit gestern. Mein Hals tut auch weh. <em>Since yesterday. My throat hurts too.</em>",
-            "<strong>Anna Becker:</strong> Gute Besserung! Hoffentlich ist es nur eine Erkältung. <em>Get well soon! I hope it is just a cold.</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>Wie geht es dir?</strong> – How are you? (informal)</li><li><strong>Mein Hals tut weh.</strong> – My throat hurts.</li><li><strong>Gute Besserung!</strong> – Get well soon!</li></ul>"
-        ]
-      },
-      {
         "label": "Beim Arzt",
         "instructions": "A patient sees the doctor. They use \"Sie\". What must he do, and may he work?",
         "media": {

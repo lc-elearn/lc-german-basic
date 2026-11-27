@@ -44,26 +44,6 @@
         "text": [
           "<ul><li><strong>ankommen → ist angekommen</strong> – to arrive</li><li><strong>Der Zug hatte Verspätung.</strong> – The train was late.</li><li><strong>wenigstens</strong> – at least</li></ul>"
         ]
-      },
-      {
-        "label": "Am Telefon",
-        "instructions": "Two friends talk on the phone after a trip. They use \"du\". What did they do today?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-08-vergangenheit/u8_b3-am-telefon.mp3",
-            "label": "Listen to the dialogue: Am Telefon"
-          },
-          "transcript": [
-            "<strong>Anna Becker:</strong> Hallo Lukas! Wir sind gut angekommen. <em>Hello Lukas! We arrived safely.</em>",
-            "<strong>Lukas:</strong> Wie war die Reise? <em>How was the journey?</em>",
-            "<strong>Anna Becker:</strong> Lang, aber schön. Wir haben im Zug geschlafen und gelesen. <em>Long, but nice. We slept and read on the train.</em>",
-            "<strong>Lukas:</strong> Habt ihr schon etwas gesehen? <em>Have you seen anything yet?</em>",
-            "<strong>Anna Becker:</strong> Ja, heute haben wir die Stadt besichtigt. <em>Yes, today we looked around the city.</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>Wir sind angekommen.</strong> – We have arrived.</li><li><strong>die Stadt besichtigen</strong> – to look around a town</li><li><strong>Habt ihr …?</strong> – Did you (plural) …?</li></ul>"
-        ]
       }
     ]
   }

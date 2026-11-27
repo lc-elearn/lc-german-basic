@@ -6,26 +6,6 @@
     "label": "Pläne",
     "tabs": [
       {
-        "label": "Im Café",
-        "instructions": "Two friends talk about the evening. They use \"du\". What does Anna do if it rains?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-07-tagesablauf-arbeit-studium/u7_d1-im-cafe.mp3",
-            "label": "Listen to the dialogue: Im Café"
-          },
-          "transcript": [
-            "<strong>Anna Becker:</strong> Was machst du am Abend? <em>What are you doing this evening?</em>",
-            "<strong>Elif:</strong> Wenn ich Zeit habe, gehe ich schwimmen. Und du? <em>If I have time, I go swimming. And you?</em>",
-            "<strong>Anna Becker:</strong> Wenn das Wetter gut ist, laufe ich im Park. <em>If the weather is good, I run in the park.</em>",
-            "<strong>Elif:</strong> Heute regnet es doch. <em>But it is raining today.</em>",
-            "<strong>Anna Becker:</strong> Dann bleibe ich zu Hause und lese. <em>Then I stay at home and read.</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>Wenn ich Zeit habe, …</strong> – If / when I have time, …</li><li><strong>Dann bleibe ich zu Hause.</strong> – Then I stay at home.</li><li><strong>es regnet</strong> – it is raining</li></ul>"
-        ]
-      },
-      {
         "label": "Am Stammtisch",
         "instructions": "Two regulars talk about training. They use \"Sie\". Why is Mrs Schneider going despite being tired?",
         "media": {

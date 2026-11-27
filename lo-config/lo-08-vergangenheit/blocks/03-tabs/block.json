@@ -46,26 +46,6 @@
         "text": [
           "<ul><li><strong>Wie war dein Wochenende?</strong> – How was your weekend?</li><li><strong>wir waren wandern</strong> – we went hiking (war = was / were)</li><li><strong>den ganzen Tag</strong> – all day</li></ul>"
         ]
-      },
-      {
-        "label": "Am Stammtisch",
-        "instructions": "Two regulars talk about a trip. They use \"Sie\". What did Katrin do in Dortmund?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-08-vergangenheit/u8_a3-am-stammtisch.mp3",
-            "label": "Listen to the dialogue: Am Stammtisch"
-          },
-          "transcript": [
-            "<strong>Peter Lange:</strong> Waren Sie schon einmal in Dortmund, Frau Huber? <em>Have you ever been to Dortmund, Mrs Huber?</em>",
-            "<strong>Katrin Huber:</strong> Ja, letztes Jahr. Ich habe dort eine Konferenz besucht. <em>Yes, last year. I attended a conference there.</em>",
-            "<strong>Peter Lange:</strong> Und wie war es? <em>And how was it?</em>",
-            "<strong>Katrin Huber:</strong> Sehr gut. Ich habe viel gesehen und nette Leute getroffen. <em>Very good. I saw a lot and met nice people.</em>",
-            "<strong>Peter Lange:</strong> Dann müssen Sie wiederkommen! <em>Then you must come again!</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>Waren Sie schon einmal in …?</strong> – Have you ever been to …?</li><li><strong>letztes Jahr</strong> – last year</li><li><strong>nette Leute getroffen</strong> – met nice people</li></ul>"
-        ]
       }
     ]
   }

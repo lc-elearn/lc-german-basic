@@ -6,26 +6,6 @@
     "label": "Gesund leben – Healthy habits",
     "tabs": [
       {
-        "label": "In der Mensa",
-        "instructions": "Two students talk about diet. They use \"du\". How long has Lukas eaten no meat?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-09-gesundheit-essen/u9_d1-in-der-mensa.mp3",
-            "label": "Listen to the dialogue: In der Mensa"
-          },
-          "transcript": [
-            "<strong>Sophie:</strong> Du isst nur Salat, Lukas? <em>You are only eating salad, Lukas?</em>",
-            "<strong>Lukas:</strong> Ja, ich esse seit einem Jahr kein Fleisch mehr. <em>Yes, I have not eaten meat for a year.</em>",
-            "<strong>Sophie:</strong> Und geht es dir besser? <em>And do you feel better?</em>",
-            "<strong>Lukas:</strong> Ja, viel besser. Ich schlafe auch besser. <em>Yes, much better. I sleep better too.</em>",
-            "<strong>Sophie:</strong> Vielleicht probiere ich das auch. <em>Maybe I will try that too.</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>seit einem Jahr</strong> – for a year</li><li><strong>kein Fleisch mehr</strong> – no meat any more</li><li><strong>Geht es dir besser?</strong> – Do you feel better?</li></ul>"
-        ]
-      },
-      {
         "label": "Am Stammtisch",
         "instructions": "Two regulars talk about fitness. They use \"Sie\". Since when does Mrs Schneider run?",
         "media": {

@@ -27,26 +27,6 @@
         ]
       },
       {
-        "label": "Auf der Konferenz",
-        "instructions": "Two delegates talk about where they grew up. They use \"Sie\". Where did Mr Vogel work before?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-08-vergangenheit/u8_c2-auf-der-konferenz.mp3",
-            "label": "Listen to the dialogue: Auf der Konferenz"
-          },
-          "transcript": [
-            "<strong>Peter Lange:</strong> Herr Vogel, wo sind Sie aufgewachsen? <em>Mr Vogel, where did you grow up?</em>",
-            "<strong>Herr Vogel:</strong> In Graz. Ich habe dort die Schule besucht und studiert. <em>In Graz. I went to school and studied there.</em>",
-            "<strong>Peter Lange:</strong> Und wann sind Sie nach Berlin gekommen? <em>And when did you come to Berlin?</em>",
-            "<strong>Herr Vogel:</strong> Vor zwei Jahren. Davor habe ich in Wien gearbeitet. <em>Two years ago. Before that I worked in Vienna.</em>",
-            "<strong>Peter Lange:</strong> Interessant! <em>Interesting!</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>aufwachsen → bin aufgewachsen</strong> – to grow up</li><li><strong>vor zwei Jahren</strong> – two years ago</li><li><strong>davor</strong> – before that</li></ul>"
-        ]
-      },
-      {
         "label": "Familiengeschichte",
         "instructions": "Two students talk about family history. They use \"du\". What did Elif's grandfather do?",
         "media": {

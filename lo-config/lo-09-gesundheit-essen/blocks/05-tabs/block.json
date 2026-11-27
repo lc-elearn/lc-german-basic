@@ -47,27 +47,6 @@
         "text": [
           "<ul><li><strong>Wir brauchen …</strong> – We need …</li><li><strong>Wie viele Eier?</strong> – How many eggs?</li><li><strong>einen Liter Milch</strong> – a litre of milk</li></ul>"
         ]
-      },
-      {
-        "label": "An der Kasse",
-        "instructions": "A customer pays at a supermarket checkout. They use \"Sie\". How does he pay?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-09-gesundheit-essen/u9_c3-an-der-kasse.mp3",
-            "label": "Listen to the dialogue: An der Kasse"
-          },
-          "transcript": [
-            "<strong>Frau Weber:</strong> Haben Sie eine Kundenkarte? <em>Do you have a loyalty card?</em>",
-            "<strong>Daniel:</strong> Nein, leider nicht. <em>No, unfortunately not.</em>",
-            "<strong>Frau Weber:</strong> Brauchen Sie eine Tüte? <em>Do you need a bag?</em>",
-            "<strong>Daniel:</strong> Nein, danke, ich habe eine Tasche dabei. <em>No, thank you, I have a bag with me.</em>",
-            "<strong>Frau Weber:</strong> Das macht zwölf Euro dreißig. Bar oder mit Karte? <em>That is €12.30. Cash or card?</em>",
-            "<strong>Daniel:</strong> Mit Karte, bitte. <em>By card, please.</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>die Kundenkarte</strong> – loyalty card</li><li><strong>die Tüte</strong> – carrier bag</li><li><strong>Bar oder mit Karte?</strong> – Cash or card?</li></ul>"
-        ]
       }
     ]
   }
