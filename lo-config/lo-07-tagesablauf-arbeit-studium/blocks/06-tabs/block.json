@@ -19,7 +19,12 @@
             "<strong>Peter Lange:</strong> Obwohl es schon spät ist? <em>Although it is already late?</em>",
             "<strong>Frau Schneider:</strong> Ja, das Training beginnt erst um neunzehn Uhr. <em>Yes, the training only begins at seven p.m.</em>",
             "<strong>Peter Lange:</strong> Dann viel Spaß! <em>Then have fun!</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-07-tagesablauf-arbeit-studium/dialogues/11-am-stammtisch.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>obwohl ich müde bin</strong> – although I am tired</li><li><strong>erst um neunzehn Uhr</strong> – only at 7 p.m.</li><li><strong>Viel Spaß!</strong> – Have fun!</li></ul>"
@@ -39,7 +44,12 @@
             "<strong>Daniel:</strong> Toll! Wirst du dort arbeiten? <em>Great! Will you work there?</em>",
             "<strong>Lukas:</strong> Ja, ich werde auch in einem Café jobben. <em>Yes, I will also work in a café.</em>",
             "<strong>Daniel:</strong> Dann besuche ich dich im Sommer. <em>Then I will visit you in the summer.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-07-tagesablauf-arbeit-studium/dialogues/12-naechstes-jahr.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Ich werde … studieren.</strong> – I will study …</li><li><strong>nächstes Jahr</strong> – next year</li><li><strong>jobben</strong> – to work (casually, as a student)</li></ul>"

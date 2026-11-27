@@ -20,7 +20,12 @@
             "<strong>Herr Vogel:</strong> Dann habe ich noch Zeit. Die Besprechung beginnt um Viertel nach zehn. <em>Then I still have time. The meeting begins at quarter past ten.</em>",
             "<strong>Frau Schneider:</strong> Ja, im Konferenzraum. Möchten Sie noch einen Kaffee? <em>Yes, in the conference room. Would you like another coffee?</em>",
             "<strong>Herr Vogel:</strong> Gern, danke. <em>Yes, please, thank you.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-07-tagesablauf-arbeit-studium/dialogues/01-im-buero.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Wie spät ist es?</strong> – What time is it?</li><li><strong>halb zehn</strong> – half past nine (literally: half to ten)</li><li><strong>Viertel nach zehn</strong> – quarter past ten</li></ul>"
@@ -40,7 +45,12 @@
             "<strong>Lukas:</strong> Und wann ist sie zu Ende? <em>And when does it finish?</em>",
             "<strong>Anna Becker:</strong> Um zehn. Danach habe ich ein Seminar bis zwölf. <em>At ten. After that I have a seminar until twelve.</em>",
             "<strong>Lukas:</strong> Dann gehen wir um zwölf zusammen essen. <em>Then we will go for lunch together at twelve.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-07-tagesablauf-arbeit-studium/dialogues/02-vor-der-vorlesung.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Um wie viel Uhr?</strong> – At what time?</li><li><strong>Viertel vor neun</strong> – quarter to nine</li><li><strong>zu Ende sein</strong> – to be over</li></ul>"
