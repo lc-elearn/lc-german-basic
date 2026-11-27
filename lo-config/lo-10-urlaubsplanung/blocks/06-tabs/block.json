@@ -44,26 +44,6 @@
         "text": [
           "<ul><li><strong>Würden Sie lieber …?</strong> – Would you prefer to …? (polite)</li><li><strong>Dann hätten wir Zeit.</strong> – Then we would have time.</li><li><strong>entspannter</strong> – more relaxing</li></ul>"
         ]
-      },
-      {
-        "label": "Nächster Sommer",
-        "instructions": "Two students talk about next summer. They use \"du\". Where will Elif spend a month?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-10-urlaubsplanung/u10_d3-naechster-sommer.mp3",
-            "label": "Listen to the dialogue: Nächster Sommer"
-          },
-          "transcript": [
-            "<strong>Sophie:</strong> Was machst du nächsten Sommer, Elif? <em>What are you doing next summer, Elif?</em>",
-            "<strong>Elif:</strong> Ich werde einen Monat in der Türkei bei meiner Familie verbringen. <em>I am going to spend a month in Turkey with my family.</em>",
-            "<strong>Sophie:</strong> Wie schön! Wirst du auch reisen? <em>How lovely! Will you travel too?</em>",
-            "<strong>Elif:</strong> Ja, wir werden ans Meer fahren und die Berge besuchen. <em>Yes, we are going to the seaside and will visit the mountains.</em>",
-            "<strong>Sophie:</strong> Das klingt wunderbar. Schick mir ein Foto! <em>That sounds wonderful. Send me a photo!</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>in der Türkei</strong> – in Turkey (wo? dative)</li><li><strong>Ich werde … verbringen.</strong> – I will spend …</li><li><strong>Schick mir ein Foto!</strong> – Send me a photo!</li></ul>"
-        ]
       }
     ]
   }

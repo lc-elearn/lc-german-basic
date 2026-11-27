@@ -27,27 +27,6 @@
         ]
       },
       {
-        "label": "Auf dem Campingplatz",
-        "instructions": "A camper asks for a pitch. They use \"Sie\". Where is the shower?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-11-reisen-reservierungen/u11_c2-auf-dem-campingplatz.mp3",
-            "label": "Listen to the dialogue: Auf dem Campingplatz"
-          },
-          "transcript": [
-            "<strong>Peter Lange:</strong> Guten Tag. Haben Sie noch einen Platz für ein Zelt? <em>Hello. Do you still have a pitch for a tent?</em>",
-            "<strong>Frau Weber:</strong> Für wie viele Nächte? <em>For how many nights?</em>",
-            "<strong>Peter Lange:</strong> Für drei Nächte, für zwei Personen. <em>For three nights, for two people.</em>",
-            "<strong>Frau Weber:</strong> Ja, wir haben noch Plätze am See. Das kostet zehn Euro pro Person und Nacht. <em>Yes, we still have pitches by the lake. That costs ten euros per person and night.</em>",
-            "<strong>Peter Lange:</strong> Gibt es Duschen? <em>Are there showers?</em>",
-            "<strong>Frau Weber:</strong> Ja, neben dem Eingang. Die Dusche ist im Preis inklusive. <em>Yes, next to the entrance. The shower is included in the price.</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>das Zelt</strong> – tent</li><li><strong>der Campingplatz</strong> – campsite</li><li><strong>im Preis inklusive</strong> – included in the price</li></ul>"
-        ]
-      },
-      {
         "label": "In der Jugendherberge",
         "instructions": "Two friends settle into a hostel. They use \"du\". When must they leave tomorrow?",
         "media": {

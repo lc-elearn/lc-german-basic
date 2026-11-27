@@ -1,15 +1,16 @@
 {
   "type": "vocabulary",
-  "options": { "selfTest": true },
+  "options": {
+    "selfTest": true
+  },
   "title": "Staying overnight",
   "presentation": "card",
   "content": {
-    "instructions": "Listen and repeat. Check the article of each noun.",
     "summary": {
-      "lead": "You will learn:",
+      "lead": "Listen and repeat. Check the article of each noun. You will learn:",
       "items": [
         "hotel and hostel (<em>die Rezeption, der Schlüssel, das Mehrbettzimmer</em>);",
-        "camping (<em>der Campingplatz, das Zelt, die Dusche</em>)."
+        "the room (<em>die Dusche, der Aufzug, das Erdgeschoss</em>)."
       ]
     },
     "items": [
@@ -47,16 +48,6 @@
         "term": "der Aufzug",
         "gloss": "lift",
         "audio": "audio/lo-11-reisen-reservierungen/u11_v-unterkunft-aufzug.mp3"
-      },
-      {
-        "term": "der Campingplatz",
-        "gloss": "campsite",
-        "audio": "audio/lo-11-reisen-reservierungen/u11_v-unterkunft-camping.mp3"
-      },
-      {
-        "term": "das Zelt",
-        "gloss": "tent",
-        "audio": "audio/lo-11-reisen-reservierungen/u11_v-unterkunft-zelt.mp3"
       },
       {
         "term": "abreisen",

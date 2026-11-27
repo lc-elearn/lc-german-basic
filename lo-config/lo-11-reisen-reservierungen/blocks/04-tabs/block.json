@@ -45,27 +45,6 @@
         "text": [
           "<ul><li><strong>die Bordkarte</strong> – boarding pass</li><li><strong>am Gang sitzen</strong> – to sit on the aisle</li><li><strong>das Gepäck</strong> – luggage</li></ul>"
         ]
-      },
-      {
-        "label": "Im Fundbüro",
-        "instructions": "A traveller reports a lost bag. They use \"Sie\". What colour is the bag?",
-        "media": {
-          "audio": {
-            "src": "audio/lo-11-reisen-reservierungen/u11_b3-im-fundbuero.mp3",
-            "label": "Listen to the dialogue: Im Fundbüro"
-          },
-          "transcript": [
-            "<strong>Herr Vogel:</strong> Guten Tag. Ich habe meine Tasche im Zug vergessen. <em>Hello. I left my bag on the train.</em>",
-            "<strong>Herr Braun:</strong> Wann war das? <em>When was that?</em>",
-            "<strong>Herr Vogel:</strong> Gestern Abend, im Zug von Hamburg nach Berlin. <em>Yesterday evening, on the train from Hamburg to Berlin.</em>",
-            "<strong>Herr Braun:</strong> Wie sieht die Tasche aus? <em>What does the bag look like?</em>",
-            "<strong>Herr Vogel:</strong> Sie ist schwarz, und ein blauer Schal ist darin. <em>It is black, and there is a blue scarf in it.</em>",
-            "<strong>Herr Braun:</strong> Wir rufen Sie an, wenn wir sie finden. <em>We will phone you if we find it.</em>"
-          ]
-        },
-        "text": [
-          "<ul><li><strong>das Fundbüro</strong> – lost property office</li><li><strong>vergessen</strong> – to forget, to leave behind</li><li><strong>Wie sieht sie aus?</strong> – What does it look like?</li></ul>"
-        ]
       }
     ]
   }

@@ -20,16 +20,11 @@
       },
       {
         "prompt": "Sentence 3",
-        "answer": "Ich habe ein Zimmer reserviert.",
-        "audio": "audio/lo-11-reisen-reservierungen/u11_x-dikt-03.mp3"
-      },
-      {
-        "prompt": "Sentence 4",
         "answer": "Wissen Sie, wann der Zug fährt?",
         "audio": "audio/lo-11-reisen-reservierungen/u11_x-dikt-04.mp3"
       },
       {
-        "prompt": "Sentence 5",
+        "prompt": "Sentence 4",
         "answer": "Die Dusche funktioniert nicht.",
         "audio": "audio/lo-11-reisen-reservierungen/u11_x-dikt-05.mp3"
       }

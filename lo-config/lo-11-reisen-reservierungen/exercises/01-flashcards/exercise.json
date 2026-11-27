@@ -40,11 +40,6 @@
         "audio": "audio/lo-11-reisen-reservierungen/u11_v-unterkunft-schluessel.mp3"
       },
       {
-        "target": "das Zelt",
-        "native": "tent",
-        "audio": "audio/lo-11-reisen-reservierungen/u11_v-unterkunft-zelt.mp3"
-      },
-      {
         "target": "kaputt",
         "native": "broken",
         "audio": "audio/lo-11-reisen-reservierungen/u11_v-problem-kaputt.mp3"
