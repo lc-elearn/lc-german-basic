@@ -20,7 +20,12 @@
             "<strong>Marco:</strong> Danach habe ich ein Jahr in München gearbeitet. Dann bin ich nach Berlin gezogen. <em>After that I worked for a year in Munich. Then I moved to Berlin.</em>",
             "<strong>Frau Keller:</strong> Warum sind Sie nach Berlin gezogen? <em>Why did you move to Berlin?</em>",
             "<strong>Marco:</strong> Weil ich hier weiterstudieren möchte. <em>Because I want to continue studying here.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-08-vergangenheit/dialogues/07-im-vorstellungsgespraech.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>studieren → habe studiert</strong> – to study (no ge- before the participle)</li><li><strong>umziehen → bin umgezogen</strong> – to move house</li><li><strong>danach</strong> – after that</li></ul>"
@@ -41,7 +46,12 @@
             "<strong>Elif:</strong> Mein Großvater hat in einer Fabrik gearbeitet, meine Großmutter in einer Schule. <em>My grandfather worked in a factory, my grandmother in a school.</em>",
             "<strong>Lukas:</strong> Und deine Eltern? <em>And your parents?</em>",
             "<strong>Elif:</strong> Sie sind in Köln geboren. Sie haben dort studiert. <em>They were born in Cologne. They studied there.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-08-vergangenheit/dialogues/09-familiengeschichte.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>in den Sechzigerjahren</strong> – in the 1960s</li><li><strong>geboren sein</strong> – to be born</li><li><strong>die Fabrik</strong> – factory</li></ul>"

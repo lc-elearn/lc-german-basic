@@ -19,7 +19,12 @@
             "<strong>Frau Schneider:</strong> Ich war dreizehn. Meine Eltern sind im November nach Berlin gefahren. <em>I was thirteen. My parents went to Berlin in November.</em>",
             "<strong>Herr Vogel:</strong> Das war ein großer Moment. <em>That was a big moment.</em>",
             "<strong>Frau Schneider:</strong> Ja, die Mauer ist gefallen und die Grenze war offen. <em>Yes, the Wall fell and the border was open.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-08-vergangenheit/dialogues/10-im-museum.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>1989</strong> – neunzehnhundertneunundachtzig</li><li><strong>die Mauer ist gefallen</strong> – the Wall fell</li><li><strong>die Grenze war offen</strong> – the border was open</li></ul>"
@@ -40,7 +45,12 @@
             "<strong>Elif:</strong> In Köln. Als ich zehn war, sind wir in ein neues Haus umgezogen. <em>In Cologne. When I was ten, we moved to a new house.</em>",
             "<strong>Daniel:</strong> Weit weg? <em>Far away?</em>",
             "<strong>Elif:</strong> Nein, nur in den Nachbarort. <em>No, only to the next village.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-08-vergangenheit/dialogues/12-als-ich-ein-kind-war.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Als ich ein Kind war, …</strong> – When I was a child, … (single time in the past)</li><li><strong>als Kind</strong> – as a child</li><li><strong>der Nachbarort</strong> – neighbouring village</li></ul>"
