@@ -48,7 +48,12 @@
             "<strong>Frau Dr. Krause:</strong> Das ist eine Erkältung. Sie sollen viel trinken und im Bett bleiben. <em>It is a cold. You should drink a lot and stay in bed.</em>",
             "<strong>Marco:</strong> Darf ich arbeiten? <em>May I work?</em>",
             "<strong>Frau Dr. Krause:</strong> Nein, ich schreibe Sie eine Woche krank. <em>No, I will sign you off sick for a week.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-09-gesundheit-essen/dialogues/03-beim-arzt.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Was fehlt Ihnen?</strong> – What is wrong? (formal)</li><li><strong>Sie sollen …</strong> – You should … (the doctor's instruction)</li><li><strong>krankschreiben → ich schreibe Sie krank</strong> – to sign someone off sick</li></ul>"
