@@ -27,8 +27,24 @@
       },
       {
         "text": "Wir haben die Stadt [*besichtigt|gebesichtigt|besichtigen]."
+      },
+      {
+        "text": "Gestern [*habe|bin|hat] ich Fußball gespielt."
+      },
+      {
+        "text": "Wir [*sind|haben|seid] nach Berlin gefahren."
+      },
+      {
+        "text": "Sie hat einen Brief [*geschrieben|geschreiben|geschriebt]."
+      },
+      {
+        "text": "Ich bin um acht Uhr [*aufgestanden|aufgestehen|gestanden auf]."
       }
     ],
     "footnote": "Movement and change take sein; most other verbs take haben."
+  },
+  "options": {
+    "shuffle": true,
+    "sampleSize": 8
   }
 }

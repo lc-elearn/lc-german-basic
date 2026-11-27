@@ -27,8 +27,24 @@
       },
       {
         "text": "Der Zug fährt [*um|am|im] halb neun ab."
+      },
+      {
+        "text": "Der Unterricht endet [*um|am|im] vier Uhr."
+      },
+      {
+        "text": "Am Montag [*habe|hat|haben] ich um zehn Uhr einen Termin."
+      },
+      {
+        "text": "Er [*muss|musst|müssen] heute lange arbeiten."
+      },
+      {
+        "text": "Nach der Vorlesung [*gehe ich|ich gehe] in die Bibliothek."
       }
     ],
     "footnote": "In a statement the conjugated verb is in second place."
+  },
+  "options": {
+    "shuffle": true,
+    "sampleSize": 8
   }
 }

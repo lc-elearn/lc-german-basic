@@ -27,8 +27,24 @@
       },
       {
         "text": "Wir [*fahren|fährt|fahrt] im Sommer nach Portugal."
+      },
+      {
+        "text": "Im Sommer ist es in Spanien [*heißer|heiß|am heißesten]."
+      },
+      {
+        "text": "Der Zug ist [*schneller|schnellerer|schnell] als der Bus."
+      },
+      {
+        "text": "Wir fahren [*in die|nach|in der] Türkei."
+      },
+      {
+        "text": "Ich fahre [*lieber|gern|am liebsten] mit dem Zug als mit dem Auto."
       }
     ],
     "footnote": "Countries without an article take nach; those with an article take in plus the accusative (in die Schweiz, in die Türkei)."
+  },
+  "options": {
+    "shuffle": true,
+    "sampleSize": 8
   }
 }

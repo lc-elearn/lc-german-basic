@@ -27,8 +27,24 @@
       },
       {
         "text": "Mein Kopf [*tut|tun|tust] weh."
+      },
+      {
+        "text": "Er [*kann|kannst|können] nicht schlafen."
+      },
+      {
+        "text": "Du [*musst|muss|müssen] mehr Wasser trinken."
+      },
+      {
+        "text": "Ich habe keine Lust, [*zu kochen|kochen|zu kochst]."
+      },
+      {
+        "text": "Meine Beine [*tun|tut|tust] weh."
       }
     ],
     "footnote": "After a modal verb there is no zu."
+  },
+  "options": {
+    "shuffle": true,
+    "sampleSize": 8
   }
 }

@@ -27,8 +27,24 @@
       },
       {
         "text": "Das Rathaus ist [*gegenüber der|gegenüber die|gegenüber den] Kirche."
+      },
+      {
+        "text": "[*Biegen|Biege|Biegt] Sie hier rechts ab."
+      },
+      {
+        "text": "Gehen Sie bis [*zur|zum|nach] Ampel."
+      },
+      {
+        "text": "Das Café ist [*an der|an die|an dem] Ecke."
+      },
+      {
+        "text": "Wie komme ich [*zur|zum|nach] Post?"
       }
     ],
     "footnote": "Imperative: Sie form = infinitive + Sie; du form = stem (nehmen → nimm)."
+  },
+  "options": {
+    "shuffle": true,
+    "sampleSize": 8
   }
 }

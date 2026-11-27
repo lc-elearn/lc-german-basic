@@ -27,8 +27,24 @@
       },
       {
         "text": "Ich [*spiele|spielt|spielen] gern Tennis."
+      },
+      {
+        "text": "Er [*spielt|spiele|spielen] gern Gitarre."
+      },
+      {
+        "text": "Am Wochenende [*schlafe|schläfst|schläft] ich lange."
+      },
+      {
+        "text": "Was machst du [*am|im|um] Samstag?"
+      },
+      {
+        "text": "Ich [*sehe|siehst|sieht] abends gern fern."
       }
     ],
     "footnote": "A statement has the verb second; a yes/no question starts with the verb."
+  },
+  "options": {
+    "shuffle": true,
+    "sampleSize": 8
   }
 }

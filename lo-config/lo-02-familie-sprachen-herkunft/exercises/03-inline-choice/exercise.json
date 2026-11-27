@@ -24,8 +24,27 @@
       },
       {
         "text": "Ich habe [ein|*einen|eine] Bruder."
+      },
+      {
+        "text": "Wir [*haben|habt|hat] eine Schwester."
+      },
+      {
+        "text": "Meine Schwester [habe|*hat|haben] zwei Kinder."
+      },
+      {
+        "text": "Ich [*spreche|sprichst|sprecht] ein bisschen Deutsch."
+      },
+      {
+        "text": "Ihr [*sprecht|sprechen|spricht] gut Englisch."
+      },
+      {
+        "text": "Ich habe [ein|einen|*eine] Schwester."
       }
     ],
     "footnote": "Remember: only the masculine changes in the accusative (ein → einen)."
+  },
+  "options": {
+    "shuffle": true,
+    "sampleSize": 8
   }
 }

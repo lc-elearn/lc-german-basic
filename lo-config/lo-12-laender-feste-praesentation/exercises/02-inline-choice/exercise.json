@@ -27,8 +27,24 @@
       },
       {
         "text": "Ich [*finde|findet|finden] die Stadt interessant."
+      },
+      {
+        "text": "Mir [*gefällt|gefallen|gefallt] der Film."
+      },
+      {
+        "text": "Wir [*mögen|mag|mögt] Musik."
+      },
+      {
+        "text": "Ich glaube, [*dass|ob|wann] es morgen regnet."
+      },
+      {
+        "text": "Es regnet. [*Deshalb|Trotzdem] bleibe ich zu Hause."
       }
     ],
     "footnote": "gefallen: the thing is the subject and you are in the dative."
+  },
+  "options": {
+    "shuffle": true,
+    "sampleSize": 8
   }
 }
