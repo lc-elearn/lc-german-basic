@@ -19,7 +19,12 @@
             "<strong>Herr Vogel:</strong> Und was machen Sie in der Mittagspause? <em>And what do you do in your lunch break?</em>",
             "<strong>Frau Schneider:</strong> Ich gehe kurz in den Park oder esse in der Mensa. <em>I go to the park for a short walk or eat in the canteen.</em>",
             "<strong>Herr Vogel:</strong> Das klingt gut. <em>That sounds good.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-07-tagesablauf-arbeit-studium/dialogues/07-arbeitszeiten.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Vollzeit / Teilzeit</strong> – full time / part time</li><li><strong>von Montag bis Freitag</strong> – from Monday to Friday</li><li><strong>kurz</strong> – briefly</li></ul>"
@@ -39,7 +44,12 @@
             "<strong>Sophie:</strong> Hast du auch Vorlesungen? <em>Do you have lectures as well?</em>",
             "<strong>Marco:</strong> Ja, drei pro Woche. Am Mittwoch habe ich eine Prüfung. <em>Yes, three a week. On Wednesday I have an exam.</em>",
             "<strong>Sophie:</strong> Viel Erfolg! <em>Good luck!</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-07-tagesablauf-arbeit-studium/dialogues/08-im-studium.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>Ich muss im Labor sein.</strong> – I have to be in the lab.</li><li><strong>die Vorlesung</strong> – lecture</li><li><strong>Viel Erfolg!</strong> – Good luck!</li></ul>"

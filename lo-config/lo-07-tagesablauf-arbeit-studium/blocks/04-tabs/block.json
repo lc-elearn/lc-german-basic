@@ -19,7 +19,12 @@
             "<strong>Alex:</strong> Und wann kommst du nach Hause? <em>And when do you get home?</em>",
             "<strong>Max:</strong> Meistens um sechs. Und du? <em>Usually at six. And you?</em>",
             "<strong>Alex:</strong> Ich stehe schon um sechs auf, weil ich im Labor früh anfange. <em>I get up at six, because I start early in the lab.</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-07-tagesablauf-arbeit-studium/dialogues/04-in-der-teekueche.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>normalerweise</strong> – normally</li><li><strong>meistens</strong> – mostly</li><li><strong>weil ich früh anfange</strong> – because I start early</li></ul>"
@@ -39,7 +44,12 @@
             "<strong>Katrin Huber:</strong> Und am Freitag? <em>And on Friday?</em>",
             "<strong>Peter Lange:</strong> Am Freitag mache ich schon um fünfzehn Uhr Feierabend. <em>On Friday I finish work at three p.m.</em>",
             "<strong>Katrin Huber:</strong> Das ist ein guter Plan! <em>That is a good plan!</em>"
-          ]
+          ],
+          "image": {
+            "kind": "portrait",
+            "src": "images/lo-07-tagesablauf-arbeit-studium/dialogues/05-im-labor.webp",
+            "alt": ""
+          }
         },
         "text": [
           "<ul><li><strong>der Arbeitstag</strong> – working day</li><li><strong>die Mittagspause</strong> – lunch break</li><li><strong>Feierabend machen</strong> – to finish work for the day</li></ul>"
